@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+author: flashman
+-->
+<events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="events.xsd">
+    <event>
+        <type>E_1x1</type>
+        <event_id>1</event_id>
+        <map>300230000</map> <!-- Kromede's Trial -->
+        <schedule>0 0 1,13,20,22 ? * *</schedule>
+        <registration_time>1200</registration_time>
+        <reentry_cooldown>1200</reentry_cooldown>
+        <name>pvp 1x1</name>
+        <cmd_name>pvp</cmd_name>
+        <start_condition>
+            <single_players_to_start>2</single_players_to_start>
+            <groups_to_start>0</groups_to_start>
+            <players_for_each_group_to_start>0</players_for_each_group_to_start>
+        </start_condition>
+        <start_position_info use_group="false">
+            <position x="512" y="668" z="214" h="90" />
+            <position x="512" y="614" z="214" h="30" />
+        </start_position_info>
+        <reward_info>
+            <rank id="1" ap="100000" gp="0">
+                <reward_item_group random="false">
+                    <item item_id="186000242" count="10"/> <!-- Ceramium Medal -->
+                    <item item_id="186000236" count="10"/> <!-- Blood Mark -->                  
+                </reward_item_group>
+                <reward_item_group random="true" random_count="1">
+                    <item item_id="186000242" count="5"/> <!-- Ceramium Medal -->
+                    <item item_id="186000236" count="5"/> <!-- Blood Mark --> 
+                </reward_item_group>
+            </rank>
+            <rank id="2" ap="50000">
+                <reward_item_group random="false">
+                    <item item_id="186000242" count="5"/> <!-- Ceramium Medal -->
+                    <item item_id="186000236" count="5"/> <!-- Blood Mark --> 
+                </reward_item_group>
+                <reward_item_group random="true" random_count="1">
+                    <item item_id="186000242" count="5"/> <!-- Ceramium Medal -->
+                    <item item_id="186000236" count="5"/> <!-- Blood Mark -->
+                </reward_item_group>
+            </rank>
+        </reward_info>
+    </event>
+    <event>
+        <type>E_2x2</type>
+        <event_id>2</event_id>
+        <map>301140000</map> <!-- Danuar Sanctuary -->
+        <schedule>0 0 2,14 ? * *</schedule>
+        <registration_time>1200</registration_time>
+        <reentry_cooldown>1200</reentry_cooldown>
+        <name>Group vs. Group 2x2</name>
+        <cmd_name>2x2</cmd_name>
+        <start_condition>
+            <single_players_to_start>0</single_players_to_start>
+            <groups_to_start>2</groups_to_start>
+            <players_for_each_group_to_start>2</players_for_each_group_to_start>
+        </start_condition>
+        <start_position_info use_group="true">
+            <position x="1056" y="579" z="280" h="32" group="1"/>
+            <position x="1056" y="579" z="280" h="32" group="1"/>
+            <position x="1056" y="782" z="280" h="88" group="2"/>
+            <position x="1056" y="782" z="280" h="88" group="2"/>
+        </start_position_info>
+        <reward_info>
+            <rank id="1" ap="200000" gp="0">
+                <reward_item_group random="false">
+                    <item item_id="186000242" count="20"/> <!-- Ceramium Medal -->
+                    <item item_id="186000236" count="20"/> <!-- Blood Mark -->                   
+                </reward_item_group>
+                <reward_item_group random="true" random_count="1">
+                    <item item_id="186000242" count="20"/> <!-- Ceramium Medal -->
+                    <item item_id="186000236" count="20"/> <!-- Blood Mark -->
+                </reward_item_group>
+            </rank>
+        </reward_info>
+    </event>
+    <event>
+        <type>E_3x3</type>
+        <event_id>2</event_id>
+        <map>301140000</map> <!-- Danuar Sanctuary -->
+        <schedule>0 0 3,15 ? * *</schedule>
+        <registration_time>1200</registration_time>
+        <reentry_cooldown>1200</reentry_cooldown>
+        <name>Group vs. Group 3x3</name>
+        <cmd_name>3x3</cmd_name>
+        <start_condition>
+            <single_players_to_start>0</single_players_to_start>
+            <groups_to_start>2</groups_to_start>
+            <players_for_each_group_to_start>3</players_for_each_group_to_start>
+        </start_condition>
+        <start_position_info use_group="true">
+            <position x="1056" y="579" z="280" h="32" group="1"/>
+            <position x="1056" y="579" z="280" h="32" group="1"/>
+            <position x="1056" y="579" z="280" h="32" group="1"/>         
+            <position x="1056" y="782" z="280" h="88" group="2"/>
+            <position x="1056" y="782" z="280" h="88" group="2"/>
+            <position x="1056" y="782" z="280" h="88" group="2"/>   
+        </start_position_info>
+        <reward_info>
+            <rank id="1" ap="300000" gp="0">
+                <reward_item_group random="false">
+                    <item item_id="186000242" count="30"/> <!-- Ceramium Medal -->
+                    <item item_id="186000236" count="30"/> <!-- Blood Mark -->                  
+                </reward_item_group>
+                <reward_item_group random="true" random_count="1">
+                    <item item_id="186000242" count="30"/> <!-- Ceramium Medal -->
+                    <item item_id="186000236" count="30"/> <!-- Blood Mark -->
+                </reward_item_group>
+            </rank>
+        </reward_info>
+    </event>
+    <event>
+        <type>E_4x4</type>
+        <event_id>2</event_id>
+        <map>320080000</map> <!-- Draupnir Cave -->
+        <schedule>0 0 4,16 ? * *</schedule>
+        <registration_time>1200</registration_time>
+        <reentry_cooldown>1200</reentry_cooldown>
+        <name>Group vs. Group 4x4</name>
+        <cmd_name>4x4</cmd_name>
+        <start_condition>
+            <single_players_to_start>0</single_players_to_start>
+            <groups_to_start>2</groups_to_start>
+            <players_for_each_group_to_start>4</players_for_each_group_to_start>
+        </start_condition>
+        <start_position_info use_group="true">
+            <position x="812" y="492" z="318" h="80" group="1"/>
+            <position x="812" y="492" z="318" h="80" group="1"/>
+            <position x="812" y="492" z="318" h="80" group="1"/>                
+            <position x="812" y="492" z="318" h="80" group="1"/>             
+            <position x="710" y="437" z="319" h="119" group="2"/>
+            <position x="710" y="437" z="319" h="119" group="2"/>
+            <position x="710" y="437" z="319" h="119" group="2"/>                
+            <position x="710" y="437" z="319" h="119" group="2"/>
+        </start_position_info>
+        <reward_info>
+            <rank id="1" ap="400000" gp="0">
+                <reward_item_group random="false">
+                    <item item_id="186000242" count="40"/> <!-- Ceramium Medal -->
+                    <item item_id="186000236" count="40"/> <!-- Blood Mark -->                 
+                </reward_item_group>
+                <reward_item_group random="true" random_count="1">
+                    <item item_id="186000242" count="40"/> <!-- Ceramium Medal -->
+                    <item item_id="186000236" count="40"/> <!-- Blood Mark -->
+                </reward_item_group>
+            </rank>
+        </reward_info>
+    </event>
+    <event>
+        <type>E_6x6</type>
+        <event_id>2</event_id>
+        <map>301050000</map> <!-- Steel Rose Deck -->
+        <schedule>0 0 5,17 ? * *</schedule>
+        <registration_time>1200</registration_time>
+        <reentry_cooldown>1200</reentry_cooldown>
+        <name>Group vs. Group 6x6</name>
+        <cmd_name>6x6</cmd_name>
+        <start_condition>
+            <single_players_to_start>0</single_players_to_start>
+            <groups_to_start>2</groups_to_start>
+            <players_for_each_group_to_start>6</players_for_each_group_to_start>
+        </start_condition>
+        <start_position_info use_group="true">
+            <position x="489" y="510" z="1032" h="119" group="1"/>
+            <position x="489" y="510" z="1032" h="119" group="1"/>
+            <position x="489" y="510" z="1032" h="119" group="1"/>                
+            <position x="489" y="510" z="1032" h="119" group="1"/>
+            <position x="489" y="510" z="1032" h="119" group="1"/>
+            <position x="489" y="510" z="1032" h="119" group="1"/>                
+            <position x="614" y="510" z="1023" h="59" group="2"/>
+            <position x="614" y="510" z="1023" h="59" group="2"/>
+            <position x="614" y="510" z="1023" h="59" group="2"/>                
+            <position x="614" y="510" z="1023" h="59" group="2"/>
+            <position x="614" y="510" z="1023" h="59" group="2"/>
+            <position x="614" y="510" z="1023" h="59" group="2"/>
+        </start_position_info>
+        <reward_info>
+            <rank id="1" ap="600000" gp="0">
+                <reward_item_group random="false">
+                    <item item_id="186000242" count="60"/> <!-- Ceramium Medal -->
+                    <item item_id="186000236" count="60"/> <!-- Blood Mark -->                   
+                </reward_item_group>
+                <reward_item_group random="true" random_count="1">
+                    <item item_id="186000242" count="60"/> <!-- Ceramium Medal -->
+                    <item item_id="186000236" count="60"/> <!-- Blood Mark -->
+                </reward_item_group>
+            </rank>
+        </reward_info>
+    </event>
+    <event>
+        <type>E_LHE</type>
+        <event_id>3</event_id>
+        <map>301110000</map> <!-- Danuar Reliquary -->
+        <schedule>0 0 6,18 ? * *</schedule>
+        <registration_time>1200</registration_time>
+        <reentry_cooldown>1200</reentry_cooldown>
+        <name>Last Hero</name>
+        <cmd_name>hero</cmd_name>
+        <start_condition>
+            <single_players_to_start>4</single_players_to_start>
+            <groups_to_start>0</groups_to_start>
+            <players_for_each_group_to_start>0</players_for_each_group_to_start>
+        </start_condition>
+        <start_position_info use_group="false">
+            <position x="256" y="290" z="241" h="89" />
+            <position x="256" y="226" z="241" h="30" />
+            <position x="283" y="260" z="241" h="60" />
+            <position x="227" y="255" z="241" h="119" />
+        </start_position_info>
+        <reward_info>
+            <rank id="1" ap="600000" gp="0">
+                <reward_item_group random="false">
+                    <item item_id="186000242" count="60"/> <!-- Ceramium Medal -->
+                    <item item_id="186000236" count="60"/> <!-- Blood Mark -->                   
+                </reward_item_group>
+                <reward_item_group random="true" random_count="1">
+                    <item item_id="186000242" count="60"/> <!-- Ceramium Medal -->
+                    <item item_id="186000236" count="60"/> <!-- Blood Mark -->
+                </reward_item_group>
+            </rank>
+        </reward_info>
+    </event>
+    <event>
+        <type>E_FFA</type>
+        <event_id>4</event_id>
+        <map>300800000</map> <!-- Infinity Shard -->
+        <schedule>0 0 7,19,21,23 ? * *</schedule>
+        <registration_time>1200</registration_time>
+        <reentry_cooldown>1200</reentry_cooldown>
+        <name>Free for All</name>
+        <cmd_name>ffa</cmd_name>
+        <start_condition>
+            <single_players_to_start>4</single_players_to_start>
+            <groups_to_start>0</groups_to_start>
+            <players_for_each_group_to_start>0</players_for_each_group_to_start>
+        </start_condition>
+        <start_position_info use_group="false">
+            <position x="118" y="115" z="131" h="21" />
+            <position x="107" y="147" z="112" h="111" />
+            <position x="150" y="134" z="125" h="57" />
+            <position x="124" y="161" z="129" h="92" />
+        </start_position_info>
+        <reward_info>
+            <rank id="1" ap="600000" gp="0">
+                <reward_item_group random="false">
+                    <item item_id="186000242" count="60"/> <!-- Ceramium Medal -->
+                    <item item_id="186000236" count="60"/> <!-- Blood Mark -->                   
+                </reward_item_group>
+                <reward_item_group random="true" random_count="1">
+                    <item item_id="186000242" count="60"/> <!-- Ceramium Medal -->
+                    <item item_id="186000236" count="60"/> <!-- Blood Mark -->
+                </reward_item_group>
+            </rank>
+            <rank id="2" ap="400000" gp="0">
+                <reward_item_group random="false">
+                    <item item_id="186000242" count="40"/> <!-- Ceramium Medal -->
+                    <item item_id="186000236" count="40"/> <!-- Blood Mark -->                   
+                </reward_item_group>
+                <reward_item_group random="true" random_count="1">
+                    <item item_id="186000242" count="40"/> <!-- Ceramium Medal -->
+                    <item item_id="186000236" count="40"/> <!-- Blood Mark -->
+                </reward_item_group>
+            </rank>
+            <rank id="3" ap="200000" gp="0">
+                <reward_item_group random="false">
+                    <item item_id="186000242" count="20"/> <!-- Ceramium Medal -->
+                    <item item_id="186000236" count="20"/> <!-- Blood Mark -->                   
+                </reward_item_group>
+                <reward_item_group random="true" random_count="1">
+                    <item item_id="186000242" count="20"/> <!-- Ceramium Medal -->
+                    <item item_id="186000236" count="20"/> <!-- Blood Mark -->
+                </reward_item_group>
+            </rank>
+        </reward_info>
+    </event> 
+</events>

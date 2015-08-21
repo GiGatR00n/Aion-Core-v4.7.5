@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<!--
+author flashman
+-->
+
+<xs:schema version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:include schemaLocation="../import.xsd" />
+    
+    <xs:element name="events">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="event" type="Event" minOccurs="0" maxOccurs="unbounded" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:complexType name="Event">
+        <xs:sequence>
+            <xs:element name="type" type="EventType" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="event_id" type="xs:int" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="map" type="xs:int" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="schedule" type="xs:string" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="registration_time" type="xs:int" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="reentry_cooldown" type="xs:int" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="name" type="xs:string" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="cmd_name" type="xs:string" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="start_condition" type="EventStartCondition" minOccurs="0" maxOccurs="1"/>
+            <xs:element name="start_position_info" type="EventStartPositions" minOccurs="1" maxOccurs="1"/>
+            <xs:element name="reward_info" type="EventReward" minOccurs="1" maxOccurs="1"/>
+        </xs:sequence>
+    </xs:complexType>
+   
+    <xs:complexType name="EventStartCondition">
+        <xs:sequence>
+            <xs:element name="single_players_to_start" type="xs:int" minOccurs="0" maxOccurs="1" default="0"/>
+            <xs:element name="groups_to_start" type="xs:int" minOccurs="0" maxOccurs="1" default="0"/>
+            <xs:element name="players_for_each_group_to_start" type="xs:int" minOccurs="0" maxOccurs="1" default="0"/>
+        </xs:sequence>
+    </xs:complexType>
+   
+    <xs:complexType name="EventStartPositions">
+        <xs:sequence>
+            <xs:element name="position" type="EventStartPosition" minOccurs="1" maxOccurs="unbounded"/>
+        </xs:sequence>
+        <xs:attribute name="use_group" type="xs:boolean" use="required"/>
+    </xs:complexType>
+   
+    <xs:complexType name="EventStartPosition">
+        <xs:attribute name="x" type="xs:int" use="required"/>
+        <xs:attribute name="y" type="xs:int" use="required"/>
+        <xs:attribute name="z" type="xs:int" use="required"/>
+        <xs:attribute name="h" type="xs:byte" use="optional"/>
+        <xs:attribute name="group" type="xs:int" use="optional"/>
+    </xs:complexType>
+	
+    <xs:complexType name="EventReward">
+        <xs:sequence>
+            <xs:element name="rank" type="Rank" minOccurs="1" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="Rank">
+        <xs:sequence>
+            <xs:element name="reward_item_group" type="rItemGroup" minOccurs="0" maxOccurs="unbounded"/>
+        </xs:sequence>
+        <xs:attribute name="id" type="xs:int" use="required"/>
+        <xs:attribute name="ap" type="xs:int" use="optional" default="0"/>
+        <xs:attribute name="gp" type="xs:int" use="optional" default="0"/>
+    </xs:complexType>
+   
+    <xs:complexType name="rItemGroup">
+        <xs:sequence>
+            <xs:element name="item" type="rItem" minOccurs="0" maxOccurs="unbounded"/>
+        </xs:sequence>
+        <xs:attribute name="random" type="xs:boolean" use="required"/>
+        <xs:attribute name="random_count" type="xs:int" use="optional"/>
+    </xs:complexType>
+	
+    <xs:complexType name="rItem">
+        <xs:attribute name="item_id" type="xs:int" use="required"/>
+        <xs:attribute name="count" type="xs:int" default="1"/>
+    </xs:complexType>
+    
+    <xs:simpleType name="EventType">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="E_1x1"/>
+            <xs:enumeration value="E_2x2"/>
+            <xs:enumeration value="E_3x3"/>
+            <xs:enumeration value="E_4x4"/>
+            <xs:enumeration value="E_6x6"/>
+            <xs:enumeration value="E_LHE"/>
+            <xs:enumeration value="E_FFA"/>
+            <xs:enumeration value="E_TVT"/>
+        </xs:restriction>
+    </xs:simpleType>
+	
+</xs:schema>

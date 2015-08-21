@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+author: flashman
+-->
+<events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="events.xsd">
+    <event>
+        <type>E_1x1</type>
+        <event_id>1</event_id>
+        <map>300230000</map>
+        <schedule>0 0 0/3 ? * *</schedule>
+        <registration_time>1200</registration_time>
+        <reentry_cooldown>300</reentry_cooldown>
+        <name>pvp 1x1</name>
+        <cmd_name>pvp</cmd_name>
+        <start_condition>
+            <single_players_to_start>2</single_players_to_start>
+            <groups_to_start>0</groups_to_start>
+            <players_for_each_group_to_start>0</players_for_each_group_to_start>
+        </start_condition>
+        <start_position_info use_group="false">
+            <position x="512" y="668" z="214" h="90" />
+            <position x="512" y="614" z="214" h="30" />
+        </start_position_info>
+        <reward_info>
+            <rank id="1" ap="7500" gp="20">
+                <reward_item_group random="false">
+                    <item item_id="186000147" count="1"/> <!-- Mithril Medal -->
+                    <item item_id="186000130" count="1000"/> <!-- Crucible Insignia -->
+                    <item item_id="186000137" count="20"/> <!-- Courage Insignia -->
+                </reward_item_group>
+                <reward_item_group random="true" random_count="4">
+                    <item item_id="166000190" count="5"/> <!-- L190 Enchantment Stone -->
+                    <item item_id="166000180" count="5"/> <!-- L180 Enchantment Stone -->
+                    <item item_id="166000181" count="5"/> <!-- L181 Enchantment Stone -->
+                    <item item_id="166000182" count="5"/> <!-- L182 Enchantment Stone -->
+                    <item item_id="166000183" count="5"/> <!-- L183 Enchantment Stone -->
+                </reward_item_group>
+            </rank>
+            <rank id="2" ap="3500">
+                <reward_item_group random="false">
+                    <item item_id="186000096" count="3"/> <!-- Platinum Medal -->
+                    <item item_id="186000130" count="500"/> <!-- Crucible Insignia -->
+                    <item item_id="186000137" count="10"/> <!-- Courage Insignia -->
+                </reward_item_group>
+                <reward_item_group random="true" random_count="2">
+                    <item item_id="166000140" count="3"/> <!-- L140 Enchantment Stone -->
+                    <item item_id="166000150" count="3"/> <!-- L150 Enchantment Stone -->
+                    <item item_id="166000151" count="3"/> <!-- L151 Enchantment Stone -->
+                    <item item_id="166000152" count="3"/> <!-- L152 Enchantment Stone -->
+                </reward_item_group>
+            </rank>
+        </reward_info>
+    </event>
+    <event>
+        <type>E_2x2</type>
+        <event_id>2</event_id>
+        <map>320050000</map>
+        <schedule>0 0 0/1 ? * *</schedule>
+        <registration_time>1200</registration_time>
+        <reentry_cooldown>0</reentry_cooldown>
+        <name>Group vs. Group 2x2</name>
+        <cmd_name>2x2</cmd_name>
+        <start_condition>
+            <single_players_to_start>0</single_players_to_start>
+            <groups_to_start>2</groups_to_start>
+            <players_for_each_group_to_start>2</players_for_each_group_to_start>
+        </start_condition>
+        <start_position_info use_group="true">
+            <position x="238" y="239" z="553" h="60" group="1"/>
+            <position x="236" y="232" z="553" h="60" group="1"/>
+            <position x="168" y="293" z="553" h="89" group="2"/>
+            <position x="160" y="289" z="553" h="60" group="2"/>
+        </start_position_info>
+        <reward_info>
+            <rank id="1" ap="7500" gp="20">
+                <reward_item_group random="false">
+                    <item item_id="186000147" count="1"/> <!-- Mithril Medal -->
+                    <item item_id="186000130" count="1000"/> <!-- Crucible Insignia -->
+                    <item item_id="186000137" count="20"/> <!-- Courage Insignia -->
+                </reward_item_group>
+                <reward_item_group random="true" random_count="4">
+                    <item item_id="166000190" count="5"/> <!-- L190 Enchantment Stone -->
+                    <item item_id="166000180" count="5"/> <!-- L180 Enchantment Stone -->
+                    <item item_id="166000181" count="5"/> <!-- L181 Enchantment Stone -->
+                    <item item_id="166000182" count="5"/> <!-- L182 Enchantment Stone -->
+                </reward_item_group>
+            </rank>
+        </reward_info>
+    </event>
+    <event>
+        <type>E_3x3</type>
+        <event_id>2</event_id>
+        <map>320050000</map>
+        <schedule>0 0 0/1 ? * *</schedule>
+        <registration_time>1200</registration_time>
+        <reentry_cooldown>0</reentry_cooldown>
+        <name>Group vs. Group 3x3</name>
+        <cmd_name>3x3</cmd_name>
+        <start_condition>
+            <single_players_to_start>0</single_players_to_start>
+            <groups_to_start>2</groups_to_start>
+            <players_for_each_group_to_start>3</players_for_each_group_to_start>
+        </start_condition>
+        <start_position_info use_group="true">
+            <position x="238" y="239" z="553" h="60" group="1"/>
+            <position x="236" y="232" z="553" h="60" group="1"/>
+            <position x="229" y="237" z="553" h="60" group="1"/>
+            <position x="168" y="293" z="553" h="89" group="2"/>
+            <position x="160" y="289" z="553" h="60" group="2"/>
+            <position x="167" y="287" z="553" h="60" group="2"/>
+        </start_position_info>
+        <reward_info>
+            <rank id="1" ap="7500" gp="20">
+                <reward_item_group random="false">
+                    <item item_id="186000147" count="1"/> <!-- Mithril Medal -->
+                    <item item_id="186000130" count="1000"/> <!-- Crucible Insignia -->
+                    <item item_id="186000137" count="20"/> <!-- Courage Insignia -->
+                </reward_item_group>
+                <reward_item_group random="true" random_count="4">
+                    <item item_id="166000190" count="5"/> <!-- L190 Enchantment Stone -->
+                    <item item_id="166000180" count="5"/> <!-- L180 Enchantment Stone -->
+                    <item item_id="166000181" count="5"/> <!-- L181 Enchantment Stone -->
+                    <item item_id="166000182" count="5"/> <!-- L182 Enchantment Stone -->
+                </reward_item_group>
+            </rank>
+        </reward_info>
+    </event>
+    <event>
+        <type>E_4x4</type>
+        <event_id>2</event_id>
+        <map>320050000</map>
+        <schedule>0 0 0/1 ? * *</schedule>
+        <registration_time>1200</registration_time>
+        <reentry_cooldown>0</reentry_cooldown>
+        <name>Group vs. Group 4x4</name>
+        <cmd_name>4x4</cmd_name>
+        <start_condition>
+            <single_players_to_start>0</single_players_to_start>
+            <groups_to_start>2</groups_to_start>
+            <players_for_each_group_to_start>4</players_for_each_group_to_start>
+        </start_condition>
+        <start_position_info use_group="true">
+            <position x="238" y="239" z="553" h="60" group="1"/>
+            <position x="236" y="232" z="553" h="60" group="1"/>
+            <position x="229" y="237" z="553" h="60" group="1"/>
+            <position x="232" y="227" z="553" h="60" group="1"/>
+            <position x="168" y="293" z="553" h="89" group="2"/>
+            <position x="160" y="289" z="553" h="60" group="2"/>
+            <position x="167" y="287" z="553" h="60" group="2"/>
+            <position x="162" y="283" z="553" h="89" group="2"/>
+        </start_position_info>
+        <reward_info>
+            <rank id="1" ap="7500" gp="20">
+                <reward_item_group random="false">
+                    <item item_id="186000147" count="1"/> <!-- Mithril Medal -->
+                    <item item_id="186000130" count="1000"/> <!-- Crucible Insignia -->
+                    <item item_id="186000137" count="20"/> <!-- Courage Insignia -->
+                </reward_item_group>
+                <reward_item_group random="true" random_count="4">
+                    <item item_id="166000190" count="5"/> <!-- L190 Enchantment Stone -->
+                    <item item_id="166000180" count="5"/> <!-- L180 Enchantment Stone -->
+                    <item item_id="166000181" count="5"/> <!-- L181 Enchantment Stone -->
+                    <item item_id="166000182" count="5"/> <!-- L182 Enchantment Stone -->
+                </reward_item_group>
+            </rank>
+        </reward_info>
+    </event>
+    <event>
+        <type>E_6x6</type>
+        <event_id>2</event_id>
+        <map>320050000</map>
+        <schedule>0 0 0/1 ? * *</schedule>
+        <registration_time>1200</registration_time>
+        <reentry_cooldown>0</reentry_cooldown>
+        <name>Group vs. Group 6x6</name>
+        <cmd_name>6x6</cmd_name>
+        <start_condition>
+            <single_players_to_start>0</single_players_to_start>
+            <groups_to_start>2</groups_to_start>
+            <players_for_each_group_to_start>6</players_for_each_group_to_start>
+        </start_condition>
+        <start_position_info use_group="true">
+            <position x="238" y="239" z="553" h="60" group="1"/>
+            <position x="236" y="232" z="553" h="60" group="1"/>
+            <position x="229" y="237" z="553" h="60" group="1"/>
+            <position x="232" y="227" z="553" h="60" group="1"/>
+            <position x="243" y="230" z="553" h="60" group="1"/>
+            <position x="244" y="237" z="553" h="60" group="1"/>
+            <position x="168" y="293" z="553" h="89" group="2"/>
+            <position x="160" y="289" z="553" h="60" group="2"/>
+            <position x="167" y="287" z="553" h="60" group="2"/>
+            <position x="162" y="283" z="553" h="89" group="2"/>
+            <position x="154" y="290" z="553" h="60" group="2"/>
+            <position x="162" y="297" z="553" h="60" group="2"/>
+        </start_position_info>
+        <reward_info>
+            <rank id="1" ap="7500" gp="20">
+                <reward_item_group random="false">
+                    <item item_id="186000147" count="1"/> <!-- Mithril Medal -->
+                    <item item_id="186000130" count="1000"/> <!-- Crucible Insignia -->
+                    <item item_id="186000137" count="20"/> <!-- Courage Insignia -->
+                </reward_item_group>
+                <reward_item_group random="true" random_count="4">
+                    <item item_id="166000190" count="5"/> <!-- L190 Enchantment Stone -->
+                    <item item_id="166000180" count="5"/> <!-- L180 Enchantment Stone -->
+                    <item item_id="166000181" count="5"/> <!-- L181 Enchantment Stone -->
+                    <item item_id="166000182" count="5"/> <!-- L182 Enchantment Stone -->
+                </reward_item_group>
+            </rank>
+        </reward_info>
+    </event>
+    <event>
+        <type>E_LHE</type>
+        <event_id>3</event_id>
+        <map>320100000</map>
+        <schedule>0 0 10,13,16,19,22 ? * *</schedule>
+        <registration_time>1200</registration_time>
+        <reentry_cooldown>600</reentry_cooldown>
+        <name>Last hero </name>
+        <cmd_name>lhe</cmd_name>
+        <start_condition>
+            <single_players_to_start>2</single_players_to_start>
+            <groups_to_start>0</groups_to_start>
+            <players_for_each_group_to_start>0</players_for_each_group_to_start>
+        </start_condition>
+        <start_position_info use_group="false">
+            <position x="413" y="96" z="118" h="49" />
+            <position x="291" y="113" z="128" h="28" />
+            <position x="295" y="203" z="120" h="93" />
+            <position x="202" y="192" z="109" h="52" />
+        </start_position_info>
+        <reward_info>
+            <rank id="1" ap="20000" gp="75">
+                <reward_item_group random="false">
+                    <item item_id="186000147" count="10"/> <!-- Mithril Medal -->
+                    <item item_id="186000130" count="3000"/> <!-- Crucible Insignia -->
+                    <item item_id="186000137" count="100"/> <!-- Courage Insignia -->
+                </reward_item_group>
+                <reward_item_group random="true" random_count="4">
+                    <item item_id="166000190" count="5"/> <!-- L190 Enchantment Stone -->
+                    <item item_id="166000180" count="5"/> <!--  -->
+                    <item item_id="166000181" count="5"/> <!--  -->
+                    <item item_id="166000182" count="5"/> <!--  -->
+                    <item item_id="166000183" count="5"/> <!--  -->
+                    <item item_id="166000184" count="5"/> <!--  -->
+                    <item item_id="166000185" count="5"/> <!--  -->
+                    <item item_id="166000186" count="5"/> <!--  -->
+                    <item item_id="166000187" count="5"/> <!--  -->
+                    <item item_id="166000188" count="5"/> <!--  -->
+                    <item item_id="166000189" count="5"/> <!--  -->
+                    <item item_id="166000170" count="5"/> <!--  -->
+                    <item item_id="166000171" count="5"/> <!--  -->
+                    <item item_id="166000172" count="5"/> <!--  -->
+                    <item item_id="166000173" count="5"/> <!--  -->
+                    <item item_id="166000174" count="5"/> <!--  -->
+                    <item item_id="166000175" count="5"/> <!--  -->
+                    <item item_id="166000176" count="5"/> <!--  -->
+                    <item item_id="166000177" count="5"/> <!--  -->
+                    <item item_id="166000178" count="5"/> <!--  -->
+                    <item item_id="166000179" count="5"/> <!-- L179 Enchantment Stone -->
+                </reward_item_group>
+            </rank>
+        </reward_info>
+    </event>
+    <event>
+        <type>E_FFA</type>
+        <event_id>4</event_id>
+        <map>320100000</map>
+        <schedule>0 0 0/3 ? * *</schedule>
+        <registration_time>1200</registration_time>
+        <reentry_cooldown>1200</reentry_cooldown>
+        <name>Free for All </name>
+        <cmd_name>ffa</cmd_name>
+        <start_condition>
+            <single_players_to_start>2</single_players_to_start>
+            <groups_to_start>0</groups_to_start>
+            <players_for_each_group_to_start>0</players_for_each_group_to_start>
+        </start_condition>
+        <start_position_info use_group="false">
+            <position x="413" y="96" z="118" h="49" />
+            <position x="291" y="113" z="128" h="28" />
+            <position x="295" y="203" z="120" h="93" />
+            <position x="202" y="192" z="109" h="52" />
+        </start_position_info>
+        <reward_info>
+            <rank id="1" ap="20000" gp="75">
+                <reward_item_group random="false">
+                    <item item_id="186000147" count="10"/> <!-- Mithril Medal -->
+                    <item item_id="186000130" count="3000"/> <!-- Crucible Insignia -->
+                    <item item_id="186000137" count="100"/> <!-- Courage Insignia -->
+                </reward_item_group>
+                <reward_item_group random="true" random_count="4">
+                    <item item_id="166000190" count="5"/> <!-- L190 Enchantment Stone -->
+                    <item item_id="166000180" count="5"/> <!--  -->
+                    <item item_id="166000181" count="5"/> <!--  -->
+                    <item item_id="166000182" count="5"/> <!--  -->
+                    <item item_id="166000183" count="5"/> <!--  -->
+                    <item item_id="166000184" count="5"/> <!--  -->
+                    <item item_id="166000185" count="5"/> <!--  -->
+                    <item item_id="166000186" count="5"/> <!--  -->
+                    <item item_id="166000187" count="5"/> <!--  -->
+                    <item item_id="166000188" count="5"/> <!--  -->
+                    <item item_id="166000189" count="5"/> <!--  -->
+                    <item item_id="166000170" count="5"/> <!--  -->
+                    <item item_id="166000171" count="5"/> <!--  -->
+                    <item item_id="166000172" count="5"/> <!--  -->
+                    <item item_id="166000173" count="5"/> <!--  -->
+                    <item item_id="166000174" count="5"/> <!--  -->
+                    <item item_id="166000175" count="5"/> <!--  -->
+                    <item item_id="166000176" count="5"/> <!--  -->
+                    <item item_id="166000177" count="5"/> <!--  -->
+                    <item item_id="166000178" count="5"/> <!--  -->
+                    <item item_id="166000179" count="5"/> <!-- L179 Enchantment Stone -->
+                </reward_item_group>
+            </rank>
+            <rank id="2" ap="10000">
+                <reward_item_group random="false">
+                    <item item_id="186000147" count="10"/> <!-- Mithril Medal -->
+                    <item item_id="186000130" count="3000"/> <!-- Crucible Insignia -->
+                    <item item_id="186000137" count="100"/> <!-- Courage Insignia -->
+                </reward_item_group>
+                <reward_item_group random="true" random_count="4">
+                    <item item_id="166000190" count="5"/> <!-- L190 Enchantment Stone -->
+                    <item item_id="166000180" count="5"/> <!--  -->
+                    <item item_id="166000181" count="5"/> <!--  -->
+                    <item item_id="166000182" count="5"/> <!--  -->
+                    <item item_id="166000183" count="5"/> <!--  -->
+                    <item item_id="166000184" count="5"/> <!--  -->
+                    <item item_id="166000185" count="5"/> <!--  -->
+                    <item item_id="166000186" count="5"/> <!--  -->
+                    <item item_id="166000187" count="5"/> <!--  -->
+                    <item item_id="166000188" count="5"/> <!--  -->
+                    <item item_id="166000189" count="5"/> <!--  -->
+                    <item item_id="166000170" count="5"/> <!--  -->
+                    <item item_id="166000171" count="5"/> <!--  -->
+                    <item item_id="166000172" count="5"/> <!--  -->
+                    <item item_id="166000173" count="5"/> <!--  -->
+                    <item item_id="166000174" count="5"/> <!--  -->
+                    <item item_id="166000175" count="5"/> <!--  -->
+                    <item item_id="166000176" count="5"/> <!--  -->
+                    <item item_id="166000177" count="5"/> <!--  -->
+                    <item item_id="166000178" count="5"/> <!--  -->
+                    <item item_id="166000179" count="5"/> <!-- L179 Enchantment Stone -->
+                </reward_item_group>
+            </rank>
+            <rank id="2" ap="5000">
+                <reward_item_group random="false">
+                    <item item_id="186000147" count="10"/> <!-- Mithril Medal -->
+                    <item item_id="186000130" count="3000"/> <!-- Crucible Insignia -->
+                    <item item_id="186000137" count="100"/> <!-- Courage Insignia -->
+                </reward_item_group>
+                <reward_item_group random="true" random_count="4">
+                    <item item_id="166000190" count="5"/> <!-- L190 Enchantment Stone -->
+                    <item item_id="166000180" count="5"/> <!--  -->
+                    <item item_id="166000181" count="5"/> <!--  -->
+                    <item item_id="166000182" count="5"/> <!--  -->
+                    <item item_id="166000183" count="5"/> <!--  -->
+                    <item item_id="166000184" count="5"/> <!--  -->
+                    <item item_id="166000185" count="5"/> <!--  -->
+                    <item item_id="166000186" count="5"/> <!--  -->
+                    <item item_id="166000187" count="5"/> <!--  -->
+                    <item item_id="166000188" count="5"/> <!--  -->
+                    <item item_id="166000189" count="5"/> <!--  -->
+                    <item item_id="166000170" count="5"/> <!--  -->
+                    <item item_id="166000171" count="5"/> <!--  -->
+                    <item item_id="166000172" count="5"/> <!--  -->
+                    <item item_id="166000173" count="5"/> <!--  -->
+                    <item item_id="166000174" count="5"/> <!--  -->
+                    <item item_id="166000175" count="5"/> <!--  -->
+                    <item item_id="166000176" count="5"/> <!--  -->
+                    <item item_id="166000177" count="5"/> <!--  -->
+                    <item item_id="166000178" count="5"/> <!--  -->
+                    <item item_id="166000179" count="5"/> <!-- L179 Enchantment Stone -->
+                </reward_item_group>
+            </rank>
+        </reward_info>
+    </event> 
+</events>
