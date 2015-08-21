@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="AC-Login v4.7.5.x" default="dist" basedir=".">
+	<description>
+		This file is part of Aion Core  Emulator [By GiGatR00n v4.7.5.x]
+
+		This is free software: you can redistribute it and/or modify
+		it under the terms of the GNU Lesser Public License as published by
+		the Free Software Foundation, either version 3 of the License, or
+		(at your option) any later version.
+
+		This software is distributed in the hope that it will be useful,
+		but WITHOUT ANY WARRANTY; without even the implied warranty of
+		MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+		GNU Lesser Public License for more details.
+		
+		You should have received a copy of the GNU Lesser Public License
+		along with this software.  If not, see http://www.gnu.org/licenses.
+	</description>
+	
+    <property name="author" location="GiGatR00n"/>
+    <property name="jre" location="${java.home}/lib"/>
+    <property name="src" location="src"/>
+	<property name="config" location="config"/>
+    <property name="lib" location="libs"/>
+    <property name="build" location="build"/>
+    <property name="build.classes" location="${build}/classes"/>
+    <property name="build.dist" location="${build}/dist"/>
+    <property name="build.dist.ls" location="${build.dist}/AC-Login"/>
+	<path id="bootclasspath">
+		<fileset dir="${lib}">
+			<include name="jsr166-1.7.0.jar"/>
+		</fileset>
+		<fileset dir="${jre}">
+			<include name="rt.jar"/>
+			<include name="jce.jar"/>
+		</fileset>
+	</path>
+    <path id="classpath">
+        <fileset dir="${lib}">
+            <include name="*.jar"/>
+        </fileset>
+    </path>
+
+    <target name="clean" description="Removes build directory.">
+        <delete dir="${build}"/>
+    </target>
+    <target name="init" depends="clean" description="Create the output directories.">
+        <mkdir dir="${build}"/>
+        <mkdir dir="${build.classes}"/>
+    </target>
+    <target name="compile" depends="init" description="Compile the source.">
+        <javac destdir="${build.classes}" optimize="on" debug="on"
+               nowarn="off" source="1.6" target="1.6" includeantruntime="false">
+            <src path="${src}"/>
+			<bootclasspath refid="bootclasspath"/>
+            <classpath refid="classpath"/>
+        </javac>
+    </target>
+    <target name="jar" depends="compile" description="Create the jar file">
+        <exec dir="build" executable="svnversion.exe" outputproperty="revision"
+              failifexecutionfails="false" osfamily="windows">
+            <arg line="-n ."/>
+        </exec>
+        <exec dir="build" executable="svnversion" outputproperty="revision"
+              failifexecutionfails="false" osfamily="unix">
+            <arg line="-n ."/>
+        </exec>
+        <tstamp>
+            <format property="date" pattern="yyyy-MM-dd-HH:mm"/>
+        </tstamp>
+
+        <jar destfile="${build}/AC-Login.jar">
+            <fileset dir="${build.classes}"/>
+            <manifest>
+                <attribute name="Main-Class" value="loginserver.LoginServer"/>
+                <attribute name="Revision" value="${revision}"/>
+                <attribute name="Date" value="${date}"/>
+            </manifest>
+        </jar>
+        <concat destfile="${build}/build_rev.txt">
+            version=${revision}
+            build=${date}
+        </concat>
+
+    </target>
+
+    <target name="dist" depends="jar">
+        <mkdir dir="${build.dist}"/>
+        <mkdir dir="${build.dist.ls}"/>
+        <mkdir dir="${build.dist.ls}/config"/>
+        <mkdir dir="${build.dist.ls}/data"/>
+        <mkdir dir="${build.dist.ls}/libs"/>
+        <mkdir dir="${build.dist.ls}/sql"/>
+
+        <copy todir="${build.dist.ls}/libs">
+            <fileset dir="${build}">
+                <include name="AC-Login.jar"/>
+            </fileset>
+        </copy>
+
+        <copy todir="${build.dist.ls}/libs">
+            <fileset dir="${lib}">
+                <include name="*.jar"/>
+            </fileset>
+        </copy>
+
+        <copy todir="${build.dist.ls}">
+            <fileset dir="dist">
+                <include name="*.*"/>
+            </fileset>
+        </copy>
+
+        <copy todir="${build.dist.ls}/config">
+            <fileset dir="config">
+                <include name="**/*"/>
+            </fileset>
+        </copy>
+
+        <copy todir="${build.dist.ls}/data">
+            <fileset dir="data">
+                <include name="**/*"/>
+            </fileset>
+        </copy>
+
+        <copy todir="${build.dist.ls}/sql">
+            <fileset dir="sql">
+                <include name="**/*"/>
+            </fileset>
+        </copy>
+
+        <zip destfile="${build}/AC-Login.zip" basedir="${build.dist}"/>
+    </target>
+</project>

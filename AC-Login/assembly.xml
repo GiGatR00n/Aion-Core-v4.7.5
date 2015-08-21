@@ -1,0 +1,43 @@
+<assembly xmlns="http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.1"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.1 http://maven.apache.org/xsd/assembly-1.1.1.xsd">
+		  
+	<!--
+		Author.....: GiGatR00n
+		v4.7.5.x (‎15/‎3/‎2015)
+	-->		  
+		  
+    <id>dist</id>
+    <formats>
+        <format>zip</format>
+        <format>dir</format>
+    </formats>
+    <fileSets>
+        <fileSet>
+            <outputDirectory>loginserver</outputDirectory>
+            <includes>
+                <include>config/**/*</include>
+                <include>data/**/*</include>
+            </includes>
+        </fileSet>
+        <fileSet>
+            <directory>dist/</directory>
+            <outputDirectory>loginserver</outputDirectory>
+            <includes>
+                <include>*.*</include>
+            </includes>
+        </fileSet>
+    </fileSets>
+    <dependencySets>
+        <dependencySet>
+            <useProjectArtifact>false</useProjectArtifact>
+            <outputDirectory>loginserver/libs</outputDirectory>
+        </dependencySet>
+    </dependencySets>
+    <files>
+        <file>
+            <source>./target/ac-login.jar</source>
+            <destName>loginserver/libs/ac-login.jar</destName>
+        </file>
+    </files>
+</assembly>
