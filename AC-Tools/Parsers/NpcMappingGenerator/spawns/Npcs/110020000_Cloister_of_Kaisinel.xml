@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<spawns>
+    <spawn_map map_id="110020000">
+        <!-- Arathias -->
+        <spawn npc_id="798504" respawn_time="295">
+            <spot x="2197.1777" y="1582.396" z="1212.266" h="60"/>
+        </spawn>
+        <!-- Chatia -->
+        <spawn npc_id="798501" respawn_time="295">
+            <spot x="2180.2976" y="1611.9261" z="1212.2659" h="80"/>
+        </spawn>
+        <!-- Ecocia -->
+        <spawn npc_id="798510" respawn_time="295">
+            <spot x="2183.34" y="1541.36" z="1204.97" h="40"/>
+        </spawn>
+        <!-- Elmaia -->
+        <spawn npc_id="798506" respawn_time="295">
+            <spot x="2136.9822" y="1622.984" z="1204.97" h="100"/>
+        </spawn>
+        <!-- Eremitia -->
+        <spawn npc_id="798600" respawn_time="295">
+            <spot x="2178.33" y="1591.11" z="1206.11" h="70"/>
+        </spawn>
+        <!-- Falshon -->
+        <spawn npc_id="798602" respawn_time="295">
+            <spot x="2143.6199" y="1626.4742" z="1204.97" h="100"/>
+        </spawn>
+        <!-- Garnvia -->
+        <spawn npc_id="799897" respawn_time="295">
+            <spot x="2162.969971" y="1605.410034" z="1212.079956" h="32"/>
+        </spawn>
+        <!-- Gracus -->
+        <spawn npc_id="798507" respawn_time="295">
+            <spot x="2142.57" y="1625.88" z="1204.97" h="100"/>
+        </spawn>
+        <!-- Iostes -->
+        <spawn npc_id="801216" respawn_time="295">
+            <spot x="2183.3132" y="1609.9476" z="1212.2659" h="80"/>
+        </spawn>
+        <!-- Jamatis -->
+        <spawn npc_id="830764" respawn_time="295">
+            <spot x="2141.0876" y="1610.4501" z="1204.973" h="10"/>
+        </spawn>
+        <!-- Kirine -->
+        <spawn npc_id="799900" respawn_time="295">
+            <spot x="2165.709" y="1605.1699" z="1212.079956" h="27"/>
+        </spawn>
+        <!-- Konopas -->
+        <spawn npc_id="798601" respawn_time="295">
+            <spot x="2175.8835" y="1549.4882" z="1204.97" h="7"/>
+        </spawn>
+        <!-- Machiah -->
+        <spawn npc_id="798513" respawn_time="295">
+            <spot x="2186.6289" y="1566.0006" z="1212.08" h="42"/>
+        </spawn>
+        <!-- Mysteris -->
+        <spawn npc_id="798500" respawn_time="295">
+            <spot x="2177.9" y="1588.8" z="1206.11" h="70"/>
+        </spawn>
+        <!-- Mopsus -->
+        <spawn npc_id="798603" respawn_time="295">
+            <spot x="2148.4021" y="1621.6946" z="1204.97" h="70"/>
+        </spawn>
+        <!-- Niotia -->
+        <spawn npc_id="798512" respawn_time="295">
+            <spot x="2145.6299" y="1577.1445" z="1205.48" h="10"/>
+        </spawn>
+        <!-- Papinius -->
+        <spawn npc_id="798509" respawn_time="295">
+            <spot x="2189.76" y="1544.95" z="1204.97" h="40"/>
+        </spawn>
+        <!-- Parisa -->
+        <spawn npc_id="799899" respawn_time="295">
+            <spot x="2166.030029" y="1607.930054" z="1212.079956" h="90"/>
+        </spawn>
+        <!-- Peidolas -->
+        <spawn npc_id="798511" respawn_time="295">
+            <spot x="2150" y="1570" z="1205.48" h="10"/>
+        </spawn>
+        <!-- Pelronosis -->
+        <spawn npc_id="830994" respawn_time="295">
+            <spot x="2151.464" y="1616.023" z="1204.972" h="70"/>
+        </spawn>
+        <!-- Pilitas -->
+        <spawn npc_id="798503" respawn_time="295">
+            <spot x="2196.5925" y="1598.203" z="1212.45" h="67"/>
+        </spawn>
+        <!-- Safine -->
+        <spawn npc_id="799898" respawn_time="295">
+            <spot x="2164.959961" y="1612.719971" z="1212.079956" h="97"/>
+        </spawn>
+        <!-- Salvius -->
+        <spawn npc_id="798505" respawn_time="295">
+            <spot x="2138.5645" y="1614.964" z="1204.97" h="10"/>
+        </spawn>
+        <!-- Sanctum Teleport Statue -->
+        <spawn npc_id="730266" respawn_time="295">
+            <spot x="2154.17" y="1566.9" z="1204.87" h="10" static_id="17"/>
+        </spawn>
+        <!-- Sjinne -->
+        <spawn npc_id="799896" respawn_time="295">
+            <spot x="2163.340088" y="1610.989990" z="1212.079956" h="99"/>
+        </spawn>
+        <!-- Tanoria -->
+        <spawn npc_id="798502" respawn_time="295">
+            <spot x="2193.1665" y="1603.8901" z="1212.45" h="77"/>
+        </spawn>
+        <!-- Tororite -->
+        <spawn npc_id="798508" respawn_time="295">
+            <spot x="2149.1182" y="1620.5341" z="1204.97" h="70"/>
+        </spawn>
+        <!-- Walzen -->
+        <spawn npc_id="798604" respawn_time="295">
+            <spot x="2175.6619" y="1593.6228" z="1206.114" h="70"/>
+        </spawn>
+        <!-- Xanthippe -->
+        <spawn npc_id="801217" respawn_time="295">
+            <spot x="2197.1807" y="1586.2917" z="1212.266" h="60"/>
+        </spawn>
+        <!-- Ziyunia -->
+        <spawn npc_id="799895" respawn_time="295">
+            <spot x="2161.1831" y="1607.9429" z="1212.079956" h="110"/>
+        </spawn>
+        <!-- Rigdamis -->
+        <spawn npc_id="206331">
+            <spot h="99" x="2182.9495" y="1541.1444" z="1204.9725"/>
+        </spawn>
+        <!-- Cantor -->
+        <spawn npc_id="206353">
+            <spot h="66" x="2188.0232" y="1554.2131" z="1204.9725"/>
+        </spawn>
+        <!-- Yuroin -->
+        <spawn npc_id="206352">
+            <spot h="66" x="2187.1606" y="1555.7588" z="1204.9725"/>
+        </spawn>
+    </spawn_map>
+</spawns>

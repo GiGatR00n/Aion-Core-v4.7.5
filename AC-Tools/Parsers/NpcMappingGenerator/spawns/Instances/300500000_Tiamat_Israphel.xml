@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Israphel 3.5 -->
+<spawns>
+    <spawn_map map_id="300500000">
+        <!-- extradimensional void exit -->
+        <spawn npc_id="730632">
+            <spot x="268.156952" y="246.148178" z="127.931671"/>
+        </spawn>
+        <!-- israphel -->
+        <spawn npc_id="800365">
+            <spot x="257.873169" y="246.294846" z="127.931671"/>
+        </spawn>
+        <!-- -->
+        <spawn npc_id="283472">
+            <spot x="251.921417" y="236.908157" z="127.931671"/>
+        </spawn>
+    </spawn_map>
+</spawns>

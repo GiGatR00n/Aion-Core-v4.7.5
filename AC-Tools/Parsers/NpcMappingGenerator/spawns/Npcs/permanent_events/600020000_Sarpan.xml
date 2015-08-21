@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<spawns>
+    <spawn_map map_id="600020000">
+        <!-- Shugo Imperial Tomb Event -->
+        <!-- Indianerk -->
+        <spawn npc_id="831117" respawn_time="295">
+            <spot x="1384.7955" y="1426.187" z="599.3814" h="40"/>
+        </spawn>
+        <!-- Marayinerk -->
+        <spawn npc_id="831119" respawn_time="295">
+            <spot x="1386.4005" y="1427.3649" z="599.3814" h="40"/>
+        </spawn>
+        <!-- Code Red: Atreia -->
+        <!-- Casre -->
+        <spawn npc_id="831433" respawn_time="295">
+            <spot x="1330.1000" y="1477.8000" z="593.9000" h="74"/>
+        </spawn>
+        <!-- Rella -->
+        <spawn npc_id="831434" respawn_time="295">
+            <spot x="1331.2000" y="1476.4000" z="593.9000" h="73"/>
+        </spawn>
+        <!-- Jorpine (MON-THU) -->
+        <spawn npc_id="831435" respawn_time="295">
+            <spot x="1328.2000" y="1478.2000" z="593.9000" h="73"/>
+        </spawn>
+        <!-- Yennu (MON-THU) -->
+        <spawn npc_id="831436" respawn_time="295">
+            <spot x="1365.0000" y="1506.0000" z="593.9000" h="73"/>
+        </spawn>
+        <!-- Dalloren (FRI-SAT) -->
+        <spawn npc_id="831437" respawn_time="295">
+            <spot x="1328.2000" y="1478.2000" z="593.9000" h="73"/>
+        </spawn>
+        <!-- Dalliea (FRI-SAT) -->
+        <spawn npc_id="831518" respawn_time="295">
+            <spot x="1331.0000" y="1474.0000" z="593.9000" h="17"/>
+        </spawn>
+        <!-- Largos -->
+        <spawn npc_id="831439" respawn_time="295">
+            <spot x="1365.2000" y="1504.2000" z="593.9000" h="8"/>
+        </spawn>
+        <!-- Yukita -->
+        <spawn npc_id="831440" respawn_time="295">
+            <spot x="1366.0000" y="1502.9000" z="593.9000" h="18"/>
+        </spawn>
+        <!-- Hylian (MON-THU) -->
+        <spawn npc_id="831441" respawn_time="295">
+            <spot x="1367.6000" y="1501.9000" z="593.9000" h="17"/>
+        </spawn>
+        <!-- Rordah (MON-THU) -->
+        <spawn npc_id="831442" respawn_time="295">
+            <spot x="1331.0000" y="1474.0000" z="593.9000" h="17"/>
+        </spawn>
+        <!-- Mazka (FRI-SAT) -->
+        <spawn npc_id="831443" respawn_time="295">
+            <spot x="1367.6000" y="1501.9000" z="593.9000" h="17"/>
+        </spawn>
+        <!-- Deshna (FRI-SAT) -->
+        <spawn npc_id="831524" respawn_time="295">
+            <spot x="1365.0000" y="1506.0000" z="593.9000" h="73"/>
+        </spawn>
+        <!-- Medical Tent -->
+        <spawn npc_id="831445" respawn_time="295">
+            <spot x="1333.2000" y="1479.4000" z="593.9000" h="74"/>
+        </spawn>
+        <!-- Medical Tent -->
+        <spawn npc_id="831446" respawn_time="295">
+            <spot x="1363.0000" y="1502.0000" z="593.9000" h="11"/>
+        </spawn>
+        <!-- Medical Supplies -->
+        <spawn npc_id="831447" respawn_time="295">
+            <spot x="1327.9000" y="1484.8000" z="593.9000" h="70"/>
+        </spawn>
+        <!-- Medical Supplies -->
+        <spawn npc_id="831448" respawn_time="295">
+            <spot x="1361.6000" y="1507.3000" z="593.9000" h="7"/>
+        </spawn>
+    </spawn_map>
+</spawns>

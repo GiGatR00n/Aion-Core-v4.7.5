@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<spawns>
+    <spawn_map map_id="220030000">
+        <!-- Code Red: Atreia -->
+        <!-- Largos -->
+        <spawn npc_id="831439" respawn_time="295">
+            <spot x="1679.0000" y="1800.6000" z="252.1000" h="114"/>
+        </spawn>
+        <!-- Yukita -->
+        <spawn npc_id="831440" respawn_time="295">
+            <spot x="1679.5000" y="1798.9000" z="252.0000" h="114"/>
+        </spawn>
+        <!-- Hylian (MON-THU) -->
+        <spawn npc_id="831441" respawn_time="295">
+            <spot x="1680.4000" y="1802.1000" z="251.9000" h="5"/>
+        </spawn>
+        <!-- Rordah (MON-THU) -->
+        <spawn npc_id="831442" respawn_time="295">
+            <spot x="1681.2000" y="1797.5000" z="251.7000" h="4"/>
+        </spawn>
+        <!-- Mazka (FRI-SAT) -->
+        <spawn npc_id="831443" respawn_time="295">
+            <spot x="1680.4000" y="1802.1000" z="251.9000" h="5"/>
+        </spawn>
+        <!-- Deshna (FRI-SAT) -->
+        <spawn npc_id="831524" respawn_time="295">
+            <spot x="1681.2000" y="1797.5000" z="251.7000" h="4"/>
+        </spawn>
+        <!-- Medical Tent -->
+        <spawn npc_id="831446" respawn_time="295">
+            <spot x="1676.0000" y="1799.0000" z="252.0000" h="4"/>
+        </spawn>
+        <!-- Medical Supplies -->
+        <spawn npc_id="831448" respawn_time="295">
+            <spot x="1678.9000" y="1803.8000" z="251.8000" h="117"/>
+        </spawn>
+    </spawn_map>
+</spawns>

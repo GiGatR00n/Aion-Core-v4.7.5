@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<spawns>
+    <spawn_map map_id="120010000">
+        <!-- Shugo Imperial Tomb Event -->
+        <!-- Indianerk -->
+        <spawn npc_id="831117" respawn_time="295">
+            <spot x="1600.0773" y="1406.0095" z="193.12856" h="0"/>
+        </spawn>
+        <!-- Marayinerk -->
+        <spawn npc_id="831119" respawn_time="295">
+            <spot x="1600.1111" y="1404.215" z="193.12819" h="0"/>
+        </spawn>
+        <!-- Code Red: Atreia -->
+        <!-- Largos -->
+        <spawn npc_id="831439" respawn_time="295">
+            <spot x="1340.2000" y="1415.7000" z="208.0000" h="60"/>
+        </spawn>
+        <!-- Yukita -->
+        <spawn npc_id="831440" respawn_time="295">
+            <spot x="1340.3000" y="1417.0000" z="208.0000" h="65"/>
+        </spawn>
+        <!-- Hylian (MON-THU) -->
+        <spawn npc_id="831441" respawn_time="295">
+            <spot x="1338.3000" y="1418.3000" z="208.1000" h="58"/>
+        </spawn>
+        <!-- Rordah (MON-THU) -->
+        <spawn npc_id="831442" respawn_time="295">
+            <spot x="1338.1000" y="1415.2000" z="208.0000" h="61"/>
+        </spawn>
+        <!-- Mazka (FRI-SAT) -->
+        <spawn npc_id="831443" respawn_time="295">
+            <spot x="1338.3000" y="1418.3000" z="208.1000" h="58"/>
+        </spawn>
+        <!-- Deshna (FRI-SAT) -->
+        <spawn npc_id="831524" respawn_time="295">
+            <spot x="1338.1000" y="1415.2000" z="208.0000" h="61"/>
+        </spawn>
+        <!-- Medical Tent -->
+        <spawn npc_id="831446" respawn_time="295">
+            <spot x="1343.1000" y="1416.2000" z="208.1000" h="58"/>
+        </spawn>
+        <!-- Medical Supplies -->
+        <spawn npc_id="831448" respawn_time="295">
+            <spot x="1341.8000" y="1420.8000" z="208.1000" h="79"/>
+        </spawn>
+        <!-- Rukibuki Circus Troup -->
+        <!-- Arari (IU's Friend) -->
+        <spawn npc_id="831546" respawn_time="295">
+            <spot x="1605.842" y="1407.1816" z="193.129" h="0"/>
+        </spawn>
+    </spawn_map>
+</spawns>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<spawns xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <spawn_map map_id="220070000">
+        <!-- Shugo Imperial Tomb Event -->
+        <!-- Indianerk -->
+        <spawn npc_id="831117" respawn_time="295">
+            <spot x="1799.8676" y="2916.638" z="554.81024" h="97"/>
+        </spawn>
+        <!-- Marayinerk -->
+        <spawn npc_id="831119" respawn_time="295">
+            <spot x="1798.8055" y="2915.798" z="554.81024" h="97"/>
+        </spawn>
+        <!-- Code Red: Atreia -->
+        <!-- Largos -->
+        <spawn npc_id="831439" respawn_time="295">
+            <spot x="1839.7000" y="2843.6001" z="536.1000" h="38"/>
+        </spawn>
+        <!-- Yukita -->
+        <spawn npc_id="831440" respawn_time="295">
+            <spot x="1841.2000" y="2844.2000" z="536.1000" h="37"/>
+        </spawn>
+        <!-- Hylian (MON-THU) -->
+        <spawn npc_id="831441" respawn_time="295">
+            <spot x="1841.9000" y="2846.6001" z="537.0000" h="39"/>
+        </spawn>
+        <!-- Rordah (MON-THU) -->
+        <spawn npc_id="831442" respawn_time="295">
+            <spot x="1837.4000" y="2845.3999" z="536.1000" h="39"/>
+        </spawn>
+        <!-- Mazka (FRI-SAT) -->
+        <spawn npc_id="831443" respawn_time="295">
+            <spot x="1841.9000" y="2846.6001" z="537.0000" h="39"/>
+        </spawn>
+        <!-- Deshna (FRI-SAT) -->
+        <spawn npc_id="831524" respawn_time="295">
+            <spot x="1837.4000" y="2845.3999" z="536.1000" h="39"/>
+        </spawn>
+        <!-- Medical Tent -->
+        <spawn npc_id="831446" respawn_time="295">
+            <spot x="1841.5000" y="2841.2000" z="536.1000" h="37"/>
+        </spawn>
+        <!-- Medical Supplies -->
+        <spawn npc_id="831448" respawn_time="295">
+            <spot x="1836.2000" y="2840.2000" z="536.1000" h="33"/>
+        </spawn>
+    </spawn_map>
+</spawns>

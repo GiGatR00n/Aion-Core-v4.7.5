@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spawns>
+    <spawn_map map_id="310020000">
+        <!-- Belpartan -->
+        <spawn npc_id="205000">
+            <spot x="85" y="191" z="232"/>
+        </spawn>
+    </spawn_map>
+</spawns>

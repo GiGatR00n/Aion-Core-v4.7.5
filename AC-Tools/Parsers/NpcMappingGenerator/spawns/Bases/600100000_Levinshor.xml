@@ -1,0 +1,2186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spawns>
+    <spawn_map map_id="600100000">
+        <base_spawn id="100">
+            <simple_race race="NPC">
+                <spawn npc_id="832818">
+                    <spot x="1626.624634" y="1558.152710" z="253.497009"/>
+                </spawn>
+                <spawn npc_id="235072" handler="BOSS">
+                    <spot x="1628.4766" y="1564.676" z="247.87613" h="84"/>
+                </spawn>
+                <spawn npc_id="235072" handler="ATTACKER">
+                    <spot x="1627.871" y="1562.333" z="247.87613" h="31"/>
+                </spawn>
+                <spawn npc_id="235174" handler="GUARD">
+                    <spot x="1643.602" y="1567.046" z="247.75748" h="84"/>
+                    <spot x="1627.117" y="1549.193" z="247.64851" h="84"/>
+                </spawn>
+                <spawn npc_id="235173" handler="GUARD">
+                    <spot x="1618.734" y="1553.205" z="247.4847" h="84"/>
+                    <spot x="1635.743" y="1563.03" z="247.80197" h="84"/>
+                </spawn>
+                <spawn npc_id="235172" handler="GUARD">
+                    <spot x="1617.169" y="1572.19" z="247.64969" h="61"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="ELYOS">
+                <spawn npc_id="832138">
+                    <spot x="1626.624634" y="1558.152710" z="253.497009"/>
+                </spawn>
+                <spawn npc_id="802354">
+                    <spot x="1619.6454" y="1559.977" z="247.625"/>
+                </spawn>
+                <spawn npc_id="802609">
+                    <spot x="1618.3633" y="1563.3649" z="247.80219"/>
+                </spawn>
+                <spawn npc_id="802604">
+                    <spot x="1633.021" y="1552.5082" z="247.80466"/>
+                </spawn>
+                <spawn npc_id="235152" handler="BOSS">
+                    <spot x="1628.4766" y="1564.676" z="247.87613" h="84"/>
+                </spawn>
+                <spawn npc_id="235152" handler="ATTACKER">
+                    <spot x="1627.871" y="1562.333" z="247.87613" h="31"/>
+                </spawn>
+                <spawn npc_id="235186" handler="GUARD">
+                    <spot x="1643.602" y="1567.046" z="247.75748" h="84"/>
+                    <spot x="1627.117" y="1549.193" z="247.64851" h="84"/>
+                </spawn>
+                <spawn npc_id="235185" handler="GUARD">
+                    <spot x="1618.734" y="1553.205" z="247.4847" h="84"/>
+                    <spot x="1635.743" y="1563.03" z="247.80197" h="84"/>
+                </spawn>
+                <spawn npc_id="235184" handler="GUARD">
+                    <spot x="1617.169" y="1572.19" z="247.64969" h="61"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235362" handler="GUARD_VILLAGE">
+                    <spot x="1535.569" y="1504.895" z="251.4962"/>
+                    <spot x="1584.097" y="1494.11" z="245.60028"/>
+                    <spot x="1632.154" y="1473.646" z="258.92355"/>
+                    <spot x="1624.399" y="1452.423" z="259.6312"/>
+                    <spot x="1497.672" y="1497.507" z="253.24078"/>
+                    <spot x="1522.129" y="1450.784" z="254.10757"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235363" handler="GUARD_VILLAGE">
+                    <spot x="1536.487" y="1440.607" z="251.4962"/>
+                    <spot x="1503.515" y="1500.65" z="253.23843"/>
+                    <spot x="1486.772" y="1532.361" z="258.82556"/>
+                    <spot x="1472.111" y="1527.291" z="259.5647"/>
+                    <spot x="1567.124" y="1442.413" z="252.28412"/>
+                    <spot x="1568.053" y="1383.306" z="266.63287"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235364" handler="GUARD_VILLAGE">
+                    <spot x="1472.4233" y="1469.379" z="260.98764" h="14"/>
+                    <spot x="1484.9746" y="1507.7534" z="256.14676" h="14"/>
+                    <spot x="1568.2756" y="1513.1201" z="246.71223" h="1"/>
+                    <spot x="1571.2006" y="1411.1713" z="263.084" h="98"/>
+                    <spot x="1611.146" y="1367.7062" z="273.98334" h="110"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235365" handler="GUARD_VILLAGE">
+                    <spot x="1620.1613" y="1405.6044" z="267.29944" h="25"/>
+                    <spot x="1651.8584" y="1465.262" z="264.64722" h="18"/>
+                    <spot x="1621.4153" y="1510.0629" z="247.61322" h="34"/>
+                    <spot x="1579.1371" y="1524.268" z="246.28719" h="16"/>
+                    <spot x="1505.3182" y="1435.9674" z="261.21713" h="18"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="ASMODIANS">
+                <spawn npc_id="832159">
+                    <spot x="1626.624634" y="1558.152710" z="253.497009"/>
+                </spawn>
+                <spawn npc_id="802354">
+                    <spot x="1619.6454" y="1559.977" z="247.625"/>
+                </spawn>
+                <spawn npc_id="802595">
+                    <spot x="1618.3633" y="1563.3649" z="247.80219"/>
+                </spawn>
+                <spawn npc_id="802590">
+                    <spot x="1633.021" y="1552.5082" z="247.80466"/>
+                </spawn>
+                <spawn npc_id="235165" handler="BOSS">
+                    <spot x="1628.4766" y="1564.676" z="247.87613" h="84"/>
+                </spawn>
+                <spawn npc_id="235165" handler="ATTACKER">
+                    <spot x="1627.871" y="1562.333" z="247.87613" h="31"/>
+                </spawn>
+                <spawn npc_id="235198" handler="GUARD">
+                    <spot x="1643.602" y="1567.046" z="247.75748" h="84"/>
+                    <spot x="1627.117" y="1549.193" z="247.64851" h="84"/>
+                </spawn>
+                <spawn npc_id="235197" handler="GUARD">
+                    <spot x="1618.734" y="1553.205" z="247.4847" h="84"/>
+                    <spot x="1635.743" y="1563.03" z="247.80197" h="84"/>
+                </spawn>
+                <spawn npc_id="235196" handler="GUARD">
+                    <spot x="1617.169" y="1572.19" z="247.64969" h="61"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235366" handler="GUARD_VILLAGE">
+                    <spot x="1535.569" y="1504.895" z="251.4962"/>
+                    <spot x="1584.097" y="1494.11" z="245.60028"/>
+                    <spot x="1632.154" y="1473.646" z="258.92355"/>
+                    <spot x="1624.399" y="1452.423" z="259.6312"/>
+                    <spot x="1497.672" y="1497.507" z="253.24078"/>
+                    <spot x="1522.129" y="1450.784" z="254.10757"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235367" handler="GUARD_VILLAGE">
+                    <spot x="1536.487" y="1440.607" z="251.4962"/>
+                    <spot x="1503.515" y="1500.65" z="253.23843"/>
+                    <spot x="1486.772" y="1532.361" z="258.82556"/>
+                    <spot x="1472.111" y="1527.291" z="259.5647"/>
+                    <spot x="1567.124" y="1442.413" z="252.28412"/>
+                    <spot x="1568.053" y="1383.306" z="266.63287"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235368" handler="GUARD_VILLAGE">
+                    <spot x="1472.4233" y="1469.379" z="260.98764" h="14"/>
+                    <spot x="1484.9746" y="1507.7534" z="256.14676" h="14"/>
+                    <spot x="1568.2756" y="1513.1201" z="246.71223" h="1"/>
+                    <spot x="1571.2006" y="1411.1713" z="263.084" h="98"/>
+                    <spot x="1611.146" y="1367.7062" z="273.98334" h="110"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235369" handler="GUARD_VILLAGE">
+                    <spot x="1620.1613" y="1405.6044" z="267.29944" h="25"/>
+                    <spot x="1651.8584" y="1465.262" z="264.64722" h="18"/>
+                    <spot x="1621.4153" y="1510.0629" z="247.61322" h="34"/>
+                    <spot x="1579.1371" y="1524.268" z="246.28719" h="16"/>
+                    <spot x="1505.3182" y="1435.9674" z="261.21713" h="18"/>
+                </spawn>
+            </simple_race>
+        </base_spawn>
+        <base_spawn id="101">
+            <simple_race race="NPC">
+                <spawn npc_id="832171">
+                    <spot x="1258.118530" y="1437.250366" z="283.164307"/>
+                </spawn>
+                <spawn npc_id="235071" handler="BOSS">
+                    <spot x="1249.68" y="1433.53" z="275.105"/>
+                </spawn>
+                <spawn npc_id="235071" handler="ATTACKER">
+                    <spot x="1250.83" y="1435.05" z="275.125" h="70"/>
+                </spawn>
+                <spawn npc_id="235172" handler="GUARD">
+                    <spot x="1239.149" y="1414.252" z="274.56573"/>
+                    <spot x="1270.212" y="1443.202" z="274.5" h="6"/>
+                </spawn>
+                <spawn npc_id="235173" handler="GUARD">
+                    <spot x="1253.515" y="1458.078" z="275.7577" h="31"/>
+                    <spot x="1260.344" y="1407.772" z="274.67188" h="15"/>
+                </spawn>
+                <spawn npc_id="235174" handler="GUARD">
+                    <spot x="1262.491" y="1426.463" z="274.79794" h="15"/>
+                    <spot x="1273.776" y="1432.2009" z="274.514" h="15"/>
+                </spawn>
+                <spawn npc_id="235175" handler="GUARD">
+                    <spot x="1249.785" y="1454.803" z="275.84415" h="31"/>
+                </spawn>
+                <spawn npc_id="235176" handler="GUARD">
+                    <spot x="1241.916" y="1413.807" z="274.625" h="75"/>
+                    <spot x="1235.135" y="1452.466" z="276.82886"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="ELYOS">
+                <spawn npc_id="832129">
+                    <spot x="1258.118530" y="1437.250366" z="283.164307"/>
+                </spawn>
+                <spawn npc_id="802602">
+                    <spot x="1269.725" y="1426.393" z="274.79794" h="31"/>
+                </spawn>
+                <spawn npc_id="802628">
+                    <spot x="1261.136" y="1451.399" z="274.93365" h="97"/>
+                </spawn>
+                <spawn npc_id="235151" handler="BOSS">
+                    <spot x="1249.68" y="1433.53" z="275.105"/>
+                </spawn>
+                <spawn npc_id="235151" handler="ATTACKER">
+                    <spot x="1627.852" y="1559.819" z="257.8637" h="75"/>
+                </spawn>
+                <spawn npc_id="235184" handler="GUARD">
+                    <spot x="1239.149" y="1414.252" z="274.56573"/>
+                    <spot x="1270.212" y="1443.202" z="274.5" h="6"/>
+                </spawn>
+                <spawn npc_id="235185" handler="GUARD">
+                    <spot x="1253.515" y="1458.078" z="275.7577" h="31"/>
+                    <spot x="1260.344" y="1407.772" z="274.67188" h="15"/>
+                </spawn>
+                <spawn npc_id="235186" handler="GUARD">
+                    <spot x="1262.491" y="1426.463" z="274.79794" h="15"/>
+                    <spot x="1273.776" y="1432.2009" z="274.514" h="15"/>
+                </spawn>
+                <spawn npc_id="235187" handler="GUARD">
+                    <spot x="1249.785" y="1454.803" z="275.84415" h="31"/>
+                </spawn>
+                <spawn npc_id="235188" handler="GUARD">
+                    <spot x="1241.916" y="1413.807" z="274.625" h="75"/>
+                    <spot x="1235.135" y="1452.466" z="276.82886"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235354" handler="GUARD_VILLAGE">
+                    <spot x="1320.003" y="1463.461" z="264.27322"/>
+                    <spot x="1263.643" y="1521.794" z="265.98535"/>
+                    <spot x="1243.542" y="1489.592" z="267.23032"/>
+                    <spot x="1241.089" y="1544.333" z="269.9761"/>
+                    <spot x="1235.176" y="1566.581" z="273.40912"/>
+                    <spot x="1215.437" y="1545.313" z="267.73886"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235355" handler="GUARD_VILLAGE">
+                    <spot x="1301.962" y="1427.872" z="267.1815"/>
+                    <spot x="1357.218" y="1441.19" z="261.59"/>
+                    <spot x="1365.066" y="1465.106" z="262.44287"/>
+                    <spot x="1407.488" y="1466.349" z="263.56964"/>
+                    <spot x="1290.307" y="1505.908" z="264.99335"/>
+                    <spot x="1243.362" y="1558.875" z="273.27216"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235356" handler="GUARD_VILLAGE">
+                    <spot x="1223.4974" y="1511.9082" z="267.81854" h="70"/>
+                    <spot x="1188.8806" y="1542.5421" z="269.65265" h="14"/>
+                    <spot x="1305.7478" y="1517.6881" z="266.4295" h="107"/>
+                    <spot x="1382.0719" y="1434.773" z="261.0767" h="106"/>
+                    <spot x="1288.6749" y="1400.1877" z="267.88672" h="65"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235357" handler="GUARD_VILLAGE">
+                    <spot x="1323.2646" y="1473.5054" z="263.33975" h="119"/>
+                    <spot x="1239.708" y="1500.6233" z="268.0"/>
+                    <spot x="1173.855" y="1581.8506" z="273.74066" h="88"/>
+                    <spot x="1224.6127" y="1492.5812" z="267.41525" h="107"/>
+                    <spot x="1292.6554" y="1529.9916" z="266.37552" h="3"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="ASMODIANS">
+                <spawn npc_id="832150">
+                    <spot x="1258.118530" y="1437.250366" z="283.164307"/>
+                </spawn>
+                <spawn npc_id="802588">
+                    <spot x="1269.725" y="1426.393" z="274.79794" h="31"/>
+                </spawn>
+                <spawn npc_id="802651">
+                    <spot x="1261.136" y="1451.399" z="274.93365" h="97"/>
+                </spawn>
+                <spawn npc_id="235164" handler="BOSS">
+                    <spot x="1249.68" y="1433.53" z="275.105"/>
+                </spawn>
+                <spawn npc_id="235164" handler="ATTACKER">
+                    <spot x="1627.852" y="1559.819" z="257.8637" h="75"/>
+                </spawn>
+                <spawn npc_id="235196" handler="GUARD">
+                    <spot x="1239.149" y="1414.252" z="274.56573"/>
+                    <spot x="1270.212" y="1443.202" z="274.5" h="6"/>
+                </spawn>
+                <spawn npc_id="235197" handler="GUARD">
+                    <spot x="1253.515" y="1458.078" z="275.7577" h="31"/>
+                    <spot x="1260.344" y="1407.772" z="274.67188" h="15"/>
+                </spawn>
+                <spawn npc_id="235198" handler="GUARD">
+                    <spot x="1262.491" y="1426.463" z="274.79794" h="15"/>
+                    <spot x="1273.776" y="1432.2009" z="274.514" h="15"/>
+                </spawn>
+                <spawn npc_id="235199" handler="GUARD">
+                    <spot x="1249.785" y="1454.803" z="275.84415" h="31"/>
+                </spawn>
+                <spawn npc_id="235200" handler="GUARD">
+                    <spot x="1241.916" y="1413.807" z="274.625" h="75"/>
+                    <spot x="1235.135" y="1452.466" z="276.82886"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235358" handler="GUARD_VILLAGE">
+                    <spot x="1320.003" y="1463.461" z="264.27322"/>
+                    <spot x="1263.643" y="1521.794" z="265.98535"/>
+                    <spot x="1243.542" y="1489.592" z="267.23032"/>
+                    <spot x="1241.089" y="1544.333" z="269.9761"/>
+                    <spot x="1235.176" y="1566.581" z="273.40912"/>
+                    <spot x="1215.437" y="1545.313" z="267.73886"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235359" handler="GUARD_VILLAGE">
+                    <spot x="1301.962" y="1427.872" z="267.1815"/>
+                    <spot x="1357.218" y="1441.19" z="261.59"/>
+                    <spot x="1365.066" y="1465.106" z="262.44287"/>
+                    <spot x="1407.488" y="1466.349" z="263.56964"/>
+                    <spot x="1290.307" y="1505.908" z="264.99335"/>
+                    <spot x="1243.362" y="1558.875" z="273.27216"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235360" handler="GUARD_VILLAGE">
+                    <spot x="1223.4974" y="1511.9082" z="267.81854" h="70"/>
+                    <spot x="1188.8806" y="1542.5421" z="269.65265" h="14"/>
+                    <spot x="1305.7478" y="1517.6881" z="266.4295" h="107"/>
+                    <spot x="1382.0719" y="1434.773" z="261.0767" h="106"/>
+                    <spot x="1288.6749" y="1400.1877" z="267.88672" h="65"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235361" handler="GUARD_VILLAGE">
+                    <spot x="1323.2646" y="1473.5054" z="263.33975" h="119"/>
+                    <spot x="1239.708" y="1500.6233" z="268.0"/>
+                    <spot x="1173.855" y="1581.8506" z="273.74066" h="88"/>
+                    <spot x="1224.6127" y="1492.5812" z="267.41525" h="107"/>
+                    <spot x="1292.6554" y="1529.9916" z="266.37552" h="3"/>
+                </spawn>
+            </simple_race>
+        </base_spawn>
+        <base_spawn id="102">
+            <simple_race race="NPC">
+                <spawn npc_id="832168">
+                    <spot x="1901.160522" y="813.102173" z="242.847717"/>
+                </spawn>
+                <spawn npc_id="235073" handler="BOSS">
+                    <spot x="1911.0297" y="812.9477" z="237.875" h="64"/>
+                </spawn>
+                <spawn npc_id="235073" handler="ATTACKER">
+                    <spot x="1905.04" y="813.27" z="237.875"/>
+                </spawn>
+                <spawn npc_id="235172" handler="GUARD">
+                    <spot x="1885.506" y="817.5868" z="236.89574" h="61"/>
+                </spawn>
+                <spawn npc_id="235173" handler="GUARD">
+                    <spot x="1886.224" y="807.0076" z="237.4117" h="67"/>
+                </spawn>
+                <spawn npc_id="235174" handler="GUARD">
+                    <spot x="1904.236" y="792.814" z="237.875" h="75"/>
+                </spawn>
+                <spawn npc_id="235175" handler="GUARD">
+                    <spot x="1921.169" y="790.2062" z="237.875" h="90"/>
+                    <spot x="1898.462" y="837.1913" z="238.7928" h="61"/>
+                </spawn>
+                <spawn npc_id="235176" handler="GUARD">
+                    <spot x="1900.889" y="821.1229" z="237.875" h="75"/>
+                    <spot x="1900.763" y="832.2151" z="237.875" h="31"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="ELYOS">
+                <spawn npc_id="832126">
+                    <spot x="1901.160522" y="813.102173" z="242.847717"/>
+                </spawn>
+                <spawn npc_id="802567">
+                    <spot x="1897.313" y="799.8699" z="237.86655" h="21"/>
+                </spawn>
+                <spawn npc_id="802570">
+                    <spot x="1894.93" y="822.0237" z="237.875" h="105"/>
+                </spawn>
+                <spawn npc_id="802335">
+                    <spot x="1901.731" y="807.8081" z="237.875" h="61"/>
+                </spawn>
+                <spawn npc_id="235153" handler="BOSS">
+                    <spot x="1911.0297" y="812.9477" z="237.875" h="64"/>
+                </spawn>
+                <spawn npc_id="235153" handler="ATTACKER">
+                    <spot x="1905.04" y="813.27" z="237.875"/>
+                </spawn>
+                <spawn npc_id="235184" handler="GUARD">
+                    <spot x="1885.506" y="817.5868" z="236.89574" h="61"/>
+                </spawn>
+                <spawn npc_id="235185" handler="GUARD">
+                    <spot x="1886.224" y="807.0076" z="237.4117" h="67"/>
+                </spawn>
+                <spawn npc_id="235186" handler="GUARD">
+                    <spot x="1904.236" y="792.814" z="237.875" h="75"/>
+                </spawn>
+                <spawn npc_id="235187" handler="GUARD">
+                    <spot x="1921.169" y="790.2062" z="237.875" h="90"/>
+                    <spot x="1898.462" y="837.1913" z="238.7928" h="61"/>
+                </spawn>
+                <spawn npc_id="235188" handler="GUARD">
+                    <spot x="1900.889" y="821.1229" z="237.875" h="75"/>
+                    <spot x="1900.763" y="832.2151" z="237.875" h="31"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235362" handler="GUARD_VILLAGE">
+                    <spot x="1856.652" y="772.5159" z="233.79651"/>
+                    <spot x="1835.846" y="842.2599" z="233.84209"/>
+                    <spot x="1801.088" y="823.624" z="237.38612"/>
+                    <spot x="1780.573" y="924.8981" z="242.84659"/>
+                    <spot x="1858.529" y="832.1555" z="234.79279"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235363" handler="GUARD_VILLAGE">
+                    <spot x="1850.089" y="804.616" z="233.46544"/>
+                    <spot x="1833.786" y="875.5076" z="233.75137"/>
+                    <spot x="1814.243" y="901.3265" z="233.58704"/>
+                    <spot x="1816.807" y="884.0439" z="232.24725"/>
+                    <spot x="1807.281" y="812.2857" z="236.10773"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235364" handler="GUARD_VILLAGE">
+                    <spot x="1878.4518" y="783.3368" z="236.81969" h="75"/>
+                    <spot x="1848.336" y="791.5839" z="233.42201" h="69"/>
+                    <spot x="1840.8215" y="752.4823" z="233.89621" h="40"/>
+                    <spot x="1775.0883" y="771.12506" z="236.65627" h="51"/>
+                    <spot x="1848.7191" y="831.92975" z="233.5855" h="113"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235365" handler="GUARD_VILLAGE">
+                    <spot x="1806.5652" y="877.2051" z="233.80435" h="43"/>
+                    <spot x="1794.2703" y="933.1472" z="241.18243" h="21"/>
+                    <spot x="1808.5095" y="797.6296" z="234.97447" h="70"/>
+                    <spot x="1783.8931" y="871.0176" z="234.23663" h="39"/>
+                    <spot x="1791.7184" y="895.5023" z="234.0452" h="24"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="ASMODIANS">
+                <spawn npc_id="832147">
+                    <spot x="1901.160522" y="813.102173" z="242.847717"/>
+                </spawn>
+                <spawn npc_id="802594">
+                    <spot x="1897.313" y="799.8699" z="237.86655" h="21"/>
+                </spawn>
+                <spawn npc_id="802596">
+                    <spot x="1895.251" y="802.4997" z="237.77492" h="31"/>
+                </spawn>
+                <spawn npc_id="802601">
+                    <spot x="1894.93" y="822.0237" z="237.875" h="105"/>
+                </spawn>
+                <spawn npc_id="802343">
+                    <spot x="1901.731" y="807.8081" z="237.875" h="61"/>
+                </spawn>
+                <spawn npc_id="235166" handler="BOSS">
+                    <spot x="1911.0297" y="812.9477" z="237.875" h="64"/>
+                </spawn>
+                <spawn npc_id="235166" handler="ATTACKER">
+                    <spot x="1905.04" y="813.27" z="237.875"/>
+                </spawn>
+                <spawn npc_id="235196" handler="GUARD">
+                    <spot x="1885.506" y="817.5868" z="236.89574" h="61"/>
+                </spawn>
+                <spawn npc_id="235197" handler="GUARD">
+                    <spot x="1886.224" y="807.0076" z="237.4117" h="67"/>
+                </spawn>
+                <spawn npc_id="235198" handler="GUARD">
+                    <spot x="1904.236" y="792.814" z="237.875" h="75"/>
+                </spawn>
+                <spawn npc_id="235199" handler="GUARD">
+                    <spot x="1921.169" y="790.2062" z="237.875" h="90"/>
+                    <spot x="1898.462" y="837.1913" z="238.7928" h="61"/>
+                </spawn>
+                <spawn npc_id="235200" handler="GUARD">
+                    <spot x="1900.889" y="821.1229" z="237.875" h="75"/>
+                    <spot x="1900.763" y="832.2151" z="237.875" h="31"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235366" handler="GUARD_VILLAGE">
+                    <spot x="1856.652" y="772.5159" z="233.79651"/>
+                    <spot x="1835.846" y="842.2599" z="233.84209"/>
+                    <spot x="1801.088" y="823.624" z="237.38612"/>
+                    <spot x="1780.573" y="924.8981" z="242.84659"/>
+                    <spot x="1858.529" y="832.1555" z="234.79279"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235367" handler="GUARD_VILLAGE">
+                    <spot x="1850.089" y="804.616" z="233.46544"/>
+                    <spot x="1833.786" y="875.5076" z="233.75137"/>
+                    <spot x="1814.243" y="901.3265" z="233.58704"/>
+                    <spot x="1816.807" y="884.0439" z="232.24725"/>
+                    <spot x="1807.281" y="812.2857" z="236.10773"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235368" handler="GUARD_VILLAGE">
+                    <spot x="1878.4518" y="783.3368" z="236.81969" h="75"/>
+                    <spot x="1848.336" y="791.5839" z="233.42201" h="69"/>
+                    <spot x="1840.8215" y="752.4823" z="233.89621" h="40"/>
+                    <spot x="1775.0883" y="771.12506" z="236.65627" h="51"/>
+                    <spot x="1848.7191" y="831.92975" z="233.5855" h="113"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235369" handler="GUARD_VILLAGE">
+                    <spot x="1806.5652" y="877.2051" z="233.80435" h="43"/>
+                    <spot x="1794.2703" y="933.1472" z="241.18243" h="21"/>
+                    <spot x="1808.5095" y="797.6296" z="234.97447" h="70"/>
+                    <spot x="1783.8931" y="871.0176" z="234.23663" h="39"/>
+                    <spot x="1791.7184" y="895.5023" z="234.0452" h="24"/>
+                </spawn>
+            </simple_race>
+        </base_spawn>
+        <base_spawn id="103">
+            <simple_race race="NPC">
+                <spawn npc_id="832163">
+                    <spot x="1423.318115" y="851.302734" z="260.464081"/>
+                </spawn>
+                <spawn npc_id="235141" handler="BOSS">
+                    <spot x="1401.6089" y="852.7" z="259.6871"/>
+                </spawn>
+                <spawn npc_id="235141" handler="ATTACKER">
+                    <spot x="1405.01" y="852.29" z="259.56" h="70"/>
+                </spawn>
+                <spawn npc_id="235178" handler="GUARD">
+                    <spot x="1440.5077" y="844.4385" z="257.86063"/>
+                    <spot x="1410.2899" y="846.6133" z="258.02353"/>
+                </spawn>
+                <spawn npc_id="235179" handler="GUARD">
+                    <spot x="1440.5757" y="854.05115" z="257.86063"/>
+                    <spot x="1410.9912" y="857.0489" z="257.8648"/>
+                </spawn>
+                <spawn npc_id="235180" handler="GUARD">
+                    <spot x="1422.2915" y="816.6415" z="258.25" h="45"/>
+                </spawn>
+                <spawn npc_id="235181" handler="GUARD">
+                    <spot x="1380.0776" y="818.1731" z="259.21027" h="90"/>
+                    <spot x="1389.7344" y="890.29407" z="258.125" h="30"/>
+                </spawn>
+                <spawn npc_id="235182" handler="GUARD">
+                    <spot x="1363.5526" y="888.68195" z="258.125" h="110"/>
+                    <spot x="1392.5258" y="817.1248" z="259.19748" h="1"/>
+                    <spot x="1402.1825" y="889.2458" z="258.125" h="88"/>
+                </spawn>
+                <spawn npc_id="235183" handler="GUARD">
+                    <spot x="1429.0182" y="886.01434" z="258.13712" h="90"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="ELYOS">
+                <spawn npc_id="832121">
+                    <spot x="1423.318115" y="851.302734" z="260.464081"/>
+                </spawn>
+                <spawn npc_id="802330">
+                    <spot x="1414.3496" y="867.9044" z="257.9209"/>
+                </spawn>
+                <spawn npc_id="802564">
+                    <spot x="1444.6122" y="870.0577" z="258.25" h="60"/>
+                </spawn>
+                <spawn npc_id="802627">
+                    <spot x="1442.66" y="874.5177" z="258.25" h="66"/>
+                </spawn>
+                <spawn npc_id="802616">
+                    <spot x="1433.6777" y="819.80646" z="258.125" h="45"/>
+                </spawn>
+                <spawn npc_id="804564" handler="PORTAL">
+                    <spot x="1395.6858" y="853.3888" z="259.54037" h="118"/>
+                </spawn>
+                <spawn npc_id="235154" handler="BOSS">
+                    <spot x="1401.6089" y="852.7" z="259.6871"/>
+                </spawn>
+                <spawn npc_id="235154" handler="ATTACKER">
+                    <spot x="1405.01" y="852.29" z="259.56" h="70"/>
+                </spawn>
+                <spawn npc_id="235190" handler="GUARD">
+                    <spot x="1440.5077" y="844.4385" z="257.86063"/>
+                    <spot x="1410.2899" y="846.6133" z="258.02353"/>
+                </spawn>
+                <spawn npc_id="235191" handler="GUARD">
+                    <spot x="1440.5757" y="854.05115" z="257.86063"/>
+                    <spot x="1410.9912" y="857.0489" z="257.8648"/>
+                </spawn>
+                <spawn npc_id="235192" handler="GUARD">
+                    <spot x="1422.2915" y="816.6415" z="258.25" h="45"/>
+                </spawn>
+                <spawn npc_id="235193" handler="GUARD">
+                    <spot x="1380.0776" y="818.1731" z="259.21027" h="90"/>
+                    <spot x="1389.7344" y="890.29407" z="258.125" h="30"/>
+                </spawn>
+                <spawn npc_id="235194" handler="GUARD">
+                    <spot x="1363.5526" y="888.68195" z="258.125" h="110"/>
+                    <spot x="1392.5258" y="817.1248" z="259.19748" h="1"/>
+                    <spot x="1402.1825" y="889.2458" z="258.125" h="88"/>
+                </spawn>
+                <spawn npc_id="235195" handler="GUARD">
+                    <spot x="1429.0182" y="886.01434" z="258.13712" h="90"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235362" handler="GUARD_VILLAGE">
+                    <spot x="1524.702" y="881.2836" z="254.13881"/>
+                    <spot x="1487.64" y="904.8097" z="257.12283"/>
+                    <spot x="1468.603" y="914.9579" z="256.03375"/>
+                    <spot x="1455.601" y="950.561" z="259.14438"/>
+                    <spot x="1410.835" y="919.4097" z="257.78146"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235363" handler="GUARD_VILLAGE">
+                    <spot x="1488.584" y="778.8038" z="253.46529"/>
+                    <spot x="1459.224" y="781.4251" z="253.98857"/>
+                    <spot x="1425.815" y="739.5512" z="255.625"/>
+                    <spot x="1394.534" y="729.1932" z="255.59637"/>
+                    <spot x="1459.768" y="813.8676" z="255.23022"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235364" handler="GUARD_VILLAGE">
+                    <spot x="1484.7263" y="816.4779" z="253.91171" h="98"/>
+                    <spot x="1454.6045" y="799.8639" z="255.22073" h="4"/>
+                    <spot x="1505.0693" y="874.26" z="255.52492" h="20"/>
+                    <spot x="1504.1019" y="941.4124" z="257.30154" h="43"/>
+                    <spot x="1457.9705" y="963.3911" z="260.2138" h="39"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235365" handler="GUARD_VILLAGE">
+                    <spot x="1421.8518" y="948.4052" z="260.02533" h="66"/>
+                    <spot x="1383.8407" y="926.8684" z="258.75" h="66"/>
+                    <spot x="1435.211" y="908.4928" z="256.9428" h="107"/>
+                    <spot x="1472.9728" y="882.8422" z="255.91267" h="101"/>
+                    <spot x="1493.3123" y="837.461" z="253.53369" h="107"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="ASMODIANS">
+                <spawn npc_id="832142">
+                    <spot x="1423.318115" y="851.302734" z="260.464081"/>
+                </spawn>
+                <spawn npc_id="802349">
+                    <spot x="1414.3496" y="867.9044" z="257.9209"/>
+                </spawn>
+                <spawn npc_id="802599">
+                    <spot x="1444.6122" y="870.0577" z="258.25" h="60"/>
+                </spawn>
+                <spawn npc_id="802649">
+                    <spot x="1442.66" y="874.5177" z="258.25" h="66"/>
+                </spawn>
+                <spawn npc_id="802638">
+                    <spot x="1433.6777" y="819.80646" z="258.125" h="45"/>
+                </spawn>
+                <spawn npc_id="804567" handler="PORTAL">
+                    <spot x="1395.6858" y="853.3888" z="259.54037" h="118"/>
+                </spawn>
+                <spawn npc_id="235167" handler="BOSS">
+                    <spot x="1401.6089" y="852.7" z="259.6871"/>
+                </spawn>
+                <spawn npc_id="235167" handler="ATTACKER">
+                    <spot x="1405.01" y="852.29" z="259.56" h="70"/>
+                </spawn>
+                <spawn npc_id="235202" handler="GUARD">
+                    <spot x="1440.5077" y="844.4385" z="257.86063"/>
+                    <spot x="1410.2899" y="846.6133" z="258.02353"/>
+                </spawn>
+                <spawn npc_id="235203" handler="GUARD">
+                    <spot x="1440.5757" y="854.05115" z="257.86063"/>
+                    <spot x="1410.9912" y="857.0489" z="257.8648"/>
+                </spawn>
+                <spawn npc_id="235204" handler="GUARD">
+                    <spot x="1422.2915" y="816.6415" z="258.25" h="45"/>
+                </spawn>
+                <spawn npc_id="235205" handler="GUARD">
+                    <spot x="1380.0776" y="818.1731" z="259.21027" h="90"/>
+                    <spot x="1389.7344" y="890.29407" z="258.125" h="30"/>
+                </spawn>
+                <spawn npc_id="235206" handler="GUARD">
+                    <spot x="1363.5526" y="888.68195" z="258.125" h="110"/>
+                    <spot x="1392.5258" y="817.1248" z="259.19748" h="1"/>
+                    <spot x="1402.1825" y="889.2458" z="258.125" h="88"/>
+                </spawn>
+                <spawn npc_id="235207" handler="GUARD">
+                    <spot x="1429.0182" y="886.01434" z="258.13712" h="90"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235366" handler="GUARD_VILLAGE">
+                    <spot x="1524.702" y="881.2836" z="254.13881"/>
+                    <spot x="1487.64" y="904.8097" z="257.12283"/>
+                    <spot x="1468.603" y="914.9579" z="256.03375"/>
+                    <spot x="1455.601" y="950.561" z="259.14438"/>
+                    <spot x="1410.835" y="919.4097" z="257.78146"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235367" handler="GUARD_VILLAGE">
+                    <spot x="1488.584" y="778.8038" z="253.46529"/>
+                    <spot x="1459.224" y="781.4251" z="253.98857"/>
+                    <spot x="1425.815" y="739.5512" z="255.625"/>
+                    <spot x="1394.534" y="729.1932" z="255.59637"/>
+                    <spot x="1459.768" y="813.8676" z="255.23022"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235368" handler="GUARD_VILLAGE">
+                    <spot x="1484.7263" y="816.4779" z="253.91171" h="98"/>
+                    <spot x="1454.6045" y="799.8639" z="255.22073" h="4"/>
+                    <spot x="1505.0693" y="874.26" z="255.52492" h="20"/>
+                    <spot x="1504.1019" y="941.4124" z="257.30154" h="43"/>
+                    <spot x="1457.9705" y="963.3911" z="260.2138" h="39"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235369" handler="GUARD_VILLAGE">
+                    <spot x="1421.8518" y="948.4052" z="260.02533" h="66"/>
+                    <spot x="1383.8407" y="926.8684" z="258.75" h="66"/>
+                    <spot x="1435.211" y="908.4928" z="256.9428" h="107"/>
+                    <spot x="1472.9728" y="882.8422" z="255.91267" h="101"/>
+                    <spot x="1493.3123" y="837.461" z="253.53369" h="107"/>
+                </spawn>
+            </simple_race>
+        </base_spawn>
+        <base_spawn id="104">
+            <simple_race race="NPC">
+                <spawn npc_id="832170">
+                    <spot x="1668.446167" y="238.539749" z="260.728851"/>
+                </spawn>
+                <spawn npc_id="235142" handler="BOSS">
+                    <spot x="1679.5874" y="237.22116" z="251.71497" h="52"/>
+                </spawn>
+                <spawn npc_id="235142" handler="ATTACKER">
+                    <spot x="1674.68" y="238.58" z="251.75"/>
+                </spawn>
+                <spawn npc_id="235172" handler="GUARD">
+                    <spot x="1656.336" y="235.1442" z="251.375" h="52"/>
+                </spawn>
+                <spawn npc_id="235173" handler="GUARD">
+                    <spot x="1658.585" y="245.7578" z="251.5" h="52"/>
+                </spawn>
+                <spawn npc_id="235174" handler="GUARD">
+                    <spot x="1668.132" y="219.6423" z="251.375" h="82"/>
+                </spawn>
+                <spawn npc_id="235175" handler="GUARD">
+                    <spot x="1670.505" y="215.0792" z="251.375" h="75"/>
+                    <spot x="1676.121" y="261.1948" z="251.72932" h="31"/>
+                </spawn>
+                <spawn npc_id="235176" handler="GUARD">
+                    <spot x="1691.731" y="255.7822" z="252.41254" h="61"/>
+                </spawn>
+                <spawn npc_id="235177" handler="GUARD">
+                    <spot x="1674.649" y="246.2789" z="251.625" h="67"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="ELYOS">
+                <spawn npc_id="832128">
+                    <spot x="1668.446167" y="238.539749" z="260.728851"/>
+                </spawn>
+                <spawn npc_id="802605">
+                    <spot x="1666.58" y="247.9582" z="251.625" h="90"/>
+                </spawn>
+                <spawn npc_id="802563">
+                    <spot x="1665.161" y="226.3457" z="251.375" h="31"/>
+                </spawn>
+                <spawn npc_id="731461" handler="PORTAL">
+                    <spot x="1679.4561" y="239.75676" z="251.72961" static_id="947"/>
+                </spawn>
+                <spawn npc_id="235155" handler="BOSS">
+                    <spot x="1679.5874" y="237.22116" z="251.71497" h="52"/>
+                </spawn>
+                <spawn npc_id="235155" handler="ATTACKER">
+                    <spot x="1674.68" y="238.58" z="251.75"/>
+                </spawn>
+                <spawn npc_id="235184" handler="GUARD">
+                    <spot x="1656.336" y="235.1442" z="251.375" h="52"/>
+                </spawn>
+                <spawn npc_id="235185" handler="GUARD">
+                    <spot x="1658.585" y="245.7578" z="251.5" h="52"/>
+                </spawn>
+                <spawn npc_id="235186" handler="GUARD">
+                    <spot x="1668.132" y="219.6423" z="251.375" h="82"/>
+                </spawn>
+                <spawn npc_id="235187" handler="GUARD">
+                    <spot x="1670.505" y="215.0792" z="251.375" h="75"/>
+                    <spot x="1676.121" y="261.1948" z="251.72932" h="31"/>
+                </spawn>
+                <spawn npc_id="235188" handler="GUARD">
+                    <spot x="1691.731" y="255.7822" z="252.41254" h="61"/>
+                </spawn>
+                <spawn npc_id="235189" handler="GUARD">
+                    <spot x="1674.649" y="246.2789" z="251.625" h="67"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235370" handler="GUARD_VILLAGE">
+                    <spot x="1577.03" y="200.7963" z="258.30447"/>
+                    <spot x="1599.152" y="181.8778" z="252.46295"/>
+                    <spot x="1571.229" y="246.2752" z="260.55002"/>
+                    <spot x="1552.885" y="256.5051" z="260.46445"/>
+                    <spot x="1715.925" y="272.1526" z="257.25"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235371" handler="GUARD_VILLAGE">
+                    <spot x="1679.809" y="281.3573" z="255.43144"/>
+                    <spot x="1622.851" y="277.307" z="247.53879"/>
+                    <spot x="1565.494" y="221.9015" z="260.36163"/>
+                    <spot x="1611.815" y="195.7168" z="250.60657"/>
+                    <spot x="1654.265" y="175.2134" z="253.42625"/>
+                    <spot x="1534.507" y="216.0466" z="256.76685"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235372" handler="GUARD_VILLAGE">
+                    <spot x="1623.3474" y="205.18436" z="250.09177" h="109"/>
+                    <spot x="1594.8801" y="267.73724" z="254.1014" h="36"/>
+                    <spot x="1537.1852" y="249.38866" z="259.2118" h="72"/>
+                    <spot x="1542.8016" y="187.21848" z="257.32614" h="108"/>
+                    <spot x="1691.8148" y="272.6099" z="256.69305" h="55"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235373" handler="GUARD_VILLAGE">
+                    <spot x="1618.5222" y="223.64027" z="250.18472" h="60"/>
+                    <spot x="1596.0255" y="242.19572" z="251.88405" h="19"/>
+                    <spot x="1592.6565" y="296.0252" z="254.15848" h="25"/>
+                    <spot x="1579.1165" y="173.3078" z="254.125" h="107"/>
+                    <spot x="1696.6165" y="210.46654" z="251.52916" h="12"/>
+                    <spot x="1705.4377" y="296.46204" z="261.37177" h="29"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="ASMODIANS">
+                <spawn npc_id="832149">
+                    <spot x="1668.446167" y="238.539749" z="260.728851"/>
+                </spawn>
+                <spawn npc_id="802591">
+                    <spot x="1666.58" y="247.9582" z="251.625" h="90"/>
+                </spawn>
+                <spawn npc_id="802598">
+                    <spot x="1665.161" y="226.3457" z="251.375" h="31"/>
+                </spawn>
+                <spawn npc_id="731459" handler="PORTAL">
+                    <spot x="1679.4561" y="239.75676" z="251.72961" static_id="947"/>
+                </spawn>
+                <spawn npc_id="235168" handler="BOSS">
+                    <spot x="1679.5874" y="237.22116" z="251.71497" h="52"/>
+                </spawn>
+                <spawn npc_id="235165" handler="ATTACKER">
+                    <spot x="1674.68" y="238.58" z="251.75"/>
+                </spawn>
+                <spawn npc_id="235196" handler="GUARD">
+                    <spot x="1656.336" y="235.1442" z="251.375" h="52"/>
+                </spawn>
+                <spawn npc_id="235197" handler="GUARD">
+                    <spot x="1658.585" y="245.7578" z="251.5" h="52"/>
+                </spawn>
+                <spawn npc_id="235198" handler="GUARD">
+                    <spot x="1668.132" y="219.6423" z="251.375" h="82"/>
+                </spawn>
+                <spawn npc_id="235199" handler="GUARD">
+                    <spot x="1670.505" y="215.0792" z="251.375" h="75"/>
+                    <spot x="1676.121" y="261.1948" z="251.72932" h="31"/>
+                </spawn>
+                <spawn npc_id="235200" handler="GUARD">
+                    <spot x="1691.731" y="255.7822" z="252.41254" h="61"/>
+                </spawn>
+                <spawn npc_id="235201" handler="GUARD">
+                    <spot x="1674.649" y="246.2789" z="251.625" h="67"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235374" handler="GUARD_VILLAGE">
+                    <spot x="1577.03" y="200.7963" z="258.30447"/>
+                    <spot x="1599.152" y="181.8778" z="252.46295"/>
+                    <spot x="1571.229" y="246.2752" z="260.55002"/>
+                    <spot x="1552.885" y="256.5051" z="260.46445"/>
+                    <spot x="1715.925" y="272.1526" z="257.25"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235375" handler="GUARD_VILLAGE">
+                    <spot x="1679.809" y="281.3573" z="255.43144"/>
+                    <spot x="1622.851" y="277.307" z="247.53879"/>
+                    <spot x="1565.494" y="221.9015" z="260.36163"/>
+                    <spot x="1611.815" y="195.7168" z="250.60657"/>
+                    <spot x="1654.265" y="175.2134" z="253.42625"/>
+                    <spot x="1534.507" y="216.0466" z="256.76685"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235376" handler="GUARD_VILLAGE">
+                    <spot x="1623.3474" y="205.18436" z="250.09177" h="109"/>
+                    <spot x="1594.8801" y="267.73724" z="254.1014" h="36"/>
+                    <spot x="1537.1852" y="249.38866" z="259.2118" h="72"/>
+                    <spot x="1542.8016" y="187.21848" z="257.32614" h="108"/>
+                    <spot x="1691.8148" y="272.6099" z="256.69305" h="55"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235377" handler="GUARD_VILLAGE">
+                    <spot x="1618.5222" y="223.64027" z="250.18472" h="60"/>
+                    <spot x="1596.0255" y="242.19572" z="251.88405" h="19"/>
+                    <spot x="1592.6565" y="296.0252" z="254.15848" h="25"/>
+                    <spot x="1579.1165" y="173.3078" z="254.125" h="107"/>
+                    <spot x="1696.6165" y="210.46654" z="251.52916" h="12"/>
+                    <spot x="1705.4377" y="296.46204" z="261.37177" h="29"/>
+                </spawn>
+            </simple_race>
+        </base_spawn>
+        <base_spawn id="105">
+            <simple_race race="NPC">
+                <spawn npc_id="832165">
+                    <spot x="888.917847" y="1862.119995" z="233.397476"/>
+                </spawn>
+                <spawn npc_id="235070" handler="BOSS">
+                    <spot x="893.7803" y="1866.289" z="229.53671" h="75"/>
+                </spawn>
+                <spawn npc_id="235070" handler="ATTACKER">
+                    <spot x="891.1" y="1863.7" z="229.5"/>
+                </spawn>
+                <spawn npc_id="235172" handler="GUARD">
+                    <spot x="885.25" y="1845.736" z="229.04507" h="75"/>
+                    <spot x="885.387" y="1887.066" z="230.75" h="61"/>
+                </spawn>
+                <spawn npc_id="235173" handler="GUARD">
+                    <spot x="907.5392" y="1865.813" z="231.6286"/>
+                    <spot x="875.6021" y="1854.077" z="229.18643" h="75"/>
+                </spawn>
+                <spawn npc_id="235174" handler="GUARD">
+                    <spot x="870.4939" y="1876.1" z="229.875" h="61"/>
+                    <spot x="904.5745" y="1850.28" z="229.52559" h="105"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="ELYOS">
+                <spawn npc_id="832123">
+                    <spot x="888.917847" y="1862.119995" z="233.397476"/>
+                </spawn>
+                <spawn npc_id="802332">
+                    <spot x="892.5634" y="1857.254" z="229.58289" h="105"/>
+                </spawn>
+                <spawn npc_id="802558">
+                    <spot x="878.7559" y="1860.849" z="229.45291"/>
+                </spawn>
+                <spawn npc_id="802614">
+                    <spot x="892.2144" y="1850.108" z="229.27968" h="52"/>
+                </spawn>
+                <spawn npc_id="235150" handler="BOSS">
+                    <spot x="893.7803" y="1866.289" z="229.53671" h="75"/>
+                </spawn>
+                <spawn npc_id="235150" handler="ATTACKER">
+                    <spot x="891.1" y="1863.7" z="229.5"/>
+                </spawn>
+                <spawn npc_id="235184" handler="GUARD">
+                    <spot x="885.25" y="1845.736" z="229.04507" h="75"/>
+                    <spot x="885.387" y="1887.066" z="230.75" h="61"/>
+                </spawn>
+                <spawn npc_id="235185" handler="GUARD">
+                    <spot x="907.5392" y="1865.813" z="231.6286"/>
+                    <spot x="875.6021" y="1854.077" z="229.18643" h="75"/>
+                </spawn>
+                <spawn npc_id="235186" handler="GUARD">
+                    <spot x="870.4939" y="1876.1" z="229.875" h="61"/>
+                    <spot x="904.5745" y="1850.28" z="229.52559" h="105"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235354" handler="GUARD_VILLAGE">
+                    <spot x="895.8932" y="1815.648" z="227.48764"/>
+                    <spot x="912.4174" y="1803.26" z="227.5344"/>
+                    <spot x="899.6748" y="1790.567" z="227.32861"/>
+                    <spot x="976.0383" y="1804.904" z="230.75374"/>
+                    <spot x="761.0809" y="1906.313" z="228.89894"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235355" handler="GUARD_VILLAGE">
+                    <spot x="852.0707" y="1864.5" z="229.9003"/>
+                    <spot x="843.3663" y="1850.628" z="229.63794"/>
+                    <spot x="919.8733" y="1840.016" z="228.375"/>
+                    <spot x="791.8337" y="1895.99" z="224.62022"/>
+                    <spot x="769.0604" y="1894.659" z="226.37735"/>
+                    <spot x="807.9222" y="1867.364" z="228.2685"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235356" handler="GUARD_VILLAGE">
+                    <spot x="860.55304" y="1834.7743" z="227.47926" h="42"/>
+                    <spot x="847.9953" y="1881.0455" z="231.06534" h="35"/>
+                    <spot x="784.4469" y="1878.3541" z="226.0058" h="60"/>
+                    <spot x="774.06696" y="1925.8086" z="230.56578" h="29"/>
+                    <spot x="752.26544" y="1928.3955" z="229.36514" h="113"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235357" handler="GUARD_VILLAGE">
+                    <spot x="771.61896" y="1906.7457" z="227.27484" h="102"/>
+                    <spot x="772.6196" y="1881.5536" z="227.59253" h="66"/>
+                    <spot x="851.64716" y="1872.1364" z="230.875" h="2"/>
+                    <spot x="924.9643" y="1820.8906" z="229.56488" h="94"/>
+                    <spot x="900.26654" y="1767.1495" z="228.36775" h="108"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="ASMODIANS">
+                <spawn npc_id="832144">
+                    <spot x="888.917847" y="1862.119995" z="233.397476"/>
+                </spawn>
+                <spawn npc_id="802340">
+                    <spot x="892.5634" y="1857.254" z="229.58289" h="105"/>
+                </spawn>
+                <spawn npc_id="802572">
+                    <spot x="878.7559" y="1860.849" z="229.45291"/>
+                </spawn>
+                <spawn npc_id="802583">
+                    <spot x="892.2144" y="1850.108" z="229.27968" h="52"/>
+                </spawn>
+                <spawn npc_id="235163" handler="BOSS">
+                    <spot x="893.7803" y="1866.289" z="229.53671" h="75"/>
+                </spawn>
+                <spawn npc_id="235163" handler="ATTACKER">
+                    <spot x="891.1" y="1863.7" z="229.5"/>
+                </spawn>
+                <spawn npc_id="235196" handler="GUARD">
+                    <spot x="885.25" y="1845.736" z="229.04507" h="75"/>
+                    <spot x="885.387" y="1887.066" z="230.75" h="61"/>
+                </spawn>
+                <spawn npc_id="235197" handler="GUARD">
+                    <spot x="907.5392" y="1865.813" z="231.6286"/>
+                    <spot x="875.6021" y="1854.077" z="229.18643" h="75"/>
+                </spawn>
+                <spawn npc_id="235198" handler="GUARD">
+                    <spot x="870.4939" y="1876.1" z="229.875" h="61"/>
+                    <spot x="904.5745" y="1850.28" z="229.52559" h="105"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235358" handler="GUARD_VILLAGE">
+                    <spot x="895.8932" y="1815.648" z="227.48764"/>
+                    <spot x="912.4174" y="1803.26" z="227.5344"/>
+                    <spot x="899.6748" y="1790.567" z="227.32861"/>
+                    <spot x="976.0383" y="1804.904" z="230.75374"/>
+                    <spot x="761.0809" y="1906.313" z="228.89894"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235359" handler="GUARD_VILLAGE">
+                    <spot x="852.0707" y="1864.5" z="229.9003"/>
+                    <spot x="843.3663" y="1850.628" z="229.63794"/>
+                    <spot x="919.8733" y="1840.016" z="228.375"/>
+                    <spot x="791.8337" y="1895.99" z="224.62022"/>
+                    <spot x="769.0604" y="1894.659" z="226.37735"/>
+                    <spot x="807.9222" y="1867.364" z="228.2685"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235360" handler="GUARD_VILLAGE">
+                    <spot x="860.55304" y="1834.7743" z="227.47926" h="42"/>
+                    <spot x="847.9953" y="1881.0455" z="231.06534" h="35"/>
+                    <spot x="784.4469" y="1878.3541" z="226.0058" h="60"/>
+                    <spot x="774.06696" y="1925.8086" z="230.56578" h="29"/>
+                    <spot x="752.26544" y="1928.3955" z="229.36514" h="113"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235361" handler="GUARD_VILLAGE">
+                    <spot x="771.61896" y="1906.7457" z="227.27484" h="102"/>
+                    <spot x="772.6196" y="1881.5536" z="227.59253" h="66"/>
+                    <spot x="851.64716" y="1872.1364" z="230.875" h="2"/>
+                    <spot x="924.9643" y="1820.8906" z="229.56488" h="94"/>
+                    <spot x="900.26654" y="1767.1495" z="228.36775" h="108"/>
+                </spawn>
+            </simple_race>
+        </base_spawn>
+        <base_spawn id="106">
+            <simple_race race="NPC">
+                <spawn npc_id="832166">
+                    <spot x="543.068176" y="1554.888550" z="242.581802"/>
+                </spawn>
+                <spawn npc_id="235069" handler="BOSS">
+                    <spot x="541.9635" y="1550.4976" z="234.6138" h="36"/>
+                </spawn>
+                <spawn npc_id="235069" handler="ATTACKER">
+                    <spot x="541.9635" y="1550.4976" z="234.6138" h="36"/>
+                </spawn>
+                <spawn npc_id="235172" handler="GUARD">
+                    <spot x="550.9852" y="1570.897" z="234.50574" h="21"/>
+                    <spot x="542.163" y="1551.358" z="249.7284" h="90"/>
+                </spawn>
+                <spawn npc_id="235173" handler="GUARD">
+                    <spot x="538.4956" y="1572.861" z="234.5" h="21"/>
+                    <spot x="568.2434" y="1542.333" z="234.625" h="113"/>
+                </spawn>
+                <spawn npc_id="235174" handler="GUARD">
+                    <spot x="531.1891" y="1545.311" z="234.5" h="75"/>
+                    <spot x="550.916" y="1558.506" z="234.5" h="31"/>
+                </spawn>
+                <spawn npc_id="235175" handler="GUARD">
+                    <spot x="548.0823" y="1540.354" z="234.58546" h="97"/>
+                </spawn>
+                <spawn npc_id="235176" handler="GUARD">
+                    <spot x="547.165" y="1535.467" z="234.625" h="105"/>
+                    <spot x="547.165" y="1535.467" z="234.625"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="ELYOS">
+                <spawn npc_id="832124">
+                    <spot x="543.068176" y="1554.888550" z="242.581802"/>
+                </spawn>
+                <spawn npc_id="802608">
+                    <spot x="535.9156" y="1565.105" z="234.375"/>
+                </spawn>
+                <spawn npc_id="802560">
+                    <spot x="552.5982" y="1562.286" z="234.5" h="61"/>
+                </spawn>
+                <spawn npc_id="731456" handler="PORTAL">
+                    <spot x="543.86682" y="1548.6685" z="234.52678" static_id="683"/>
+                </spawn>
+                <spawn npc_id="235149" handler="BOSS">
+                    <spot x="541.9635" y="1550.4976" z="234.6138" h="36"/>
+                </spawn>
+                <spawn npc_id="235149" handler="ATTACKER">
+                    <spot x="541.9635" y="1550.4976" z="234.6138" h="36"/>
+                </spawn>
+                <spawn npc_id="235184" handler="GUARD">
+                    <spot x="550.9852" y="1570.897" z="234.50574" h="21"/>
+                    <spot x="542.163" y="1551.358" z="249.7284" h="90"/>
+                </spawn>
+                <spawn npc_id="235185" handler="GUARD">
+                    <spot x="538.4956" y="1572.861" z="234.5" h="21"/>
+                    <spot x="568.2434" y="1542.333" z="234.625" h="113"/>
+                </spawn>
+                <spawn npc_id="235186" handler="GUARD">
+                    <spot x="531.1891" y="1545.311" z="234.5" h="75"/>
+                    <spot x="550.916" y="1558.506" z="234.5" h="31"/>
+                </spawn>
+                <spawn npc_id="235187" handler="GUARD">
+                    <spot x="548.0823" y="1540.354" z="234.58546" h="97"/>
+                </spawn>
+                <spawn npc_id="235188" handler="GUARD">
+                    <spot x="547.165" y="1535.467" z="234.625" h="105"/>
+                    <spot x="547.165" y="1535.467" z="234.625"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235354" handler="GUARD_VILLAGE">
+                    <spot x="508.7604" y="1617.223" z="232.14952"/>
+                    <spot x="477.3488" y="1614.962" z="235.11163"/>
+                    <spot x="470.0646" y="1634.834" z="233.89383"/>
+                    <spot x="468.4233" y="1693.445" z="228.22711"/>
+                    <spot x="488.4449" y="1665.104" z="228.91333"/>
+                    <spot x="588.6516" y="1652.805" z="228.0206"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235355" handler="GUARD_VILLAGE">
+                    <spot x="502.5217" y="1679.273" z="229.25"/>
+                    <spot x="520.3907" y="1729.859" z="233.13742"/>
+                    <spot x="582.6857" y="1701.406" z="226.45346"/>
+                    <spot x="623.9001" y="1664.664" z="228.83405"/>
+                    <spot x="632.5898" y="1633.062" z="231.56558"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235356" handler="GUARD_VILLAGE">
+                    <spot x="572.06036" y="1619.5553" z="231.87877" h="27"/>
+                    <spot x="491.4018" y="1712.9095" z="227.50662" h="22"/>
+                    <spot x="434.86008" y="1693.7279" z="226.267" h="74"/>
+                    <spot x="548.8825" y="1674.5194" z="227.10231" h="107"/>
+                    <spot x="642.65936" y="1653.2311" z="233.71426" h="2"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235357" handler="GUARD_VILLAGE">
+                    <spot x="542.70917" y="1633.17" z="230.66135" h="44"/>
+                    <spot x="500.8836" y="1632.9087" z="231.63799" h="52"/>
+                    <spot x="470.2418" y="1598.4924" z="237.09422" h="72"/>
+                    <spot x="634.924" y="1607.8529" z="234.00888" h="88"/>
+                    <spot x="577.65967" y="1588.4108" z="233.04358" h="65"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="ASMODIANS">
+                <spawn npc_id="832145">
+                    <spot x="543.068176" y="1554.888550" z="242.581802"/>
+                </spawn>
+                <spawn npc_id="802581">
+                    <spot x="535.9156" y="1565.105" z="234.375"/>
+                </spawn>
+                <spawn npc_id="802574">
+                    <spot x="552.5982" y="1562.286" z="234.5" h="61"/>
+                </spawn>
+                <spawn npc_id="731462" handler="PORTAL">
+                    <spot x="543.86682" y="1548.6685" z="234.52678" static_id="683"/>
+                </spawn>
+                <spawn npc_id="235162" handler="BOSS">
+                    <spot x="541.9635" y="1550.4976" z="234.6138" h="36"/>
+                </spawn>
+                <spawn npc_id="235162" handler="ATTACKER">
+                    <spot x="541.9635" y="1550.4976" z="234.6138" h="36"/>
+                </spawn>
+                <spawn npc_id="235196" handler="GUARD">
+                    <spot x="550.9852" y="1570.897" z="234.50574" h="21"/>
+                    <spot x="542.163" y="1551.358" z="249.7284" h="90"/>
+                </spawn>
+                <spawn npc_id="235197" handler="GUARD">
+                    <spot x="538.4956" y="1572.861" z="234.5" h="21"/>
+                    <spot x="568.2434" y="1542.333" z="234.625" h="113"/>
+                </spawn>
+                <spawn npc_id="235198" handler="GUARD">
+                    <spot x="531.1891" y="1545.311" z="234.5" h="75"/>
+                    <spot x="550.916" y="1558.506" z="234.5" h="31"/>
+                </spawn>
+                <spawn npc_id="235199" handler="GUARD">
+                    <spot x="548.0823" y="1540.354" z="234.58546" h="97"/>
+                </spawn>
+                <spawn npc_id="235200" handler="GUARD">
+                    <spot x="547.165" y="1535.467" z="234.625" h="105"/>
+                    <spot x="547.165" y="1535.467" z="234.625"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235358" handler="GUARD_VILLAGE">
+                    <spot x="508.7604" y="1617.223" z="232.14952"/>
+                    <spot x="477.3488" y="1614.962" z="235.11163"/>
+                    <spot x="470.0646" y="1634.834" z="233.89383"/>
+                    <spot x="468.4233" y="1693.445" z="228.22711"/>
+                    <spot x="488.4449" y="1665.104" z="228.91333"/>
+                    <spot x="588.6516" y="1652.805" z="228.0206"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235359" handler="GUARD_VILLAGE">
+                    <spot x="502.5217" y="1679.273" z="229.25"/>
+                    <spot x="520.3907" y="1729.859" z="233.13742"/>
+                    <spot x="582.6857" y="1701.406" z="226.45346"/>
+                    <spot x="623.9001" y="1664.664" z="228.83405"/>
+                    <spot x="632.5898" y="1633.062" z="231.56558"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235360" handler="GUARD_VILLAGE">
+                    <spot x="572.06036" y="1619.5553" z="231.87877" h="27"/>
+                    <spot x="491.4018" y="1712.9095" z="227.50662" h="22"/>
+                    <spot x="434.86008" y="1693.7279" z="226.267" h="74"/>
+                    <spot x="548.8825" y="1674.5194" z="227.10231" h="107"/>
+                    <spot x="642.65936" y="1653.2311" z="233.71426" h="2"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235361" handler="GUARD_VILLAGE">
+                    <spot x="542.70917" y="1633.17" z="230.66135" h="44"/>
+                    <spot x="500.8836" y="1632.9087" z="231.63799" h="52"/>
+                    <spot x="470.2418" y="1598.4924" z="237.09422" h="72"/>
+                    <spot x="634.924" y="1607.8529" z="234.00888" h="88"/>
+                    <spot x="577.65967" y="1588.4108" z="233.04358" h="65"/>
+                </spawn>
+            </simple_race>
+        </base_spawn>
+        <base_spawn id="107">
+            <simple_race race="NPC">
+                <spawn npc_id="832169">
+                    <spot x="1168.280396" y="247.888885" z="241.893021"/>
+                </spawn>
+                <spawn npc_id="235143" handler="BOSS">
+                    <spot x="1162.95" y="245.0622" z="239.125" h="15"/>
+                </spawn>
+                <spawn npc_id="235143" handler="ATTACKER">
+                    <spot x="1166.1" y="247.35" z="239.125" h="75"/>
+                </spawn>
+                <spawn npc_id="235172" handler="GUARD">
+                    <spot x="1150.07" y="261.486" z="239.125" h="45"/>
+                    <spot x="1168.511" y="222.9789" z="239.125" h="105"/>
+                </spawn>
+                <spawn npc_id="235173" handler="GUARD">
+                    <spot x="1186.793" y="257.5677" z="236.79297" h="15"/>
+                    <spot x="1144.731" y="248.4854" z="239.125" h="61"/>
+                </spawn>
+                <spawn npc_id="235174" handler="GUARD">
+                    <spot x="1180.703" y="266.3809" z="236.6399" h="15"/>
+                    <spot x="1150.646" y="230.9361" z="239.125" h="75"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="ELYOS">
+                <spawn npc_id="832127">
+                    <spot x="1168.280396" y="247.888885" z="241.893021"/>
+                </spawn>
+                <spawn npc_id="802336">
+                    <spot x="1165.077" y="253.3601" z="239.125"/>
+                </spawn>
+                <spawn npc_id="802603">
+                    <spot x="1165.745" y="260.2341" z="239.125" h="105"/>
+                </spawn>
+                <spawn npc_id="802569">
+                    <spot x="1178.191" y="242.5566" z="239.2402" h="45"/>
+                </spawn>
+                <spawn npc_id="235156" handler="BOSS">
+                    <spot x="1162.95" y="245.0622" z="239.125" h="15"/>
+                </spawn>
+                <spawn npc_id="235156" handler="ATTACKER">
+                    <spot x="1166.1" y="247.35" z="239.125" h="75"/>
+                </spawn>
+                <spawn npc_id="235184" handler="GUARD">
+                    <spot x="1150.07" y="261.486" z="239.125" h="45"/>
+                    <spot x="1168.511" y="222.9789" z="239.125" h="105"/>
+                </spawn>
+                <spawn npc_id="235185" handler="GUARD">
+                    <spot x="1186.793" y="257.5677" z="236.79297" h="15"/>
+                    <spot x="1144.731" y="248.4854" z="239.125" h="61"/>
+                </spawn>
+                <spawn npc_id="235186" handler="GUARD">
+                    <spot x="1180.703" y="266.3809" z="236.6399" h="15"/>
+                    <spot x="1150.646" y="230.9361" z="239.125" h="75"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235370" handler="GUARD_VILLAGE">
+                    <spot x="1202.143" y="247.5661" z="235.23065"/>
+                    <spot x="1218.434" y="253.5698" z="235.84225"/>
+                    <spot x="1174.3" y="291.1349" z="238.0997"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235371" handler="GUARD_VILLAGE">
+                    <spot x="1216.762" y="283.6682" z="238.03716"/>
+                    <spot x="1266.75" y="289.4346" z="239.10016"/>
+                    <spot x="1289.04" y="292.8369" z="240.217"/>
+                    <spot x="1315.932" y="281.1962" z="238.8885"/>
+                    <spot x="1287.41" y="248.4814" z="236.80975"/>
+                    <spot x="1249.569" y="333.0694" z="247.14842"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235372" handler="GUARD_VILLAGE">
+                    <spot x="1200.7018" y="290.9745" z="238.64545" h="18"/>
+                    <spot x="1129.2788" y="259.8497" z="238.654" h="48"/>
+                    <spot x="1256.1119" y="279.90256" z="239.22473" h="27"/>
+                    <spot x="1333.337" y="257.94125" z="240.69458" h="11"/>
+                    <spot x="1267.099" y="276.0131" z="238.23845" h="83"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235373" handler="GUARD_VILLAGE">
+                    <spot x="1110.9436" y="282.82278" z="243.42592" h="30"/>
+                    <spot x="1238.5118" y="251.78143" z="236.5" h="108"/>
+                    <spot x="1301.3556" y="252.26303" z="237.1176" h="108"/>
+                    <spot x="1288.9836" y="301.7624" z="240.25" h="71"/>
+                    <spot x="1280.1981" y="263.43365" z="236.97699" h="11"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="ASMODIANS">
+                <spawn npc_id="832148">
+                    <spot x="1168.280396" y="247.888885" z="241.893021"/>
+                </spawn>
+                <spawn npc_id="802344">
+                    <spot x="1165.077" y="253.3601" z="239.125"/>
+                </spawn>
+                <spawn npc_id="802589">
+                    <spot x="1165.745" y="260.2341" z="239.125" h="105"/>
+                </spawn>
+                <spawn npc_id="802600">
+                    <spot x="1178.191" y="242.5566" z="239.2402" h="45"/>
+                </spawn>
+                <spawn npc_id="235169" handler="BOSS">
+                    <spot x="1162.95" y="245.0622" z="239.125" h="15"/>
+                </spawn>
+                <spawn npc_id="235169" handler="ATTACKER">
+                    <spot x="1166.1" y="247.35" z="239.125" h="75"/>
+                </spawn>
+                <spawn npc_id="235196" handler="GUARD">
+                    <spot x="1150.07" y="261.486" z="239.125" h="45"/>
+                    <spot x="1168.511" y="222.9789" z="239.125" h="105"/>
+                </spawn>
+                <spawn npc_id="235197" handler="GUARD">
+                    <spot x="1186.793" y="257.5677" z="236.79297" h="15"/>
+                    <spot x="1144.731" y="248.4854" z="239.125" h="61"/>
+                </spawn>
+                <spawn npc_id="235198" handler="GUARD">
+                    <spot x="1180.703" y="266.3809" z="236.6399" h="15"/>
+                    <spot x="1150.646" y="230.9361" z="239.125" h="75"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235374" handler="GUARD_VILLAGE">
+                    <spot x="1202.143" y="247.5661" z="235.23065"/>
+                    <spot x="1218.434" y="253.5698" z="235.84225"/>
+                    <spot x="1174.3" y="291.1349" z="238.0997"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235375" handler="GUARD_VILLAGE">
+                    <spot x="1216.762" y="283.6682" z="238.03716"/>
+                    <spot x="1266.75" y="289.4346" z="239.10016"/>
+                    <spot x="1289.04" y="292.8369" z="240.217"/>
+                    <spot x="1315.932" y="281.1962" z="238.8885"/>
+                    <spot x="1287.41" y="248.4814" z="236.80975"/>
+                    <spot x="1249.569" y="333.0694" z="247.14842"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235376" handler="GUARD_VILLAGE">
+                    <spot x="1200.7018" y="290.9745" z="238.64545" h="18"/>
+                    <spot x="1129.2788" y="259.8497" z="238.654" h="48"/>
+                    <spot x="1256.1119" y="279.90256" z="239.22473" h="27"/>
+                    <spot x="1333.337" y="257.94125" z="240.69458" h="11"/>
+                    <spot x="1267.099" y="276.0131" z="238.23845" h="83"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235377" handler="GUARD_VILLAGE">
+                    <spot x="1110.9436" y="282.82278" z="243.42592" h="30"/>
+                    <spot x="1238.5118" y="251.78143" z="236.5" h="108"/>
+                    <spot x="1301.3556" y="252.26303" z="237.1176" h="108"/>
+                    <spot x="1288.9836" y="301.7624" z="240.25" h="71"/>
+                    <spot x="1280.1981" y="263.43365" z="236.97699" h="11"/>
+                </spawn>
+            </simple_race>
+        </base_spawn>
+        <base_spawn id="108">
+            <simple_race race="NPC">
+                <spawn npc_id="832167">
+                    <spot x="812.641479" y="629.987244" z="279.177673"/>
+                </spawn>
+                <spawn npc_id="235144" handler="BOSS">
+                    <spot x="808.334" y="625.9313" z="276.5" h="15"/>
+                </spawn>
+                <spawn npc_id="235144" handler="ATTACKER">
+                    <spot x="810.45" y="627.288" z="276.5" h="75"/>
+                </spawn>
+                <spawn npc_id="235172" handler="GUARD">
+                    <spot x="816.7387" y="645.5079" z="275.90747" h="15"/>
+                </spawn>
+                <spawn npc_id="235173" handler="GUARD">
+                    <spot x="800.0125" y="611.2772" z="279.4764" h="75"/>
+                    <spot x="828.8766" y="640.2897" z="274.7546" h="20"/>
+                </spawn>
+                <spawn npc_id="235174" handler="GUARD">
+                    <spot x="791.8788" y="634.7111" z="276.3554" h="45"/>
+                    <spot x="830.7941" y="616.459" z="276.25162"/>
+                </spawn>
+                <spawn npc_id="235175" handler="GUARD">
+                    <spot x="817.9398" y="604.7141" z="276.5" h="15"/>
+                    <spot x="790.8597" y="630.4819" z="276.32385" h="15"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="ELYOS">
+                <spawn npc_id="832125">
+                    <spot x="812.641479" y="629.987244" z="279.177673"/>
+                </spawn>
+                <spawn npc_id="802334">
+                    <spot x="808.9643" y="635.1075" z="276.375" h="15"/>
+                </spawn>
+                <spawn npc_id="802631">
+                    <spot x="808.7373" y="642.1046" z="276.375" h="111"/>
+                </spawn>
+                <spawn npc_id="235157" handler="BOSS">
+                    <spot x="808.334" y="625.9313" z="276.5" h="15"/>
+                </spawn>
+                <spawn npc_id="235157" handler="ATTACKER">
+                    <spot x="810.45" y="627.288" z="276.5" h="75"/>
+                </spawn>
+                <spawn npc_id="235184" handler="GUARD">
+                    <spot x="816.7387" y="645.5079" z="275.90747" h="15"/>
+                </spawn>
+                <spawn npc_id="235185" handler="GUARD">
+                    <spot x="800.0125" y="611.2772" z="279.4764" h="75"/>
+                    <spot x="828.8766" y="640.2897" z="274.7546" h="20"/>
+                </spawn>
+                <spawn npc_id="235186" handler="GUARD">
+                    <spot x="791.8788" y="634.7111" z="276.3554" h="45"/>
+                    <spot x="830.7941" y="616.459" z="276.25162"/>
+                </spawn>
+                <spawn npc_id="235187" handler="GUARD">
+                    <spot x="817.9398" y="604.7141" z="276.5" h="15"/>
+                    <spot x="790.8597" y="630.4819" z="276.32385" h="15"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235370" handler="GUARD_VILLAGE">
+                    <spot x="865.3457" y="702.8495" z="276.4694"/>
+                    <spot x="928.9286" y="708.0859" z="278.9054"/>
+                    <spot x="931.4266" y="628.8282" z="272.875"/>
+                    <spot x="952.5164" y="627.8323" z="273.5399"/>
+                    <spot x="829.2126" y="603.2047" z="275.60217"/>
+                    <spot x="734.3302" y="667.76" z="265.7467"/>
+                    <spot x="762.3156" y="702.8919" z="264.875"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235371" handler="GUARD_VILLAGE">
+                    <spot x="842.2496" y="706.0149" z="273.83954"/>
+                    <spot x="910.1948" y="700.9033" z="277.128"/>
+                    <spot x="967.7608" y="629.4664" z="275.04028"/>
+                    <spot x="899.4271" y="645.1197" z="272.01715"/>
+                    <spot x="742.743" y="698.1047" z="265.625"/>
+                    <spot x="790.2005" y="682.8914" z="267.8866"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235372" handler="GUARD_VILLAGE">
+                    <spot x="828.94" y="700.62427" z="272.6833" h="44"/>
+                    <spot x="918.4114" y="684.5354" z="278.79367" h="96"/>
+                    <spot x="965.6353" y="656.5778" z="277.92444" h="4"/>
+                    <spot x="975.11255" y="601.06854" z="275.95584" h="11"/>
+                    <spot x="702.9896" y="650.2106" z="264.2763" h="63"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235373" handler="GUARD_VILLAGE">
+                    <spot x="892.45685" y="717.8475" z="278.76898" h="13"/>
+                    <spot x="893.3794" y="676.81366" z="274.22327" h="79"/>
+                    <spot x="953.60645" y="587.6282" z="273.1004" h="75"/>
+                    <spot x="917.8044" y="585.6066" z="272.01224" h="73"/>
+                    <spot x="751.5269" y="645.7999" z="267.00793" h="62"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="ASMODIANS">
+                <spawn npc_id="832146">
+                    <spot x="812.641479" y="629.987244" z="279.177673"/>
+                </spawn>
+                <spawn npc_id="802342">
+                    <spot x="808.9643" y="635.1075" z="276.375" h="15"/>
+                </spawn>
+                <spawn npc_id="802653">
+                    <spot x="808.7373" y="642.1046" z="276.375" h="111"/>
+                </spawn>
+                <spawn npc_id="235170" handler="BOSS">
+                    <spot x="808.334" y="625.9313" z="276.5" h="15"/>
+                </spawn>
+                <spawn npc_id="235170" handler="ATTACKER">
+                    <spot x="810.45" y="627.288" z="276.5" h="75"/>
+                </spawn>
+                <spawn npc_id="235196" handler="GUARD">
+                    <spot x="816.7387" y="645.5079" z="275.90747" h="15"/>
+                </spawn>
+                <spawn npc_id="235197" handler="GUARD">
+                    <spot x="800.0125" y="611.2772" z="279.4764" h="75"/>
+                    <spot x="828.8766" y="640.2897" z="274.7546" h="20"/>
+                </spawn>
+                <spawn npc_id="235198" handler="GUARD">
+                    <spot x="791.8788" y="634.7111" z="276.3554" h="45"/>
+                    <spot x="830.7941" y="616.459" z="276.25162"/>
+                </spawn>
+                <spawn npc_id="235199" handler="GUARD">
+                    <spot x="817.9398" y="604.7141" z="276.5" h="15"/>
+                    <spot x="790.8597" y="630.4819" z="276.32385" h="15"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235374" handler="GUARD_VILLAGE">
+                    <spot x="865.3457" y="702.8495" z="276.4694"/>
+                    <spot x="928.9286" y="708.0859" z="278.9054"/>
+                    <spot x="931.4266" y="628.8282" z="272.875"/>
+                    <spot x="952.5164" y="627.8323" z="273.5399"/>
+                    <spot x="829.2126" y="603.2047" z="275.60217"/>
+                    <spot x="734.3302" y="667.76" z="265.7467"/>
+                    <spot x="762.3156" y="702.8919" z="264.875"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235375" handler="GUARD_VILLAGE">
+                    <spot x="842.2496" y="706.0149" z="273.83954"/>
+                    <spot x="910.1948" y="700.9033" z="277.128"/>
+                    <spot x="967.7608" y="629.4664" z="275.04028"/>
+                    <spot x="899.4271" y="645.1197" z="272.01715"/>
+                    <spot x="742.743" y="698.1047" z="265.625"/>
+                    <spot x="790.2005" y="682.8914" z="267.8866"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235376" handler="GUARD_VILLAGE">
+                    <spot x="828.94" y="700.62427" z="272.6833" h="44"/>
+                    <spot x="918.4114" y="684.5354" z="278.79367" h="96"/>
+                    <spot x="965.6353" y="656.5778" z="277.92444" h="4"/>
+                    <spot x="975.11255" y="601.06854" z="275.95584" h="11"/>
+                    <spot x="702.9896" y="650.2106" z="264.2763" h="63"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235377" handler="GUARD_VILLAGE">
+                    <spot x="892.45685" y="717.8475" z="278.76898" h="13"/>
+                    <spot x="893.3794" y="676.81366" z="274.22327" h="79"/>
+                    <spot x="953.60645" y="587.6282" z="273.1004" h="75"/>
+                    <spot x="917.8044" y="585.6066" z="272.01224" h="73"/>
+                    <spot x="751.5269" y="645.7999" z="267.00793" h="62"/>
+                </spawn>
+            </simple_race>
+        </base_spawn>
+        <base_spawn id="109">
+            <simple_race race="NPC">
+                <spawn npc_id="832817">
+                    <spot x="536.786316" y="584.107727" z="266.988617"/>
+                </spawn>
+                <spawn npc_id="235066" handler="BOSS">
+                    <spot x="538.2747" y="585.1917" z="265.375" h="67"/>
+                </spawn>
+                <spawn npc_id="235066" handler="ATTACKER">
+                    <spot x="535.82" y="583.75" z="265.375"/>
+                </spawn>
+                <spawn npc_id="235172" handler="GUARD">
+                    <spot x="531.3217" y="575.1636" z="264.7148" h="67"/>
+                    <spot x="545.3762" y="599.7064" z="265.7603" h="45"/>
+                </spawn>
+                <spawn npc_id="235173" handler="GUARD">
+                    <spot x="526.1775" y="583.5342" z="264.9231" h="67"/>
+                    <spot x="532.58856" y="596.89825" z="265.03677" h="36"/>
+                </spawn>
+                <spawn npc_id="235174" handler="GUARD">
+                    <spot x="543.3267" y="574.50635" z="265.36456" h="108"/>
+                </spawn>
+                <spawn npc_id="235175" handler="GUARD">
+                    <spot x="540.04926" y="599.202" z="265.32822" h="36"/>
+                    <spot x="550.54095" y="581.76605" z="265.2162" h="66"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="ELYOS">
+                <spawn npc_id="832132">
+                    <spot x="536.786316" y="584.107727" z="266.988617"/>
+                </spawn>
+                <spawn npc_id="802613">
+                    <spot x="531.7267" y="589.9037" z="265.37442" h="110"/>
+                </spawn>
+                <spawn npc_id="802352">
+                    <spot x="543.1" y="579.8" z="265.375" h="60"/>
+                </spawn>
+                <spawn npc_id="235146" handler="BOSS">
+                    <spot x="538.2747" y="585.1917" z="265.375" h="67"/>
+                </spawn>
+                <spawn npc_id="235146" handler="ATTACKER">
+                    <spot x="535.82" y="583.75" z="265.375"/>
+                </spawn>
+                <spawn npc_id="235184" handler="GUARD">
+                    <spot x="531.3217" y="575.1636" z="264.7148" h="67"/>
+                    <spot x="545.3762" y="599.7064" z="265.7603" h="45"/>
+                </spawn>
+                <spawn npc_id="235185" handler="GUARD">
+                    <spot x="526.1775" y="583.5342" z="264.9231" h="67"/>
+                    <spot x="532.58856" y="596.89825" z="265.03677" h="36"/>
+                </spawn>
+                <spawn npc_id="235186" handler="GUARD">
+                    <spot x="543.3267" y="574.50635" z="265.36456" h="108"/>
+                </spawn>
+                <spawn npc_id="235187" handler="GUARD">
+                    <spot x="540.04926" y="599.202" z="265.32822" h="36"/>
+                    <spot x="550.54095" y="581.76605" z="265.2162" h="66"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235346" handler="GUARD_VILLAGE">
+                    <spot x="508.0713" y="646.7165" z="259.29584"/>
+                    <spot x="574.0154" y="637.1213" z="257.08282"/>
+                    <spot x="428.5121" y="595.8937" z="254.7223"/>
+                    <spot x="358.3709" y="587.8279" z="253.125"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235347" handler="GUARD_VILLAGE">
+                    <spot x="634.369" y="513.0333" z="267.0055"/>
+                    <spot x="559.4016" y="655.9744" z="255.4845"/>
+                    <spot x="379.5186" y="626.6234" z="266.5381"/>
+                    <spot x="495.08362" y="585.24585" z="264.41168" h="43"/>
+                    <spot x="523.22723" y="551.8188" z="262.8778" h="109"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235348" handler="GUARD_VILLAGE">
+                    <spot x="507.8056" y="569.70233" z="262.7743" h="42"/>
+                    <spot x="545.23425" y="635.1212" z="258.77563" h="117"/>
+                    <spot x="493.4659" y="621.60815" z="259.4822" h="57"/>
+                    <spot x="518.1106" y="737.26306" z="256.55988" h="13"/>
+                    <spot x="526.0258" y="706.23395" z="254.92047" h="87"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235349" handler="GUARD_VILLAGE">
+                    <spot x="560.06024" y="752.4042" z="258.75754" h="6"/>
+                    <spot x="426.40698" y="616.81683" z="254.35193" h="77"/>
+                    <spot x="381.13242" y="578.1647" z="253.9149" h="69"/>
+                    <spot x="408.58185" y="654.2988" z="262.63992" h="46"/>
+                    <spot x="589.63617" y="536.84" z="258.3025" h="82"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="ASMODIANS">
+                <spawn npc_id="832153">
+                    <spot x="536.786316" y="584.107727" z="266.988617"/>
+                </spawn>
+                <spawn npc_id="802578">
+                    <spot x="531.7267" y="589.9037" z="265.37442" h="110"/>
+                </spawn>
+                <spawn npc_id="235159" handler="BOSS">
+                    <spot x="538.2747" y="585.1917" z="265.375" h="67"/>
+                </spawn>
+                <spawn npc_id="235159" handler="ATTACKER">
+                    <spot x="535.82" y="583.75" z="265.375"/>
+                </spawn>
+                <spawn npc_id="235196" handler="GUARD">
+                    <spot x="531.3217" y="575.1636" z="264.7148" h="67"/>
+                    <spot x="545.3762" y="599.7064" z="265.7603" h="45"/>
+                </spawn>
+                <spawn npc_id="235197" handler="GUARD">
+                    <spot x="526.1775" y="583.5342" z="264.9231" h="67"/>
+                    <spot x="532.58856" y="596.89825" z="265.03677" h="36"/>
+                </spawn>
+                <spawn npc_id="235198" handler="GUARD">
+                    <spot x="543.3267" y="574.50635" z="265.36456" h="108"/>
+                </spawn>
+                <spawn npc_id="235199" handler="GUARD">
+                    <spot x="540.04926" y="599.202" z="265.32822" h="36"/>
+                    <spot x="550.54095" y="581.76605" z="265.2162" h="66"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235350" handler="GUARD_VILLAGE">
+                    <spot x="508.0713" y="646.7165" z="259.29584"/>
+                    <spot x="574.0154" y="637.1213" z="257.08282"/>
+                    <spot x="428.5121" y="595.8937" z="254.7223"/>
+                    <spot x="358.3709" y="587.8279" z="253.125"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235351" handler="GUARD_VILLAGE">
+                    <spot x="634.369" y="513.0333" z="267.0055"/>
+                    <spot x="559.4016" y="655.9744" z="255.4845"/>
+                    <spot x="379.5186" y="626.6234" z="266.5381"/>
+                    <spot x="495.08362" y="585.24585" z="264.41168" h="43"/>
+                    <spot x="523.22723" y="551.8188" z="262.8778" h="109"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235352" handler="GUARD_VILLAGE">
+                    <spot x="507.8056" y="569.70233" z="262.7743" h="42"/>
+                    <spot x="545.23425" y="635.1212" z="258.77563" h="117"/>
+                    <spot x="493.4659" y="621.60815" z="259.4822" h="57"/>
+                    <spot x="518.1106" y="737.26306" z="256.55988" h="13"/>
+                    <spot x="526.0258" y="706.23395" z="254.92047" h="87"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235353" handler="GUARD_VILLAGE">
+                    <spot x="560.06024" y="752.4042" z="258.75754" h="6"/>
+                    <spot x="426.40698" y="616.81683" z="254.35193" h="77"/>
+                    <spot x="381.13242" y="578.1647" z="253.9149" h="69"/>
+                    <spot x="408.58185" y="654.2988" z="262.63992" h="46"/>
+                    <spot x="589.63617" y="536.84" z="258.3025" h="82"/>
+                </spawn>
+            </simple_race>
+        </base_spawn>
+        <base_spawn id="110">
+            <simple_race race="NPC">
+                <spawn npc_id="832164">
+                    <spot x="376.509857" y="999.558777" z="256.756439"/>
+                </spawn>
+                <spawn npc_id="235067" handler="BOSS">
+                    <spot x="376.8368" y="1002.311" z="248.375" h="82"/>
+                </spawn>
+                <spawn npc_id="235067" handler="ATTACKER">
+                    <spot x="376.1" y="999.3" z="248.375" h="20"/>
+                </spawn>
+                <spawn npc_id="235172" handler="GUARD">
+                    <spot x="385.80957" y="981.21155" z="248.375" h="96"/>
+                    <spot x="373.07388" y="971.51855" z="247.31712" h="87"/>
+                </spawn>
+                <spawn npc_id="235173" handler="GUARD">
+                    <spot x="375.70184" y="1019.44434" z="249.39581" h="32"/>
+                </spawn>
+                <spawn npc_id="235174" handler="GUARD">
+                    <spot x="364.70004" y="974.8719" z="247.34825" h="84"/>
+                </spawn>
+                <spawn npc_id="235175" handler="GUARD">
+                    <spot x="364.0923" y="1016.465" z="249.65059" h="45"/>
+                </spawn>
+                <spawn npc_id="235176" handler="GUARD">
+                    <spot x="396.6095" y="994.9882" z="248.375" h="110"/>
+                </spawn>
+                <spawn npc_id="235177" handler="GUARD">
+                    <spot x="367.876" y="997.3941" z="248.5" h="110"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="ELYOS">
+                <spawn npc_id="832122">
+                    <spot x="376.509857" y="999.558777" z="256.756439"/>
+                </spawn>
+                <spawn npc_id="802565">
+                    <spot x="360.6756" y="993.1745" z="248.375"/>
+                </spawn>
+                <spawn npc_id="802615">
+                    <spot x="383.179" y="986.1771" z="248.375" h="61"/>
+                </spawn>
+                <spawn npc_id="802559">
+                    <spot x="381.3257" y="983.5098" z="248.3618" h="61"/>
+                </spawn>
+                <spawn npc_id="235147" handler="BOSS">
+                    <spot x="376.8368" y="1002.311" z="248.375" h="82"/>
+                </spawn>
+                <spawn npc_id="235147" handler="ATTACKER">
+                    <spot x="376.1" y="999.3" z="248.375" h="20"/>
+                </spawn>
+                <spawn npc_id="235184" handler="GUARD">
+                    <spot x="385.80957" y="981.21155" z="248.375" h="96"/>
+                    <spot x="373.07388" y="971.51855" z="247.31712" h="87"/>
+                </spawn>
+                <spawn npc_id="235185" handler="GUARD">
+                    <spot x="375.70184" y="1019.44434" z="249.39581" h="32"/>
+                </spawn>
+                <spawn npc_id="235186" handler="GUARD">
+                    <spot x="364.70004" y="974.8719" z="247.34825" h="84"/>
+                </spawn>
+                <spawn npc_id="235187" handler="GUARD">
+                    <spot x="364.0923" y="1016.465" z="249.65059" h="45"/>
+                </spawn>
+                <spawn npc_id="235188" handler="GUARD">
+                    <spot x="396.6095" y="994.9882" z="248.375" h="110"/>
+                </spawn>
+                <spawn npc_id="235189" handler="GUARD">
+                    <spot x="367.876" y="997.3941" z="248.5" h="110"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235346" handler="GUARD_VILLAGE">
+                    <spot x="268.7392" y="963.5663" z="239.22665"/>
+                    <spot x="346.2436" y="903.2752" z="246.51064"/>
+                    <spot x="370.8941" y="929.0927" z="244.47922"/>
+                    <spot x="436.2989" y="904.5052" z="260.79623"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235347" handler="GUARD_VILLAGE">
+                    <spot x="336.0527" y="1050.254" z="251.72363"/>
+                    <spot x="327.6385" y="1002.819" z="262.0558"/>
+                    <spot x="407.733" y="978.0537" z="250.17508"/>
+                    <spot x="443.7532" y="972.7222" z="251.63947"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235348" handler="GUARD_VILLAGE">
+                    <spot x="346.27634" y="922.9405" z="243.46593" h="72"/>
+                    <spot x="298.946" y="907.05475" z="242.49321" h="85"/>
+                    <spot x="245.73494" y="952.1139" z="237.85132" h="60"/>
+                    <spot x="456.88367" y="934.5744" z="251.4814" h="98"/>
+                    <spot x="338.18445" y="1023.735" z="253.93475" h="22"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235349" handler="GUARD_VILLAGE">
+                    <spot x="336.73508" y="951.70557" z="244.53668" h="92"/>
+                    <spot x="283.175" y="906.945" z="241.44844" h="6"/>
+                    <spot x="428.604" y="964.00507" z="249.07709" h="87"/>
+                    <spot x="483.66843" y="942.37555" z="252.01314" h="101"/>
+                    <spot x="381.70938" y="1034.2416" z="252.74693"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="ASMODIANS">
+                <spawn npc_id="832143">
+                    <spot x="376.509857" y="999.558777" z="256.756439"/>
+                </spawn>
+                <spawn npc_id="802579">
+                    <spot x="360.6756" y="993.1745" z="248.375"/>
+                </spawn>
+                <spawn npc_id="802584">
+                    <spot x="383.179" y="986.1771" z="248.375" h="61"/>
+                </spawn>
+                <spawn npc_id="802573">
+                    <spot x="381.3257" y="983.5098" z="248.3618" h="61"/>
+                </spawn>
+                <spawn npc_id="235160" handler="BOSS">
+                    <spot x="376.8368" y="1002.311" z="248.375" h="82"/>
+                </spawn>
+                <spawn npc_id="235160" handler="ATTACKER">
+                    <spot x="376.1" y="999.3" z="248.375" h="20"/>
+                </spawn>
+                <spawn npc_id="235196" handler="GUARD">
+                    <spot x="385.80957" y="981.21155" z="248.375" h="96"/>
+                    <spot x="373.07388" y="971.51855" z="247.31712" h="87"/>
+                </spawn>
+                <spawn npc_id="235197" handler="GUARD">
+                    <spot x="375.70184" y="1019.44434" z="249.39581" h="32"/>
+                </spawn>
+                <spawn npc_id="235198" handler="GUARD">
+                    <spot x="364.70004" y="974.8719" z="247.34825" h="84"/>
+                </spawn>
+                <spawn npc_id="235199" handler="GUARD">
+                    <spot x="364.0923" y="1016.465" z="249.65059" h="45"/>
+                </spawn>
+                <spawn npc_id="235200" handler="GUARD">
+                    <spot x="396.6095" y="994.9882" z="248.375" h="110"/>
+                </spawn>
+                <spawn npc_id="235201" handler="GUARD">
+                    <spot x="367.876" y="997.3941" z="248.5" h="110"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235350" handler="GUARD_VILLAGE">
+                    <spot x="268.7392" y="963.5663" z="239.22665"/>
+                    <spot x="346.2436" y="903.2752" z="246.51064"/>
+                    <spot x="370.8941" y="929.0927" z="244.47922"/>
+                    <spot x="436.2989" y="904.5052" z="260.79623"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235351" handler="GUARD_VILLAGE">
+                    <spot x="336.0527" y="1050.254" z="251.72363"/>
+                    <spot x="327.6385" y="1002.819" z="262.0558"/>
+                    <spot x="407.733" y="978.0537" z="250.17508"/>
+                    <spot x="443.7532" y="972.7222" z="251.63947"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235352" handler="GUARD_VILLAGE">
+                    <spot x="346.27634" y="922.9405" z="243.46593" h="72"/>
+                    <spot x="298.946" y="907.05475" z="242.49321" h="85"/>
+                    <spot x="245.73494" y="952.1139" z="237.85132" h="60"/>
+                    <spot x="456.88367" y="934.5744" z="251.4814" h="98"/>
+                    <spot x="338.18445" y="1023.735" z="253.93475" h="22"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235353" handler="GUARD_VILLAGE">
+                    <spot x="336.73508" y="951.70557" z="244.53668" h="92"/>
+                    <spot x="283.175" y="906.945" z="241.44844" h="6"/>
+                    <spot x="428.604" y="964.00507" z="249.07709" h="87"/>
+                    <spot x="483.66843" y="942.37555" z="252.01314" h="101"/>
+                    <spot x="381.70938" y="1034.2416" z="252.74693"/>
+                </spawn>
+            </simple_race>
+        </base_spawn>
+        <base_spawn id="111">
+            <simple_race race="NPC">
+                <spawn npc_id="832162">
+                    <spot x="504.945190" y="1172.946899" z="281.199982"/>
+                </spawn>
+                <spawn npc_id="235068" handler="BOSS">
+                    <spot x="519.3247" y="1172.088" z="277.49347" h="61"/>
+                </spawn>
+                <spawn npc_id="235068" handler="ATTACKER">
+                    <spot x="515.8" y="1172.5" z="277.53"/>
+                </spawn>
+                <spawn npc_id="235178" handler="GUARD">
+                    <spot x="479.4055" y="1185.798" z="276.375" h="61"/>
+                    <spot x="511.6774" y="1179.708" z="276.5" h="61"/>
+                </spawn>
+                <spawn npc_id="235179" handler="GUARD">
+                    <spot x="479.6862" y="1174.439" z="276.375" h="61"/>
+                    <spot x="511.5595" y="1166.282" z="276.5" h="61"/>
+                </spawn>
+                <spawn npc_id="235180" handler="GUARD">
+                    <spot x="536.8365" y="1212.441" z="276.5" h="31"/>
+                    <spot x="490.407" y="1136.502" z="276.5" h="21"/>
+                </spawn>
+                <spawn npc_id="235181" handler="GUARD">
+                    <spot x="526.8979" y="1210.031" z="276.5" h="31"/>
+                    <spot x="524.3995" y="1138.083" z="276.42255" h="90"/>
+                </spawn>
+                <spawn npc_id="235182" handler="GUARD">
+                    <spot x="498.8546" y="1213.121" z="276.375" h="90"/>
+                    <spot x="569.5844" y="1204.434" z="276.79288" h="110"/>
+                    <spot x="512.0811" y="1137.347" z="276.4722" h="90"/>
+                    <spot x="554.3256" y="1135.757" z="276.5" h="110"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="ELYOS">
+                <spawn npc_id="832120">
+                    <spot x="504.945190" y="1172.946899" z="281.199982"/>
+                </spawn>
+                <spawn npc_id="802609">
+                    <spot x="481.8602" y="1208.622" z="276.375" h="105"/>
+                </spawn>
+                <spawn npc_id="802612">
+                    <spot x="480.7757" y="1148.543" z="276.2626" h="15"/>
+                </spawn>
+                <spawn npc_id="802621">
+                    <spot x="478.0805" y="1202.072" z="276.375" h="105"/>
+                </spawn>
+                <spawn npc_id="802329">
+                    <spot x="508.1868" y="1156.55" z="276.5" h="61"/>
+                </spawn>
+                <spawn npc_id="804565" handler="PORTAL">
+                    <spot x="524.9058" y="1171.766" z="277.49347" h="59"/>
+                </spawn>
+                <spawn npc_id="235148" handler="BOSS">
+                    <spot x="519.3247" y="1172.088" z="277.49347" h="61"/>
+                </spawn>
+                <spawn npc_id="235148" handler="ATTACKER">
+                    <spot x="515.8" y="1172.5" z="277.53"/>
+                </spawn>
+                <spawn npc_id="235190" handler="GUARD">
+                    <spot x="479.4055" y="1185.798" z="276.375" h="61"/>
+                    <spot x="511.6774" y="1179.708" z="276.5" h="61"/>
+                </spawn>
+                <spawn npc_id="235191" handler="GUARD">
+                    <spot x="479.6862" y="1174.439" z="276.375" h="61"/>
+                    <spot x="511.5595" y="1166.282" z="276.5" h="61"/>
+                </spawn>
+                <spawn npc_id="235192" handler="GUARD">
+                    <spot x="536.8365" y="1212.441" z="276.5" h="31"/>
+                    <spot x="490.407" y="1136.502" z="276.5" h="21"/>
+                </spawn>
+                <spawn npc_id="235193" handler="GUARD">
+                    <spot x="526.8979" y="1210.031" z="276.5" h="31"/>
+                    <spot x="524.3995" y="1138.083" z="276.42255" h="90"/>
+                </spawn>
+                <spawn npc_id="235194" handler="GUARD">
+                    <spot x="498.8546" y="1213.121" z="276.375" h="90"/>
+                    <spot x="569.5844" y="1204.434" z="276.79288" h="110"/>
+                    <spot x="512.0811" y="1137.347" z="276.4722" h="90"/>
+                    <spot x="554.3256" y="1135.757" z="276.5" h="110"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235346" handler="GUARD_VILLAGE">
+                    <spot x="458.9674" y="1222.92" z="269.28793"/>
+                    <spot x="437.693" y="1268.567" z="269.85474"/>
+                    <spot x="574.0885" y="1277.354" z="289.6372"/>
+                    <spot x="414.9919" y="1123.214" z="275.34708"/>
+                    <spot x="532.7067" y="1084.391" z="269.5518"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235347" handler="GUARD_VILLAGE">
+                    <spot x="482.425" y="1296.255" z="268.02844"/>
+                    <spot x="501.0472" y="1338.505" z="265.5"/>
+                    <spot x="555.574" y="1264.723" z="285.8376"/>
+                    <spot x="451.2638" y="1207.205" z="270.18726"/>
+                    <spot x="450.8235" y="1104.798" z="273.375"/>
+                    <spot x="485.2122" y="1116.219" z="272.69635"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235348" handler="GUARD_VILLAGE">
+                    <spot x="440.6921" y="1300.2682" z="274.27875" h="114"/>
+                    <spot x="544.1372" y="1348.6326" z="269.21484" h="34"/>
+                    <spot x="492.2485" y="1258.5399" z="268.7007" h="81"/>
+                    <spot x="460.81735" y="1144.9" z="273.875" h="99"/>
+                    <spot x="515.1947" y="1053.4111" z="266.2132" h="101"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235349" handler="GUARD_VILLAGE">
+                    <spot x="509.03806" y="1351.0142" z="266.5098" h="30"/>
+                    <spot x="469.14685" y="1252.1772" z="269.125" h="41"/>
+                    <spot x="426.5711" y="1179.2859" z="271.64288" h="30"/>
+                    <spot x="468.55133" y="1088.1696" z="273.3644" h="84"/>
+                    <spot x="560.67957" y="1063.1794" z="269.85736" h="5"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="ASMODIANS">
+                <spawn npc_id="832141">
+                    <spot x="504.945190" y="1172.946899" z="281.199982"/>
+                </spawn>
+                <spawn npc_id="802582">
+                    <spot x="481.8602" y="1208.622" z="276.375" h="105"/>
+                </spawn>
+                <spawn npc_id="802577">
+                    <spot x="480.7757" y="1148.543" z="276.2626" h="15"/>
+                </spawn>
+                <spawn npc_id="802643">
+                    <spot x="478.0805" y="1202.072" z="276.375" h="105"/>
+                </spawn>
+                <spawn npc_id="802348">
+                    <spot x="508.1868" y="1156.55" z="276.5" h="61"/>
+                </spawn>
+                <spawn npc_id="804568" handler="PORTAL">
+                    <spot x="524.9058" y="1171.766" z="277.49347" h="59"/>
+                </spawn>
+                <spawn npc_id="235161" handler="BOSS">
+                    <spot x="519.3247" y="1172.088" z="277.49347" h="61"/>
+                </spawn>
+                <spawn npc_id="235161" handler="ATTACKER">
+                    <spot x="515.8" y="1172.5" z="277.53"/>
+                </spawn>
+                <spawn npc_id="235202" handler="GUARD">
+                    <spot x="479.4055" y="1185.798" z="276.375" h="61"/>
+                    <spot x="511.6774" y="1179.708" z="276.5" h="61"/>
+                </spawn>
+                <spawn npc_id="235203" handler="GUARD">
+                    <spot x="479.6862" y="1174.439" z="276.375" h="61"/>
+                    <spot x="511.5595" y="1166.282" z="276.5" h="61"/>
+                </spawn>
+                <spawn npc_id="235204" handler="GUARD">
+                    <spot x="536.8365" y="1212.441" z="276.5" h="31"/>
+                    <spot x="490.407" y="1136.502" z="276.5" h="21"/>
+                </spawn>
+                <spawn npc_id="235205" handler="GUARD">
+                    <spot x="526.8979" y="1210.031" z="276.5" h="31"/>
+                    <spot x="524.3995" y="1138.083" z="276.42255" h="90"/>
+                </spawn>
+                <spawn npc_id="235206" handler="GUARD">
+                    <spot x="498.8546" y="1213.121" z="276.375" h="90"/>
+                    <spot x="569.5844" y="1204.434" z="276.79288" h="110"/>
+                    <spot x="512.0811" y="1137.347" z="276.4722" h="90"/>
+                    <spot x="554.3256" y="1135.757" z="276.5" h="110"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235350" handler="GUARD_VILLAGE">
+                    <spot x="458.9674" y="1222.92" z="269.28793"/>
+                    <spot x="437.693" y="1268.567" z="269.85474"/>
+                    <spot x="574.0885" y="1277.354" z="289.6372"/>
+                    <spot x="414.9919" y="1123.214" z="275.34708"/>
+                    <spot x="532.7067" y="1084.391" z="269.5518"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235351" handler="GUARD_VILLAGE">
+                    <spot x="482.425" y="1296.255" z="268.02844"/>
+                    <spot x="501.0472" y="1338.505" z="265.5"/>
+                    <spot x="555.574" y="1264.723" z="285.8376"/>
+                    <spot x="451.2638" y="1207.205" z="270.18726"/>
+                    <spot x="450.8235" y="1104.798" z="273.375"/>
+                    <spot x="485.2122" y="1116.219" z="272.69635"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235352" handler="GUARD_VILLAGE">
+                    <spot x="440.6921" y="1300.2682" z="274.27875" h="114"/>
+                    <spot x="544.1372" y="1348.6326" z="269.21484" h="34"/>
+                    <spot x="492.2485" y="1258.5399" z="268.7007" h="81"/>
+                    <spot x="460.81735" y="1144.9" z="273.875" h="99"/>
+                    <spot x="515.1947" y="1053.4111" z="266.2132" h="101"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235353" handler="GUARD_VILLAGE">
+                    <spot x="509.03806" y="1351.0142" z="266.5098" h="30"/>
+                    <spot x="469.14685" y="1252.1772" z="269.125" h="41"/>
+                    <spot x="426.5711" y="1179.2859" z="271.64288" h="30"/>
+                    <spot x="468.55133" y="1088.1696" z="273.3644" h="84"/>
+                    <spot x="560.67957" y="1063.1794" z="269.85736" h="5"/>
+                </spawn>
+            </simple_race>
+        </base_spawn>
+        <base_spawn id="112">
+            <simple_race race="NPC">
+                <spawn npc_id="832161">
+                    <spot x="932.371155" y="1051.290771" z="343.666382"/>
+                </spawn>
+                <spawn npc_id="235145" handler="BOSS">
+                    <spot x="952.5361" y="1038.002" z="334.99393" h="45"/>
+                </spawn>
+                <spawn npc_id="235145" handler="ATTACKER">
+                    <spot x="949.59" y="1039.94" z="334.61"/>
+                </spawn>
+                <spawn npc_id="235178" handler="GUARD">
+                    <spot x="908.1981" y="1056.425" z="334.24686" h="45"/>
+                    <spot x="914.12915" y="1065.5393" z="334.24686" h="45"/>
+                </spawn>
+                <spawn npc_id="235179" handler="GUARD">
+                    <spot x="934.1539" y="996.788" z="334.05487" h="15"/>
+                    <spot x="947.9634" y="983.5992" z="333.93774" h="15"/>
+                    <spot x="989.994" y="1061.935" z="334.2405" h="15"/>
+                    <spot x="976.8052" y="1068.607" z="334.375" h="15"/>
+                </spawn>
+                <spawn npc_id="235180" handler="GUARD">
+                    <spot x="961.1348" y="1010.088" z="335.1405" h="82"/>
+                    <spot x="984.0042" y="1039.725" z="334.99393" h="15"/>
+                    <spot x="935.0168" y="1038.864" z="334.24686" h="45"/>
+                </spawn>
+                <spawn npc_id="235181" handler="GUARD">
+                    <spot x="972.1849" y="986.593" z="334.51224" h="6"/>
+                    <spot x="1001.872" y="1041.461" z="334.8666" h="111"/>
+                </spawn>
+                <spawn npc_id="235182" handler="GUARD">
+                    <spot x="917.2454" y="1017.838" z="334.24686" h="15"/>
+                    <spot x="954.0264" y="1073.348" z="334.24686" h="82"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="ELYOS">
+                <spawn npc_id="832119">
+                    <spot x="932.371155" y="1051.290771" z="343.666382"/>
+                </spawn>
+                <spawn npc_id="802633">
+                    <spot x="908.6108" y="1034.87" z="334.24686" h="13"/>
+                </spawn>
+                <spawn npc_id="802632">
+                    <spot x="909.142" y="1028.554" z="334.24686" h="13"/>
+                </spawn>
+                <spawn npc_id="802634">
+                    <spot x="909.874" y="1022.699" z="334.24686" h="13"/>
+                </spawn>
+                <spawn npc_id="802328">
+                    <spot x="934.1968" y="1027.826" z="334.24686" h="45"/>
+                </spawn>
+                <spawn npc_id="802635">
+                    <spot x="929.0988" y="1073.106" z="334.24686" h="97"/>
+                </spawn>
+                <spawn npc_id="802636">
+                    <spot x="943.2481" y="1077.117" z="334.24686" h="97"/>
+                </spawn>
+                <spawn npc_id="802637">
+                    <spot x="936.0244" y="1075.149" z="334.24686" h="97"/>
+                </spawn>
+                <spawn npc_id="804563" handler="PORTAL">
+                    <spot x="957.6475" y="1034.671" z="334.99393" h="50"/>
+                </spawn>
+                <spawn npc_id="731457" handler="PORTAL">
+                    <spot x="943.09155" y="1034.9174" z="334.29272" static_id="959"/>
+                </spawn>
+                <spawn npc_id="235158" handler="BOSS">
+                    <spot x="952.5361" y="1038.002" z="334.99393" h="45"/>
+                </spawn>
+                <spawn npc_id="235158" handler="ATTACKER">
+                    <spot x="949.59" y="1039.94" z="334.61"/>
+                </spawn>
+                <spawn npc_id="235190" handler="GUARD">
+                    <spot x="908.1981" y="1056.425" z="334.24686" h="45"/>
+                    <spot x="914.12915" y="1065.5393" z="334.24686" h="45"/>
+                </spawn>
+                <spawn npc_id="235191" handler="GUARD">
+                    <spot x="934.1539" y="996.788" z="334.05487" h="15"/>
+                    <spot x="947.9634" y="983.5992" z="333.93774" h="15"/>
+                    <spot x="989.994" y="1061.935" z="334.2405" h="15"/>
+                    <spot x="976.8052" y="1068.607" z="334.375" h="15"/>
+                </spawn>
+                <spawn npc_id="235192" handler="GUARD">
+                    <spot x="961.1348" y="1010.088" z="335.1405" h="82"/>
+                    <spot x="984.0042" y="1039.725" z="334.99393" h="15"/>
+                    <spot x="935.0168" y="1038.864" z="334.24686" h="45"/>
+                </spawn>
+                <spawn npc_id="235193" handler="GUARD">
+                    <spot x="972.1849" y="986.593" z="334.51224" h="6"/>
+                    <spot x="1001.872" y="1041.461" z="334.8666" h="111"/>
+                </spawn>
+                <spawn npc_id="235194" handler="GUARD">
+                    <spot x="917.2454" y="1017.838" z="334.24686" h="15"/>
+                    <spot x="954.0264" y="1073.348" z="334.24686" h="82"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235378" handler="GUARD_VILLAGE">
+                    <spot x="821.9268" y="1078.434" z="336.70135"/>
+                    <spot x="922.3542" y="1113.469" z="330.5643"/>
+                    <spot x="967.8743" y="962.4415" z="333.46954"/>
+                    <spot x="974.1779" y="915.2932" z="325.82727"/>
+                    <spot x="816.9671" y="1060.393" z="334.4756"/>
+                    <spot x="840.9554" y="1103.437" z="339.03278"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235379" handler="GUARD_VILLAGE">
+                    <spot x="1002.488" y="1169.77" z="331.79"/>
+                    <spot x="824.028" y="1013.414" z="330.00287"/>
+                    <spot x="978.775" y="1168.597" z="322.90738"/>
+                    <spot x="1063.288" y="1077.685" z="328.5148"/>
+                    <spot x="1029.457" y="1013.346" z="333.32645"/>
+                    <spot x="841.1517" y="973.1217" z="330.04416"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235380" handler="GUARD_VILLAGE">
+                    <spot x="860.9431" y="1019.645" z="341.1133"/>
+                    <spot x="822.572" y="1034.739" z="330.904"/>
+                    <spot x="925.3181" y="1179.478" z="331.8852"/>
+                    <spot x="971.8102" y="1122.795" z="326.93954"/>
+                    <spot x="1080.974" y="1035.205" z="336.91144"/>
+                    <spot x="1032.963" y="1036.701" z="332.58606"/>
+                    <spot x="1010.313" y="909.7618" z="325.24774"/>
+                    <spot x="985.3102" y="907.1058" z="324.79984"/>
+                    <spot x="880.5925" y="982.2602" z="327.91647"/>
+                    <spot x="808.6298" y="1043.227" z="333.85278"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235381" handler="GUARD_VILLAGE">
+                    <spot x="899.5434" y="1142.834" z="346.4462"/>
+                    <spot x="869.9094" y="1049.275" z="330.60178"/>
+                    <spot x="944.3958" y="1125.655" z="330.33405"/>
+                    <spot x="942.8672" y="1166.162" z="329.0618"/>
+                    <spot x="956.7221" y="1127.834" z="328.62085"/>
+                    <spot x="1090.623" y="1079.385" z="331.60294"/>
+                    <spot x="1067.15" y="1035.702" z="333.75452"/>
+                    <spot x="1074.709" y="1017.974" z="337.56223"/>
+                    <spot x="982.7347" y="954.0387" z="331.6634"/>
+                    <spot x="1018.379" y="924.7411" z="327.21765"/>
+                    <spot x="989.382" y="919.6465" z="326.53564"/>
+                    <spot x="829.3459" y="992.9002" z="330.862"/>
+                </spawn>
+            </simple_race>
+            <simple_race race="ASMODIANS">
+                <spawn npc_id="832140">
+                    <spot x="932.371155" y="1051.290771" z="343.666382"/>
+                </spawn>
+                <spawn npc_id="802655">
+                    <spot x="908.6108" y="1034.87" z="334.24686" h="13"/>
+                </spawn>
+                <spawn npc_id="802654">
+                    <spot x="909.142" y="1028.554" z="334.24686" h="13"/>
+                </spawn>
+                <spawn npc_id="802656">
+                    <spot x="909.874" y="1022.699" z="334.24686" h="13"/>
+                </spawn>
+                <spawn npc_id="802347">
+                    <spot x="934.1968" y="1027.826" z="334.24686" h="45"/>
+                </spawn>
+                <spawn npc_id="802657">
+                    <spot x="929.0988" y="1073.106" z="334.24686" h="97"/>
+                </spawn>
+                <spawn npc_id="802658">
+                    <spot x="943.2481" y="1077.117" z="334.24686" h="97"/>
+                </spawn>
+                <spawn npc_id="802659">
+                    <spot x="936.0244" y="1075.149" z="334.24686" h="97"/>
+                </spawn>
+                <spawn npc_id="804566" handler="PORTAL">
+                    <spot x="957.6475" y="1034.671" z="334.99393" h="50"/>
+                </spawn>
+                <spawn npc_id="731460" handler="PORTAL">
+                    <spot x="943.09155" y="1034.9174" z="334.29272" static_id="959"/>
+                </spawn>
+                <spawn npc_id="235171" handler="BOSS">
+                    <spot x="952.5361" y="1038.002" z="334.99393" h="45"/>
+                </spawn>
+                <spawn npc_id="235171" handler="ATTACKER">
+                    <spot x="949.59" y="1039.94" z="334.61"/>
+                </spawn>
+                <spawn npc_id="235202" handler="GUARD">
+                    <spot x="908.1981" y="1056.425" z="334.24686" h="45"/>
+                    <spot x="914.12915" y="1065.5393" z="334.24686" h="45"/>
+                </spawn>
+                <spawn npc_id="235203" handler="GUARD">
+                    <spot x="934.1539" y="996.788" z="334.05487" h="15"/>
+                    <spot x="947.9634" y="983.5992" z="333.93774" h="15"/>
+                    <spot x="989.994" y="1061.935" z="334.2405" h="15"/>
+                    <spot x="976.8052" y="1068.607" z="334.375" h="15"/>
+                </spawn>
+                <spawn npc_id="235204" handler="GUARD">
+                    <spot x="961.1348" y="1010.088" z="335.1405" h="82"/>
+                    <spot x="984.0042" y="1039.725" z="334.99393" h="15"/>
+                    <spot x="935.0168" y="1038.864" z="334.24686" h="45"/>
+                </spawn>
+                <spawn npc_id="235205" handler="GUARD">
+                    <spot x="972.1849" y="986.593" z="334.51224" h="6"/>
+                    <spot x="1001.872" y="1041.461" z="334.8666" h="111"/>
+                </spawn>
+                <spawn npc_id="235206" handler="GUARD">
+                    <spot x="917.2454" y="1017.838" z="334.24686" h="15"/>
+                    <spot x="954.0264" y="1073.348" z="334.24686" h="82"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235382" handler="GUARD_VILLAGE">
+                    <spot x="821.9268" y="1078.434" z="336.70135"/>
+                    <spot x="922.3542" y="1113.469" z="330.5643"/>
+                    <spot x="967.8743" y="962.4415" z="333.46954"/>
+                    <spot x="974.1779" y="915.2932" z="325.82727"/>
+                    <spot x="816.9671" y="1060.393" z="334.4756"/>
+                    <spot x="840.9554" y="1103.437" z="339.03278"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235383" handler="GUARD_VILLAGE">
+                    <spot x="1002.488" y="1169.77" z="331.79"/>
+                    <spot x="824.028" y="1013.414" z="330.00287"/>
+                    <spot x="978.775" y="1168.597" z="322.90738"/>
+                    <spot x="1063.288" y="1077.685" z="328.5148"/>
+                    <spot x="1029.457" y="1013.346" z="333.32645"/>
+                    <spot x="841.1517" y="973.1217" z="330.04416"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235384" handler="GUARD_VILLAGE">
+                    <spot x="860.9431" y="1019.645" z="341.1133"/>
+                    <spot x="822.572" y="1034.739" z="330.904"/>
+                    <spot x="925.3181" y="1179.478" z="331.8852"/>
+                    <spot x="971.8102" y="1122.795" z="326.93954"/>
+                    <spot x="1080.974" y="1035.205" z="336.91144"/>
+                    <spot x="1032.963" y="1036.701" z="332.58606"/>
+                    <spot x="1010.313" y="909.7618" z="325.24774"/>
+                    <spot x="985.3102" y="907.1058" z="324.79984"/>
+                    <spot x="880.5925" y="982.2602" z="327.91647"/>
+                    <spot x="808.6298" y="1043.227" z="333.85278"/>
+                </spawn>
+                <spawn respawn_time="295" npc_id="235385" handler="GUARD_VILLAGE">
+                    <spot x="899.5434" y="1142.834" z="346.4462"/>
+                    <spot x="869.9094" y="1049.275" z="330.60178"/>
+                    <spot x="944.3958" y="1125.655" z="330.33405"/>
+                    <spot x="942.8672" y="1166.162" z="329.0618"/>
+                    <spot x="956.7221" y="1127.834" z="328.62085"/>
+                    <spot x="1090.623" y="1079.385" z="331.60294"/>
+                    <spot x="1067.15" y="1035.702" z="333.75452"/>
+                    <spot x="1074.709" y="1017.974" z="337.56223"/>
+                    <spot x="982.7347" y="954.0387" z="331.6634"/>
+                    <spot x="1018.379" y="924.7411" z="327.21765"/>
+                    <spot x="989.382" y="919.6465" z="326.53564"/>
+                    <spot x="829.3459" y="992.9002" z="330.862"/>
+                </spawn>
+            </simple_race>
+        </base_spawn>
+    </spawn_map>
+</spawns>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<spawns>
+    <spawn_map map_id="300380000">
+        <!-- Empress Muada -->
+        <spawn npc_id="218782">
+            <spot x="526.86694" y="517.73578" z="105.48243" h="45"/>
+        </spawn>
+        <!--   -->
+        <spawn npc_id="282969">
+            <spot x="523.000" y="541.000" z="106.000"/>
+        </spawn>
+        <!--   -->
+        <spawn npc_id="282969" respawn_time="-1">
+            <spot x="523.000" y="541.000" z="106.000"/>
+        </spawn>
+    </spawn_map>
+</spawns>

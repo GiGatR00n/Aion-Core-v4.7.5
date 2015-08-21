@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<spawns xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <spawn_map map_id="210050000">
+        <!-- Shugo Imperial Tomb Event -->
+        <!-- Indianerk -->
+        <spawn npc_id="831117" respawn_time="295">
+            <spot x="1343.1515" y="288.83496" z="589.3666" h="80"/>
+        </spawn>
+        <!-- Marayinerk -->
+        <spawn npc_id="831119" respawn_time="295">
+            <spot x="1342.0575" y="289.55847" z="589.3666" h="80"/>
+        </spawn>
+        <!-- Code Red: Atreia -->					
+        <!-- Casre -->
+        <spawn npc_id="831433" respawn_time="295">
+            <spot x="1360.2000" y="239.8000" z="589.7000" h="36"/>
+        </spawn>
+        <!-- Rella -->
+        <spawn npc_id="831434" respawn_time="295">
+            <spot x="1361.8000" y="240.1000" z="589.7000" h="34"/>
+        </spawn>
+        <!-- Jorpine (MON-THU) -->
+        <spawn npc_id="831435" respawn_time="295">
+            <spot x="1362.7000" y="243.7000" z="589.7000" h="34"/>
+        </spawn>
+        <!-- Yennu (MON-THU) -->
+        <spawn npc_id="831436" respawn_time="295">
+            <spot x="1357.2000" y="241.8000" z="589.7000" h="34"/>
+        </spawn>
+        <!-- Dalloren (FRI-SAT) -->
+        <spawn npc_id="831437" respawn_time="295">
+            <spot x="1362.7000" y="243.7000" z="589.7000" h="34"/>
+        </spawn>
+        <!-- Dalliea (FRI-SAT) -->
+        <spawn npc_id="831518" respawn_time="295">
+            <spot x="1357.2000" y="241.8000" z="589.7000" h="34"/>
+        </spawn>
+        <!-- Medical Tent -->
+        <spawn npc_id="831445" respawn_time="295">
+            <spot x="1362.0000" y="236.3000" z="589.7000" h="34"/>
+        </spawn>
+        <!-- Medical Supplies -->
+        <spawn npc_id="831447" respawn_time="295">
+            <spot x="1365.0000" y="241.1000" z="589.7000" h="34"/>
+        </spawn>
+    </spawn_map>
+</spawns>

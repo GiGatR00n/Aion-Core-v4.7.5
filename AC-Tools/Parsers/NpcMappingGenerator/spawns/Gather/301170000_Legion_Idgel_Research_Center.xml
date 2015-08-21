@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawns>
+    <spawn_map map_id="301170000">
+        <!-- 고대의 이드 499P -->
+        <spawn npc_id="401167">
+            <spot x="603.77576" y="420.0644" z="97.22931" h="40"/>
+        </spawn>
+    </spawn_map>
+</spawns>

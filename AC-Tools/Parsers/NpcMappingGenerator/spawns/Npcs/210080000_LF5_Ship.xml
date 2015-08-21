@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spawns>
+    <spawn_map map_id="210080000">
+        <!-- LF5_Ship_ZoneTeleport_L -->
+        <spawn npc_id="804964" respawn_time="295">
+            <spot x="263.32693" y="211.11044" z="498.76483" h="91"/>
+        </spawn>
+    </spawn_map>
+</spawns>

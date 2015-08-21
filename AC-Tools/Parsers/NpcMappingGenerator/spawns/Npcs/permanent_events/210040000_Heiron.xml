@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<spawns xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <spawn_map map_id="210040000">
+        <!-- Code Red: Atreia -->
+        <!-- Casre -->
+        <spawn npc_id="831433" respawn_time="295">
+            <spot x="2449.7000" y="301.8000" z="415.1000" h="24"/>
+        </spawn>
+        <!-- Rella -->
+        <spawn npc_id="831434" respawn_time="295">
+            <spot x="2451.6001" y="301.1000" z="415.1000" h="21"/>
+        </spawn>
+        <!-- Jorpine (MON-THU) -->
+        <spawn npc_id="831435" respawn_time="295">
+            <spot x="2453.5000" y="302.2000" z="415.1000" h="23"/>
+        </spawn>
+        <!-- Yennu (MON-THU) -->
+        <spawn npc_id="831436" respawn_time="295">
+            <spot x="2450.0000" y="303.8000" z="415.1000" h="12"/>
+        </spawn>
+        <!-- Dalloren (FRI-SAT) -->
+        <spawn npc_id="831437" respawn_time="295">
+            <spot x="2453.5000" y="302.2000" z="415.1000" h="23"/>
+        </spawn>
+        <!-- Dalliea (FRI-SAT) -->
+        <spawn npc_id="831518" respawn_time="295">
+            <spot x="2450.0000" y="303.8000" z="415.1000" h="12"/>
+        </spawn>
+        <!-- Medical Tent -->
+        <spawn npc_id="831445" respawn_time="295">
+            <spot x="2449.3999" y="298.9000" z="415.1000" h="22"/>
+        </spawn>
+        <!-- Medical Supplies -->
+        <spawn npc_id="831447" respawn_time="295">
+            <spot x="2456.5000" y="299.0000" z="415.1000" h="85"/>
+        </spawn>
+    </spawn_map>
+</spawns>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spawns>
+    <spawn_map map_id="220090000">
+        <!-- DF5_Ship_ZoneTeleport_D -->
+        <spawn npc_id="804963" respawn_time="295">
+            <spot x="253.45369" y="193.64113" z="503.51117" h="90"/>
+        </spawn>
+    </spawn_map>
+</spawns>

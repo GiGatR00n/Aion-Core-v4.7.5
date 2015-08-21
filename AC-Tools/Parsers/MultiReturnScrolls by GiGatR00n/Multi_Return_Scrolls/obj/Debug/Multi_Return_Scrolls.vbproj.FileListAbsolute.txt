@@ -1,0 +1,41 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Multi_Return_Scrolls_Parser.exe.config
+C:\Users\Administrator\Desktop\Aion Parsers\Parsers\Multi_Return_Scrolls\obj\Debug\Parser.Multi_Return_Scrolls.frmMain.resources
+C:\Users\Administrator\Desktop\Aion Parsers\Parsers\Multi_Return_Scrolls\obj\Debug\Parser.Multi_Return_Scrolls.Resources.resources
+C:\Users\Administrator\Desktop\Aion Parsers\Parsers\Multi_Return_Scrolls\obj\Debug\Multi_Return_Scrolls.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Aion Parsers\Parsers\Multi_Return_Scrolls\bin\Debug\Multi_Return_Scrolls Parser.exe.config
+C:\Users\Administrator\Desktop\Aion Parsers\Parsers\Multi_Return_Scrolls\bin\Debug\Multi_Return_Scrolls Parser.exe
+C:\Users\Administrator\Desktop\Aion Parsers\Parsers\Multi_Return_Scrolls\bin\Debug\Multi_Return_Scrolls Parser.pdb
+C:\Users\Administrator\Desktop\Aion Parsers\Parsers\Multi_Return_Scrolls\bin\Debug\Multi_Return_Scrolls Parser.xml
+C:\Users\Administrator\Desktop\Aion Parsers\Parsers\Multi_Return_Scrolls\obj\Debug\Multi_Return_Scrolls Parser.exe
+C:\Users\Administrator\Desktop\Aion Parsers\Parsers\Multi_Return_Scrolls\obj\Debug\Multi_Return_Scrolls Parser.xml
+C:\Users\Administrator\Desktop\Aion Parsers\Parsers\Multi_Return_Scrolls\obj\Debug\Multi_Return_Scrolls Parser.pdb
+C:\Users\Administrator\Desktop\Aion Parsers\Multi_Return_Scrolls\bin\Debug\Multi_Return_Scrolls Parser.exe.config
+C:\Users\Administrator\Desktop\Aion Parsers\Multi_Return_Scrolls\bin\Debug\Multi_Return_Scrolls Parser.exe
+C:\Users\Administrator\Desktop\Aion Parsers\Multi_Return_Scrolls\bin\Debug\Multi_Return_Scrolls Parser.pdb
+C:\Users\Administrator\Desktop\Aion Parsers\Multi_Return_Scrolls\bin\Debug\Multi_Return_Scrolls Parser.xml
+C:\Users\Administrator\Desktop\Aion Parsers\Multi_Return_Scrolls\obj\Debug\Parser.Multi_Return_Scrolls.frmMain.resources
+C:\Users\Administrator\Desktop\Aion Parsers\Multi_Return_Scrolls\obj\Debug\Parser.Multi_Return_Scrolls.Resources.resources
+C:\Users\Administrator\Desktop\Aion Parsers\Multi_Return_Scrolls\obj\Debug\Multi_Return_Scrolls.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Aion Parsers\Multi_Return_Scrolls\obj\Debug\Multi_Return_Scrolls Parser.exe
+C:\Users\Administrator\Desktop\Aion Parsers\Multi_Return_Scrolls\obj\Debug\Multi_Return_Scrolls Parser.xml
+C:\Users\Administrator\Desktop\Aion Parsers\Multi_Return_Scrolls\obj\Debug\Multi_Return_Scrolls Parser.pdb
+C:\Users\Administrator\Desktop\Aion Core NA v4.7\SVN\Aion-Core v4.7 (Full)\trunk\AC-Tools\Parsers\MultiReturnScrolls Parser\Multi_Return_Scrolls\bin\Debug\Multi_Return_Scrolls Parser.exe.config
+C:\Users\Administrator\Desktop\Aion Core NA v4.7\SVN\Aion-Core v4.7 (Full)\trunk\AC-Tools\Parsers\MultiReturnScrolls Parser\Multi_Return_Scrolls\obj\Debug\Multi_Return_Scrolls Parser.exe
+C:\Users\Administrator\Desktop\Aion Core NA v4.7\SVN\Aion-Core v4.7 (Full)\trunk\AC-Tools\Parsers\MultiReturnScrolls Parser\Multi_Return_Scrolls\obj\Debug\Multi_Return_Scrolls Parser.xml
+C:\Users\Administrator\Desktop\Aion Core NA v4.7\SVN\Aion-Core v4.7 (Full)\trunk\AC-Tools\Parsers\MultiReturnScrolls Parser\Multi_Return_Scrolls\obj\Debug\Multi_Return_Scrolls Parser.pdb
+C:\Users\Administrator\Desktop\Aion Core NA v4.7\SVN\Aion-Core v4.7 (Full)\trunk\AC-Tools\Parsers\MultiReturnScrolls Parser\Multi_Return_Scrolls\bin\Debug\Multi_Return_Scrolls Parser.exe
+C:\Users\Administrator\Desktop\Aion Core NA v4.7\SVN\Aion-Core v4.7 (Full)\trunk\AC-Tools\Parsers\MultiReturnScrolls Parser\Multi_Return_Scrolls\bin\Debug\Multi_Return_Scrolls Parser.pdb
+C:\Users\Administrator\Desktop\Aion Core NA v4.7\SVN\Aion-Core v4.7 (Full)\trunk\AC-Tools\Parsers\MultiReturnScrolls Parser\Multi_Return_Scrolls\bin\Debug\Multi_Return_Scrolls Parser.xml
+C:\Users\Administrator\Desktop\Aion Core NA v4.7\SVN\Aion-Core v4.7 (Full)\trunk\AC-Tools\Parsers\MultiReturnScrolls Parser\Multi_Return_Scrolls\obj\Debug\Parser.Multi_Return_Scrolls.frmMain.resources
+C:\Users\Administrator\Desktop\Aion Core NA v4.7\SVN\Aion-Core v4.7 (Full)\trunk\AC-Tools\Parsers\MultiReturnScrolls Parser\Multi_Return_Scrolls\obj\Debug\Parser.Multi_Return_Scrolls.Resources.resources
+C:\Users\Administrator\Desktop\Aion Core NA v4.7\SVN\Aion-Core v4.7 (Full)\trunk\AC-Tools\Parsers\MultiReturnScrolls Parser\Multi_Return_Scrolls\obj\Debug\Multi_Return_Scrolls.vbproj.GenerateResource.Cache
+P:\Github (Aion-Core v4.7.5)\trunk\AC-Tools\Parsers\MultiReturnScrolls by GiGatR00n\Multi_Return_Scrolls\bin\Debug\Multi_Return_Scrolls Parser.exe.config
+P:\Github (Aion-Core v4.7.5)\trunk\AC-Tools\Parsers\MultiReturnScrolls by GiGatR00n\Multi_Return_Scrolls\bin\Debug\Multi_Return_Scrolls Parser.exe
+P:\Github (Aion-Core v4.7.5)\trunk\AC-Tools\Parsers\MultiReturnScrolls by GiGatR00n\Multi_Return_Scrolls\bin\Debug\Multi_Return_Scrolls Parser.pdb
+P:\Github (Aion-Core v4.7.5)\trunk\AC-Tools\Parsers\MultiReturnScrolls by GiGatR00n\Multi_Return_Scrolls\bin\Debug\Multi_Return_Scrolls Parser.xml
+P:\Github (Aion-Core v4.7.5)\trunk\AC-Tools\Parsers\MultiReturnScrolls by GiGatR00n\Multi_Return_Scrolls\obj\Debug\Parser.Multi_Return_Scrolls.frmMain.resources
+P:\Github (Aion-Core v4.7.5)\trunk\AC-Tools\Parsers\MultiReturnScrolls by GiGatR00n\Multi_Return_Scrolls\obj\Debug\Parser.Multi_Return_Scrolls.Resources.resources
+P:\Github (Aion-Core v4.7.5)\trunk\AC-Tools\Parsers\MultiReturnScrolls by GiGatR00n\Multi_Return_Scrolls\obj\Debug\Multi_Return_Scrolls.vbproj.GenerateResource.Cache
+P:\Github (Aion-Core v4.7.5)\trunk\AC-Tools\Parsers\MultiReturnScrolls by GiGatR00n\Multi_Return_Scrolls\obj\Debug\Multi_Return_Scrolls Parser.exe
+P:\Github (Aion-Core v4.7.5)\trunk\AC-Tools\Parsers\MultiReturnScrolls by GiGatR00n\Multi_Return_Scrolls\obj\Debug\Multi_Return_Scrolls Parser.xml
+P:\Github (Aion-Core v4.7.5)\trunk\AC-Tools\Parsers\MultiReturnScrolls by GiGatR00n\Multi_Return_Scrolls\obj\Debug\Multi_Return_Scrolls Parser.pdb

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<spawns>
+    <spawn_map map_id="110010000">
+        <!-- Shugo Imperial Tomb Event -->
+        <!-- Indianerk -->
+        <spawn npc_id="831117" respawn_time="295">
+            <spot x="1458.4116" y="1501.7316" z="573.0719" h="60"/>
+        </spawn>
+        <!-- Marayinerk -->
+        <spawn npc_id="831119" respawn_time="295">
+            <spot x="1458.3942" y="1504.6835" z="573.0719" h="60"/>
+        </spawn>
+        <!-- Code Red: Atreia -->
+        <!-- Casre -->
+        <spawn npc_id="831433" respawn_time="295">
+            <spot x="1438.7000" y="1494.5000" z="573.0000" h="26"/>
+        </spawn>
+        <!-- Rella -->
+        <spawn npc_id="831434" respawn_time="295">
+            <spot x="1440.2000" y="1493.8000" z="573.0000" h="29"/>
+        </spawn>
+        <!-- Jorpine (MON-THU) -->
+        <spawn npc_id="831435" respawn_time="295">
+            <spot x="1438.3000" y="1496.2000" z="573.0000" h="97"/>
+        </spawn>
+        <!-- Yennu (MON-THU) -->
+        <spawn npc_id="831436" respawn_time="295">
+            <spot x="1441.8000" y="1494.5000" z="573.0000" h="21"/>
+        </spawn>
+        <!-- Dalloren (FRI-SAT) -->
+        <spawn npc_id="831437" respawn_time="295">
+            <spot x="1438.3000" y="1496.2000" z="573.0000" h="97"/>
+        </spawn>
+        <!-- Dalliea (FRI-SAT) -->
+        <spawn npc_id="831518" respawn_time="295">
+            <spot x="1441.8000" y="1494.5000" z="573.0000" h="21"/>
+        </spawn>
+        <!-- Medical Tent -->
+        <spawn npc_id="831445" respawn_time="295">
+            <spot x="1437.7000" y="1490.5000" z="573.0000" h="21"/>
+        </spawn>
+        <!-- Medical Supplies -->
+        <spawn npc_id="831447" respawn_time="295">
+            <spot x="1434.8000" y="1495.4000" z="573.0000" h="81"/>
+        </spawn>
+        <!-- Rukibuki Circus Troup -->
+        <!-- Arika (IU's Friend) -->
+        <spawn npc_id="831541" respawn_time="295">
+            <spot x="1456.06" y="1504.11" z="573.072" h="60"/>
+        </spawn>
+    </spawn_map>
+</spawns>

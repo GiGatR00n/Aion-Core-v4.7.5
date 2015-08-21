@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<spawns xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <spawn_map map_id="600030000">
+        <!-- Code Red: Atreia -->
+        <!-- Casre -->
+        <spawn npc_id="831433" respawn_time="295">
+            <spot x="146.9000" y="1568.4000" z="295.8000" h="30"/>
+        </spawn>
+        <!-- Rella -->
+        <spawn npc_id="831434" respawn_time="295">
+            <spot x="148.7000" y="1568.4000" z="295.8000" h="31"/>
+        </spawn>
+        <!-- Jorpine (MON-THU) -->
+        <spawn npc_id="831435" respawn_time="295">
+            <spot x="150.4000" y="1569.8000" z="295.7000" h="30"/>
+        </spawn>
+        <!-- Yennu (MON-THU) -->
+        <spawn npc_id="831436" respawn_time="295">
+            <spot x="145.7000" y="1570.2000" z="295.8000" h="37"/>
+        </spawn>
+        <!-- Dalloren (FRI-SAT) -->
+        <spawn npc_id="831437" respawn_time="295">
+            <spot x="150.4000" y="1569.8000" z="295.7000" h="30"/>
+        </spawn>
+        <!-- Dalliea (FRI-SAT) -->
+        <spawn npc_id="831518" respawn_time="295">
+            <spot x="145.7000" y="1570.2000" z="295.8000" h="37"/>
+        </spawn>
+        <!-- Largos -->
+        <spawn npc_id="831439" respawn_time="295">
+            <spot x="172.3000" y="1906.1000" z="295.1000" h="95"/>
+        </spawn>
+        <!-- Yukita -->
+        <spawn npc_id="831440" respawn_time="295">
+            <spot x="170.5000" y="1905.9000" z="295.1000" h="87"/>
+        </spawn>
+        <!-- Hylian (MON-THU) -->
+        <spawn npc_id="831441" respawn_time="295">
+            <spot x="169.5000" y="1905.5000" z="295.1000" h="90"/>
+        </spawn>
+        <!-- Rordah (MON-THU) -->
+        <spawn npc_id="831442" respawn_time="295">
+            <spot x="173.4000" y="1905.1000" z="295.2000" h="86"/>
+        </spawn>
+        <!-- Mazka (FRI-SAT) -->
+        <spawn npc_id="831443" respawn_time="295">
+            <spot x="169.5000" y="1905.5000" z="295.1000" h="90"/>
+        </spawn>
+        <!-- Deshna (FRI-SAT) -->
+        <spawn npc_id="831524" respawn_time="295">
+            <spot x="173.4000" y="1905.1000" z="295.2000" h="86"/>
+        </spawn>
+        <!-- Medical Tent -->
+        <spawn npc_id="831445" respawn_time="295">
+            <spot x="148.0000" y="1564.3000" z="295.8000" h="32"/>
+        </spawn>
+        <!-- Medical Tent -->
+        <spawn npc_id="831446" respawn_time="295">
+            <spot x="171.5000" y="1909.1000" z="295.1000" h="90"/>
+        </spawn>
+        <!-- Medical Supplies -->
+        <spawn npc_id="831447" respawn_time="295">
+            <spot x="142.1000" y="1568.8000" z="295.8000" h="29"/>
+        </spawn>
+        <!-- Medical Supplies -->
+        <spawn npc_id="831448" respawn_time="295">
+            <spot x="177.4000" y="1909.0000" z="295.5000" h="74"/>
+        </spawn>
+    </spawn_map>
+</spawns>
