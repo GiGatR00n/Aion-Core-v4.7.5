@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<!--
+		Author.....: GiGatR00n
+		v4.7.5.x (‎15/‎3/‎2015)
+	-->
+
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="libs" level="project" />
+    <orderEntry type="library" name="javac-1.6" level="project" />
+    <orderEntry type="library" name="jsr166-1.0.0" level="project" />
+    <orderEntry type="library" name="libs2" level="project" />
+    <orderEntry type="library" name="libs1" level="project" />
+    <orderEntry type="library" name="javolution-5.5.1" level="project" />
+    <orderEntry type="library" name="lib1" level="project" />
+    <orderEntry type="library" name="jsr166" level="project" />
+  </component>
+</module>
