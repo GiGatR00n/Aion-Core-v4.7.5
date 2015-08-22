@@ -1,0 +1,3 @@
+Current Database Version: 11/05/2015 -r635
+INFO: last update[23.04.2015]Folder 2. April
+For new install,the current database version means until which month the updates not need to be applied on the main database.
