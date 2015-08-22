@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spawns>
+    <spawn_map map_id="300330000">
+        <!--   -->
+        <spawn npc_id="207070">
+            <spot x="220.371" y="244.475" z="124.942" h="30"/>
+        </spawn>
+        <!-- Flowing Dimensional Exit -->
+        <spawn npc_id="730498">
+            <spot x="211.820" y="244.359" z="124.942" h="30" static_id="8"/>
+        </spawn>
+        <!-- Protector's Seal -->
+        <spawn npc_id="730493">
+            <spot x="250.348" y="245.210" z="126.270" h="60"/>
+        </spawn>
+        <!-- Satra Battalion Specialist -->
+        <!-- <spawn npc_id="218760">
+                <spot x="250.081" y="268.308" z="124.942"/>
+                <spot x="249.996" y="268.828" z="124.942"/>
+        </spawn> -->
+        <!-- Satra Battalion Specialist -->
+        <!-- <spawn npc_id="218762">
+                <spot x="249.632" y="268.761" z="124.942"/>
+                <spot x="250.025" y="268.574" z="124.942"/>
+                <spot x="273.354" y="244.489" z="124.942"/>
+                <spot x="272.197" y="245.594" z="124.942"/>
+        </spawn> -->
+        <!-- Satra Battalion Specialist -->
+        <!-- <spawn npc_id="218761">
+                <spot x="272.994" y="244.674" z="124.942"/>
+                <spot x="273.479" y="244.985" z="124.942"/>
+        </spawn> -->
+        <!-- Light Pillar 1 -->
+        <spawn npc_id="701157">
+            <spot x="249.560" y="267.664" z="124.942"/>
+        </spawn>
+        <!-- Satra Battalion Specialist -->
+        <!-- <spawn npc_id="218763">
+                <spot x="250.800" y="222.782" z="124.942"/>
+        </spawn> -->
+        <!-- Light Pillar 2 -->
+        <spawn npc_id="701158">
+            <spot x="273.144" y="245.070" z="124.942"/>
+        </spawn>
+        <!-- Hesibanata -->
+        <!-- <spawn npc_id="218890">
+                <spot x="250.970" y="221.711" z="124.942"/>
+        </spawn> -->
+        <!-- Light Pillar 3 -->
+        <spawn npc_id="701159">
+            <spot x="250.568" y="222.129" z="124.942"/>
+        </spawn>
+        <!-- Oriata -->
+        <spawn npc_id="205795">
+            <spot x="250.331" y="245.210" z="126.270" h="60"/>
+        </spawn>
+    </spawn_map>
+</spawns>

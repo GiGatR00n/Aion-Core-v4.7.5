@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+    <!--
+       Quest Ophidan Bridge 4.3
+                   [BEGIN] SUMMARY
+                           16970 [SCRIPT] The Ophidan Bridge
+                           16971 [XML] [Group] Theano's Theories
+                           16972 [XML] [Group] Beritra's Most Favorite Gun
+                           16973 [TODO] Ophidan Bridge
+                           26970 [SCRIPT] Find the Vera Siege Ballista
+                           26971 [XML] [Group] Penetrate the Guard Post
+                           26972 [XML] [Group] Volatile Vera (rep)
+                           26973 [TODO] Ophidan Bridge
+                   [END] SUMMARY	
+    -->
+
+    <monster_hunt id="16971" start_npc_ids="801763"
+                  end_npc_ids="801762"> <!-- [Group] Theano’s Theories (Elyos Only) -->
+        <monster var="0" npc_ids="230413 230414 230415 230416" end_var="1"/>
+    </monster_hunt>
+    <monster_hunt id="16972" start_npc_ids="801762"
+                  end_npc_ids="801762"> <!-- [Group] Beritra’s Most Favorite Gun (Elyos Only) -->
+        <monster var="0" npc_ids="231050" end_var="1"/>
+    </monster_hunt>
+    <monster_hunt id="26971" start_npc_ids="801765"
+                  end_npc_ids="801764"> <!-- [Group] Penetrate The Guard Post (Asmodians Only) -->
+        <monster var="0" npc_ids="230413 230414 230415 230416" end_var="1"/>
+    </monster_hunt>
+    <monster_hunt id="26972" start_npc_ids="801764"
+                  end_npc_ids="801764"> <!-- [Group] Volatile Vera (Asmodians Only) -->
+        <monster var="0" npc_ids="231050" end_var="1"/>
+    </monster_hunt>
+</quest_scripts>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+    <!--
+            [BEGIN] SUMMARY
+                80275 [SCRIPT] [Event] Empires Past
+				80276 [SCRIPT] [Event] Important Letter
+                80277 [SCRIPT] [Event] The Same Thing We Do
+                80278 [XML] [Event] The Tomb Saver
+                80279 [SCRIPT] [Event] Spirited Thanks
+                80280 [XML] [Event] Changing Of The Guard
+                80281 [XML] [Event] Changing Of The Guard
+                80282 [SCRIPT] [Event] Secret Of The Map Piece
+            [END] SUMMARY
+    -->
+	<!-- REPORTING QUESTS -->
+    <!-- COLLECTING QUESTS -->
+	<item_collecting id="80282" start_npc_ids="831117" end_npc_ids="831350"/>
+	<!-- HUNTING QUESTS -->
+	<monster_hunt start_npc_ids="831117" id="80278">
+        <monster var="0" npc_ids="219506 219508 219509 219510" end_var="1000"/>
+		<monster var="0" npc_ids="219511 219512 219513 219514" end_var="1000"/>
+		<monster var="0" npc_ids="219515 219516 219517 219518" end_var="1000"/>
+		<monster var="0" npc_ids="219519 219520 219521 219522" end_var="1000"/>
+		<monster var="0" npc_ids="219523 219524 219525 219526" end_var="1000"/>
+		<monster var="0" npc_ids="219527 219528 219528 219530 219531" end_var="1000"/>
+    </monster_hunt>	
+	<monster_hunt start_npc_ids="831117" id="80280">
+        <monster var="0" npc_ids="219505 219506 219543 219544" end_var="45"/>
+    </monster_hunt>
+	<monster_hunt start_npc_ids="831131" id="80281">
+        <monster var="0" npc_ids="219514" end_var="1"/>
+		<monster var="1" npc_ids="219522" end_var="1"/>
+		<monster var="2" npc_ids="219530" end_var="1"/>
+    </monster_hunt>	
+</quest_scripts>

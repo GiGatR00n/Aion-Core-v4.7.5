@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spawns>
+    <spawn_map map_id="301340000">
+        <!-- Secret Zone Invasion Corridor -->
+        <spawn npc_id="731532">
+            <spot x="210.296188" y="291.735718" z="395.390800" h="108"/>
+        </spawn>
+        <!-- Central Lab Entrance -->
+        <spawn npc_id="702339">
+            <spot x="161.457367" y="258.574890" z="313.867065"/>
+        </spawn>
+        <!-- Spy Ditono -->
+        <spawn npc_id="804556">
+            <spot x="212.581583" y="305.877268" z="392.892578" h="52"/>
+        </spawn>
+        <!-- Linkgate Foundry Invasion Zone -->
+        <spawn npc_id="206359">
+            <spot x="209.930176" y="312.455719" z="392.892578"/>
+        </spawn>
+        <!-- Containment Barrier
+        <spawn npc_id="234193">
+            <spot x="218.766098" y="319.364838" z="392.892578" h="39"/>
+        </spawn> -->
+        <!-- Enchanted Book -->
+        <spawn npc_id="832852">
+            <spot x="200.524307" y="287.483948" z="393.078796"/>
+			<spot x="212.800018" y="302.222046" z="393.078796"/>
+			<spot x="253.711609" y="313.683563" z="393.078796" h="60"/>
+			<spot x="234.521759" y="313.838104" z="393.078796" h="60"/>
+        </spawn>
+		<!-- Linkgate Lookout -->
+        <spawn npc_id="234680">
+            <spot x="198.591583" y="315.887268" z="393.078796"/>
+			<spot x="186.800018" y="304.222046" z="393.078796"/>
+			<spot x="253.711609" y="332.683563" z="393.078796" h="60"/>
+			<spot x="234.521759" y="332.838104" z="393.078796" h="60"/>
+        </spawn>
+    </spawn_map>
+</spawns>

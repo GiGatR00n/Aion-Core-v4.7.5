@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<spawns>
+    <spawn_map map_id="300900000">
+        <!-- Hyperion Defense Officer -->
+        <spawn npc_id="230396">
+            <spot x="144.38441" y="153.66823" z="125.40982" h="100"/>
+        </spawn>
+        <!-- Hyperion Rescue Specialist -->
+        <spawn npc_id="230397">
+            <spot x="139.47206" y="154.24626" z="125.40982" h="106"/>
+            <spot x="144.20297" y="159.09036" z="125.40982" h="100"/>
+        </spawn>
+        <!-- IDRuneWeapon_Q_Ultimate -->
+        <spawn npc_id="730738">
+            <spot x="128.97711" y="138.00671" z="113.35148" h="60"/>
+        </spawn>
+        <!-- Kahrun -->
+        <spawn npc_id="800842">
+            <spot x="142.27884" y="156.19482" z="125.45647" h="100"/>
+        </spawn>
+        <!-- Kaza -->
+        <spawn npc_id="800843">
+            <spot x="137.44022" y="159.03958" z="125.18126" h="113"/>
+        </spawn>
+        <!-- Kaza -->
+        <spawn npc_id="800844">
+            <spot x="106.22253" y="141.62715" z="114.9391"/>
+        </spawn>
+        <!-- Lucullus -->
+        <spawn npc_id="800846">
+            <spot x="137.46175" y="158.90384" z="123.76794" h="113"/>
+        </spawn>
+        <!-- Lucullus -->
+        <spawn npc_id="800847">
+            <spot x="106.22953" y="141.24696" z="113.22065"/>
+        </spawn>
+        <!-- Pennan -->
+        <spawn npc_id="800845">
+            <spot x="106.91464" y="140.38638" z="126.44756" h="30"/>
+        </spawn>
+        <!-- Phantasmal Scout -->
+        <spawn npc_id="230402">
+            <spot x="117.04766" y="136.02901" z="113.60319" h="53"/>
+            <spot x="117.97054" y="144.2601" z="113.60319" h="66"/>
+        </spawn>
+        <!-- Runa -->
+        <spawn npc_id="800839">
+            <spot x="150.91753" y="145.64671" z="125.15871" h="43"/>
+        </spawn>
+        <!-- Skuldun -->
+        <spawn npc_id="800848">
+            <spot x="107.04594" y="140.61633" z="127.82038" h="30"/>
+        </spawn>
+        <!-- Thresu -->
+        <spawn npc_id="800836">
+            <spot x="150.87978" y="145.72543" z="126.34702" h="43"/>
+        </spawn>
+    </spawn_map>
+</spawns>

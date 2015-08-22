@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<npc_walker xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="npc_walker.xsd">
+    <!-- how to get correct route id 300280000 + id for example if id = 26-> 30028000026 -->
+    <!-- Crisius, Despoina, Efrosini (Verteron)-->
+    <walker_template route_id="21003000001" pool="1">
+        <routestep step="1" x="1601.4259" y="1548.8326" z="116.36124"/>
+        <routestep step="2" x="1591.5889" y="1557.1184" z="113.15811"/>
+        <routestep step="3" x="1579.7401" y="1569.9242" z="109.35673"/>
+        <routestep step="4" x="1576.4335" y="1588.5259" z="105.96136"/>
+        <routestep step="5" x="1566.3293" y="1606.5881" z="103.645584"/>
+        <routestep step="6" x="1559.2814" y="1622.37" z="103.77179"/>
+        <routestep step="7" x="1545.5415" y="1640.4241" z="104.28081"/>
+        <routestep step="8" x="1531.7942" y="1657.5402" z="105.62199"/>
+        <routestep step="9" x="1516.3766" y="1679.2698" z="109.555824"/>
+        <routestep step="10" x="1495.312" y="1694.6747" z="113.293"/>
+        <routestep step="11" x="1471.8334" y="1698.8491" z="115.95931"/>
+        <routestep step="12" x="1439.9158" y="1692.18" z="119.89079"/>
+        <routestep step="13" x="1421.6174" y="1695.7848" z="123.03437"/>
+        <routestep step="14" x="1439.9158" y="1692.18" z="119.89079"/>
+        <routestep step="15" x="1471.8334" y="1698.8491" z="115.95931"/>
+        <routestep step="16" x="1495.312" y="1694.6747" z="113.293"/>
+        <routestep step="17" x="1516.3766" y="1679.2698" z="109.555824"/>
+        <routestep step="18" x="1531.7942" y="1657.5402" z="105.62199"/>
+        <routestep step="19" x="1545.5415" y="1640.4241" z="104.28081"/>
+        <routestep step="20" x="1559.2814" y="1622.37" z="103.77179"/>
+        <routestep step="21" x="1566.3293" y="1606.5881" z="103.645584"/>
+        <routestep step="22" x="1576.4335" y="1588.5259" z="105.96136"/>
+        <routestep step="23" x="1579.7401" y="1569.9242" z="109.35673"/>
+        <routestep step="24" x="1591.5889" y="1557.1184" z="113.15811"/>
+        <routestep step="25" x="1601.4259" y="1548.8326" z="116.36124"/>
+    </walker_template>
+    <!-- Ursuras (Verteron)-->
+    <walker_template route_id="21003000002" pool="1">
+        <routestep step="1" x="1368.8868" y="1855.1455" z="123.52021"/>
+        <routestep step="2" x="1366.9808" y="1871.9176" z="126.6657"/>
+        <routestep step="3" x="1363.8811" y="1894.5688" z="131.2879"/>
+        <routestep step="4" x="1359.9597" y="1916.2942" z="135.67513"/>
+        <routestep step="5" x="1374.5314" y="1940.6287" z="138.375"/>
+        <routestep step="6" x="1398.2114" y="1967.3383" z="137.77814"/>
+        <routestep step="7" x="1419.1624" y="1980.7374" z="134.76253"/>
+        <routestep step="8" x="1447.7183" y="2009.1" z="137.23239"/>
+        <routestep step="9" x="1419.1624" y="1980.7374" z="134.76253"/>
+        <routestep step="10" x="1398.2114" y="1967.3383" z="137.77814"/>
+        <routestep step="11" x="1374.5314" y="1940.6287" z="138.375"/>
+        <routestep step="12" x="1359.9597" y="1916.2942" z="135.67513"/>
+        <routestep step="13" x="1363.8811" y="1894.5688" z="131.2879"/>
+        <routestep step="14" x="1366.9808" y="1871.9176" z="126.6657"/>
+        <routestep step="15" x="1368.8868" y="1855.1455" z="123.52021"/>
+    </walker_template>
+    <!-- Mesarion (Verteron)-->
+    <walker_template route_id="21003000003" pool="1">
+        <routestep step="1" x="2065.0476" y="2417.766" z="274.17584"/>
+        <routestep step="2" x="2054.1829" y="2420.0874" z="274.0"/>
+        <routestep step="3" x="2041.761" y="2424.023" z="274.00143"/>
+        <routestep step="4" x="2027.6063" y="2428.5076" z="274.76422"/>
+        <routestep step="5" x="2014.6248" y="2432.6199" z="273.875"/>
+        <routestep step="6" x="2005.8346" y="2449.5784" z="275.45764"/>
+        <routestep step="7" x="2009.6984" y="2471.3252" z="279.4112"/>
+        <routestep step="8" x="2005.8346" y="2449.5784" z="275.45764"/>
+        <routestep step="9" x="2014.6248" y="2432.6199" z="273.875"/>
+        <routestep step="10" x="2027.6063" y="2428.5076" z="274.76422"/>
+        <routestep step="11" x="2041.761" y="2424.023" z="274.00143"/>
+        <routestep step="12" x="2054.1829" y="2420.0874" z="274.0"/>
+        <routestep step="13" x="2065.0476" y="2417.766" z="274.17584"/>
+    </walker_template>
+</npc_walker>

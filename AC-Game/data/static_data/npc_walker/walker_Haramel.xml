@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<npc_walker xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<!-- NpcID: 216915 -->
+	<walker_template route_id="3002000002169151" pool="1">
+		<routestep step="1" x="220.945" y="298.836" z="141.892" rest_time="0"/>
+		<routestep step="2" x="231.40454" y="298.69067" z="141.892" rest_time="5000"/>
+		<routestep step="3" x="214.79126" y="298.71118" z="141.892" rest_time="5000"/>
+	</walker_template>
+</npc_walker>

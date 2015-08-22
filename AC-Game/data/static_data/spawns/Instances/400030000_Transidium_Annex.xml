@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<spawns xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <spawn_map map_id="400030000">
+	    <!--@author Martin"-->
+	    <!--"New Map 4.7"-->
+		<!--"Tank_Ctrl_Vritra"-->
+		<spawn npc_id="297312" respawn_time="295">
+			<spot x="509.38928" y="315.90097" z="687.1322" h="90"/>
+		</spawn>
+		<!--"Portal_Ctrl"-->
+		<spawn npc_id="297306" respawn_time="295">
+			<spot x="372.73932" y="377.31094" z="690.65411" h="15"/>
+		</spawn>
+		<!--"Drakan_Ba"-->
+		<spawn npc_id="277199" respawn_time="295">
+			<spot x="498.8559" y="654.68121" z="688" h="90"/>
+		</spawn>
+		<!--"Drakan_SN_Kn"-->
+		<spawn npc_id="277187" respawn_time="295">
+			<spot x="508.18353" y="655.19843" z="684.95" h="90"/>
+            <spot x="398.02747" y="588.82104" z="690.0296" h="15"/>
+            <spot x="585.52753" y="403.25803" z="690.73236" h="15"/>
+            <spot x="510.19247" y="397.14288" z="684.95" h="90"/>
+		</spawn>
+		<!--"Drakan_SN_Wi"-->
+		<spawn npc_id="277190" respawn_time="295">
+			<spot x="502.00467" y="396.94421" z="684.95" h="90"/>
+		</spawn>
+		<!--"Drakan_Wi"-->
+		<spawn npc_id="277198" respawn_time="295">
+			<spot x="518.17407" y="654.63843" z="688" h="90"/>
+            <spot x="406.04321" y="580.99164" z="689.31757" h="15"/>
+            <spot x="577.59369" y="410.96982" z="689.5545" h="15"/>
+		</spawn>
+		<!--"Drakan_Wi_65"-->
+		<spawn npc_id="277211" respawn_time="295">
+			<spot x="553.05756" y="539.66522" z="677.81732" h="15"/>
+            <spot x="533.66418" y="558.48462" z="676.60626" h="15"/>
+		</spawn>
+		<!--"Drakan_Hide_As"-->
+		<spawn npc_id="277195" respawn_time="295">
+			<spot x="646.33521" y="540.03418" z="690" h="15"/>
+            <spot x="646.56622" y="488.86563" z="690" h="15"/>
+            <spot x="483.77475" y="650.76379" z="690" h="15"/>
+            <spot x="537.17328" y="650.15942" z="690" h="15"/>
+		</spawn>
+		<!--"Drakan_SN_Hide_As"-->
+		<spawn npc_id="277188" respawn_time="295">
+			<spot x="535.56158" y="373.40283" z="690" h="90"/>
+            <spot x="483.74527" y="374.07394" z="690" h="90"/>
+		</spawn>
+		<!--"Drakan_SN_Ba"-->
+		<spawn npc_id="277193" respawn_time="295">
+			<spot x="519.01501" y="396.6218" z="689.01898" h="90"/>
+		</spawn>
+		<!--"Drakan_Pr"-->
+		<spawn npc_id="277210" respawn_time="295">
+			<spot x="548.17847" y="544.36945" z="677.81732" h="15"/>
+		</spawn>
+		<!--"Drakan_SN_Kn"-->
+		<spawn npc_id="277200" respawn_time="295">
+			<spot x="554.9325" y="546.09924" z="677.81732" h="15"/>
+            <spot x="539.83905" y="560.32275" z="677.81732" h="15"/>
+		</spawn>
+		<!--"Drakan_Fi"-->
+		<spawn npc_id="277242" respawn_time="295">
+			<spot x="656.26233" y="584.47028" z="687.7951" h="44"/>
+            <spot x="568.27783" y="377.44867" z="686.94635" h="72"/>
+            <spot x="450.66827" y="647.00922" z="685.69073" h="8"/>
+            <spot x="571.14941" y="664.89526" z="687.92706" h="52"/>
+		</spawn>
+		<!--"Drakan_Ba"-->
+		<spawn npc_id="277212" respawn_time="295">
+			<spot x="538.41669" y="553.63489" z="677.81732" h="15"/>
+		</spawn>
+		<!--"Drakan_Gu"-->
+		<spawn npc_id="277196" respawn_time="295">
+			 <spot x="572.36938" y="400.23499" z="686.90167" h="15"/>
+             <spot x="394.49637" y="575.87402" z="687.01813" h="15"/>
+             <spot x="391.26401" y="579.1723" z="686.86145" h="15"/>
+             <spot x="575.71313" y="396.75024" z="686.90167" h="15"/>
+		</spawn>
+		<!--"Tank_NoAction"-->
+		<spawn npc_id="277232" respawn_time="295">
+			<spot x="330.42883" y="534.12579" z="685.52856" h="90"/>
+            <spot x="688.58093" y="534.45331" z="685.52856" h="90"/>
+            <spot x="318.22321" y="534.12433" z="685.52856" h="90"/>
+            <spot x="701.90436" y="534.68073" z="685.52856" h="90"/>
+		</spawn>
+	</spawn_map>
+</spawns>

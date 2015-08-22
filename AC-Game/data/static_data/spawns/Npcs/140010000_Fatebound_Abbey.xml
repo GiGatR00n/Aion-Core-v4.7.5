@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<spawns xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <spawn_map map_id="140010000">
+        <!-- Derot -->
+        <spawn npc_id="804663" respawn_time="295">
+            <spot x="229.96431" y="259.74994" z="98.683357" h="45"/>
+        </spawn>
+        <!-- Duena -->
+        <spawn npc_id="804670" respawn_time="295">
+            <spot x="253.79184" y="256.40732" z="97.338799" h="30"/>
+        </spawn>
+        <!-- Eomer -->
+        <spawn npc_id="804671" respawn_time="295">
+            <spot x="242.76779" y="270.81256" z="97.338799"/>
+        </spawn>
+        <!-- Guthrum -->
+        <spawn npc_id="804667" respawn_time="295">
+            <spot x="250.70613" y="276.05411" z="97.338799" h="90"/>
+        </spawn>
+        <!-- Iruming -->
+        <spawn npc_id="804696" respawn_time="295">
+            <spot x="256.98657" y="256.40732" z="97.338799" h="30"/>
+        </spawn>
+        <!-- Jerikel -->
+        <spawn npc_id="804669" respawn_time="295">
+            <spot x="250.72177" y="256.40732" z="97.338799" h="30"/>
+        </spawn>
+        <!-- Lobelia -->
+        <spawn npc_id="804672" respawn_time="295">
+            <spot x="242.6335" y="261.47379" z="97.338799"/>
+        </spawn>
+        <!-- Madril -->
+        <spawn npc_id="804665" respawn_time="295">
+            <spot x="212.89746" y="276.26953" z="98.683357" h="107"/>
+        </spawn>
+        <!-- Melrania -->
+        <spawn npc_id="804662" respawn_time="295">
+            <spot x="269.46524" y="261.91211" z="97.338799" h="15"/>
+        </spawn>
+        <!-- Pwyll -->
+        <spawn npc_id="804664" respawn_time="295">
+            <spot x="209.79309" y="259.32913" z="98.683357" h="15"/>
+        </spawn>
+        <!-- Sigurd -->
+        <spawn npc_id="804666" respawn_time="295">
+            <spot x="229.85445" y="272.68936" z="98.683357" h="75"/>
+        </spawn>
+        <!-- Tet -->
+        <spawn npc_id="804694" respawn_time="295">
+            <spot x="257.02832" y="276.05411" z="97.338799" h="90"/>
+        </spawn>
+        <!-- Zenue -->
+        <spawn npc_id="804668" respawn_time="295">
+            <spot x="253.87012" y="276.05411" z="97.338799" h="90"/>
+        </spawn>
+		<!-- Entrance 1 -->
+		<spawn npc_id="804682" respawn_time="295">
+			<spot x="210.16159" y="276.1655" z="97.435745" static_id="48"/>
+		</spawn>
+		<!-- Entrance 2 -->
+		<spawn npc_id="804683" respawn_time="295">
+			<spot x="230.00827" y="256.93872" z="97.435745" static_id="52"/>
+		</spawn>
+		<!-- Entrance 3 -->
+		<spawn npc_id="804684" respawn_time="295">
+			<spot x="229.82544" y="275.66202" z="97.435745" static_id="68"/>
+		</spawn>
+		<!-- Entrance 4 -->
+		<spawn npc_id="804685" respawn_time="295">
+			<spot x="210.26091" y="256.2836" z="97.435745" static_id="73"/>
+		</spawn>
+		<!-- Pandaemonium teleporter -->
+		<spawn npc_id="804688" respawn_time="295">
+			<spot x="287.2496" y="266.16083" z="96.462944" static_id="83"/>
+		</spawn>
+    </spawn_map>
+</spawns>

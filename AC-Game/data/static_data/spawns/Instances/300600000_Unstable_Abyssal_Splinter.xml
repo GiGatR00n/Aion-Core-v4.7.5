@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Unsable Abyssal Splinter updated 4.3 -->
+<spawns>
+    <spawn_map map_id="300600000">
+        <!-- Ranx Highmagus -->
+        <spawn npc_id="219575">
+            <spot x="639.2068" y="151.7736" z="447.4660" h="114"/>
+            <spot x="646.5724" y="144.5076" z="447.6160"/>
+        </spawn>
+        <!-- Ranx Vindicator -->
+        <spawn npc_id="219574">
+            <spot x="646.7925" y="146.6156" z="447.6143" h="45"/>
+            <spot x="643.0240" y="149.7030" z="447.2498" h="36"/>
+            <spot x="641.9771" y="153.3460" z="447.5465" h="95"/>
+            <spot x="641.5420" y="151.0970" z="447.3923" h="114"/>
+            <spot x="648.1770" y="144.2580" z="447.8127"/>
+            <spot x="645.9310" y="150.8680" z="447.4655"/>
+        </spawn>
+        <!-- Unstable Enos Protector -->
+        <spawn npc_id="219577">
+            <spot x="642.6649" y="150.7188" z="447.3219" h="54"/>
+        </spawn>
+        <!-- Drakan Corpse -->
+        <spawn npc_id="282945">
+            <spot x="669.1091" y="157.0472" z="448.5819" h="30"/>
+            <spot x="648.7668" y="139.6174" z="448.1981" h="6"/>
+            <spot x="646.4538" y="137.3493" z="448.1777" h="106"/>
+            <spot x="654.4019" y="144.3630" z="448.4239" h="66"/>
+            <spot x="668.5554" y="154.9271" z="448.8253" h="50"/>
+            <spot x="657.9028" y="144.1364" z="448.7755"/>
+            <spot x="646.6642" y="156.4884" z="447.6785" h="66"/>
+            <spot x="655.8990" y="167.4184" z="448.2086" h="60"/>
+            <spot x="648.3304" y="165.8960" z="448.3096"/>
+            <spot x="648.9009" y="160.9725" z="447.9388" h="13"/>
+        </spawn>
+        <!-- Abyssal Splinter Exit -->
+        <spawn npc_id="730317">
+            <spot x="708.9777" y="160.1729" z="453.5694" h="100" static_id="84"/>
+        </spawn>
+        <!-- Greater Orkanimum Fragment -->
+        <spawn npc_id="701587">
+            <spot x="641.0212" y="230.5852" z="460.8983"/>
+            <spot x="644.3951" y="268.7562" z="462.3300"/>
+        </spawn>
+        <!-- Unstable Pazuzu -->
+        <spawn npc_id="219554">
+            <spot x="669.5757" y="335.1355" z="465.8946" h="76"/>
+        </spawn>
+        <!-- Unstable Kaluva The Fourth -->
+        <spawn npc_id="219553">
+            <spot x="634.7776" y="557.0182" z="423.1543" h="113"/>
+        </spawn>
+        <!-- Aether Fragment -->
+        <spawn npc_id="282066">
+            <spot x="705.9849" y="415.9830" z="462.5572" h="96"/>
+        </spawn>
+        <!-- Artifact Light -->
+        <spawn npc_id="700956">
+            <spot x="669.9992" y="333.8055" z="465.9871"/>
+            <spot x="633.7498" y="557.8822" z="423.1236"/>
+            <spot x="452.8971" y="692.3608" z="432.6919"/>
+        </spawn>
+        <!-- Unstable Enos Watcher -->
+        <spawn npc_id="219548">
+            <spot x="698.4331" y="431.0002" z="462.0062" h="106"/>
+        </spawn>
+        <!-- Unstable Flash Lapilimo -->
+        <spawn npc_id="219550">
+            <spot x="703.2410" y="608.4172" z="432.3993" h="85"/>
+            <spot x="781.6472" y="609.2191" z="460.5838" h="92"/>
+            <spot x="795.2140" y="613.5916" z="457.4786" h="83"/>
+            <spot x="780.35" y="651.83" z="449.6864" h="112" walker_id="0484DFAF4890199218D1972975495DDF4DAB6B3B"/>
+            <spot x="742.5283" y="641.5524" z="445.4589" h="76"/>
+            <spot x="793.2572" y="647.4487" z="455.5423" h="88"/>
+            <spot x="788.4620" y="650.0953" z="454.7567" h="37"/>
+        </spawn>
+        <!-- Unstable Flash Lapilimo -->
+        <spawn npc_id="219561">
+            <spot x="705.6371" y="619.0627" z="435.3604" h="80"/>
+            <spot x="794.0972" y="616.5838" z="458.5660" h="58"/>
+            <spot x="808.18" y="647.51" z="454.8155" h="99" walker_id="D27F46DA44D94DF1F306CC5303FC3DA5BC9CFF68"/>
+            <spot x="734.7955" y="640.6504" z="442.3604" h="88"/>
+            <spot x="741.2557" y="646.0922" z="449.9300" h="32"/>
+            <spot x="796.89" y="617.22" z="455.28043" h="63" walker_id="934333BE62E29B8CE5903F68064329CB7822C348"/>
+            <spot x="749.9318" y="646.8032" z="449.8245" h="73"/>
+            <spot x="809.7592" y="625.4025" z="457.3604" h="83"/>
+            <spot x="786.4490" y="648.1780" z="458.4623" h="75"/>
+            <spot x="756.64" y="648.51" z="445.75342" walker_id="0FA349227F68EA9E502AD2FCC8EDB0C884C4D597"/>
+            <spot x="809.8149" y="645.1573" z="457.4600" h="96"/>
+        </spawn>
+        <!-- Unstable Flash Lapilimo -->
+        <spawn npc_id="219562">
+            <spot x="766.1769" y="606.0699" z="467.4623" h="86"/>
+            <spot x="760.0359" y="597.0866" z="467.4623" h="104"/>
+            <spot x="707.61" y="619.79" z="430.36194" h="91" walker_id="5D3362983430627E52A9B1F5F376492E901D208F"/>
+            <spot x="712.7286" y="621.8562" z="438.4600" h="101"/>
+            <spot x="762.0753" y="604.5403" z="466.6443" h="92"/>
+            <spot x="710.3465" y="627.5845" z="438.3604" h="87"/>
+            <spot x="756.76" y="600.93" z="462.77676" h="81" walker_id="36F2F3011475C7A48FC834581BAA573EC6A15152"/>
+            <spot x="775.3813" y="641.3781" z="454.3604" h="82"/>
+            <spot x="802.2834" y="640.0830" z="457.5406" h="85"/>
+        </spawn>
+        <!-- Unstable Noble Lapilima -->
+        <spawn npc_id="219560">
+            <spot x="703.7090" y="626.8118" z="432.2220" h="28"/>
+            <spot x="790.75" y="656.64" z="452.78162" h="66" walker_id="5B4EE494D9D6D1129E5F1F10C73F9A407620A987"/>
+            <spot x="789.3839" y="649.4896" z="451.9829" h="4"/>
+            <spot x="737.5" y="645.28" z="439.23276" h="70" walker_id="7F3CB60F7B5F5659DB6D0AE7F85D32C522B8A018"/>
+        </spawn>
+        <!-- Unstable Noble Lapilima -->
+        <spawn npc_id="219549">
+            <spot x="803.9301" y="623.4337" z="454.3526" h="20"/>
+            <spot x="807.04" y="630.01" z="454.5897" h="72" walker_id="51EE14337303BC33A670F05D1E9E836FBF87A764"
+                  walker_index="1"/>
+            <spot x="809.8232" y="645.3979" z="454.9199" h="101"/>
+            <spot x="762.52" y="605.41" z="461.67227" h="80" walker_id="FDA8CA3EFAC4AF61BFB3E6AB3C42F904D3393DD4"/>
+        </spawn>
+        <!-- Ice Sheet -->
+        <spawn npc_id="749201">
+            <spot x="765.9260" y="649.2542" z="448.5050" h="6"/>
+            <spot x="462.9868" y="687.4683" z="432.6972" h="115"/>
+        </spawn>
+        <!-- Unstable Enos Grappler -->
+        <spawn npc_id="219547">
+            <spot x="581.0500" y="640.2924" z="419.8894" h="60"/>
+            <spot x="534.35" y="666.26" z="426.174" h="113" walker_id="8AE2C4F2BDE907BF79BB9331C19165E1F45A2B2F"/>
+            <spot x="564.7258" y="639.6542" z="420.0716" h="95"/>
+            <spot x="522.2446" y="666.4486" z="427.9431" h="113"/>
+        </spawn>
+        <!-- Unstable Dayshade -->
+        <spawn npc_id="219578">
+            <spot x="451.2862" y="692.8484" z="432.7655" h="113"/>
+        </spawn>
+        <!-- Death Reception -->
+        <spawn npc_id="282013">
+            <spot x="447.2670" y="695.3739" z="433.2287" h="113"/>
+        </spawn>
+        <!-- Ancient Treasure Box -->
+        <spawn npc_id="701574">
+            <spot x="360.1270" y="684.1302" z="390.9752" h="33"/>
+            <spot x="347.3535" y="735.8599" z="419.6725" h="66"/>
+            <spot x="346.9677" y="742.3782" z="365.1365"/>
+            <spot x="344.2876" y="778.7310" z="397.5779" h="33"/>
+            <spot x="306.5070" y="715.2716" z="368.3994" h="6"/>
+            <spot x="368.2921" y="771.3032" z="347.4754"/>
+            <spot x="311.6450" y="768.0681" z="343.8409" h="106"/>
+            <spot x="350.4549" y="788.7392" z="320.6760" h="106"/>
+            <spot x="270.4710" y="743.9896" z="319.3749" h="106"/>
+            <spot x="389.8283" y="763.1230" z="274.2615" h="40"/>
+            <spot x="280.9925" y="767.5568" z="287.4333" h="66"/>
+            <spot x="290.2162" y="729.6007" z="253.7787" h="16"/>
+        </spawn>
+        <!-- Kaluva's Unstable Spawner -->
+        <spawn npc_id="219564" respawn_time="100">
+            <spot x="643.9534" y="524.2017" z="423.0811"/>
+        </spawn>
+        <!-- Kaluva's Unstable Spawner -->
+        <spawn npc_id="219581" respawn_time="100">
+            <spot x="611.1442" y="539.6695" z="423.2480"/>
+        </spawn>
+        <!-- Kaluva's Unstable Spawner -->
+        <spawn npc_id="219582" respawn_time="100">
+            <spot x="663.1912" y="556.4682" z="424.2755"/>
+        </spawn>
+        <!-- Kaluva's Unstable Spawner -->
+        <spawn npc_id="219583" respawn_time="100">
+            <spot x="628.4056" y="585.4481" z="424.3175"/>
+        </spawn>
+        <!-- Teleport Device -->
+        <spawn npc_id="219982">
+            <spot x="302.2203" y="735.6071" z="197.3696" static_id="53"/>
+        </spawn>
+        <!-- Artifact Of Protection -->
+        <spawn npc_id="700957">
+            <spot x="326.1821" y="766.9640" z="202.1832" h="100" static_id="79"/>
+        </spawn>
+        <!-- Artifact Of Protection -->
+        <spawn npc_id="700945">
+            <spot x="326.1492" y="766.9335" z="203.1832" static_id="78"/>
+        </spawn>
+        <!-- Teleport Device -->
+        <spawn npc_id="219983">
+            <spot x="334.4150" y="708.8055" z="197.6715" static_id="52"/>
+        </spawn>
+        <!-- Teleport Device -->
+        <spawn npc_id="219984">
+            <spot x="361.1144" y="741.8724" z="197.3006" static_id="54"/>
+        </spawn>
+    </spawn_map>
+</spawns>

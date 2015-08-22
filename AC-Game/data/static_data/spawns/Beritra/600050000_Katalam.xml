@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spawns>
+    <spawn_map map_id="600050000">
+		<beritra_spawn id="35">
+			<beritra_type bstate="INVASION">
+				<!-- 경보 지역 -->
+				<spawn npc_id="832819">
+					<spot x="1330.4287" y="746.0952" z="124.157745" h="105"/>
+				</spawn>
+				<!-- 베노이드 정예 2급 병기 -->
+				<spawn npc_id="234595">
+					<spot x="1330.4287" y="746.0952" z="124.157745" h="105"/>
+				</spawn>
+			</beritra_type>
+			<beritra_type bstate="PEACE">
+			</beritra_type>
+		</beritra_spawn>
+		<beritra_spawn id="36">
+			<beritra_type bstate="INVASION">
+				<!-- 경보 지역 -->
+				<spawn npc_id="832819">
+					<spot x="2892.905" y="636.7622" z="262.28226" h="34"/>
+				</spawn>
+				<!-- 에이터 정예 2급 병기 -->
+				<spawn npc_id="234596">
+					<spot x="2892.905" y="636.7622" z="262.28226" h="34"/>
+				</spawn>
+			</beritra_type>
+			<beritra_type bstate="PEACE">
+			</beritra_type>
+		</beritra_spawn>
+		<beritra_spawn id="37">
+			<beritra_type bstate="INVASION">
+				<!-- 경보 지역 -->
+				<spawn npc_id="832819">
+					<spot x="1300.2908" y="2077.5435" z="62.625" h="50"/>
+				</spawn>
+				<!-- 베노이드 정예 2급 병기 -->
+				<spawn npc_id="234598">
+					<spot x="1300.2908" y="2077.5435" z="62.625" h="50"/>
+				</spawn>
+			</beritra_type>
+			<beritra_type bstate="PEACE">
+			</beritra_type>
+		</beritra_spawn>
+		<beritra_spawn id="38">
+			<beritra_type bstate="INVASION">
+				<!-- 경보 지역 -->
+				<spawn npc_id="832819">
+					<spot x="2785.2856" y="2235.0767" z="266.625" h="9"/>
+				</spawn>
+				<!-- 마그노리온 정예 2급 병기 -->
+				<spawn npc_id="234599">
+					<spot x="2785.2856" y="2235.0767" z="266.625" h="9"/>
+				</spawn>
+			</beritra_type>
+			<beritra_type bstate="PEACE">
+			</beritra_type>
+		</beritra_spawn>
+    </spawn_map>
+</spawns>

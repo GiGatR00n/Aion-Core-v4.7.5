@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+    <!--
+                   [BEGIN] SUMMARY
+                           18010 [XML] [Group] Give Me Liberty!
+                           18011 [SCRIPT] Fortress Talk
+                           18012 [XML] [Group] Subject of My Ire
+                           18013 [XML] [Group] That Stuff Will Kill You
+                           18014 [XML] [Group] Light Reading
+                           28010 [XML] Can You Hear the Screams? 1
+                           28011 [SCRIPT] [Group] A Final End
+                           28012 [XML] [Group] On the Shoulders of Giants
+                           28013 [XML] [Group] Mutation Aggravation
+                           28014 [XML] Can You Hear the Screams? 2
+                   [END] SUMMARY	
+    -->
+    <!-- COLLECTING QUESTS -->
+    <item_collecting id="18013" start_npc_ids="800916"/>
+    <item_collecting id="18014" start_npc_ids="800916"/>
+    <item_collecting id="28013" start_npc_ids="800919"/>
+    <item_collecting id="28014" start_npc_ids="800919"/>
+
+    <!-- HUNTING QUESTS -->
+    <monster_hunt id="18010" start_npc_ids="800917" end_npc_ids="800917">
+        <monster var="0" npc_ids="230119" end_var="5"/>
+    </monster_hunt>
+    <monster_hunt id="18012" start_npc_ids="800916" end_npc_ids="800915">
+        <monster var="0" npc_ids="230120" end_var="1"/>
+    </monster_hunt>
+    <monster_hunt id="28010" start_npc_ids="800920" end_npc_ids="800920">
+        <monster var="0" npc_ids="230119" end_var="5"/>
+    </monster_hunt>
+    <monster_hunt id="28012" start_npc_ids="800919" end_npc_ids="800918">
+        <monster var="0" npc_ids="230120" end_var="1"/>
+    </monster_hunt>
+</quest_scripts>

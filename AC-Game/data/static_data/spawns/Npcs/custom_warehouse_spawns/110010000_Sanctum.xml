@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spawns>
+    <spawn_map map_id="110010000">
+        <!-- Arenzes -->
+        <spawn npc_id="798309" respawn_time="295">
+            <spot z="590.00854" y="1465.5798" x="1871.8755" h="61"/>
+        </spawn>
+        <!-- Kinthia -->
+        <spawn npc_id="798310" respawn_time="295">
+            <spot x="1860.92" y="1553.68" z="590.008" h="1"/>
+        </spawn>
+    </spawn_map>
+</spawns>

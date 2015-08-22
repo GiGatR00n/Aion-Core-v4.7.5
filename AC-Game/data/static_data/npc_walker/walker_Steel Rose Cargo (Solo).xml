@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<npc_walker xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="npc_walker.xsd">
+	<walker_template pool="1" route_id="IDSHULACKROSESOLO01NPCPATHIDSHULACKSHIP02MOB1F35">
+		<routestep step="1" x="421.11" y="510.28" z="886.0192"/>
+		<routestep step="2" x="422.54" y="512.53" z="886.0192"/>
+		<routestep step="3" x="423.75" y="514.96" z="886.02386"/>
+		<routestep step="4" x="424.97" y="517.49" z="886.0192"/>
+		<routestep step="5" x="425.28" y="520.86" z="886.0192"/>
+		<routestep step="6" x="425.3" y="524.99" z="885.8498"/>
+		<routestep step="7" x="423.87" y="527.83" z="885.4783"/>
+		<routestep step="8" x="421.91" y="527.75" z="885.6804"/>
+		<routestep step="9" x="421.92" y="527.76" z="885.67584"/>
+		<routestep step="10" x="423.87" y="527.81" z="885.4783"/>
+		<routestep step="11" x="425.32" y="525.01" z="885.8453"/>
+		<routestep step="12" x="425.29" y="520.85" z="886.0192"/>
+		<routestep step="13" x="424.98" y="517.51" z="886.0192"/>
+		<routestep step="14" x="423.74" y="514.95" z="886.0192"/>
+		<routestep step="15" x="422.56" y="512.51" z="886.0192"/>
+		<routestep step="16" x="421.1" y="509.2" z="886.0192"/>
+	</walker_template>
+	<walker_template pool="1" route_id="IDSHULACKROSESOLO01NPCPATHIDSHULACKSHIP02MOB1F19">
+		<routestep step="1" x="385.06" y="528.15" z="899.4413"/>
+		<routestep step="2" x="385.07" y="525.13" z="898.61884"/>
+		<routestep step="3" x="384.9" y="522.19" z="897.45917"/>
+		<routestep step="4" x="384.93" y="519.81" z="896.9753"/>
+		<routestep step="5" x="384.95" y="517.44" z="896.8836"/>
+		<routestep step="6" x="384.91" y="514.84" z="896.06287"/>
+		<routestep step="7" x="384.78" y="510.11" z="894.792"/>
+		<routestep step="8" x="384.8" y="510.07" z="894.792"/>
+		<routestep step="9" x="384.81" y="514.72" z="896.0158"/>
+		<routestep step="10" x="384.94" y="517.42" z="896.88"/>
+		<routestep step="11" x="384.9" y="519.75" z="896.9749"/>
+		<routestep step="12" x="384.85" y="522.13" z="897.4358"/>
+		<routestep step="13" x="385.03" y="525.16" z="898.63086"/>
+		<routestep step="14" x="384.84" y="528.9" z="899.452"/>
+	</walker_template>
+	<walker_template pool="2" route_id="IDSHULACKROSESOLO01NPCPATHIDSHULACKSHIP02MOB1F10" formation="SQUARE" rows="1,1">
+		<routestep step="1" x="254.1" y="526.7" z="900.5438"/>
+		<routestep step="2" x="256.16" y="526.68" z="900.381"/>
+		<routestep step="3" x="259.13" y="526.7" z="900.3699"/>
+		<routestep step="4" x="262.01" y="526.73" z="900.3699"/>
+		<routestep step="5" x="265.05" y="526.6" z="900.3699"/>
+		<routestep step="6" x="267.4" y="526.63" z="900.3699"/>
+		<routestep step="7" x="265.06" y="526.62" z="900.3699"/>
+		<routestep step="8" x="262.0" y="526.73" z="900.3699"/>
+		<routestep step="9" x="259.12" y="526.7" z="900.3699"/>
+		<routestep step="10" x="256.18" y="526.69" z="900.3703"/>
+		<routestep step="11" x="253.62" y="526.85" z="900.5438"/>
+	</walker_template>
+	<walker_template pool="1" route_id="IDSHULACKROSESOLO01NPCPATHIDSHULACKSHIP02MOB1F8">
+		<routestep step="1" x="261.74" y="483.11" z="900.3699"/>
+		<routestep step="2" x="259.11" y="484.32" z="900.3699"/>
+		<routestep step="3" x="256.89" y="486.8" z="900.3699"/>
+		<routestep step="4" x="256.59" y="490.12" z="900.5438"/>
+		<routestep step="5" x="257.1" y="493.23" z="900.5438"/>
+		<routestep step="6" x="259.21" y="494.9" z="900.3699"/>
+		<routestep step="7" x="262.56" y="495.11" z="900.3699"/>
+		<routestep step="8" x="264.97" y="494.3" z="900.3699"/>
+		<routestep step="9" x="267.07" y="492.59" z="900.3699"/>
+		<routestep step="10" x="267.71" y="490.36" z="900.3699"/>
+		<routestep step="11" x="267.82" y="487.99" z="900.3699"/>
+		<routestep step="12" x="266.33" y="485.14" z="900.3699"/>
+		<routestep step="13" x="264.61" y="483.76" z="900.3699"/>
+		<routestep step="14" x="263.11" y="482.99" z="900.3699"/>
+	</walker_template>
+	<walker_template pool="1" route_id="IDSHULACKROSESOLO01NPCPATHIDSHULACKSHIP02MOB1F5">
+		<routestep step="1" x="255.43" y="501.74" z="900.5438"/>
+		<routestep step="2" x="255.48" y="499.55" z="900.5438"/>
+		<routestep step="3" x="255.51" y="497.23" z="900.5438"/>
+		<routestep step="4" x="255.55" y="494.47" z="900.5438"/>
+		<routestep step="5" x="255.55" y="491.65" z="900.5438"/>
+		<routestep step="6" x="255.56" y="491.65" z="900.5438"/>
+		<routestep step="7" x="255.56" y="494.48" z="900.5438"/>
+		<routestep step="8" x="255.49" y="497.22" z="900.5438"/>
+		<routestep step="9" x="255.5" y="499.59" z="900.5438"/>
+		<routestep step="10" x="255.75" y="502.28" z="900.5438"/>
+		<routestep step="11" x="255.57" y="504.52" z="900.5438"/>
+		<routestep step="12" x="255.51" y="507.42" z="900.5438"/>
+		<routestep step="13" x="255.53" y="510.35" z="900.5438"/>
+		<routestep step="14" x="255.63" y="513.25" z="900.5438"/>
+		<routestep step="15" x="255.61" y="513.24" z="900.5438"/>
+		<routestep step="16" x="255.51" y="510.35" z="900.5438"/>
+		<routestep step="17" x="255.52" y="507.42" z="900.5438"/>
+		<routestep step="18" x="255.55" y="504.49" z="900.5438"/>
+		<routestep step="19" x="255.43" y="502.67" z="900.5438"/>
+	</walker_template>
+	<walker_template pool="1" route_id="IDSHULACKROSESOLO01NPCPATHIDSHULACKSHIP02MOB1F23">
+		<routestep step="1" x="354.39" y="515.68" z="894.4312"/>
+		<routestep step="2" x="351.97" y="515.88" z="894.4312"/>
+		<routestep step="3" x="349.83" y="515.9" z="894.4312"/>
+		<routestep step="4" x="347.6" y="515.9" z="894.4312"/>
+		<routestep step="5" x="345.24" y="515.86" z="894.4312"/>
+		<routestep step="6" x="345.25" y="515.87" z="894.4312"/>
+		<routestep step="7" x="347.57" y="515.91" z="894.4312"/>
+		<routestep step="8" x="349.82" y="515.95" z="894.4312"/>
+		<routestep step="9" x="351.97" y="515.98" z="894.4312"/>
+		<routestep step="10" x="355.07" y="516.13" z="894.4312"/>
+		<routestep step="11" x="357.67" y="515.78" z="894.4312"/>
+		<routestep step="12" x="360.17" y="515.8" z="894.4312"/>
+		<routestep step="13" x="362.96" y="515.73" z="894.4312"/>
+		<routestep step="14" x="365.66" y="515.6" z="894.4312"/>
+		<routestep step="15" x="365.63" y="515.62" z="894.4312"/>
+		<routestep step="16" x="362.94" y="515.72" z="894.4312"/>
+		<routestep step="17" x="360.17" y="515.82" z="894.4312"/>
+		<routestep step="18" x="357.68" y="515.77" z="894.4312"/>
+		<routestep step="19" x="355.64" y="515.72" z="894.4312"/>
+	</walker_template>
+	<walker_template pool="1" route_id="IDSHULACKROSESOLO01NPCPATHIDSHULACKSHIP02MOB1F22">
+		<routestep step="1" x="365.39" y="477.27" z="894.76385"/>
+		<routestep step="2" x="363.82" y="477.21" z="894.76385"/>
+		<routestep step="3" x="362.12" y="477.82" z="894.76385"/>
+		<routestep step="4" x="362.1" y="477.81" z="894.76385"/>
+		<routestep step="5" x="363.83" y="477.2" z="894.76385"/>
+		<routestep step="6" x="365.34" y="477.51" z="894.76385"/>
+		<routestep step="7" x="365.95" y="477.81" z="894.76385"/>
+		<routestep step="8" x="367.23" y="479.08" z="894.76385"/>
+		<routestep step="9" x="367.5" y="480.35" z="894.76385"/>
+		<routestep step="10" x="367.5" y="481.82" z="894.76385"/>
+		<routestep step="11" x="367.48" y="481.85" z="894.76385"/>
+		<routestep step="12" x="367.5" y="480.4" z="894.76385"/>
+		<routestep step="13" x="367.25" y="479.09" z="894.76385"/>
+		<routestep step="14" x="366.4" y="477.73" z="894.76385"/>
+	</walker_template>
+	<walker_template pool="1" route_id="IDSHULACKROSESOLO01NPCPATHIDSHULACKSHIP02MOB1F21">
+		<routestep step="1" x="356.01" y="499.21" z="894.43115"/>
+		<routestep step="2" x="353.81" y="499.32" z="894.43115"/>
+		<routestep step="3" x="349.96" y="499.28" z="894.43115"/>
+		<routestep step="4" x="346.81" y="499.32" z="894.4312"/>
+		<routestep step="5" x="343.05" y="499.24" z="894.4312"/>
+		<routestep step="6" x="339.98" y="499.29" z="894.4312"/>
+		<routestep step="7" x="338.04" y="501.8" z="894.4312"/>
+		<routestep step="8" x="339.68" y="504.83" z="894.4981"/>
+		<routestep step="9" x="343.22" y="505.35" z="894.4312"/>
+		<routestep step="10" x="346.9" y="505.39" z="894.4312"/>
+		<routestep step="11" x="350.09" y="505.43" z="894.4312"/>
+		<routestep step="12" x="353.82" y="505.43" z="894.4312"/>
+		<routestep step="13" x="356.56" y="505.47" z="894.43115"/>
+		<routestep step="14" x="358.63" y="502.43" z="894.43115"/>
+		<routestep step="15" x="357.46" y="499.53" z="894.43115"/>
+	</walker_template>
+	<walker_template pool="1" route_id="IDSHULACKROSESOLO01NPCPATHIDSHULACKSHIP02MOB1F36">
+		<routestep step="1" x="409.77" y="547.47" z="885.4783"/>
+		<routestep step="2" x="411.17" y="547.63" z="885.4783"/>
+		<routestep step="3" x="413.47" y="547.61" z="885.4783"/>
+		<routestep step="4" x="415.58" y="547.62" z="885.4783"/>
+		<routestep step="5" x="417.9" y="547.64" z="885.4783"/>
+		<routestep step="6" x="419.93" y="547.59" z="885.4783"/>
+		<routestep step="7" x="422.34" y="547.55" z="885.4783"/>
+		<routestep step="8" x="422.38" y="547.58" z="885.4783"/>
+		<routestep step="9" x="419.94" y="547.64" z="885.4783"/>
+		<routestep step="10" x="417.94" y="547.62" z="885.4783"/>
+		<routestep step="11" x="415.58" y="547.62" z="885.4783"/>
+		<routestep step="12" x="413.44" y="547.61" z="885.4783"/>
+		<routestep step="13" x="411.18" y="547.67" z="885.4783"/>
+		<routestep step="14" x="409.01" y="547.71" z="885.4783"/>
+	</walker_template>
+	<walker_template pool="1" route_id="IDSHULACKROSESOLO01NPCPATHIDSHULACKSHIP02MOB1F54">
+		<routestep step="1" x="568.46" y="451.54" z="882.0684"/>
+		<routestep step="2" x="568.53" y="455.39" z="882.0684"/>
+		<routestep step="3" x="568.56" y="460.12" z="882.0684"/>
+		<routestep step="4" x="568.53" y="465.49" z="882.0684"/>
+		<routestep step="5" x="568.58" y="469.69" z="882.0684"/>
+		<routestep step="6" x="568.56" y="473.8" z="882.0684"/>
+		<routestep step="7" x="568.58" y="477.02" z="882.0684"/>
+		<routestep step="8" x="568.59" y="476.99" z="882.0684"/>
+		<routestep step="9" x="568.56" y="473.78" z="882.0684"/>
+		<routestep step="10" x="568.57" y="469.69" z="882.0684"/>
+		<routestep step="11" x="568.53" y="465.51" z="882.0684"/>
+		<routestep step="12" x="568.57" y="460.12" z="882.0684"/>
+		<routestep step="13" x="568.53" y="455.39" z="882.0684"/>
+		<routestep step="14" x="568.51" y="450.17" z="882.0684"/>
+	</walker_template>
+	<walker_template pool="1" route_id="IDSHULACKROSESOLO01NPCPATHIDSHULACKSHIP02MOB1F56">
+		<routestep step="1" x="562.01" y="444.1" z="882.0684"/>
+		<routestep step="2" x="562.05" y="447.97" z="882.0684"/>
+		<routestep step="3" x="562.15" y="453.18" z="882.0684"/>
+		<routestep step="4" x="562.28" y="457.01" z="882.0684"/>
+		<routestep step="5" x="562.47" y="461.21" z="882.0684"/>
+		<routestep step="6" x="562.51" y="465.17" z="882.0684"/>
+		<routestep step="7" x="562.51" y="465.17" z="882.0684"/>
+		<routestep step="8" x="562.42" y="461.16" z="882.0684"/>
+		<routestep step="9" x="562.28" y="457.01" z="882.0684"/>
+		<routestep step="10" x="562.15" y="453.14" z="882.0684"/>
+		<routestep step="11" x="562.01" y="447.93" z="882.0684"/>
+		<routestep step="12" x="562.24" y="442.59" z="882.0684"/>
+	</walker_template>
+</npc_walker>

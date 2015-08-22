@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest_scripts>
+    <!-- 
+            [BEGIN] SUMMARY
+                        13600 [XML] No Tours, No Help
+                        13601 [XML] These Two Don't Get Along
+                        13602 [XML] A Shugo? Lie for Money? Never!
+                        13603 [XML] Search and Destroy
+                        13604 [XML] You Should Read the Letter
+                        13605 [XML] Unsafe Work Environment
+                        13606 [XML] Overtime Pay
+                        13607 [XML] It's not the Taste, So Much the Texture
+                        13608 [XML] One Daeva Army
+                        13609 [XML] Fetch Me My Biohazard Suit!
+                        13610 [XML] Aren't Clodworms Smaller?
+                        13611 [XML] Foe of My Foe
+                        13612 [XML] The Remnant Officer's Offer
+                        13613 [XML] The Officer's Offer Redux
+                        13614 [XML] Would You Like to Know My Secret?
+                        13615 [SCRIPT] [Alliance] Hyperion Unearthed
+                        13616 [SCRIPT] Kill the Dead
+                        13617 [SCRIPT] Tomb of the Elder
+                        13618 [SCRIPT] Seek and Interpret
+                        13619 [XML] [Alliance] Removing the Remnants
+                        13620 [XML] Conquer and Divide
+                        13621 [XML] [Urgent Order] Kurius' Request
+                        13650 [XML] All You Need Is Kinah
+                        13651 [XML] [Group] Genuine Danuar Souvenirs
+                        13652 [XML] Healthy Calcium Supplement
+                        13653 [XML] The Ide Adds Flavor
+                        13654 [XML] [Coin] A Graveyard Smash
+                        13655 [XML] [Coin] From The Cold Dead Klaws
+                        13656 [XML] [Coin] Night of the Grimy Clodworms
+                        13657 [XML] I Earned These Legitimately
+                        23600 [XML] Mother's Wishes
+                        23601 [XML] Unfurled Wings with Empty Stomachs
+                        23602 [XML] A Tear-Jerking Tail
+                        23603 [XML] The Back Way In
+                        23604 [XML] Sneak a Peek
+                        23605 [XML] Keep Away from the Infected
+                        23606 [XML] A Healthy Glow
+                        23607 [XML] Like Momma Shugo Used to Make
+                        23608 [XML] Strategic Response
+                        23609 [XML] Chronicle of Disaster
+                        23610 [XML] Resistance is Futile
+                        23611 [XML] Caged Vengeance
+                        23612 [XML] Not a Werekarnif
+                        23613 [XML] Bothering Brothers
+                        23614 [XML] Hyperion Hype
+                        23615 [SCRIPT] [Alliance] Beyond the Depths
+                        23616 [SCRIPT] Shadows of Despair
+                        23617 [SCRIPT] Marones Rising
+                        23618 [SCRIPT] Records of the Past
+                        23619 [XML] [Alliance] Breaking Beritra's Fist
+                        23620 [XML] Reducing Staff
+                        23621 [XML] [Urgent Order] Otur's Request
+                [END] SUMMARY	
+    -->
+    <!-- REPORTING QUESTS -->
+    <report_to id="13600" start_npc_ids="801540" end_npc_ids="801541"/>
+    <!-- No Tours, No Help (Elyos Only) -->
+    <report_to id="13601" start_npc_ids="801541" end_npc_ids="801548" item_id="182206023"/>
+    <!-- These Two Don’t Get Along (Elyos Only) -->
+    <report_to id="13602" start_npc_ids="801549" end_npc_ids="801540"/>
+    <!-- A Shugo ? Lie For Money ? Never ! (Elyos Only) -->
+    <report_to id="13604" start_npc_ids="801541" end_npc_ids="801540" item_id="182213488"/>
+    <!-- You Should Read The Letter (Elyos Only) -->
+    <report_to id="13612" start_npc_ids="801551" end_npc_ids="801540" item_id="182213492"/>
+    <!-- The Remnant Officer’s Offer (Elyos Only) -->
+    <report_to id="13613" start_npc_ids="730821" end_npc_ids="801541" item_id="182213493"/>
+    <!-- The Officerâ€™s Offer Redux (Elyos Only) -->
+	<!-- Seek And Interpret (Elyos Only) -->
+    <!--<report_to_many id="13618" start_npc_ids="801543" end_npc_ids="801543"> 
+        <npc_infos npc_id="730823" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="730824" var="1" quest_dialog="1693"/>
+        <npc_infos npc_id="801543" var="2" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>-->
+    <report_to id="13650" start_npc_ids="801144" end_npc_ids="801323"/>
+    <!-- All You Need Is Kinah (Both Race) -->
+    <report_to id="23600" start_npc_ids="801544" end_npc_ids="801545"/>
+    <!-- Mother’s Wishes (Asmodians Only) -->
+    <report_to id="23601" start_npc_ids="801545" end_npc_ids="801548" item_id="182206023"/>
+    <!-- Unfurled Wings With Empty Stomachs (Asmodians Only) -->
+    <report_to id="23602" start_npc_ids="801549" end_npc_ids="801544"/>
+    <!-- A Tear-Jerking Tail (Asmodians Only) -->
+    <report_to id="23604" start_npc_ids="801545" end_npc_ids="801544" item_id="182213498"/>
+    <!-- Sneak A Peek (Asmodians Only) -->
+    <report_to id="23612" start_npc_ids="801551" end_npc_ids="801544"/>
+    <!-- Not A Werekarnif (Asmodians Only) -->
+    <report_to id="23613" start_npc_ids="730825" end_npc_ids="801545" item_id="182200225"/>
+    <!-- Bothering Brothers (Asmodians Only) -->
+	<!-- Records Of The Past (Asmodians Only) -->
+    <!--<report_to_many id="23618" start_npc_ids="801547" end_npc_ids="801547"> 
+        <npc_infos npc_id="730823" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="730824" var="1" quest_dialog="1693"/>
+        <npc_infos npc_id="801547" var="2" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>-->
+
+    <!-- COLLECTING QUESTS -->
+    <item_collecting id="13606" start_npc_ids="801540" end_npc_ids="801541" action_item_ids="701812"/>
+    <!-- Overtime Pay (Elyos Only) -->
+    <item_collecting id="13607" start_npc_ids="801548" end_npc_ids="801548"/>
+    <!-- It’s Not The Taste, So Much The Texture (Elyos Only) -->
+    <item_collecting id="13609" start_npc_ids="801541" end_npc_ids="801541"/>
+    <!-- Fetch Me My Biohazard Suit ! (Elyos Only) -->
+    <item_collecting id="13614" start_npc_ids="801541" next_npc_id="801551" end_npc_ids="801551"/>
+    <!-- Would You Like To Know My Secret ? (Elyos Only) -->
+    <item_collecting id="13651" start_npc_ids="801323" end_npc_ids="801323" action_item_ids="701813"/>
+    <!-- [Group] Genuine Danuar Souvenirs (Both Race) -->
+    <item_collecting id="13652" start_npc_ids="801548" end_npc_ids="801548"/>
+    <!-- Healthy Calcium Supplement (Both Race) -->
+    <item_collecting id="13653" start_npc_ids="801548" end_npc_ids="801548" action_item_ids="701814"/>
+    <!-- The Ide Adds Flavor (Both Race) -->
+    <item_collecting id="13655" start_npc_ids="801323" end_npc_ids="801323"/>
+    <!-- [Coin] From The Cold Dead Klaws (Both Race) -->
+    <item_collecting id="13657" start_npc_ids="801312" end_npc_ids="801312"/>
+    <!-- I Earned These Legitimately (Both Race) -->
+    <item_collecting id="23606" start_npc_ids="801544" end_npc_ids="801545" action_item_ids="701812"/>
+    <!-- A Healthy Glow (Asmodians Only) -->
+    <item_collecting id="23607" start_npc_ids="801548" end_npc_ids="801548"/>
+    <!-- Like Momma Shugo Used To Make (Asmodians Only) -->
+    <item_collecting id="23609" start_npc_ids="801545" end_npc_ids="801545"/>
+    <!-- Chronicle Of Disaster (Asmodians Only) -->
+    <item_collecting id="23614" start_npc_ids="801545" next_npc_id="801551" end_npc_ids="801551"/>
+    <!-- Hyperion Hype (Asmodians Only) -->
+
+    <!-- HUNTING QUESTS -->
+    <monster_hunt id="13605" start_npc_ids="801540" end_npc_ids="801541"> <!-- Unsafe Work Environment (Elyos Only) -->
+        <monster var="0" npc_ids="230875 230876" end_var="6"/>
+    </monster_hunt>
+    <monster_hunt id="13608" start_npc_ids="801542" end_npc_ids="801541"
+                  end_dialog_id="2375"> <!-- One Daeva Army (Elyos Only) -->
+        <monster var="0" npc_ids="230880 230881 230888 230892" end_var="9"/>
+        <monster var="0" npc_ids="230893 230894 230896 230897" end_var="9"/>
+    </monster_hunt>
+    <monster_hunt id="13610" start_npc_ids="801541"
+                  end_npc_ids="801541"> <!-- Aren’t Clodworms Smaller ? (Elyos Only) -->
+        <monster var="0" npc_ids="230950 230951 230932 230933" end_var="11"/>
+        <monster var="0" npc_ids="230944 230945 230947 230948" end_var="11"/>
+    </monster_hunt>
+    <monster_hunt id="13611" start_npc_ids="801550" end_npc_ids="801541"> <!-- Foe Of My Foe (Elyos Only) -->
+        <monster var="0" npc_ids="230997" end_var="1"/>
+    </monster_hunt>
+	 <!-- Tomb Of The Elder (Elyos Only) -->
+    <!--<monster_hunt id="13617" start_npc_ids="730822" end_npc_ids="801543">
+        <monster var="0" npc_ids="233041" end_var="1"/>
+    </monster_hunt>-->
+    <monster_hunt id="13619" start_npc_ids="801541"
+                  end_npc_ids="801541"> <!-- [Alliance] Removing The Remnants (Elyos Only) -->
+        <monster var="0" npc_ids="230920 230923 230924" end_var="7"/>
+        <monster var="0" npc_ids="230925 230926 230929 230931" end_var="7"/>
+        <monster var="1" npc_ids="230995" end_var="1"/>
+    </monster_hunt>
+    <monster_hunt id="13620" start_npc_ids="801541" end_npc_ids="801541"> <!-- Conquer And Divide (Elyos Only) -->
+        <monster var="0" npc_ids="230996" end_var="1"/>
+    </monster_hunt>
+    <monster_hunt id="13654" start_npc_ids="801323" end_npc_ids="801323"> <!-- [Coin] A Graveyard Smash (Both Race) -->
+        <monster var="0" npc_ids="230864" end_var="6"/>
+    </monster_hunt>
+    <monster_hunt id="13656" start_npc_ids="801549"
+                  end_npc_ids="801549"> <!-- [Coin] Night of the Grimy Clodworms (Both Race) -->
+        <monster var="0" npc_ids="230861" end_var="6"/>
+    </monster_hunt>
+    <monster_hunt id="23605" start_npc_ids="801544"
+                  end_npc_ids="801545"> <!-- Keep Away From The Infected (Asmodians Only) -->
+        <monster var="0" npc_ids="230875 230876" end_var="6"/>
+    </monster_hunt>
+    <monster_hunt id="23608" start_npc_ids="801546" end_npc_ids="801545"
+                  end_dialog_id="2375"> <!-- Strategic Response (Asmodians Only) -->
+        <monster var="0" npc_ids="230880 230881 230888 230892" end_var="9"/>
+        <monster var="0" npc_ids="230893 230894 230896 230897" end_var="9"/>
+    </monster_hunt>
+    <monster_hunt id="23610" start_npc_ids="801545" end_npc_ids="801545"> <!-- Resistance Is Futile (Asmodians Only) -->
+        <monster var="0" npc_ids="230950 230951 230932 230933" end_var="11"/>
+        <monster var="0" npc_ids="230944 230945 230947 230948" end_var="11"/>
+    </monster_hunt>
+    <monster_hunt id="23611" start_npc_ids="801550" end_npc_ids="801545"> <!-- Caged Vengeance (Asmodians Only) -->
+        <monster var="0" npc_ids="230997" end_var="1"/>
+    </monster_hunt>
+	<!-- Marones Rising (Asmodians Only) -->
+    <!--<monster_hunt id="23617" start_npc_ids="730826" end_npc_ids="801547"> 
+        <monster var="0" npc_ids="233041" end_var="1"/>
+    </monster_hunt>-->
+    <monster_hunt id="23619" start_npc_ids="801545"
+                  end_npc_ids="801545"> <!-- [Alliance] Breaking Beritra’s Fist (Asmodians Only) -->
+        <monster var="0" npc_ids="230920 230923 230924" end_var="7"/>
+        <monster var="0" npc_ids="230925 230926 230929 230931" end_var="7"/>
+        <monster var="1" npc_ids="230995" end_var="1"/>
+    </monster_hunt>
+    <monster_hunt id="23620" start_npc_ids="801545" end_npc_ids="801545"> <!-- Reducing Staff (Asmodians Only) -->
+        <monster var="0" npc_ids="230996" end_var="1"/>
+    </monster_hunt>
+
+    <!-- KILL IN WORLD QUESTS -->
+    <kill_in_world id="13603" start_npc_ids="801540" end_npc_ids="801542" worlds="600070000" amount="3"/>
+    <kill_in_world id="13621" start_npc_ids="801541" end_npc_ids="801541" worlds="600070000" amount="2"/>
+    <kill_in_world id="23603" start_npc_ids="801544" end_npc_ids="801546" worlds="600070000" amount="3"/>
+    <kill_in_world id="23621" start_npc_ids="801540" end_npc_ids="801545" worlds="600070000" amount="2"/>
+</quest_scripts>

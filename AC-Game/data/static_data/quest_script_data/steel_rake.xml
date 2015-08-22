@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+    <!--
+            [BEGIN] SUMMARY
+                    3208 [SCRIPT] The Puzzling Blueprint
+                    3211 [XML] Against the Steel Rake
+                    3217 [SCRIPT] Imprisoned Guardian
+                    3219 [UNUSED] Key Item Hidden Quest 01 (Elyos)
+                    3220 [UNUSED] Key Item Hidden Quest 02 (Elyos)
+                    4208 [SCRIPT] Truth of the Bookmark
+                    4211 [XML] Steel Rake Slaughter
+                    4217 [SCRIPT] The Imprisoned Executor
+                    4219 [UNUSED] Key Item Hidden Quest 01 (Asmodian)
+                    4220 [UNUSED] Key Item Hidden Quest 02 (Asmodian)
+            [END] SUMMARY
+    -->
+    <!-- REPORTING QUESTS -->
+    <!-- COLLECTING QUESTS -->
+    <!-- HUNTING QUESTS -->
+    <monster_hunt id="4211" start_npc_ids="798331">
+        <monster var="1" npc_ids="215069" end_var="1"/>
+        <monster var="2" npc_ids="215070" end_var="1"/>
+        <monster var="3" npc_ids="215081" end_var="1"/>
+    </monster_hunt>
+</quest_scripts>

@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<skill_charge>
+    <charge id="1" min_time="400">
+        <skill id="2692" time="1400"/>
+        <skill id="2693" time="1000"/>
+        <skill id="2694" time="5000"/>
+    </charge>
+    <charge id="2" min_time="400">
+        <skill id="2698" time="1700"/>
+        <skill id="2699" time="1200"/>
+        <skill id="2700" time="5000"/>
+    </charge>
+    <charge id="3" min_time="400">
+        <skill id="2708" time="1400"/>
+        <skill id="2709" time="5000"/>
+    </charge>
+    <charge id="4" min_time="400">
+        <skill id="2755" time="1200"/>
+        <skill id="2756" time="1200"/>
+        <skill id="2757" time="5000"/>
+    </charge>
+    <charge id="5" min_time="400">
+        <skill id="2815" time="1700"/>
+        <skill id="2816" time="1200"/>
+        <skill id="2817" time="5000"/>
+    </charge>
+    <charge id="6" min_time="400">
+        <skill id="2695" time="1700"/>
+        <skill id="2696" time="1200"/>
+        <skill id="2697" time="5000"/>
+    </charge>
+    <charge id="7" min_time="400">
+        <skill id="2823" time="1700"/>
+        <skill id="2824" time="1200"/>
+        <skill id="2825" time="5000"/>
+    </charge>
+    <charge id="8" min_time="400">
+        <skill id="2714" time="1400"/>
+        <skill id="2715" time="1000"/>
+        <skill id="2716" time="5000"/>
+    </charge>
+    <charge id="9" min_time="400">
+        <skill id="2738" time="1200"/>
+        <skill id="2739" time="5000"/>
+    </charge>
+    <charge id="10" min_time="400">
+        <skill id="2933" time="1200"/>
+        <skill id="2934" time="5000"/>
+    </charge>
+    <charge id="11" min_time="900">
+        <skill id="2742" time="1900"/>
+        <skill id="2743" time="1000"/>
+        <skill id="2744" time="5000"/>
+    </charge>
+    <charge id="12" min_time="1400">
+        <skill id="2746" time="2400"/>
+        <skill id="2747" time="1000"/>
+        <skill id="2748" time="5000"/>
+    </charge>
+    <charge id="13" min_time="400">
+        <skill id="3440" time="1500"/>
+        <skill id="3441" time="1400"/>
+        <skill id="3442" time="5000"/>
+    </charge>
+    <charge id="14" min_time="400">
+        <skill id="3525" time="1500"/>
+        <skill id="3526" time="1400"/>
+        <skill id="3527" time="5000"/>
+    </charge>
+    <charge id="15" min_time="400">
+        <skill id="3528" time="1500"/>
+        <skill id="3529" time="1400"/>
+        <skill id="3530" time="5000"/>
+    </charge>
+    <charge id="16" min_time="400">
+        <skill id="3531" time="1500"/>
+        <skill id="3532" time="1400"/>
+        <skill id="3533" time="5000"/>
+    </charge>
+    <charge id="17" min_time="400">
+        <skill id="3534" time="1500"/>
+        <skill id="3535" time="1400"/>
+        <skill id="3536" time="5000"/>
+    </charge>
+    <charge id="18" min_time="400">
+        <skill id="3537" time="1500"/>
+        <skill id="3538" time="1400"/>
+        <skill id="3539" time="5000"/>
+    </charge>
+    <charge id="19" min_time="400">
+        <skill id="3472" time="1900"/>
+        <skill id="3473" time="1800"/>
+        <skill id="3474" time="5000"/>
+    </charge>
+    <charge id="20" min_time="400">
+        <skill id="3475" time="1900"/>
+        <skill id="3476" time="1800"/>
+        <skill id="3477" time="5000"/>
+    </charge>
+    <charge id="21" min_time="400">
+        <skill id="3478" time="1900"/>
+        <skill id="3479" time="1800"/>
+        <skill id="3480" time="5000"/>
+    </charge>
+    <charge id="22" min_time="400">
+        <skill id="3410" time="1500"/>
+        <skill id="3411" time="1400"/>
+        <skill id="3412" time="5000"/>
+    </charge>
+    <charge id="23" min_time="400">
+        <skill id="3413" time="1500"/>
+        <skill id="3414" time="1400"/>
+        <skill id="3415" time="5000"/>
+    </charge>
+    <charge id="24" min_time="400">
+        <skill id="3416" time="1500"/>
+        <skill id="3417" time="1400"/>
+        <skill id="3418" time="5000"/>
+    </charge>
+    <charge id="25" min_time="400">
+        <skill id="3481" time="1500"/>
+        <skill id="3482" time="1400"/>
+        <skill id="3483" time="5000"/>
+    </charge>
+    <charge id="26" min_time="400">
+        <skill id="3484" time="1500"/>
+        <skill id="3485" time="1400"/>
+        <skill id="3486" time="5000"/>
+    </charge>
+    <charge id="27" min_time="400">
+        <skill id="3487" time="1500"/>
+        <skill id="3488" time="1400"/>
+        <skill id="3489" time="5000"/>
+    </charge>
+    <charge id="28" min_time="400">
+        <skill id="3490" time="1500"/>
+        <skill id="3491" time="1400"/>
+        <skill id="3492" time="5000"/>
+    </charge>
+    <charge id="29" min_time="400">
+        <skill id="3419" time="1500"/>
+        <skill id="3420" time="1400"/>
+        <skill id="3421" time="5000"/>
+    </charge>
+    <charge id="30" min_time="400">
+        <skill id="3422" time="1500"/>
+        <skill id="3423" time="1400"/>
+        <skill id="3424" time="5000"/>
+    </charge>
+    <charge id="31" min_time="400">
+        <skill id="3425" time="1500"/>
+        <skill id="3426" time="1400"/>
+        <skill id="3427" time="5000"/>
+    </charge>
+    <charge id="32" min_time="400">
+        <skill id="3428" time="1500"/>
+        <skill id="3429" time="1400"/>
+        <skill id="3430" time="5000"/>
+    </charge>
+    <charge id="33" min_time="400">
+        <skill id="3431" time="1500"/>
+        <skill id="3432" time="1400"/>
+        <skill id="3433" time="5000"/>
+    </charge>
+    <charge id="34" min_time="400">
+        <skill id="3434" time="1500"/>
+        <skill id="3435" time="1400"/>
+        <skill id="3436" time="5000"/>
+    </charge>
+    <charge id="35" min_time="400">
+        <skill id="3437" time="1500"/>
+        <skill id="3438" time="1400"/>
+        <skill id="3439" time="5000"/>
+    </charge>
+    <charge id="36" min_time="400">
+        <skill id="3500" time="1500"/>
+        <skill id="3501" time="1400"/>
+        <skill id="3502" time="5000"/>
+    </charge>
+    <charge id="37" min_time="400">
+        <skill id="3503" time="1500"/>
+        <skill id="3504" time="1400"/>
+        <skill id="3505" time="5000"/>
+    </charge>
+    <charge id="38" min_time="400">
+        <skill id="3506" time="1500"/>
+        <skill id="3507" time="1400"/>
+        <skill id="3508" time="5000"/>
+    </charge>
+    <charge id="39" min_time="400">
+        <skill id="3509" time="1500"/>
+        <skill id="3510" time="1400"/>
+        <skill id="3511" time="5000"/>
+    </charge>
+    <charge id="40" min_time="400">
+        <skill id="3513" time="1500"/>
+        <skill id="3514" time="1400"/>
+        <skill id="3515" time="5000"/>
+    </charge>
+    <charge id="41" min_time="400">
+        <skill id="3516" time="1500"/>
+        <skill id="3517" time="1400"/>
+        <skill id="3518" time="5000"/>
+    </charge>
+    <charge id="42" min_time="400">
+        <skill id="3455" time="1900"/>
+        <skill id="3456" time="1800"/>
+        <skill id="3457" time="5000"/>
+    </charge>
+    <charge id="43" min_time="400">
+        <skill id="3519" time="1500"/>
+        <skill id="3520" time="1400"/>
+        <skill id="3521" time="5000"/>
+    </charge>
+    <charge id="44" min_time="400">
+        <skill id="3522" time="1900"/>
+        <skill id="3523" time="1800"/>
+        <skill id="3524" time="5000"/>
+    </charge>
+    <charge id="45" min_time="400">
+        <skill id="3540" time="1500"/>
+        <skill id="3541" time="1400"/>
+        <skill id="3542" time="5000"/>
+    </charge>
+    <charge id="46" min_time="400">
+        <skill id="3543" time="1500"/>
+        <skill id="3544" time="1400"/>
+        <skill id="3545" time="5000"/>
+    </charge>
+    <charge id="47" min_time="400">
+        <skill id="3546" time="1500"/>
+        <skill id="3547" time="1400"/>
+        <skill id="3548" time="5000"/>
+    </charge>
+    <charge id="48" min_time="400">
+        <skill id="3549" time="1500"/>
+        <skill id="3550" time="1400"/>
+        <skill id="3551" time="5000"/>
+    </charge>
+    <charge id="49" min_time="400">
+        <skill id="3552" time="1500"/>
+        <skill id="3553" time="1400"/>
+        <skill id="3554" time="5000"/>
+    </charge>
+    <charge id="50" min_time="400">
+        <skill id="3555" time="1500"/>
+        <skill id="3556" time="1400"/>
+        <skill id="3557" time="5000"/>
+    </charge>
+    <charge id="51" min_time="400">
+        <skill id="3157" time="1600"/>
+        <skill id="3158" time="1600"/>
+        <skill id="3159" time="5000"/>
+    </charge>
+    <charge id="52" min_time="400">
+        <skill id="3161" time="1900"/>
+        <skill id="3162" time="1900"/>
+        <skill id="3163" time="5000"/>
+    </charge>
+    <charge id="53" min_time="400">
+        <skill id="3172" time="1600"/>
+        <skill id="3173" time="1600"/>
+        <skill id="3174" time="5000"/>
+    </charge>
+    <charge id="54" min_time="400">
+        <skill id="3175" time="1600"/>
+        <skill id="3176" time="1600"/>
+        <skill id="3177" time="5000"/>
+    </charge>
+    <charge id="55" min_time="400">
+        <skill id="3178" time="1600"/>
+        <skill id="3179" time="1600"/>
+        <skill id="3180" time="5000"/>
+    </charge>
+    <charge id="56" min_time="400">
+        <skill id="3181" time="1600"/>
+        <skill id="3182" time="1600"/>
+        <skill id="3183" time="5000"/>
+    </charge>
+    <charge id="57" min_time="400">
+        <skill id="3184" time="1600"/>
+        <skill id="3185" time="1600"/>
+        <skill id="3186" time="5000"/>
+    </charge>
+    <charge id="58" min_time="400">
+        <skill id="3188" time="1600"/>
+        <skill id="3189" time="5000"/>
+    </charge>
+    <charge id="59" min_time="400">
+        <skill id="3191" time="1600"/>
+        <skill id="3192" time="5000"/>
+    </charge>
+    <charge id="60" min_time="400">
+        <skill id="3194" time="1600"/>
+        <skill id="3195" time="5000"/>
+    </charge>
+    <charge id="61" min_time="400">
+        <skill id="3197" time="1600"/>
+        <skill id="3198" time="5000"/>
+    </charge>
+    <charge id="62" min_time="400">
+        <skill id="3200" time="1600"/>
+        <skill id="3201" time="5000"/>
+    </charge>
+    <charge id="63" min_time="400">
+        <skill id="3203" time="1600"/>
+        <skill id="3204" time="5000"/>
+    </charge>
+    <charge id="64" min_time="400">
+        <skill id="3206" time="1600"/>
+        <skill id="3207" time="5000"/>
+    </charge>
+    <charge id="65" min_time="400">
+        <skill id="3247" time="1600"/>
+        <skill id="3248" time="1600"/>
+        <skill id="3249" time="5000"/>
+    </charge>
+    <charge id="66" min_time="400">
+        <skill id="3251" time="1600"/>
+        <skill id="3252" time="1600"/>
+        <skill id="3253" time="5000"/>
+    </charge>
+    <charge id="67" min_time="400">
+        <skill id="3254" time="1600"/>
+        <skill id="3255" time="1600"/>
+        <skill id="3256" time="5000"/>
+    </charge>
+    <charge id="68" min_time="400">
+        <skill id="3257" time="1600"/>
+        <skill id="3258" time="1600"/>
+        <skill id="3259" time="5000"/>
+    </charge>
+    <charge id="69" min_time="400">
+        <skill id="3260" time="1600"/>
+        <skill id="3261" time="1600"/>
+        <skill id="3262" time="5000"/>
+    </charge>
+    <charge id="70" min_time="400">
+        <skill id="3273" time="1600"/>
+        <skill id="3274" time="1600"/>
+        <skill id="3275" time="5000"/>
+    </charge>
+    <charge id="71" min_time="400">
+        <skill id="3559" time="1600"/>
+        <skill id="3560" time="1600"/>
+        <skill id="3561" time="5000"/>
+    </charge>
+    <charge id="72" min_time="400">
+        <skill id="3562" time="1600"/>
+        <skill id="3563" time="1600"/>
+        <skill id="3564" time="5000"/>
+    </charge>
+    <charge id="73" min_time="400">
+        <skill id="3565" time="1600"/>
+        <skill id="3566" time="1600"/>
+        <skill id="3567" time="5000"/>
+    </charge>
+    <charge id="74" min_time="400">
+        <skill id="21439" time="1000"/>
+        <skill id="21452" time="1500"/>
+        <skill id="21453" time="3000"/>
+    </charge>
+    <charge id="75" min_time="400">
+        <skill id="3589" time="1600"/>
+        <skill id="3590" time="1600"/>
+        <skill id="3591" time="5000"/>
+    </charge>
+    <charge id="76" min_time="400">
+        <skill id="3637" time="1100"/>
+        <skill id="3638" time="1700"/>
+        <skill id="3639" time="3000"/>
+    </charge>
+    <charge id="77" min_time="400">
+        <skill id="3640" time="1100"/>
+        <skill id="3641" time="1700"/>
+        <skill id="3642" time="3000"/>
+    </charge>
+    <charge id="78" min_time="400">
+        <skill id="3643" time="1100"/>
+        <skill id="3644" time="1700"/>
+        <skill id="3645" time="3000"/>
+    </charge>
+    <charge id="79" min_time="400">
+        <skill id="3646" time="1100"/>
+        <skill id="3647" time="1700"/>
+        <skill id="3648" time="3000"/>
+    </charge>
+    <charge id="80" min_time="400">
+        <skill id="3649" time="1100"/>
+        <skill id="3650" time="1700"/>
+        <skill id="3651" time="3000"/>
+    </charge>
+    <charge id="81" min_time="400">
+        <skill id="3705" time="1100"/>
+        <skill id="3706" time="1700"/>
+        <skill id="3707" time="3000"/>
+    </charge>
+    <charge id="82" min_time="400">
+        <skill id="3708" time="1100"/>
+        <skill id="3709" time="1700"/>
+        <skill id="3710" time="3000"/>
+    </charge>
+    <charge id="83" min_time="400">
+        <skill id="3711" time="1100"/>
+        <skill id="3712" time="1700"/>
+        <skill id="3713" time="3000"/>
+    </charge>
+    <charge id="84" min_time="400">
+        <skill id="3714" time="1100"/>
+        <skill id="3715" time="1700"/>
+        <skill id="3716" time="3000"/>
+    </charge>
+    <charge id="85" min_time="400">
+        <skill id="3717" time="1100"/>
+        <skill id="3718" time="1700"/>
+        <skill id="3719" time="3000"/>
+    </charge>
+    <charge id="86" min_time="400">
+        <skill id="3702" time="1100"/>
+        <skill id="3703" time="1700"/>
+        <skill id="3704" time="3000"/>
+    </charge>
+    <charge id="87" min_time="400">
+        <skill id="3681" time="1100"/>
+        <skill id="3682" time="1700"/>
+        <skill id="3683" time="3000"/>
+    </charge>
+    <charge id="88" min_time="400">
+        <skill id="3684" time="1100"/>
+        <skill id="3685" time="1700"/>
+        <skill id="3686" time="3000"/>
+    </charge>
+    <charge id="89" min_time="400">
+        <skill id="3687" time="1100"/>
+        <skill id="3688" time="1700"/>
+        <skill id="3689" time="3000"/>
+    </charge>
+    <charge id="90" min_time="400">
+        <skill id="3690" time="1100"/>
+        <skill id="3691" time="1700"/>
+        <skill id="3692" time="3000"/>
+    </charge>
+    <charge id="91" min_time="400">
+        <skill id="3693" time="1100"/>
+        <skill id="3694" time="1700"/>
+        <skill id="3695" time="3000"/>
+    </charge>
+    <charge id="92" min_time="400">
+        <skill id="3696" time="1100"/>
+        <skill id="3697" time="1700"/>
+        <skill id="3698" time="3000"/>
+    </charge>
+    <charge id="93" min_time="400">
+        <skill id="3699" time="1100"/>
+        <skill id="3700" time="1700"/>
+        <skill id="3701" time="3000"/>
+    </charge>
+    <charge id="94" min_time="400">
+        <skill id="3804" time="1100"/>
+        <skill id="3805" time="1700"/>
+        <skill id="3806" time="3000"/>
+    </charge>
+</skill_charge>

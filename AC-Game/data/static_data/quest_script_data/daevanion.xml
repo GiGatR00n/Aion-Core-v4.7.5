@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+    <!--
+            [BEGIN] SUMMARY
+                    1923 [UNUSED] A Sage's Precious Weapon
+                    1924 [UNUSED] A Sage's Precious Weapon
+                    1925 [UNUSED] A Sage's Precious Weapon
+                    1988 [SCRIPT] A Meeting with a Sage
+                    1989 [SCRIPT] A Sage's Teachings
+                    1990 [SCRIPT] A Sage's Gift
+                    1991 [XML] A Sage's Encouragement
+                    1992 [UNUSED] A Sage's Precious Weapon
+                    1993 [SCRIPT] Another Beginning
+                    1994 [SCRIPT] A New Choice
+                    1995 [UNUSED] Another Beginning
+                    1996 [UNUSED] A New Choice
+                    1997 [XML] A Sage's Gift
+                    1998 [XML] A Sage's Gift
+                    1999 [XML] A Sage's Gift
+                    2986 [UNUSED] Daevanion Weapon
+                    2987 [UNUSED] Daevanion Weapon
+                    2988 [SCRIPT] The Wise in Disguise
+                    2989 [SCRIPT] Ceremony of the Wise
+                    2990 [SCRIPT] Making the Daevanion Weapon
+                    2991 [UNUSED] Obtaining Daevanion Armor
+                    2992 [UNUSED] Daevanion Weapon
+                    2993 [SCRIPT] Another Beginning
+                    2994 [SCRIPT] A New Choice
+                    2995 [UNUSED] Another Beginning (level 99)
+                    2996 [UNUSED] A New Choice (level 99)
+                    2997 [UNUSED] Daevanion Ceremony (level 99)
+                    2998 [UNUSED] Daevanion Ceremony (level 99)
+                    2999 [UNUSED] Daevanion Ceremony (level 99)
+                    80290 [XML] Durable Daevanion Armor
+                    80291 [SCRIPT] Durable Daevanion Weapon
+                    80292 [SCRIPT] A New Challenge
+                    80293 [SCRIPT] New Adventure
+                    80294 [XML] Durable Daevanion Armor
+                    80295 [SCRIPT] Durable Daevanion Weapon
+                    80296 [SCRIPT] Out With the Old Armor
+                    80297 [SCRIPT] I'd Like This One, Instead!
+                    80310 [XML] The Protection of the Sage II
+                    80311 [XML] The Protection of the Sage II
+            [END] SUMMARY
+    -->
+    <!-- REPORTING QUESTS -->
+    <report_to_many id="80310" start_npc_ids="831384" end_npc_ids="831384">
+        <npc_infos var="0" npc_id="831384" quest_dialog="1003" close_dialog="1009"/>
+    </report_to_many>
+    <report_to_many id="80311" start_npc_ids="831387" end_npc_ids="831387">
+        <npc_infos var="0" npc_id="831387" quest_dialog="1003" close_dialog="1009"/>
+    </report_to_many>
+    <!-- COLLECTING QUESTS -->
+    <item_collecting start_npc_ids="203771" id="1991"/>
+    <item_collecting start_npc_ids="203771" id="1997"/>
+    <item_collecting start_npc_ids="203771" id="1998"/>
+    <item_collecting start_npc_ids="203771" id="1999"/>
+    <item_collecting start_npc_ids="831384" id="80290"/>
+    <item_collecting start_npc_ids="831387" id="80294"/>
+    <!-- HUNTING QUESTS -->
+</quest_scripts>

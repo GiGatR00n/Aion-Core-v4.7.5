@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spawns>
+    <spawn_map map_id="600060000">
+		<beritra_spawn id="39">
+			<beritra_type bstate="INVASION">
+				<!-- 경보 지역 -->
+				<spawn npc_id="832819">
+					<spot x="1690.0896" y="1613.8302" z="140.48938" h="115"/>
+				</spawn>
+				<!-- 에이터 정예 1급 병기 -->
+				<spawn npc_id="234600">
+					<spot x="1690.0896" y="1613.8302" z="140.48938" h="115"/>
+				</spawn>
+			</beritra_type>
+			<beritra_type bstate="PEACE">
+			</beritra_type>
+		</beritra_spawn>
+		<beritra_spawn id="40">
+			<beritra_type bstate="INVASION">
+				<!-- 경보 지역 -->
+				<spawn npc_id="832819">
+					<spot x="899.90546" y="1711.1982" z="361.03564" h="48"/>
+				</spawn>
+				<!-- 타란툼 정예 1급 병기 -->
+				<spawn npc_id="234604">
+					<spot x="899.90546" y="1711.1982" z="361.03564" h="48"/>
+				</spawn>
+			</beritra_type>
+			<beritra_type bstate="PEACE">
+			</beritra_type>
+		</beritra_spawn>
+		<beritra_spawn id="41">
+			<beritra_type bstate="INVASION">
+				<!-- 경보 지역 -->
+				<spawn npc_id="832819">
+					<spot x="2725.7944" y="1856.1545" z="149.375" h="81"/>
+				</spawn>
+				<!-- 베노이드 정예 2급 병기 -->
+				<spawn npc_id="234606">
+					<spot x="2725.7944" y="1856.1545" z="149.375" h="81"/>
+				</spawn>
+			</beritra_type>
+			<beritra_type bstate="PEACE">
+			</beritra_type>
+		</beritra_spawn>
+		<beritra_spawn id="42">
+			<beritra_type bstate="INVASION">
+				<!-- 경보 지역 -->
+				<spawn npc_id="832819">
+					<spot x="2452.874" y="1193.2833" z="54.640747" h="17"/>
+				</spawn>
+				<!-- 포격형 투몬 정예 2급 병기 -->
+				<spawn npc_id="234607">
+					<spot x="2452.874" y="1193.2833" z="54.640747" h="17"/>
+				</spawn>
+			</beritra_type>
+			<beritra_type bstate="PEACE">
+			</beritra_type>
+		</beritra_spawn>
+		<beritra_spawn id="43">
+			<beritra_type bstate="INVASION">
+				<!-- 경보 지역 -->
+				<spawn npc_id="832819">
+					<spot x="1549.7698" y="2163.3027" z="159.17764" h="90"/>
+				</spawn>
+				<!-- 이드포 투몬 정예 2급 병기 -->
+				<spawn npc_id="234608">
+					<spot x="1549.7698" y="2163.3027" z="159.17764" h="90"/>
+				</spawn>
+			</beritra_type>
+			<beritra_type bstate="PEACE">
+			</beritra_type>
+		</beritra_spawn>
+    </spawn_map>
+</spawns>

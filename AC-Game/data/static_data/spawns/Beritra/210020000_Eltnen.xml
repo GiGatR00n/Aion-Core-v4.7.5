@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spawns>
+    <spawn_map map_id="210020000">
+		<beritra_spawn id="1">
+			<beritra_type bstate="INVASION">
+				<!-- WorldRaid_Control_Effect -->
+				<spawn npc_id="702529">
+					<spot x="858.5479" y="1151.3783" z="278.46576" h="71"/>
+				</spawn>
+				<!-- WorldRaid_Advent_Effect -->
+				<spawn npc_id="702549">
+					<spot x="858.5479" y="1151.3783" z="278.46576" h="71"/>
+				</spawn>
+				<!-- 경보 지역 -->
+				<spawn npc_id="832819">
+					<spot x="858.5479" y="1151.3783" z="278.46576" h="71"/>
+				</spawn>
+				<!-- 타란툼 일반 2급 병기 -->
+				<spawn npc_id="234564">
+					<spot x="858.5479" y="1151.3783" z="278.46576" h="71"/>
+				</spawn>
+			</beritra_type>
+			<beritra_type bstate="PEACE">
+			    <!-- WorldRaid_SP_Object -->
+				<spawn npc_id="702548">
+					<spot x="858.5479" y="1151.3783" z="278.46576" h="71"/>
+				</spawn>
+			</beritra_type>
+		</beritra_spawn>
+		<beritra_spawn id="2">
+			<beritra_type bstate="INVASION">
+				<!-- WorldRaid_Control_Effect -->
+				<spawn npc_id="702529">
+					<spot x="1519.0" y="1911.0" z="289.5" h="10"/>
+				</spawn>
+				<!-- WorldRaid_Advent_Effect -->
+				<spawn npc_id="702549">
+					<spot x="1519.0" y="1911.0" z="289.5" h="10"/>
+				</spawn>
+				<!-- 경보 지역 -->
+				<spawn npc_id="832819">
+					<spot x="1519.0" y="1911.0" z="289.5" h="10"/>
+				</spawn>
+				<!-- 타란툼 일반 3급 병기 -->
+				<spawn npc_id="234565">
+					<spot x="1519.0" y="1911.0" z="289.5" h="10"/>
+				</spawn>
+			</beritra_type>
+			<beritra_type bstate="PEACE">
+			    <!-- WorldRaid_SP_Object -->
+				<spawn npc_id="702548">
+					<spot x="1519.0" y="1911.0" z="289.5" h="10"/>
+				</spawn>
+			</beritra_type>
+		</beritra_spawn>
+		<beritra_spawn id="3">
+			<beritra_type bstate="INVASION">
+				<!-- WorldRaid_Control_Effect -->
+				<spawn npc_id="702529">
+					<spot x="260.20285" y="2134.1099" z="207.375" h="9"/>
+				</spawn>
+				<!-- WorldRaid_Advent_Effect -->
+				<spawn npc_id="702549">
+					<spot x="260.20285" y="2134.1099" z="207.375" h="9"/>
+				</spawn>
+				<!-- 경보 지역 -->
+				<spawn npc_id="832819">
+					<spot x="260.20285" y="2134.1099" z="207.375" h="9"/>
+				</spawn>
+				<!-- 에이터 일반 3급 병기 -->
+				<spawn npc_id="234566">
+					<spot x="260.20285" y="2134.1099" z="207.375" h="9"/>
+				</spawn>
+			</beritra_type>
+			<beritra_type bstate="PEACE">
+			    <!-- WorldRaid_SP_Object -->
+				<spawn npc_id="702548">
+					<spot x="260.20285" y="2134.1099" z="207.375" h="9"/>
+				</spawn>
+			</beritra_type>
+		</beritra_spawn>
+    </spawn_map>
+</spawns>

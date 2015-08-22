@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+    <!--
+            [BEGIN] SUMMARY
+                    50000 [XML] [Event] Heat of High Summer (Asmodians)
+                    50001 [XML] [Event] Heat of High Summer (Elyos)
+                    50005 [SCRIPT] [Event] Daeva's Day Energy
+                    50006 [SCRIPT] [Event] Ascension Extravaganza
+                    50008 [SCRIPT] [Event/Daily] Solorius Shugo Slackers!
+                    50010 [XML] [Event] Lover or Loner?
+                    50019 [XML] [Event/Daily] Sweetie Choco Wuv-ums
+                    50020 [XML] [Event/Daily] Extra-Bitter Chocolate
+                    50021 [XML] [Event/Daily] Candygeddon
+                    50022 [XML] [Event] Shove-l It
+                    50023 [XML] [Event] Mysterious Scrolls in Elysea
+                    50024 [XML] [Event] What's a Heart Worth
+                    50025 [XML] [Event] Half a Heart
+                    50026 [XML] [Event] Lord's Fragments
+                    50027 [XML] [Event/weekly] Searching for the Vitality of the Soul
+                    50028 [XML] [Event/Week.] Searching for the Essence of Life
+                    50029 [XML] [Event/Daily] The Alchemist's Experiment
+                    50030 [XML] [Event/Repeatable Event] The Alchemist's Proposal
+                    50031 [XML] [Event/Daily] Deal a critical love hit
+                    50032 [XML] [Event/Weekly] Extensive Critical Love Hit
+                    50033 [XML] [Event] The Lord's Gleaming Cube
+                    51000 [XML] [Event] Heat of High Summer (Asmodians)
+                    51001 [XML] [Event] Heat of High Summer (Elyos)
+                    51005 [SCRIPT] [Event] Festival Energy
+                    51006 [SCRIPT] [Event] The Day of the Daeva
+                    51008 [SCRIPT] [Event/Daily] Non-Helping Hands
+                    51010 [XML] [Event] Bitter or Sweet?
+                    51019 [XML] [Event/Daily] Cutie-Wootie Choco Wuv
+                    51020 [XML] [Event/Daily] Chocolate, Extra-Bitter
+                    51021 [XML] [Event/Daily] Candypocalypse
+                    51022 [XML] [Event] Just Shove-l It
+                    51023 [XML] [Event] Mysterious Scrolls in Asmodae
+                    51024 [XML] [Event] Right to the Heart
+                    51025 [XML] [Event] Left with Half a Heart
+                    51026 [XML] [Event] Lord's Fragments
+                    51027 [XML] [Event/weekly] Searching for the Vitality of the Soul
+                    51028 [XML] [Event/Week.] Searching for the Essence of Life
+                    51029 [XML] [Event/Daily] The Alchemist's Experiment
+                    51030 [XML] [Event/Repeatable Event] The Alchemist's Proposal
+                    51031 [XML] [Event/Daily] Deal a critical love hit
+                    51032 [XML] [Event/Weekly] Extensive Critical Love Hit // TODO
+                    51033 [XML] [Event] The Lord's Gleaming Cube // TODO
+                    80000 [SCRIPT] [Event] Joyful Daeva's Day
+                    80001 [SCRIPT] [Event] Festive Daeva's Day
+                    80008 [SCRIPT] [Event] Piece of Cake!
+                    80009 [SCRIPT] [Event] The Cake is the Truth!
+                    80059 [XML] [Event] Information Dealing
+                    80074 [XML] [Event] Swimsuits Galore
+                    80075 [XML] [Event] Kinah Galore
+                    80172 [XML] [Event] Father's Letter
+                    80173 [XML] [Event] Ressurection of the Guard
+                    80174 [XML] [Event] Elimination of the Crazed Beast
+                    80175 [XML] [Event] Mother's Healing Elixir
+                    80176 [XML] [Event] Father's Letter
+                    80178 [XML] [Event] Eliminate the Crazed Beast
+                    80179 [XML] [Event] Mother's Healing Elixir
+                    80184 [XML] [Event] Vow of Eternity
+                    80185 [XML] [Event] Bonds of the Past
+                    80186 [XML] [Event] Lovers' Secret
+                    80187 [XML] [Event] Hopeless Love
+                    80192 [XML] [Event] Trade Guild
+                    80193 [XML] [Event] Recommendation of the Trade Guild
+                    80194 [XML] [Event] Trade Guild Test
+                    80195 [XML] [Event] Provisions for the Trade Guild
+                    80200 [XML] [Event] Difficult Confession
+                    80201 [XML] [Event] Love Letter
+                    80202 [XML] [Event] A Heart for Friends
+                    80203 [XML] [Event] Divided Hearts
+                    80204 [XML] [Event] Sincerity in Uniform
+                    80205 [XML] [Event] Inisha's Revenge
+                    80206 [XML] [Event] The reason why the Manduri are doing poorly.
+                    80207 [XML] [Event] Sniff, sniff, what is that strange smell?
+                    80208 [XML] [Event] Love is like a Reed
+                    80209 [XML] [Event] Request of the Daru Defence Alliance
+                    80210 [XML] [Event] Dado for the Children
+                    80211 [XML] [Event] Flashy Earrings
+                    80256 [XML] [Event] Congratulations!
+                    80257 [XML] [Event] Prepare a simple birthday meal
+                    80258 [XML] [Event] Prepare a simple birthday meal
+                    80259 [XML] [Event] Preparing a Birthday Celebration Feast
+                    80260 [XML] [Event] Preparing a Birthday Celebration Feast
+                    80261 [XML] [Event] Preparing a Birthday Celebration Feast
+                    80262 [XML] [Event] Prepare a simple birthday meal
+                    80263 [XML] [Event] Prepare a simple birthday meal
+                    80264 [XML] [Event] Preparing a Birthday Celebration Feast
+                    80265 [XML] [Event] Preparing a Birthday Celebration Feast
+                    80266 [XML] [Event] Preparing a Birthday Celebration Feast
+                    80267 [XML] Removed
+                    80273 [XML] [Event] To Daeva Day and the Daevas!
+                    80284 [XML] [Event] Beer Festival
+                    80285 [XML] [Event] Beer Festival
+                    80298 [XML] [Event] Bitter or Sweet?
+                    80299 [XML] [Event] Bitter or Sweet?
+                    80300 [XML] [Event/Daily] Chocolate Tower Jewellery
+                    80301 [XML] [Event/Daily] Chocolate Bomb
+                    80302 [XML] [Event/Daily] Fine, hand-made candy for the girlfriend
+                    80303 [XML] [Event/Daily] Task of the Carefree Singles
+                    80304 [XML] [Event] Bitter or Sweet?
+                    80305 [XML] [Event] Bitter or Sweet?
+                    80306 [XML] [Event/Daily] Chocolate Tower Jewellery
+                    80307 [XML] [Event/Daily] Chocolate Bomb
+                    80308 [XML] [Event/Daily] Fine, hand-made candy for the girlfriend
+                    80309 [XML] [Event/Daily] Task of the Carefree Singles
+                    80312 [XML] Cielo is worried
+                    80313 [XML] Fabiola's request
+                    80314 [XML] For the Elyos
+                    80315 [XML] Why the Guardian shines
+                    80316 [XML] The Guardian Heroes' Due (Attacker)
+                    80317 [XML] The Guardian Heroes' Due (Mage)
+                    80318 [XML] Arabella's worries
+                    80319 [XML] Ziba's Request
+                    80320 [SCRIPT] For the Asmodians
+                    80321 [XML] The cause of the Archon hero's radiance
+                    80322 [XML] The Archon Heroes' Due (Attacker)
+                    80323 [XML] The Archon Heroes' Due (Mage)
+                    80328 [XML] [Event/Daily] Die of the Travelling Theatre
+                    80329 [XML] [Event/Daily] Die of the Travelling Theatre
+                    80324 [XML] [Event/Daily] Remedy for the Body (Elyos)
+                    80325 [XML] [Event/Daily] Remedy for the Heart (Elyos)
+                    80326 [XML] [Event/Daily] Remedy for the Body (Asmodians)
+                    80327 [XML] [Event/Daily] Remedy for the Heart (Asmodians)
+					80344 [XML] [Event] Alchemist's Gift
+                    80467 [XML] [Event] Cake containing the Lord's energy (Elyos)
+                    80468 [XML] [Event] Cake containing the Lord's energy (Asmodians)
+                    80469 [XML] [Event] Atreia, filled with the Lord's energy (Elyos)
+                    80470 [XML] [Event] Atreia, filled with the Lord's energy (Asmodians)
+					80475 [XML] [Event] A Roaring Bonfire 
+					80476 [XML] [Event] Drowning Is not an Option
+					80477 [XML] [Event] Fire, Fire Burning Bright
+					80478 [XML] [Event] Splish, Splash
+                    80575 [XML] [Event] Snow in Atreia (Elyos)
+                    80578 [XML] [Event] Snow in Atreia (Asmodians)
+            [END] SUMMARY
+    -->
+    <!-- REPORTING QUESTS -->
+    <report_to id="50000" start_npc_ids="799707" end_npc_ids="799705"/>
+    <report_to id="50001" start_npc_ids="799706" end_npc_ids="799705"/>
+    <report_to id="51000" start_npc_ids="799795" end_npc_ids="799793"/>
+    <report_to id="51001" start_npc_ids="799794" end_npc_ids="799793"/>
+    <report_to id="80324" start_npc_ids="831434" end_npc_ids="831447"/>
+    <report_to id="80325" start_npc_ids="831433" end_npc_ids="831447"/>
+    <report_to id="80326" start_npc_ids="831440" end_npc_ids="831448"/>
+    <report_to id="80327" start_npc_ids="831439" end_npc_ids="831448"/>
+    <report_to id="80575" start_npc_ids="832041" end_npc_ids="832041"/>
+    <report_to id="80578" start_npc_ids="832041" end_npc_ids="832041"/>
+	<report_to_many id="80344" start_npc_ids="831787" end_npc_ids="831787">
+        <npc_infos var="0" npc_id="831787" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many> 
+    <report_to_many id="80467" start_npc_ids="831859" end_npc_ids="831859">
+        <npc_infos var="0" npc_id="831859" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+    <report_to_many id="80468" start_npc_ids="831860" end_npc_ids="831860">
+        <npc_infos var="0" npc_id="831860" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+    <report_to_many id="80469" start_npc_ids="831861" end_npc_ids="831861">
+        <npc_infos var="0" npc_id="831861" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+    <report_to_many id="80470" start_npc_ids="831862" end_npc_ids="831862">
+        <npc_infos var="0" npc_id="831862" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+    <report_to_many id="80683" start_npc_ids="832965" end_npc_ids="832965">
+        <npc_infos var="0" npc_id="832965" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many> 
+	<report_to_many id="80686" start_npc_ids="832976" end_npc_ids="832976">
+        <npc_infos var="0" npc_id="832976" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many> 
+	<report_to_many id="80687" start_npc_ids="832977" end_npc_ids="832977">
+        <npc_infos var="0" npc_id="832977" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many> 
+	<report_to_many id="80684" start_npc_ids="832966" end_npc_ids="832966">
+        <npc_infos var="0" npc_id="832966" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+    <!-- COLLECTING QUESTS -->
+    <item_collecting start_npc_ids="202549" id="50010"/>
+    <item_collecting start_npc_ids="202549" id="50019"/>
+    <item_collecting start_npc_ids="202549" id="50020"/>
+    <item_collecting start_npc_ids="202549" id="50022"/>
+    <item_collecting start_npc_ids="831071" id="50023"/>
+    <item_collecting start_npc_ids="701471" id="50024"/>
+    <item_collecting start_npc_ids="701471" id="50025"/>
+    <item_collecting start_npc_ids="701471" id="50026"/>
+    <item_collecting start_npc_ids="831080" id="50027"/>
+    <item_collecting start_npc_ids="831090" id="50028"/>
+    <item_collecting start_npc_ids="831090" id="50029"/>
+    <item_collecting start_npc_ids="831090" id="50030"/>
+    <item_collecting start_npc_ids="801036" id="50032"/>
+    <item_collecting start_npc_ids="832182" id="50033"/>
+    <item_collecting start_npc_ids="202549" id="51010"/>
+    <item_collecting start_npc_ids="202549" id="51020"/>
+    <item_collecting start_npc_ids="202549" id="51022"/>
+    <item_collecting start_npc_ids="831072" id="51023"/>
+    <item_collecting start_npc_ids="701472" id="51024"/>
+    <item_collecting start_npc_ids="701472" id="51025"/>
+    <item_collecting start_npc_ids="831080" id="51026"/>
+    <item_collecting start_npc_ids="831092" id="51027"/>
+    <item_collecting start_npc_ids="831092" id="51028"/>
+    <item_collecting start_npc_ids="798301" id="51029"/>
+    <item_collecting start_npc_ids="831092" id="51030"/>
+    <item_collecting start_npc_ids="000000" id="51032"/> <!-- TODO -->
+    <item_collecting start_npc_ids="000000" id="51033"/> <!-- TODO -->
+    <item_collecting start_npc_ids="205474" id="80059"/>
+    <item_collecting start_npc_ids="205481" id="80074"/>
+    <item_collecting start_npc_ids="205481" id="80075"/>
+    <item_collecting start_npc_ids="799763" id="80172"/>
+    <item_collecting start_npc_ids="799763" id="80173"/>
+    <item_collecting start_npc_ids="799763" id="80174"/>
+    <item_collecting start_npc_ids="799763" id="80175"/>
+    <item_collecting start_npc_ids="799763" id="80176"/>
+    <item_collecting start_npc_ids="799763" id="80178"/>
+    <item_collecting start_npc_ids="799763" id="80179"/>
+    <item_collecting start_npc_ids="799763" id="80184"/>
+    <item_collecting start_npc_ids="799763" id="80185"/>
+    <item_collecting start_npc_ids="799763" id="80186"/>
+    <item_collecting start_npc_ids="799763" id="80187"/>
+    <item_collecting start_npc_ids="799763" id="80192"/>
+    <item_collecting start_npc_ids="799763" id="80193"/>
+    <item_collecting start_npc_ids="799763" id="80194"/>
+    <item_collecting start_npc_ids="799763" id="80195"/>
+    <item_collecting start_npc_ids="799763" id="80200"/>
+    <item_collecting start_npc_ids="799763" id="80201"/>
+    <item_collecting start_npc_ids="799763" id="80202"/>
+    <item_collecting start_npc_ids="799763" id="80203"/>
+    <item_collecting start_npc_ids="799763" id="80204"/>
+    <item_collecting start_npc_ids="799763" id="80205"/>
+    <item_collecting start_npc_ids="799763" id="80206"/>
+    <item_collecting start_npc_ids="799763" id="80207"/>
+    <item_collecting start_npc_ids="799763" id="80208"/>
+    <item_collecting start_npc_ids="799763" id="80209"/>
+    <item_collecting start_npc_ids="799763" id="80210"/>
+    <item_collecting start_npc_ids="799763" id="80211"/>
+    <item_collecting start_npc_ids="799763" id="80256"/>
+    <item_collecting start_npc_ids="799763" id="80257"/>
+    <item_collecting start_npc_ids="799763" id="80258"/>
+    <item_collecting start_npc_ids="799763" id="80259"/>
+    <item_collecting start_npc_ids="799763" id="80260"/>
+    <item_collecting start_npc_ids="799763" id="80261"/>
+    <item_collecting start_npc_ids="799763" id="80262"/>
+    <item_collecting start_npc_ids="799763" id="80263"/>
+    <item_collecting start_npc_ids="799763" id="80264"/>
+    <item_collecting start_npc_ids="799763" id="80265"/>
+    <item_collecting start_npc_ids="799763" id="80266"/>
+    <item_collecting start_npc_ids="799763" id="80267"/>
+    <item_collecting start_npc_ids="799763" id="80273"/>
+    <item_collecting start_npc_ids="831248" id="80284"/>
+    <item_collecting start_npc_ids="831249" id="80285"/>
+    <item_collecting start_npc_ids="799763" id="80298"/>
+    <item_collecting start_npc_ids="799763" id="80299"/>
+    <item_collecting start_npc_ids="799763" id="80300"/>
+    <item_collecting start_npc_ids="799763" id="80301"/>
+    <item_collecting start_npc_ids="799763" id="80302"/>
+    <item_collecting start_npc_ids="799763" id="80303"/>
+    <item_collecting start_npc_ids="799763" id="80304"/>
+    <item_collecting start_npc_ids="799763" id="80305"/>
+    <item_collecting start_npc_ids="799763" id="80306"/>
+    <item_collecting start_npc_ids="799763" id="80307"/>
+    <item_collecting start_npc_ids="799763" id="80308"/>
+    <item_collecting start_npc_ids="799763" id="80309"/>
+    <item_collecting start_npc_ids="799763" id="80312"/>
+    <item_collecting start_npc_ids="799763" id="80313"/>
+    <item_collecting start_npc_ids="799763" id="80314"/>
+    <item_collecting start_npc_ids="799763" id="80315"/>
+    <item_collecting start_npc_ids="799763" id="80316"/>
+    <item_collecting start_npc_ids="799763" id="80317"/>
+    <item_collecting start_npc_ids="799763" id="80318"/>
+    <item_collecting start_npc_ids="799763" id="80319"/>
+    <item_collecting start_npc_ids="799763" id="80321"/>
+    <item_collecting start_npc_ids="799763" id="80322"/>
+    <item_collecting start_npc_ids="799763" id="80323"/>
+    <item_collecting start_npc_ids="799763" id="80328"/>
+    <item_collecting start_npc_ids="799763" id="80329"/>
+	<item_collecting start_npc_ids="831871" id="80475"/> 
+	<item_collecting start_npc_ids="831873" id="80477"/>
+	<item_collecting start_npc_ids="831874" id="80478"/> 
+	<item_collecting start_npc_ids="831872" id="80476"/>   
+	<item_collecting start_npc_ids="832973" id="80685"/>
+    <item_collecting start_npc_ids="832978" id="80688"/>
+
+    <!-- ely -->
+	<item_collecting start_npc_ids="832986" id="80705"/>
+    <item_collecting start_npc_ids="832967" id="80677"/> 
+    <item_collecting start_npc_ids="832967" id="80676"/>
+    <item_collecting start_npc_ids="832967" id="80675"/>
+    <item_collecting start_npc_ids="832967" id="80674"/>
+    <item_collecting start_npc_ids="832967" id="80673"/> 
+	<!-- asmo -->
+	<item_collecting start_npc_ids="832987" id="80706"/>
+    <item_collecting start_npc_ids="832970" id="80682"/> 
+    <item_collecting start_npc_ids="832970" id="80681"/>
+    <item_collecting start_npc_ids="832970" id="80680"/>
+    <item_collecting start_npc_ids="832970" id="80679"/>
+    <item_collecting start_npc_ids="832970" id="80678"/> 
+     <!-- alegro for asmo-->  	 
+    <item_collecting start_npc_ids="832972" id="80704"/>
+    <item_collecting start_npc_ids="832972" id="80703"/>
+    <item_collecting start_npc_ids="832972" id="80702"/>
+    <item_collecting start_npc_ids="832972" id="80701"/>     
+     <!-- alegro for elloys-->
+    <item_collecting start_npc_ids="832969" id="80700"/>
+    <item_collecting start_npc_ids="832969" id="80699"/>
+    <item_collecting start_npc_ids="832969" id="80698"/>
+    <item_collecting start_npc_ids="832969" id="80697"/>
+    <!-- HUNTING QUESTS -->
+    <monster_hunt start_npc_ids="202549" id="50021">
+        <monster var="0" npc_ids="217161" end_var="15"/>
+    </monster_hunt>
+    <monster_hunt start_npc_ids="202549" id="51019">
+        <monster var="0" npc_ids="217161" end_var="15"/>
+    </monster_hunt>
+    <monster_hunt start_npc_ids="202549" id="51021">
+        <monster var="0" npc_ids="217161" end_var="15"/>
+    </monster_hunt>
+    <!-- KILL IN WORLD QUESTS -->
+    <kill_in_world id="50031" start_npc_ids="831783" end_npc_ids="831783" worlds="0" amount="5"/>
+    <kill_in_world id="51031" start_npc_ids="831784" end_npc_ids="831784" worlds="0" amount="5"/>
+</quest_scripts>

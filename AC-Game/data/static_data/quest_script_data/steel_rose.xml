@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest_scripts>
+    <!--
+            [BEGIN] SUMMARY
+                                16950 [XML] Evidence of the Betrayal
+                16951 [XML] Attacking the Steel Rose
+                16952 [XML] Melody Magic Crystal
+                16953 [XML] The Bitter Price of Betrayal
+                16954 [XML] [Group] The Diabolical Bard
+                16955 [XML] [Group] The Wingless Rose		
+                                26950 [XML] The Black List
+                26951 [XML] Supply Chain
+                26952 [XML] Crystaline Siren Song
+                26953 [XML] The Price of Betrayal
+                26954 [XML] [Group] Dread Pirate Rumakiki
+                26955 [XML] [Group] Arms Reclamation
+                        [END] SUMMARY
+    -->
+
+    <!-- COLLECTING QUESTS -->
+    <item_collecting id="16950" start_npc_ids="801289" next_npc_id="801292" end_npc_ids="801292"/>
+    <item_collecting id="16952" start_npc_ids="801292" end_npc_ids="801292"/>
+    <item_collecting id="16954" start_npc_ids="801292" end_npc_ids="801292"/>
+    <item_collecting id="26950" start_npc_ids="801290" next_npc_id="804488" end_npc_ids="804488"/>
+    <item_collecting id="26952" start_npc_ids="804488" end_npc_ids="804488"/>
+    <item_collecting id="26954" start_npc_ids="804488" end_npc_ids="804488"/>
+    <!-- HUNTING QUESTS -->
+    <monster_hunt id="16951" start_npc_ids="801292" end_npc_ids="801292">
+        <monster var="0" npc_ids="230662 230737" end_var="1"/>
+    </monster_hunt>
+    <monster_hunt id="16953" start_npc_ids="801292" end_npc_ids="801292">
+        <monster var="0" npc_ids="230665 230740" end_var="1"/>
+    </monster_hunt>
+    <monster_hunt id="16955" start_npc_ids="801292" end_npc_ids="801292">
+        <monster var="0" npc_ids="230741" end_var="1"/>
+        <monster var="1" npc_ids="230742" end_var="1"/>
+    </monster_hunt>
+    <monster_hunt id="26951" start_npc_ids="804488" end_npc_ids="804488">
+        <monster var="0" npc_ids="230662 230737" end_var="1"/>
+    </monster_hunt>
+    <monster_hunt id="26953" start_npc_ids="804488" end_npc_ids="804488">
+        <monster var="0" npc_ids="230665 230740" end_var="1"/>
+    </monster_hunt>
+    <monster_hunt id="26955" start_npc_ids="804488" end_npc_ids="804488">
+        <monster var="0" npc_ids="230741" end_var="1"/>
+        <monster var="1" npc_ids="230742" end_var="1"/>
+    </monster_hunt>
+</quest_scripts>

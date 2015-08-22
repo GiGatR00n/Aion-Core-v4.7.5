@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<spawns>
+    <spawn_map map_id="300800000">
+        <!-- ide forcefield generator -->
+        <spawn npc_id="231074">
+            <spot x="127.41111" y="163.14302" z="129.22812" static_id="28"/>
+        </spawn>
+        <!-- agent kabalash -->
+        <spawn npc_id="231075">
+            <spot x="135.19272" y="114.58061" z="130.38977" h="10"/>
+        </spawn>
+        <!-- hyperion defense elite sniper -->
+        <spawn npc_id="231076">
+            <spot x="133.41827" y="116.41747" z="130.38977" h="10"/>
+        </spawn>
+        <!-- hyperion defense elite sniper -->
+        <spawn npc_id="231077">
+            <spot x="135.96033" y="112.04886" z="130.38977" h="13"/>
+        </spawn>
+        <!-- ide forcefield generator -->
+        <spawn npc_id="231078">
+            <spot x="131.1161" y="112.20678" z="128.9285" static_id="29"/>
+        </spawn>
+        
+        <!-- hyperion defense elite sniper -->
+        <spawn npc_id="231080">
+            <spot x="147.41049" y="131.2569" z="114.49583" h="60"/>
+        </spawn>
+        <!-- hyperion defense elite medic -->
+        <spawn npc_id="231081">
+            <spot x="153.60158" y="129.60774" z="114.49583" h="60"/>
+        </spawn>
+        <!-- ide forcefield generator -->
+        <spawn npc_id="231082">
+            <spot x="106.50443" y="139.8147" z="112.0556" static_id="30"/>
+        </spawn>
+        <!-- hyperion defense elite assassin -->
+        <spawn npc_id="231083">
+           <spot x="149.90932" y="130.18727" z="112.446014" h="82"/>
+        </spawn>
+        <!-- hyperion defense elite assaulter -->
+        <spawn npc_id="231084">
+            <spot x="103.88958" y="144.22289" z="114.03043" h="16"/>
+        </spawn>
+        <!-- hyperion defense elite medic -->
+        <spawn npc_id="231085">
+            <spot x="110.87956" y="142.63342" z="114.03043" h="20"/>
+        </spawn>
+        <!-- ide forcefield generator -->
+        <spawn npc_id="231086">
+            <spot x="152.0999" y="136.23021" z="112.0556" static_id="31"/>
+        </spawn>
+        <!-- hyperion defense elite magnus -->
+        <spawn npc_id="231087">
+            <spot x="124.26849" y="162.34309" z="129.49791" h="70"/>
+        </spawn>
+        <!-- hyperion defense elite sniper -->
+        <spawn npc_id="231088">
+            <spot x="123.18574" y="163.88089" z="129.49791" h="70"/>
+        </spawn>
+        <!-- hyperion defense elite sniper -->
+        <spawn npc_id="231089">
+            <spot x="125.0711" y="160.5697" z="129.49791" h="70"/>
+        </spawn>
+        <!-- hyperion defense elite fighter -->
+        <spawn npc_id="231090">
+            <spot x="121.631096" y="159.30258" z="116.38591" h="119"/>
+        </spawn>
+        <!-- hyperion defense elite gunner -->
+        
+        <!-- Ide Resonator -->
+        <spawn npc_id="231092">
+            <spot x="108.55013" y="138.96948" z="132.60164"/>
+        </spawn>
+        <!-- Ide Resonator -->
+        <spawn npc_id="231093">
+            <spot x="126.5471" y="154.47961" z="131.47116" h="90"/>
+        </spawn>
+        <!-- Ide Resonator -->
+        <spawn npc_id="231094">
+            <spot x="146.72455" y="139.12267" z="132.68515" h="60"/>
+        </spawn>
+        <!-- Ide Resonator -->
+        <spawn npc_id="231095">
+            <spot x="129.41306" y="121.34766" z="131.47116" h="30"/>
+        </spawn>
+        <!-- Idgel Haste Cube -->
+        <spawn npc_id="233259">
+            <spot x="128.54974" y="137.94113" z="131.13451"/>
+        </spawn>
+        <!-- Ide Pool -->
+        <spawn npc_id="231104">
+            <spot x="119.27155" y="140.53506" z="112.72166"/>
+            <spot x="125.3606" y="129.54079" z="112.72166"/>
+            <spot x="132.11191" y="127.70908" z="112.72166"/>
+            <spot x="132.67807" y="147.73148" z="112.72166"/>
+            <spot x="140.80264" y="139.37488" z="112.72166"/>
+        </spawn>
+        <!-- Summoned Ancient Tyrhund
+        <spawn npc_id="231103">
+                <spot x="113.02703" y="140.92065" z="114.50903"/>
+                <spot x="117.32612" y="143.28151" z="114.50903"/>
+                <spot x="122.51532" y="132.23872" z="114.50903"/>
+                <spot x="128.51788" y="146.87315" z="114.50903"/>
+                <spot x="130.39738" y="128.78751" z="114.50903"/>
+                <spot x="134.41382" y="144.65814" z="114.50903"/>
+                <spot x="141.98439" y="134.14197" z="114.50903"/>
+                <spot x="143.54959" y="132.97408" z="114.50903"/>
+        </spawn> -->
+        <!-- Hyperion -->
+        <spawn npc_id="231073">
+            <spot x="128.54974" y="137.94113" z="112.17429"/>
+        </spawn>
+        <!-- protective shield generator -->
+        <spawn npc_id="284437">
+            <spot x="129.26147" y="137.86557" z="110.50481" static_id="27"/>
+        </spawn>
+    </spawn_map>
+</spawns>

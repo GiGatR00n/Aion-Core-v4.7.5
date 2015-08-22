@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shields xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="siege_shields.xsd">
+    <shield id="1011" map="400010000" name="DIVINE_FORTRESS" radius="86.0">
+        <center x="2137.505" y="1930.4448" z="2334.0"/>
+    </shield>
+    <shield id="1131" map="400010000" name="OCCIDENTAL_FORTRESS" radius="50.0">
+        <center x="2790.043" y="2609.036" z="1516.0541"/>
+    </shield>
+    <shield id="1132" map="400010000" name="ORRIENTAL_FORTRESS" radius="45.0">
+        <center x="2606.9697" y="2851.571" z="1518.6099"/>
+    </shield>
+    <shield id="1141" map="400010000" name="SULFUR_FORTRESS" radius="45.0">
+        <center x="1377.7744" y="1146.7361" z="1526.7069"/>
+    </shield>
+    <shield id="1211" map="400010000" name="ROAH_FORTRESS" radius="45.0">
+        <center x="2734.4033" y="800.9453" z="2885.062"/>
+    </shield>
+    <shield id="1221" map="400010000" name="KROTAN_FORTRESS" radius="40.0">
+        <center x="2056.8843" y="1278.4554" z="2976.2769"/>
+    </shield>
+    <shield id="1231" map="400010000" name="KYSIS_FORTRESS" radius="45.0">
+        <center x="2506.1921" y="2108.306" z="3062.717"/>
+    </shield>
+    <shield id="1241" map="400010000" name="MIREN_FORTRESS" radius="50.0">
+        <center x="1782.4957" y="2281.958" z="2963.6975"/>
+    </shield>
+    <shield id="1251" map="400010000" name="ASTERIA_FORTRESS" radius="55.0">
+        <center x="720.9435" y="2960.121" z="2907.4785"/>
+    </shield>
+    <!-- Inggison -->
+	<shield id="2011" map="210050000" name="TEMPLE_OF_SCALES" radius="50.0">
+		<center x="1727.6737" y="2236.8735" z="318.8204"/>
+		<center x="1728.2554" y="2236.928" z="318.25027"/>
+	</shield>
+	<shield id="2021" map="210050000" name="ALTAR_OF_AVARICE" radius="50.0">
+		<center x="885.12506" y="1979.97" z="331.24524"/>
+		<center x="885.60565" y="1979.6377" z="330.67511"/>
+	</shield>
+	<!-- Gelkmaros -->
+	<shield id="3011" map="220070000" name="VORGALTEM_CITADEL" radius="50.0">
+		<center x="1197.1636" y="802.98633" z="303.94772"/>
+		<center x="1196.5913" y="803.10443" z="303.37759"/>
+	</shield>
+	<shield id="3021" map="220070000" name="CRIMSOM_TEMPLE" radius="50.0">
+		<center x="1880.5216" y="1041.667" z="320.22729"/>
+		<center x="1881.0957" y="1041.559" z="320.79742"/>
+	</shield>
+</shields>

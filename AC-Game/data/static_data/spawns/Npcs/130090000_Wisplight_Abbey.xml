@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<spawns xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <spawn_map map_id="130090000">
+        <!-- Adrena -->
+        <spawn npc_id="804661" respawn_time="295">
+            <spot x="242.50053" y="266.85034" z="130.23604" h="90"/>
+        </spawn>
+        <!-- Agnes -->
+        <spawn npc_id="804654" respawn_time="295">
+            <spot x="256.42606" y="296.46173" z="131.29041" h="75"/>
+        </spawn>
+        <!-- Aiming -->
+        <spawn npc_id="804695" respawn_time="295">
+            <spot x="235.31483" y="252.5274" z="130.23604"/>
+        </spawn>
+        <!-- Argius -->
+        <spawn npc_id="804656" respawn_time="295">
+            <spot x="258.30603" y="259.87329" z="130.23604" h="60"/>
+        </spawn>
+        <!-- Dereus -->
+        <spawn npc_id="804693" respawn_time="295">
+            <spot x="258.30603" y="252.32512" z="130.23604" h="60"/>
+        </spawn>
+        <!-- Deronis -->
+        <spawn npc_id="804653" respawn_time="295">
+            <spot x="240.65581" y="299.64941" z="131.29041" h="105"/>
+        </spawn>
+        <!-- Elgon -->
+        <spawn npc_id="804658" respawn_time="295">
+            <spot x="235.34206" y="260.16205" z="130.23604"/>
+        </spawn>
+        <!-- Karona -->
+        <spawn npc_id="804657" respawn_time="295">
+            <spot x="258.30603" y="256.12384" z="130.23604" h="60"/>
+        </spawn>
+        <!-- Kerojus -->
+        <spawn npc_id="804655" respawn_time="295">
+            <spot x="254.00732" y="280.71707" z="131.29041" h="45"/>
+        </spawn>
+        <!-- Rena -->
+        <spawn npc_id="804651" respawn_time="295">
+            <spot x="243.38123" y="238.80342" z="130.23604" h="105"/>
+        </spawn>
+        <!-- Rotea -->
+        <spawn npc_id="804652" respawn_time="295">
+            <spot x="239.35791" y="281.14148" z="131.29041" h="15"/>
+        </spawn>
+        <!-- Tezea -->
+        <spawn npc_id="804659" respawn_time="295">
+            <spot x="235.31483" y="256.392" z="130.23604"/>
+        </spawn>
+        <!-- Trabos -->
+        <spawn npc_id="804660" respawn_time="295">
+            <spot x="251.58197" y="266.74738" z="130.23604" h="90"/>
+        </spawn>
+		<!-- Entrance 1 -->
+		<spawn npc_id="804677" respawn_time="295">
+			<spot x="256.18573" y="299.34811" z="130.30666" static_id="18"/>
+		</spawn>
+		<!-- Entrance 2 -->
+		<spawn npc_id="804678" respawn_time="295">
+			<spot x="237.73581" y="299.29596" z="130.30666" static_id="1"/>
+		</spawn>
+		<!-- Entrance 3 -->
+		<spawn npc_id="804679" respawn_time="295">
+			<spot x="256.91629" y="281.27362" z="130.30666" static_id="26"/>
+		</spawn>
+		<!-- Entrance 4 -->
+		<spawn npc_id="804680" respawn_time="295">
+			<spot x="236.74979" y="281.51816" z="130.30666" static_id="2"/>
+		</spawn>
+		<!-- Sanctum teleporter -->
+		<spawn npc_id="804687" respawn_time="295">
+			<spot x="247.06088" y="220.67172" z="129.28482" static_id="81"/>
+		</spawn>
+    </spawn_map>
+</spawns>

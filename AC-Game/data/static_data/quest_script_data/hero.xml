@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+    <!--
+            [BEGIN] SUMMARY
+                    13500 [SCRIPT] [Achievement] Examine the Katalam Base
+                    13509 [XML] [Hero] Achievements in Katalam
+                    13510 [XML] [Hero] Conquering Katalam
+                    13511 [XML] [Hero/Daily/Group] First Accomplishment
+                    13512 [XML] [Hero/Daily/Group] Second Accomplishment
+                    13513 [XML] [Hero/Daily/Group] Third Accomplishment
+                    13514 [XML] [Hero/Daily/Group] Fourth Accomplishment
+                    13515 [XML] [Hero/Alliance] Pashid's Claw
+                    13516 [SCRIPT] [Hero/Group] Genral Disarray
+                    13517 [SCRIPT] [Hero/Group] An Officer and Asmodian
+                    13518 [XML] [Hero/Alliance] Assasination Attempts
+                    13519 [XML] [High] The Darker Means of War
+                    13520 [XML] [Highest] Tarbosch Must Die, Part I
+                    13521 [XML] [Highest] Tarbosch Must Die, Part II
+                    13522 [XML] [Highest] Tarbosch Must Die, Part III
+                    13523 [SCRIPT] [Hero] Complete the Danuar Mysticarium
+                    13524 [SCRIPT] [Hero/Group] Complete the Idgel Research Center
+                    13525 [SCRIPT] [Hero/Group] Complete the Void Cube
+                    13526 [SCRIPT] [Hero] Ruler of Katalam
+                    13527 [SCRIPT] [Hero/Group] Reliving Old Habits
+                    13528 [XML] [Hero/Group] Trust Among Friends
+                    13529 [XML] [Hero/Alliance] In Every Instance
+                    13530 [SCRIPT] [Hero] A Hero's Reward
+                    13531 [TODO] [Hero/Daily/Group] Old Habits Die Hard
+                    23500 [SCRIPT] [Achievement] Inspect the Katalam Base
+                    23509 [XML] [Hero] Building Achievements in Katalam
+                    23510 [XML] [Hero] For Honor!
+                    23511 [XML] [Hero/Daily/Group] For the Cause!
+                    23512 [XML] [Hero/Daily/Group] For our People!
+                    23513 [XML] [Hero/Daily/Group] Again, our Victory!
+                    23514 [XML] [Hero/Daily/Group] Again, our Honor!
+                    23515 [XML] [Hero/Alliance] War Trophies			
+                    23516 [SCRIPT] [Hero/Group] Elyos Heads
+                    23517 [SCRIPT] [Hero/Group] Chain of Command
+                    23518 [XML] [Hero/Alliance] Save the Fortresses!
+                    23519 [XML] [Hero] To Take a Fortress
+                    23520 [XML] [Hero] Tarbosch's Death 1
+                    23521 [XML] [Hero/Group] Tarbosch's Death 2
+                    23522 [XML] [Hero/Alliance] Tarbosch's Death 3
+                    23523 [SCRIPT] [Hero] Conquer the Danuar Mysticarium
+                    23524 [SCRIPT] [Hero/Group] Conquer the Idgel Research Center
+                    23525 [SCRIPT] [Hero/Group] Conquer the Void Cube
+                    23526 [SCRIPT] [Hero] Conqueror of Katalam
+                    23527 [SCRIPT] [Hero/Group] Old Spirits, Old Grudges
+                    23528 [XML] [Hero/Group] Scales and Secrets
+                    23529 [XML] [Hero/Force] Repurposing the Past
+                    23530 [SCRIPT] [Hero] Just Rewards
+                    23531 [TODO] [Hero/Daily/Group] More Spirits, More Grudges
+            [END] SUMMARY
+    -->
+    <!-- REPORTING QUESTS -->
+    <!--<report_to id="13500" start_npc_ids="800527" end_npc_ids="801231 801233 801244"/>
+    <report_to id="23500" start_npc_ids="800529" end_npc_ids="801244"/>-->
+    <!-- COLLECTING QUESTS -->
+    <item_collecting id="13509" start_npc_ids="800527"/>
+    <item_collecting id="13510" start_npc_ids="800527"/>
+    <item_collecting id="13515" start_npc_ids="800527"/>
+    <item_collecting id="13528" start_npc_ids="801541"/>
+    <item_collecting id="13529" start_npc_ids="801540"/>
+    <item_collecting id="23509" start_npc_ids="800529"/>
+    <item_collecting id="23510" start_npc_ids="800529"/>
+    <item_collecting id="23515" start_npc_ids="800529"/>
+    <item_collecting id="23528" start_npc_ids="801544"/>
+    <item_collecting id="23529" start_npc_ids="801544"/>
+    <!-- HUNTING QUESTS -->
+    <monster_hunt id="13511" start_npc_ids="801027">
+        <monster var="0" npc_ids="801239" end_var="1"/>
+        <monster var="1" npc_ids="801240" end_var="1"/>
+        <monster var="2" npc_ids="801241" end_var="1"/>
+        <monster var="3" npc_ids="801242" end_var="1"/>
+    </monster_hunt>
+    <monster_hunt id="13512" start_npc_ids="801026">
+        <monster var="0" npc_ids="801243" end_var="1"/>
+        <monster var="1" npc_ids="801244" end_var="1"/>
+        <monster var="2" npc_ids="801245" end_var="1"/>
+        <monster var="3" npc_ids="801246" end_var="1"/>
+        <monster var="4" npc_ids="801247" end_var="1"/>
+    </monster_hunt>
+    <monster_hunt id="13513" start_npc_ids="801026">
+        <monster var="0" npc_ids="801046" end_var="1"/>
+        <monster var="1" npc_ids="801047" end_var="1"/>
+        <monster var="2" npc_ids="801048" end_var="1"/>
+        <monster var="3" npc_ids="801049" end_var="1"/>
+        <monster var="4" npc_ids="801050" end_var="1"/>
+    </monster_hunt>
+    <monster_hunt id="13514" start_npc_ids="801027">
+        <monster var="0" npc_ids="801051" end_var="1"/>
+        <monster var="1" npc_ids="801052" end_var="1"/>
+        <monster var="2" npc_ids="801053" end_var="1"/>
+        <monster var="3" npc_ids="801054" end_var="1"/>
+        <monster var="4" npc_ids="801055" end_var="1"/>
+    </monster_hunt>
+    <monster_hunt id="13518" start_npc_ids="800527">
+        <monster var="0" npc_ids="272291 272292 272293 272294 272295" end_var="1"/>
+        <monster var="1" npc_ids="272791 272792 272793 272794 272795" end_var="1"/>
+        <monster var="2" npc_ids="273339 273340 273341 273342 273343" end_var="1"/>
+    </monster_hunt>
+    <monster_hunt id="13521" start_npc_ids="800527" end_npc_ids="801057">
+        <monster var="0" npc_ids="231518" end_var="1"/>
+    </monster_hunt>
+    <monster_hunt id="13522" start_npc_ids="801057" end_npc_ids="800527">
+        <monster var="0" npc_ids="231490" end_var="1"/>
+    </monster_hunt>
+    <!--<monster_hunt id="13527" start_npc_ids="801948" end_npc_ids="801541">
+        <monster var="0" npc_ids="233302" end_var="1"/>
+        <monster var="1" npc_ids="233303" end_var="1"/>
+        <monster var="2" npc_ids="233304" end_var="1"/>
+        <monster var="3" npc_ids="233305" end_var="1"/>
+    </monster_hunt>-->
+    <monster_hunt id="23511" start_npc_ids="801001">
+        <monster var="0" npc_ids="801230" end_var="1"/>
+        <monster var="1" npc_ids="801231" end_var="1"/>
+        <monster var="2" npc_ids="801232" end_var="1"/>
+        <monster var="3" npc_ids="801233" end_var="1"/>
+    </monster_hunt>
+    <monster_hunt id="23512" start_npc_ids="801007">
+        <monster var="0" npc_ids="801234" end_var="1"/>
+        <monster var="1" npc_ids="801235" end_var="1"/>
+        <monster var="2" npc_ids="801236" end_var="1"/>
+        <monster var="3" npc_ids="801237" end_var="1"/>
+        <monster var="4" npc_ids="801238" end_var="1"/>
+    </monster_hunt>
+    <monster_hunt id="23513" start_npc_ids="801001">
+        <monster var="0" npc_ids="801036" end_var="1"/>
+        <monster var="1" npc_ids="801037" end_var="1"/>
+        <monster var="2" npc_ids="801038" end_var="1"/>
+        <monster var="3" npc_ids="801039" end_var="1"/>
+        <monster var="4" npc_ids="801040" end_var="1"/>
+    </monster_hunt>
+    <monster_hunt id="23514" start_npc_ids="801007">
+        <monster var="0" npc_ids="801041" end_var="1"/>
+        <monster var="1" npc_ids="801042" end_var="1"/>
+        <monster var="2" npc_ids="801043" end_var="1"/>
+        <monster var="3" npc_ids="801044" end_var="1"/>
+        <monster var="4" npc_ids="801045" end_var="1"/>
+    </monster_hunt>
+    <monster_hunt id="23518" start_npc_ids="800529">
+        <monster var="0" npc_ids="272291 272292 272293 272294 272295" end_var="1"/>
+        <monster var="1" npc_ids="272791 272792 272793 272794 272795" end_var="1"/>
+        <monster var="2" npc_ids="273339 273340 273341 273342 273343" end_var="1"/>
+    </monster_hunt>
+    <monster_hunt id="23521" start_npc_ids="800529" end_npc_ids="801061">
+        <monster var="0" npc_ids="231518" end_var="1"/>
+    </monster_hunt>
+    <monster_hunt id="23522" start_npc_ids="801061" end_npc_ids="800529">
+        <monster var="0" npc_ids="231490" end_var="1"/>
+    </monster_hunt>
+    <!--<monster_hunt id="23527" start_npc_ids="801949" end_npc_ids="801544">
+        <monster var="0" npc_ids="233302" end_var="1"/>
+        <monster var="1" npc_ids="233303" end_var="1"/>
+        <monster var="2" npc_ids="233304" end_var="1"/>
+        <monster var="3" npc_ids="233305" end_var="1"/>
+    </monster_hunt>-->
+    <!-- ITEM ORDERS QUESTS -->
+    <item_order id="13520" start_item_id="182213520" end_npc_id="800527"/>
+    <item_order id="23520" start_item_id="182213539" end_npc_id="800529"/>
+</quest_scripts>

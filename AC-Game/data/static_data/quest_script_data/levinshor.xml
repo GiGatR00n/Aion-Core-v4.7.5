@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+	<!--
+		[BEGIN] SUMMARY
+			13700 [XML] The Unknown Balaurea
+			13701 [XML] A New Land, A New War
+			13702 [XML] Tomul Tap
+			13703 [XML] [Group] Igniting the Conflict
+			13704 [XML] Fona's Quick Fix
+			13705 [XML] Coastal Bypass Operation
+			13706 [XML] North Relay Relay
+			13707 [TODO] Unused Quest
+			13708 [XML] Proximity Protect
+			13709 [TODO] Unused Quest
+			13711 [TODO] Unused Quest
+			13712 [XML] Mettling with Medals
+			13713 [TODO] Unused Quest
+			13714 [XML] Itea's Enticing Offer
+			13715 [TODO] Unused Quest
+			13717 [TODO] Unused Quest
+			13720 [TODO] Unused Quest
+			13722 [TODO] Unused Quest
+			13730 [SCRIPT] [Urgent Order] Fona's Request
+			13731 [SCRIPT] [Urgent Order] Feleus' Request
+			13732 [SCRIPT] [Urgent Order] Titanos' Request
+			13733 [SCRIPT] [Urgent Order] Tipaon's Request
+			13734 [SCRIPT] [Urgent Order] Rovicos' Request
+			13735 [SCRIPT] [Urgent Order] Faris' Request
+			13736 [SCRIPT] [Urgent Order] Pasi' Request
+			13737 [SCRIPT] [Urgent Order] Penteus' Request
+			13738 [SCRIPT] [Urgent Order] Povit's Request
+			13739 [SCRIPT] [Urgent Order] Olympon's Request
+			13740 [SCRIPT] [Urgent Order] Pompeius' Request
+			13741 [XML] [Daily] Subjugate the Fissured Aetheric Field
+			13742 [XML] [Daily] Bringing Law to the Cut
+			13743 [XML] [Daily] Bringing the Old Road up to Code
+			13744 [XML] [Urgent Order] Agent in Need
+			16931 [XML] Hyperion Intrusion
+			23700 [XML] Advancement in Levinshor
+			23701 [XML] Levinshor Chagrin
+			23702 [XML] Blood for Blood, Literally
+			23703 [XML] [Group] Secure the Shrine
+			23704 [XML] Loud Noises
+			23705 [XML] We Don't Need No Stinking Road
+			23706 [XML] Don't Eat the Messenger
+			23707 [TODO] Unused Quest
+			23708 [XML] Sound the Alarm
+			23709 [TODO] Unused Quest
+			23711 [TODO] Unused Quest
+			23712 [XML] Abeorn Makes Medals
+			23713 [TODO] Deleted Quest
+			23714 [XML] Legen-dary Medals
+			23715 [TODO] Deleted Quest
+			23717 [TODO] Deleted Quest
+			23720 [TODO] Deleted Quest
+			23722 [TODO] Deleted Quest
+			23730 [SCRIPT] [Urgent Order] Apetit's Request
+			23731 [SCRIPT] [Urgent Order] Reheln's Request
+			23732 [SCRIPT] [Urgent Order] Shri's Request
+			23733 [SCRIPT] [Urgent Order] Vanst's Request
+			23734 [SCRIPT] [Urgent Order] Rink's Request
+			23735 [SCRIPT] [Urgent Order] Kestum's Request
+			23736 [SCRIPT] [Urgent Order] Gemuit's Request
+			23737 [SCRIPT] [Urgent Order] Kaymen's Request
+			23738 [SCRIPT] [Urgent Order] Ziln's Request
+			23739 [SCRIPT] [Urgent Order] Kenoen's Request
+			23740 [SCRIPT] [Urgent Order] Mete's Request
+			23741 [XML] [Daily] Stonepike Strike
+			23742 [XML] [Daily] Vicious Half-Breeds
+			23743 [XML] [Daily] Underwood Under Spell
+			23744 [XML] [Urgent Order] Effect Elyos Elimination
+			26931 [XML] The Hyperion Awaits
+		[END] SUMMARY
+	-->
+	<!-- COLLECTING QUESTS -->
+		<item_collecting id="13706" start_npc_ids="802329" action_item_ids="702615"/>
+		<item_collecting id="13712" start_npc_ids="802579"/>
+		<item_collecting id="13714" start_npc_ids="802596"/>
+		<item_collecting id="13741" start_npc_ids="802350"/>
+		<item_collecting id="13742" start_npc_ids="802350"/>
+		<item_collecting id="13743" start_npc_ids="802350"/>
+		<item_collecting id="23706" start_npc_ids="802349" action_item_ids="702616"/>
+		<item_collecting id="23712" start_npc_ids="802579"/>
+		<item_collecting id="23714" start_npc_ids="802596"/>
+		<item_collecting id="23741" start_npc_ids="802353"/>
+		<item_collecting id="23742" start_npc_ids="802353"/>
+		<item_collecting id="23743" start_npc_ids="802353"/>
+	<!-- REPORTING QUESTS --> 
+	<report_to id="13700" start_npc_ids="800527" end_npc_ids="802350"/>
+	<report_to id="13701" start_npc_ids="798926" end_npc_ids="802350"/>
+	<report_to id="13704" start_npc_ids="802343" end_npc_ids="802343" item_id="182215527"/>
+	<report_to id="13708" start_npc_ids="802344" end_npc_ids="802344" item_id="182215529"/>
+	<report_to id="23700" start_npc_ids="800529" end_npc_ids="802353"/>
+	<report_to id="23701" start_npc_ids="800529" end_npc_ids="802353"/>
+	<report_to id="23704" start_npc_ids="802343" end_npc_ids="802343" item_id="182215533"/>
+	<report_to id="23708" start_npc_ids="802344" end_npc_ids="802344" item_id="182215535"/>
+	<!-- MONSTER HUNT QUESTS -->
+	<monster_hunt id="13702" start_npc_ids="802350" end_npc_ids="802352" end_dialog_id="2375">
+		<monster var="0" npc_ids="235346 235347 235348 235349" end_var="4"/>
+	</monster_hunt>
+	<monster_hunt id="13703" start_npc_ids="802350" end_npc_ids="802350" end_dialog_id="2375">	
+		<monster var="0" npc_ids="235145 235171" end_var="1"/>
+	</monster_hunt>
+	<monster_hunt id="13705" start_npc_ids="802343" end_npc_ids="802345" end_dialog_id="2375">	
+		<monster var="0" npc_ids="233919" end_var="3"/>
+		<monster var="1" npc_ids="233920" end_var="3"/>
+	</monster_hunt>
+	<monster_hunt id="16931" start_npc_ids="804626">	
+		<monster var="0" npc_ids="234967" end_var="1"/>
+	</monster_hunt>
+	<monster_hunt id="23702" start_npc_ids="802353" end_npc_ids="802354" end_dialog_id="2375">
+		<monster var="0" npc_ids="235366 235367 235368 235369" end_var="4"/>
+	</monster_hunt>
+	<monster_hunt id="23703" start_npc_ids="802353" end_npc_ids="802353" end_dialog_id="2375">	
+		<monster var="0" npc_ids="235145 235158" end_var="1"/>
+	</monster_hunt>
+	<monster_hunt id="23705" start_npc_ids="802343" end_npc_ids="802345" end_dialog_id="2375">	
+		<monster var="0" npc_ids="233937" end_var="3"/>
+		<monster var="1" npc_ids="233938" end_var="3"/>
+	</monster_hunt>
+	<monster_hunt id="26931" start_npc_ids="804627">	
+		<monster var="0" npc_ids="234967" end_var="1"/>
+	</monster_hunt>
+	<!-- KILL IN WORLD QUESTS -->
+	<kill_in_world id="13744" start_npc_ids="832840" end_npc_ids="832840" worlds="600100000" amount="12"/>
+	<kill_in_world id="23744" start_npc_ids="832841" end_npc_ids="832841" worlds="600100000" amount="12"/>
+</quest_scripts>

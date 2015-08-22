@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spawns>
+    <spawn_map map_id="120010000">
+        <!-- Gaster -->
+        <spawn npc_id="798312" respawn_time="295">
+            <spot x="1212.47" y="1484.05" z="213.963" h="18"/>
+        </spawn>
+        <!-- Albanis -->
+        <spawn npc_id="798313" respawn_time="295">
+            <spot x="1204.70" y="1554.39" z="213.963" h="81"/>
+        </spawn>
+    </spawn_map>
+</spawns>

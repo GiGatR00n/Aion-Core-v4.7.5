@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest_scripts>
+    <!--
+                    [BEGIN] SUMMARY
+                            39600 [XML] Silvers Cross Your Palm
+                            39601 [XML] [Daily] Gather Glittering Idium
+                            39602 [XML] [Daily] Day of the Rava Eaters
+                            39603 [XML] [Daily] A Skurv's Wage
+                            39604 [XML] [Daily] Pressing a Claim
+                            39605 [XML] [Daily] What Wood?
+                            39606 [XML] [Daily] Invasive Species
+                            39607 [XML] [Daily] Trade Dispute
+                            39608 [XML] [Daily] My Office is Colder
+                            39609 [XML] [Daily] What's Silverine's is Silverine's
+                            39610 [XML] [Daily] Water War Z
+                            39611 [XML] [Daily] Water Monopoly
+                            39612 [XML] [Daily] Crocodile Stew
+                            39613 [XML] [Daily] Worms in the Pipes
+                            39614 [XML] [Daily] Forget You Were Ever Here
+                            39615 [XML] [Daily] The First Step's a Lulu
+                            39617 [XML] [Daily] Plugging Leaks
+                            39618 [XML] [Daily] Secret Ingredient
+                            39619 [XML] [Daily] Friend of a Friend
+                            49600 [XML] Silverine's Silver Lining
+                            49601 [XML] [Daily] The Village Idium
+                            49602 [XML] [Daily] Pest Extermination
+                            49603 [XML] [Daily] A Day's Pay
+                            49604 [XML] [Daily] Alls Well That Ends an Owl
+                            49605 [XML] [Daily] But They Lock on the Outside
+                            49606 [XML] [Daily] Swarms at Bay
+                            49607 [XML] [Daily] On the Road to Danaria
+                            49608 [XML] [Daily] Corner Office
+                            49609 [XML] [Daily] A Thief's Due
+                            49610 [XML] [Daily] A Drakan Sword at What Price
+                            49611 [XML] [Daily] Water from a Stone
+                            49612 [XML] [Daily] Hose Down
+                            49613 [XML] [Daily] Cleanup Isle Worm
+                            49614 [XML] [Daily] Liasing with Goldrine
+                            49615 [XML] [Daily] Among the Luluba
+                            49617 [XML] [Daily] Corporate Espionage
+                            49618 [XML] [Daily] Swamp Water Cure
+                            49619 [XML] [Daily] Middleman's Dilemma
+                    [END] SUMMARY	
+    -->
+    <!-- REPORTING QUESTS -->
+    <!-- COLLECTING QUESTS -->
+    <item_collecting id="39601" start_npc_ids="0" end_npc_ids="800922 800923" action_item_ids="701565"/>
+    <item_collecting id="39602" start_npc_ids="0" end_npc_ids="800922 800923"/>
+    <item_collecting id="39603" start_npc_ids="0" end_npc_ids="800922 800923"/>
+    <item_collecting id="39605" start_npc_ids="0" end_npc_ids="800922 800923" action_item_ids="701566"/>
+    <item_collecting id="39608" start_npc_ids="0" end_npc_ids="800922 800923" action_item_ids="701567"/>
+    <item_collecting id="39610" start_npc_ids="0" end_npc_ids="800927 800928 800929"/>
+    <item_collecting id="39611" start_npc_ids="0" end_npc_ids="800927 800928 800929"/>
+    <item_collecting id="39614" start_npc_ids="0" end_npc_ids="800927 800928 800929"/>
+    <item_collecting id="39616" start_npc_ids="0" end_npc_ids="800927 800928 800929"/>
+    <item_collecting id="39617" start_npc_ids="0" end_npc_ids="800927 800928 800929"/>
+    <item_collecting id="39618" start_npc_ids="0" end_npc_ids="800927 800928 800929"/>
+    <item_collecting id="39619" start_npc_ids="0" end_npc_ids="800927 800928 800929"/>
+    <item_collecting id="39620" start_npc_ids="0" end_npc_ids="800927 800928 800929"/>
+    <item_collecting id="49601" start_npc_ids="0" end_npc_ids="800925 800926"/>
+    <item_collecting id="49602" start_npc_ids="0" end_npc_ids="800925 800926"/>
+    <item_collecting id="49603" start_npc_ids="0" end_npc_ids="800925 800926"/>
+    <item_collecting id="49605" start_npc_ids="0" end_npc_ids="800925 800926" action_item_ids="701566"/>
+    <item_collecting id="49608" start_npc_ids="0" end_npc_ids="800925 800926" action_item_ids="701567"/>
+    <item_collecting id="49610" start_npc_ids="0" end_npc_ids="800927 800928 800929"/>
+    <item_collecting id="49611" start_npc_ids="0" end_npc_ids="800927 800928 800929"/>
+    <item_collecting id="49614" start_npc_ids="0" end_npc_ids="800927 800928 800929"/>
+    <item_collecting id="49616" start_npc_ids="0" end_npc_ids="800927 800928 800929"/>
+    <item_collecting id="49617" start_npc_ids="0" end_npc_ids="800927 800928 800929"/>
+    <item_collecting id="49618" start_npc_ids="0" end_npc_ids="800927 800928 800929"/>
+    <item_collecting id="49619" start_npc_ids="0" end_npc_ids="800927 800928 800929"/>
+    <item_collecting id="49620" start_npc_ids="0" end_npc_ids="800927 800928 800929"/>
+    <!-- HUNTING QUESTS -->
+    <monster_hunt id="39604" start_npc_ids="0" end_npc_ids="800922 800923">
+        <monster var="0" npc_ids="230350 230351 230352" end_var="10"/>
+    </monster_hunt>
+    <monster_hunt id="39606" start_npc_ids="0" end_npc_ids="800922 800923">
+        <monster var="0" npc_ids="230359" end_var="10"/>
+    </monster_hunt>
+    <monster_hunt id="39607" start_npc_ids="0" end_npc_ids="800922 800923">
+        <monster var="0" npc_ids="230275" end_var="10"/>
+    </monster_hunt>
+    <monster_hunt id="39609" start_npc_ids="0" end_npc_ids="800927 800928 800929">
+        <monster var="0" npc_ids="230452 230453" end_var="10"/>
+        <monster var="0" npc_ids="230476 230477" end_var="10"/>
+    </monster_hunt>
+    <monster_hunt id="39612" start_npc_ids="0" end_npc_ids="800927 800928 800929">
+        <monster var="0" npc_ids="230593" end_var="10"/>
+    </monster_hunt>
+    <monster_hunt id="39613" start_npc_ids="0" end_npc_ids="800927 800928 800929">
+        <monster var="0" npc_ids="230559 230560" end_var="10"/>
+    </monster_hunt>
+    <monster_hunt id="39615" start_npc_ids="0" end_npc_ids="800927 800928 800929">
+        <monster var="0" npc_ids="231284 231285 231286" end_var="10"/>
+        <monster var="0" npc_ids="231287 231288 231289" end_var="10"/>
+    </monster_hunt>
+    <monster_hunt id="49604" start_npc_ids="0" end_npc_ids="800925 800926">
+        <monster var="0" npc_ids="230350 230351 230352" end_var="10"/>
+    </monster_hunt>
+    <monster_hunt id="49606" start_npc_ids="0" end_npc_ids="800925 800926">
+        <monster var="0" npc_ids="230359" end_var="10"/>
+    </monster_hunt>
+    <monster_hunt id="49607" start_npc_ids="0" end_npc_ids="800925 800926">
+        <monster var="0" npc_ids="230275" end_var="10"/>
+    </monster_hunt>
+    <monster_hunt id="49609" start_npc_ids="0" end_npc_ids="800927 800928 800929">
+        <monster var="0" npc_ids="230452 230453" end_var="10"/>
+        <monster var="0" npc_ids="230476 230477" end_var="10"/>
+    </monster_hunt>
+    <monster_hunt id="49612" start_npc_ids="0" end_npc_ids="800927 800928 800929">
+        <monster var="0" npc_ids="230593" end_var="10"/>
+    </monster_hunt>
+    <monster_hunt id="49613" start_npc_ids="0" end_npc_ids="800927 800928 800929">
+        <monster var="0" npc_ids="230559 230560" end_var="10"/>
+    </monster_hunt>
+    <monster_hunt id="49615" start_npc_ids="0" end_npc_ids="800927 800928 800929">
+        <monster var="0" npc_ids="231284 231285 231286" end_var="10"/>
+        <monster var="0" npc_ids="231287 231288 231289" end_var="10"/>
+    </monster_hunt>
+</quest_scripts>
