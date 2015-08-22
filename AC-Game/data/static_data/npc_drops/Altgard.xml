@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc_drops>
+	<npc_drop npc_id="210508"> <!-- Brutal Black Claw Spellshifter -->
+		<drop_group use_category="true" name="NAMED_QUEST_ITEM" race="PC_ALL">
+			<drop item_id="182203249" chance="3.0" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+	<npc_drop npc_id="210509"> <!-- Brutal Black Claw Spellshifter -->
+		<drop_group use_category="true" name="NAMED_QUEST_ITEM" race="PC_ALL">
+			<drop item_id="182203249" chance="3.0" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+	<npc_drop npc_id="210525"> <!-- Big Cargo Box -->
+		<drop_group use_category="true" name="NAMED_QUEST_ITEM" race="PC_ALL">
+			<drop item_id="182203263" chance="3.0" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+	<npc_drop npc_id="210581"> <!-- Ruthless Mosbear -->
+		<drop_group use_category="true" name="NAMED_QUEST_ITEM" race="PC_ALL">
+			<drop item_id="182203221" chance="3.0" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+	<npc_drop npc_id="210584"> <!-- Fierce Mosbear -->
+		<drop_group use_category="true" name="NAMED_QUEST_ITEM" race="PC_ALL">
+			<drop item_id="182203221" chance="3.0" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+</npc_drops>

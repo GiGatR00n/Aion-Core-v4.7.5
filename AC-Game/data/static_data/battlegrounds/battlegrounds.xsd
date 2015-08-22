@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <xs:element name="battlegrounds">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="bg_agent" type="SpawnInfo" minOccurs="0" maxOccurs="unbounded" />
+                <xs:element name="battleground" type="BattleGround" minOccurs="0" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:complexType name="BattleGround">
+        <xs:sequence>
+            <xs:element name="join_conditions" type="BattleGroundJoinConditions" minOccurs="1" maxOccurs="1" />
+            <xs:element name="insert_point" type="ObjectLocation" minOccurs="1" maxOccurs="1" />
+            <xs:element name="rules" type="BattleGroundRules" minOccurs="1" maxOccurs="1" />
+            <xs:element name="healer_location" type="ObjectLocation" minOccurs="1" maxOccurs="1" />
+            <xs:element name="flag_location" type="ObjectLocation" minOccurs="0" maxOccurs="1" />
+        </xs:sequence>
+        <xs:attribute name="type" type="BattleGroundType" default="ASSAULT" />
+        <xs:attribute name="tpl_id" type="xs:int"/>
+        <xs:attribute name="world_id" type="xs:int"/>
+        <xs:attribute name="name" type="xs:string" />
+        <xs:attribute name="target_score" type="xs:int" />
+        <xs:attribute name="price" type="xs:int" />
+        <xs:attribute name="nb_players" type="xs:int" />
+        <xs:attribute name="wait_time" type="xs:int" />
+        <xs:attribute name="bg_time" type="xs:int" />
+    </xs:complexType>
+	
+    <xs:simpleType name="BattleGroundType">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="ASSAULT" />
+            <xs:enumeration value="CTF" />
+            <xs:enumeration value="CTP" />
+        </xs:restriction>
+    </xs:simpleType>
+	
+    <xs:complexType name="BattleGroundJoinConditions">
+        <xs:attribute name="required_level" type="xs:int"/>
+        <xs:attribute name="required_bg_points" type="xs:int"/>
+        <xs:attribute name="max_level" type="xs:int"/>
+        <xs:attribute name="max_bg_points" type="xs:int"/>
+    </xs:complexType>
+	
+    <xs:complexType name="BattleGroundRules">
+        <xs:attribute name="kill_player" type="xs:int"/>
+        <xs:attribute name="die" type="xs:int" />
+        <xs:attribute name="flag_cap" type="xs:int" />
+        <xs:attribute name="flag_base" type="xs:int" />
+        <xs:attribute name="flag_ground" type="xs:int" />
+        <xs:attribute name="CTF_reward" type="xs:int" />
+    </xs:complexType>
+	
+    <xs:complexType name="ObjectLocation">
+        <xs:attribute name="xe" type="xs:float"/>
+        <xs:attribute name="ye" type="xs:float"/>
+        <xs:attribute name="ze" type="xs:float"/>
+        <xs:attribute name="he" type="xs:int"/>
+        <xs:attribute name="xa" type="xs:float"/>
+        <xs:attribute name="ya" type="xs:float"/>
+        <xs:attribute name="za" type="xs:float"/>
+        <xs:attribute name="ha" type="xs:int"/>
+    </xs:complexType>
+	
+    <xs:complexType name="SpawnInfo">
+        <xs:attribute name="x" type="xs:float"/>
+        <xs:attribute name="y" type="xs:float"/>
+        <xs:attribute name="z" type="xs:float"/>
+        <xs:attribute name="h" type="xs:int"/>
+        <xs:attribute name="worldId" type="xs:int" />
+        <xs:attribute name="npcId" type="xs:int" />
+    </xs:complexType>
+	
+</xs:schema>

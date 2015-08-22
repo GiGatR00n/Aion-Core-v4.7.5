@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<arcadelist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="arcadelist.xsd">
+	<tab id="1">
+		<item item_id="167010180" normalcount="1" frenzycount="1"/>
+		<item item_id="188053620" normalcount="1" frenzycount="1"/>
+		<item item_id="186000237" normalcount="10" frenzycount="20"/>
+		<item item_id="186000247" normalcount="1" frenzycount="1"/>
+		<item item_id="188051853" normalcount="1" frenzycount="1"/>
+		<item item_id="188053616" normalcount="1" frenzycount="1"/>
+		<item item_id="188052822" normalcount="0" frenzycount="20"/>
+		<item item_id="188052674" normalcount="0" frenzycount="1"/>
+	</tab>
+	<tab id="2">
+		<item item_id="110900831" normalcount="1" frenzycount="1"/>
+		<item item_id="188052674" normalcount="1" frenzycount="1"/>
+		<item item_id="167010180" normalcount="1" frenzycount="1"/>
+		<item item_id="188053624" normalcount="10" frenzycount="20"/>
+		<item item_id="188052654" normalcount="1" frenzycount="1"/>
+		<item item_id="166100008" normalcount="50" frenzycount="100"/>
+		<item item_id="188053628" normalcount="0" frenzycount="1"/>
+		<item item_id="188053213" normalcount="0" frenzycount="1"/>
+	</tab>
+	<tab id="3">
+		<item item_id="125045494" normalcount="1" frenzycount="1"/>
+		<item item_id="188053645" normalcount="1" frenzycount="1"/>
+		<item item_id="188053617" normalcount="1" frenzycount="1"/>
+		<item item_id="188053626" normalcount="1" frenzycount="1"/>
+		<item item_id="188053002" normalcount="1" frenzycount="1"/>
+		<item item_id="166100011" normalcount="100" frenzycount="200"/>
+		<item item_id="190020214" normalcount="0" frenzycount="1"/>
+		<item item_id="188053618" normalcount="0" frenzycount="1"/>
+	</tab>
+	<tab id="4">
+		<item item_id="188053627" normalcount="1" frenzycount="1"/>
+		<item item_id="188053628" normalcount="1" frenzycount="1"/>
+		<item item_id="166150019" normalcount="1" frenzycount="1"/>
+		<item item_id="188053002" normalcount="1" frenzycount="1"/>
+		<item item_id="188053614" normalcount="1" frenzycount="1"/>
+		<item item_id="188052675" normalcount="1" frenzycount="1"/>
+		<item item_id="188053003" normalcount="0" frenzycount="1"/>
+		<item item_id="187060161" normalcount="0" frenzycount="1"/>
+	</tab>
+</arcadelist>

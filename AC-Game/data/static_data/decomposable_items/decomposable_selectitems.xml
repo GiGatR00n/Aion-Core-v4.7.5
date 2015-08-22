@@ -1,0 +1,1175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<!--
+		Author.....: GiGatR00n
+		v4.7.5.x (‎15/‎3/‎2015)
+	-->
+
+<decomposable_selectitems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <!-- Grendal's Eternal Weapons Chest -->
+    <decomposable_selectitem item_id="188052389">
+		<items player_class="GLADIATOR">
+			<item id="100001551" count="1"/>
+			<item id="100901206" count="1"/>
+			<item id="100201354" count="1"/>
+			<item id="100101186" count="1"/>
+			<item id="101301134" count="1"/>
+			<item id="101701236" count="1"/>
+			<item id="115001592" count="1"/>
+		</items>
+	</decomposable_selectitem>
+    <decomposable_selectitem item_id="188052391">
+		<items player_class="TEMPLAR">
+			<item id="100001551" count="1"/>
+			<item id="100901206" count="1"/>
+			<item id="100101186" count="1"/>
+			<item id="115001592" count="1"/>
+		</items>
+	</decomposable_selectitem>
+    <decomposable_selectitem item_id="188052395">
+		<items player_class="ASSASSIN">
+			<item id="100001551" count="1"/> 
+			<item id="100201354" count="1"/> 
+			<item id="101701236" count="1"/> 
+		</items>
+	</decomposable_selectitem>
+    <decomposable_selectitem item_id="188052395">
+		<items player_class="RANGER">
+			<item id="100001551" count="1"/> 
+			<item id="100201354" count="1"/> 
+			<item id="101701236" count="1"/> 
+		</items>
+	</decomposable_selectitem>
+    <decomposable_selectitem item_id="188052399">
+		<items player_class="SORCERER">
+			<item id="100501186" count="1"/>
+			<item id="100601275" count="1"/>
+		</items>
+	</decomposable_selectitem>
+    <decomposable_selectitem item_id="188052399">
+		<items player_class="SPIRIT_MASTER">
+			<item id="100501186" count="1"/>
+			<item id="100601275" count="1"/>
+		</items>
+	</decomposable_selectitem>
+    <decomposable_selectitem item_id="188052403">
+		<items player_class="CLERIC">
+			<item id="100101185" count="1"/>
+			<item id="100101186" count="1"/>
+			<item id="101501216" count="1"/>
+			<item id="101501231" count="1"/>
+			<item id="115001592" count="1"/>
+			<item id="115001593" count="1"/>
+		</items>
+	</decomposable_selectitem>
+    <decomposable_selectitem item_id="188052403">
+		<items player_class="CHANTER">
+			<item id="100101185" count="1"/> 
+			<item id="100101186" count="1"/> 
+			<item id="101501216" count="1"/> 
+			<item id="101501231" count="1"/> 
+			<item id="115001592" count="1"/> 
+			<item id="115001593" count="1"/> 
+		</items>
+	</decomposable_selectitem>
+    <decomposable_selectitem item_id="188052409">
+		<items player_class="GUNNER">
+			<item id="101801017" count="1"/>
+			<item id="101900980" count="1"/>
+		</items>
+	</decomposable_selectitem>
+    <decomposable_selectitem item_id="188052413">
+		<items player_class="BARD">
+			<item id="102001043" count="1"/> 
+		</items>
+	</decomposable_selectitem>
+    <decomposable_selectitem item_id="188052757">
+		<items player_class="RIDER">
+			<item id="102100819" count="1"/>
+		</items>
+	</decomposable_selectitem>
+    <!-- Grendal's Mythical Weapons Chest -->
+    <decomposable_selectitem item_id="188052390">
+		<items player_class="GLADIATOR">
+			<item id="100001552" count="1"/> 
+			<item id="100901207" count="1"/>
+			<item id="100201355" count="1"/>
+			<item id="100101188" count="1"/>
+			<item id="101301135" count="1"/> 
+			<item id="101701237" count="1"/> 
+			<item id="115001594" count="1"/>
+		</items>
+	</decomposable_selectitem>
+    <decomposable_selectitem item_id="188052392">
+		<items player_class="TEMPLAR">
+			<item id="100001552" count="1"/> 
+			<item id="100901207" count="1"/>
+			<item id="100101188" count="1"/>
+			<item id="115001594" count="1"/> 
+		</items>
+	</decomposable_selectitem>
+    <decomposable_selectitem item_id="188052396">
+		<items player_class="ASSASSIN">
+			<item id="100001552" count="1"/> 
+			<item id="100201355" count="1"/> 
+			<item id="101701237" count="1"/>
+		</items>
+	</decomposable_selectitem>
+    <decomposable_selectitem item_id="188052396">
+		<items player_class="RANGER">
+			<item id="100001552" count="1"/>
+			<item id="100201355" count="1"/>
+			<item id="101701237" count="1"/> 
+		</items>
+	</decomposable_selectitem>
+    <decomposable_selectitem item_id="188052400">
+		<items player_class="SORCERER">
+			<item id="100501187" count="1"/>
+			<item id="100601276" count="1"/>
+		</items>
+	</decomposable_selectitem>
+    <decomposable_selectitem item_id="188052400">
+		<items player_class="SPIRIT_MASTER">
+			<item id="100501187" count="1"/>
+			<item id="100601276" count="1"/>
+		</items>
+	</decomposable_selectitem>
+    <decomposable_selectitem item_id="188052404">
+		<items player_class="CLERIC">
+			<item id="101501232" count="1"/> 
+			<item id="100101188" count="1"/>
+			<item id="100101187" count="1"/> 
+			<item id="115001594" count="1"/> 
+			<item id="115001595" count="1"/>
+		</items>
+	</decomposable_selectitem>
+    <decomposable_selectitem item_id="188052404">
+		<items player_class="CHANTER">
+			<item id="101501217" count="1"/>
+            <item id="100101188" count="1"/>
+			<item id="100101187" count="1"/> 
+			<item id="115001594" count="1"/> 
+			<item id="115001595" count="1"/>
+		</items>
+	</decomposable_selectitem>
+    <decomposable_selectitem item_id="188052410">
+		<items player_class="GUNNER">
+			<item id="101801018" count="1"/>
+			<item id="101900981" count="1"/>
+		</items>
+	</decomposable_selectitem>
+    <decomposable_selectitem item_id="188052414">
+		<items player_class="BARD">
+			<item id="102001044" count="1"/> 
+		</items>
+	</decomposable_selectitem>
+    <decomposable_selectitem item_id="188052758">
+		<items player_class="RIDER">
+			<item id="102100820" count="1"/> 
+            <item id="102100821" count="1"/>
+		</items>
+	</decomposable_selectitem>
+    <!-- Grendal's Eternal Armour Chest -->
+    <decomposable_selectitem item_id="188052393">
+		<items player_class="GLADIATOR">
+			<item id="110601475" count="1"/> 
+			<item id="111601438" count="1"/> 
+			<item id="112601419" count="1"/>
+			<item id="113601421" count="1"/> 
+			<item id="114601426" count="1"/> 
+			<item id="125003649" count="1"/> 
+		</items>
+	</decomposable_selectitem>
+    <decomposable_selectitem item_id="188052393">
+		<items player_class="TEMPLAR">
+			<item id="110601442" count="1"/>
+			<item id="111601404" count="1"/>
+			<item id="112601386" count="1"/>
+			<item id="113601388" count="1"/>
+			<item id="114601392" count="1"/>
+			<item id="125003502" count="1"/>
+		</items>
+	</decomposable_selectitem>
+    <decomposable_selectitem item_id="188052397">
+		<items player_class="ASSASSIN">
+			<item id="110301506" count="1"/>
+			<item id="111301446" count="1"/>
+			<item id="112301390" count="1"/>
+			<item id="113301470" count="1"/>
+			<item id="114301507" count="1"/>
+			<item id="125003508" count="1"/>
+		</items>
+	</decomposable_selectitem>
+    <decomposable_selectitem item_id="188052397">
+		<items player_class="RANGER">
+			<item id="110301506" count="1"/>
+			<item id="111301446" count="1"/>
+			<item id="112301390" count="1"/> 
+			<item id="113301470" count="1"/>
+			<item id="114301507" count="1"/> 
+			<item id="125003508" count="1"/> 
+		</items>
+	</decomposable_selectitem>
+	<decomposable_selectitem item_id="188052401">
+		<items player_class="SORCERER">
+			<item id="110101616" count="1"/>
+			<item id="111101457" count="1"/>
+			<item id="112101411" count="1"/>
+			<item id="113101467" count="1"/>
+			<item id="114101504" count="1"/>
+			<item id="125003512" count="1"/>
+		</items>
+	</decomposable_selectitem>
+	<decomposable_selectitem item_id="188052401">
+		<items player_class="SPIRIT_MASTER">
+			<item id="110101616" count="1"/>
+			<item id="111101457" count="1"/>
+			<item id="112101411" count="1"/>
+			<item id="113101467" count="1"/>
+			<item id="114101504" count="1"/>
+			<item id="125003512" count="1"/>
+		</items>
+	</decomposable_selectitem>
+    <decomposable_selectitem item_id="188052759">
+		<items player_class="CLERIC">
+			<item id="110501463" count="1"/>
+			<item id="111501420" count="1"/>
+			<item id="112501362" count="1"/>
+			<item id="113501436" count="1"/>
+			<item id="114501445" count="1"/>
+			<item id="125003505" count="1"/>
+		</items>
+	</decomposable_selectitem>
+	<decomposable_selectitem item_id="188052407">
+		<items player_class="CHANTER">
+			<item id="110501462" count="1"/>
+			<item id="111501419" count="1"/>
+			<item id="112501361" count="1"/>
+			<item id="113501435" count="1"/>
+			<item id="114501444" count="1"/>
+			<item id="125003504" count="1"/>
+		</items>
+	</decomposable_selectitem>
+	<decomposable_selectitem item_id="188052411">
+		<items player_class="GUNNER">
+			<item id="110301507" count="1"/>
+			<item id="111301447" count="1"/>
+			<item id="112301391" count="1"/>
+			<item id="113301471" count="1"/>
+			<item id="114301508" count="1"/>
+			<item id="125003509" count="1"/>
+		</items>
+	</decomposable_selectitem>
+    <decomposable_selectitem item_id="188052415">
+		<items player_class="BARD">
+			<item id="110101617" count="1"/>
+			<item id="111101458" count="1"/>
+			<item id="112101412" count="1"/>
+			<item id="113101468" count="1"/>
+			<item id="114101505" count="1"/>
+			<item id="125003513" count="1"/>
+		</items>
+	</decomposable_selectitem>
+	<decomposable_selectitem item_id="188052759">
+		<items player_class="RIDER">
+			<item id="110550939" count="1"/>
+			<item id="111501497" count="1"/>
+			<item id="112501439" count="1"/>
+			<item id="113501515" count="1"/>
+			<item id="114501524" count="1"/>
+			<item id="125003790" count="1"/>
+		</items>
+	</decomposable_selectitem>
+    <decomposable_selectitem item_id="188052394">
+		<items player_class="GLADIATOR">
+			<item id="110601476" count="1"/>
+			<item id="111601439" count="1"/>
+			<item id="112601420" count="1"/>
+			<item id="113601422" count="1"/>
+			<item id="114601427" count="1"/>
+			<item id="125003650" count="1"/>
+		</items>
+	</decomposable_selectitem>
+    <decomposable_selectitem item_id="188052394">
+		<items player_class="TEMPLAR">
+			<item id="110601443" count="1"/>
+			<item id="111601405" count="1"/>
+			<item id="112601387" count="1"/>
+			<item id="113601389" count="1"/>
+			<item id="114601393" count="1"/>
+			<item id="125003503" count="1"/>
+		</items>
+	</decomposable_selectitem>
+    <decomposable_selectitem item_id="188052398">
+		<items player_class="ASSASSIN">
+			<item id="110301508" count="1"/>
+			<item id="111301448" count="1"/>
+			<item id="112301392" count="1"/>
+			<item id="113301472" count="1"/>
+			<item id="114301509" count="1"/>
+			<item id="125003510" count="1"/>
+		</items>
+	</decomposable_selectitem>
+    <decomposable_selectitem item_id="188052398">
+		<items player_class="RANGER">
+			<item id="110301508" count="1"/>
+			<item id="111301448" count="1"/>
+			<item id="112301392" count="1"/>
+			<item id="113301472" count="1"/>
+			<item id="114301509" count="1"/>
+			<item id="125003510" count="1"/>
+		</items>
+	</decomposable_selectitem>
+	<decomposable_selectitem item_id="188052402">
+		<items player_class="SORCERER">
+			<item id="110101618" count="1"/> 
+			<item id="111101459" count="1"/> 
+			<item id="112101413" count="1"/> 
+			<item id="113101469" count="1"/> 
+			<item id="114101506" count="1"/> 
+			<item id="125003514" count="1"/> 
+		</items>
+	</decomposable_selectitem>
+	<decomposable_selectitem item_id="188052402">
+		<items player_class="SPIRIT_MASTER">
+			<item id="110101618" count="1"/> 
+			<item id="111101459" count="1"/> 
+			<item id="112101413" count="1"/> 
+			<item id="113101469" count="1"/> 
+			<item id="114101506" count="1"/> 
+			<item id="125003514" count="1"/> 
+		</items>
+	</decomposable_selectitem>
+    <decomposable_selectitem item_id="188052406">
+		<items player_class="CLERIC">
+			<item id="110501465" count="1"/>
+			<item id="111501422" count="1"/>
+			<item id="112501364" count="1"/>
+			<item id="113501438" count="1"/>
+			<item id="114501447" count="1"/>
+			<item id="125003507" count="1"/>
+		</items>
+	</decomposable_selectitem>
+	<decomposable_selectitem item_id="188052408">
+		<items player_class="CHANTER">
+			<item id="110501464" count="1"/>
+			<item id="111501421" count="1"/> 
+			<item id="112501363" count="1"/>
+			<item id="113501437" count="1"/> 
+			<item id="114501446" count="1"/> 
+			<item id="125003506" count="1"/>
+		</items>
+	</decomposable_selectitem>
+	<decomposable_selectitem item_id="188052412">
+		<items player_class="GUNNER">
+			<item id="110301509" count="1"/> 
+			<item id="111301449" count="1"/> 
+			<item id="112301393" count="1"/> 
+			<item id="113301473" count="1"/> 
+			<item id="114301510" count="1"/> 
+			<item id="125003511" count="1"/> 
+		</items>
+	</decomposable_selectitem>
+    <decomposable_selectitem item_id="188052416">
+		<items player_class="BARD">
+			<item id="110101619" count="1"/> 
+			<item id="111101460" count="1"/> 
+			<item id="112101414" count="1"/> 
+			<item id="113101470" count="1"/> 
+			<item id="114101507" count="1"/> 
+			<item id="125003515" count="1"/> 
+		</items>
+	</decomposable_selectitem>
+	<decomposable_selectitem item_id="188052760">
+		<items player_class="RIDER">
+			<item id="110550940" count="1"/>
+			<item id="111501498" count="1"/>
+			<item id="112501440" count="1"/>
+			<item id="113501516" count="1"/>
+			<item id="114501525" count="1"/>
+			<item id="125003791" count="1"/>
+		</items>
+	</decomposable_selectitem>
+    <decomposable_selectitem item_id="188052438">
+		<items player_class="GLADIATOR">
+			<item id="100001553" count="1"/>
+			<item id="100901208" count="1"/> 
+			<item id="100201356" count="1"/>
+			<item id="100101190" count="1"/> 
+			<item id="101701238" count="1"/>
+			<item id="101301136" count="1"/> 
+			<item id="115001596" count="1"/>
+		</items>
+		<items player_class="TEMPLAR">
+			<item id="100001553" count="1"/>
+			<item id="100901208" count="1"/> 
+			<item id="100101190" count="1"/> 
+			<item id="115001596" count="1"/> 
+		</items>
+		<items player_class="ASSASSIN">
+			<item id="100001553" count="1"/>
+			<item id="100201356" count="1"/> 
+			<item id="101701238" count="1"/>
+		</items>
+		<items player_class="RANGER">
+			<item id="100001553" count="1"/>
+			<item id="100201356" count="1"/> 
+			<item id="101701238" count="1"/> 
+		</items>
+		<items player_class="SORCERER">
+			<item id="100501188" count="1"/>
+			<item id="100601277" count="1"/>
+		</items>
+		<items player_class="SPIRIT_MASTER">
+			<item id="100501188" count="1"/>
+			<item id="100601277" count="1"/> 
+		</items>
+		<items player_class="CLERIC">
+			<item id="100101189" count="1"/>
+			<item id="100101190" count="1"/>
+			<item id="101501218" count="1"/> 
+			<item id="101501233" count="1"/> 
+			<item id="115001596" count="1"/>
+			<item id="115001597" count="1"/>
+		</items>
+		<items player_class="CHANTER">
+			<item id="100101189" count="1"/>
+			<item id="100101190" count="1"/>
+			<item id="101501218" count="1"/> 
+			<item id="101501233" count="1"/> 
+			<item id="115001596" count="1"/> 
+			<item id="115001597" count="1"/>
+		</items>
+		<items player_class="GUNNER">
+			<item id="101801019" count="1"/> 
+			<item id="101900982" count="1"/> 
+		</items>
+		<items player_class="BARD">
+			<item id="102001045" count="1"/> 
+		</items>
+		<items player_class="RIDER">
+			<item id="102100821" count="1"/> 
+		</items>
+	</decomposable_selectitem>
+    <!-- Infinity Shard Equipment Box -->
+    <decomposable_selectitem item_id="188052474">
+		<items player_class="GLADIATOR">
+			<item id="110601450" count="1"/>
+			<item id="113601396" count="1"/>
+			<item id="111601412" count="1"/> 
+			<item id="112601394" count="1"/> 
+			<item id="114601400" count="1"/> 
+			<item id="125003516" count="1"/>
+			<item id="100001558" count="1"/>
+			<item id="100901210" count="1"/>
+			<item id="100201359" count="1"/> 
+			<item id="100101194" count="1"/> 
+			<item id="101301139" count="1"/> 
+			<item id="101701242" count="1"/> 
+			<item id="115001598" count="1"/> 
+		</items>
+		<items player_class="TEMPLAR">
+			<item id="110601450" count="1"/>
+			<item id="113601396" count="1"/> 
+			<item id="111601412" count="1"/> 
+			<item id="112601394" count="1"/>
+			<item id="114601400" count="1"/> 
+			<item id="125003516" count="1"/>
+			<item id="100001558" count="1"/>
+			<item id="100901210" count="1"/> 
+			<item id="100101194" count="1"/>
+			<item id="115001598" count="1"/> 
+		</items>
+		<items player_class="ASSASSIN">
+			<item id="110301519" count="1"/> 
+			<item id="113301483" count="1"/> 
+			<item id="111301459" count="1"/>
+			<item id="112301403" count="1"/> 
+			<item id="114301520" count="1"/>
+			<item id="125003517" count="1"/> 
+			<item id="100201359" count="1"/>
+			<item id="100001558" count="1"/>
+			<item id="101701242" count="1"/>
+		</items>
+		<items player_class="RANGER">
+			<item id="110301519" count="1"/>
+			<item id="113301483" count="1"/> 
+			<item id="111301459" count="1"/>
+			<item id="112301403" count="1"/>
+			<item id="114301520" count="1"/>
+			<item id="125003517" count="1"/>
+			<item id="100201359" count="1"/> 
+			<item id="100001558" count="1"/> 
+			<item id="101701242" count="1"/>
+		</items>
+		<items player_class="SORCERER">
+			<item id="110101629" count="1"/> 
+			<item id="113101480" count="1"/> 
+			<item id="111101470" count="1"/>
+			<item id="112101424" count="1"/> 
+			<item id="114101517" count="1"/> 
+			<item id="125003519" count="1"/>
+			<item id="100501192" count="1"/> 
+			<item id="100601281" count="1"/> 
+		</items>
+		<items player_class="SPIRIT_MASTER">
+			<item id="110101629" count="1"/>
+			<item id="113101480" count="1"/>
+			<item id="111101470" count="1"/>
+			<item id="112101424" count="1"/>
+			<item id="114101517" count="1"/>
+			<item id="125003519" count="1"/>
+			<item id="100501192" count="1"/>
+			<item id="100601281" count="1"/>
+		</items>
+		<items player_class="CLERIC">
+			<item id="110501472" count="1"/>
+			<item id="113501445" count="1"/>
+			<item id="111501457" count="1"/>
+			<item id="112501399" count="1"/>
+			<item id="114501454" count="1"/>
+			<item id="125003518" count="1"/>
+			<item id="115001598" count="1"/>
+			<item id="115001599" count="1"/>
+			<item id="101501222" count="1"/>
+			<item id="100101194" count="1"/>
+		</items>
+		<items player_class="CHANTER">
+			<item id="110501502" count="1"/>
+			<item id="113501475" count="1"/>
+			<item id="111501429" count="1"/>
+			<item id="112501371" count="1"/>
+			<item id="114501482" count="1"/>
+			<item id="125003651" count="1"/>
+			<item id="115001598" count="1"/>
+			<item id="115001599" count="1"/>
+			<item id="101501222" count="1"/>
+			<item id="100101194" count="1"/>
+		</items>
+		<items player_class="GUNNER">
+			<item id="110301620" count="1"/>
+			<item id="113301586" count="1"/>
+			<item id="111301558" count="1"/>
+			<item id="112301499" count="1"/>
+			<item id="114301624" count="1"/>
+			<item id="101801022" count="1"/>
+			<item id="101900984" count="1"/>
+		</items>
+		<items player_class="BARD">
+			<item id="110101629" count="1"/>
+			<item id="113101480" count="1"/>
+			<item id="111101470" count="1"/>
+			<item id="112101424" count="1"/>
+			<item id="114101517" count="1"/>
+			<item id="125003519" count="1"/>
+			<item id="102001049" count="1"/>
+		</items>
+		<items player_class="RIDER">
+			<item id="110550938" count="1"/>
+			<item id="113501514" count="1"/>
+			<item id="111501496" count="1"/>
+			<item id="112501438" count="1"/>
+			<item id="114501523" count="1"/>
+			<item id="125003789" count="1"/>
+			<item id="102100824" count="1"/>
+		</items>
+	</decomposable_selectitem>
+    <!-- Eternal Dynatum Weapons Chest -->
+	<decomposable_selectitem item_id="188052828">
+		<items player_class="GLADIATOR">
+			<item id="100001626" count="1"/>
+			<item id="100901264" count="1"/>
+			<item id="100201426" count="1"/>
+			<item id="101301186" count="1"/>
+			<item id="101701289" count="1"/>
+			<item id="115001670" count="1"/>
+		</items>
+		<items player_class="TEMPLAR">
+			<item id="100901264" count="1"/>
+			<item id="100101251" count="1"/>
+			<item id="100001626" count="1"/>
+			<item id="115001670" count="1"/>
+		</items>
+		<items player_class="ASSASSIN">
+			<item id="100001626" count="1"/>
+			<item id="100201426" count="1"/>
+			<item id="101701289" count="1"/>
+		</items>
+		<items player_class="RANGER">
+			<item id="100001626" count="1"/>
+			<item id="100201426" count="1"/>
+			<item id="101701289" count="1"/>
+		</items>
+		<items player_class="SORCERER">
+			<item id="100501243" count="1"/>
+			<item id="100601343" count="1"/>
+		</items>
+		<items player_class="SPIRIT_MASTER">
+			<item id="100501243" count="1"/>
+			<item id="100601343" count="1"/>
+		</items>
+		<items player_class="CLERIC">
+			<item id="101501274" count="1"/>
+			<item id="100101251" count="1"/>
+			<item id="115001670" count="1"/>
+		</items>
+		<items player_class="CHANTER">
+			<item id="101501274" count="1"/>
+			<item id="100101251" count="1"/>
+			<item id="115001670" count="1"/>
+		</items>
+		<items player_class="GUNNER">
+			<item id="101801140" count="1"/>
+			<item id="101901050" count="1"/>
+		</items>
+		<items player_class="BARD">
+			<item id="102001166" count="1"/>
+		</items>
+		<items player_class="RIDER">
+			<item id="102100922" count="1"/>
+		</items>
+	</decomposable_selectitem>
+    <!-- Mythical Dynatum Weapons Chest -->
+	<decomposable_selectitem item_id="188052830">
+		<items player_class="GLADIATOR">
+			<item id="100001627" count="1"/> 
+			<item id="100901265" count="1"/>
+			<item id="100201427" count="1"/>
+			<item id="100101252" count="1"/>
+			<item id="101301187" count="1"/>
+			<item id="101701290" count="1"/>
+			<item id="115001671" count="1"/>
+		</items>
+		<items player_class="TEMPLAR">
+			<item id="100001627" count="1"/> 
+			<item id="100901265" count="1"/>
+			<item id="100101252" count="1"/>
+			<item id="115001671" count="1"/>
+		</items>
+		<items player_class="ASSASSIN">
+			<item id="100001627" count="1"/> 
+			<item id="100201427" count="1"/>
+			<item id="101701290" count="1"/>
+		</items>
+		<items player_class="RANGER">
+			<item id="100001627" count="1"/> 
+			<item id="100201427" count="1"/>
+			<item id="101701290" count="1"/>
+		</items>
+		<items player_class="SORCERER">
+			<item id="100501244" count="1"/>
+			<item id="100601344" count="1"/>
+		</items>
+		<items player_class="SPIRIT_MASTER">
+			<item id="100501244" count="1"/>
+			<item id="100601344" count="1"/>
+		</items>
+		<items player_class="CLERIC">
+			<item id="101501275" count="1"/>
+			<item id="100101252" count="1"/>
+			<item id="115001671" count="1"/>
+		</items>
+		<items player_class="CHANTER">
+			<item id="101501275" count="1"/>
+			<item id="100101252" count="1"/>
+			<item id="115001671" count="1"/>
+		</items>
+		<items player_class="GUNNER">
+			<item id="101801141" count="1"/>
+			<item id="101901051" count="1"/>
+		</items>	
+		<items player_class="BARD">
+			<item id="102001167" count="1"/>
+		</items>
+		<items player_class="RIDER">
+			<item id="102100923" count="1"/>
+		</items>	
+	</decomposable_selectitem>
+    <!-- Eternal Dynatum Armour Chest -->
+	<decomposable_selectitem item_id="188052829"> 
+		<items player_class="GLADIATOR">
+			<item id="110601516" count="1"/>
+			<item id="111601479" count="1"/>
+			<item id="112601460" count="1"/>
+			<item id="113601462" count="1"/>
+			<item id="114601469" count="1"/>
+			<item id="125003871" count="1"/>
+		</items>
+		<items player_class="TEMPLAR">
+			<item id="110601518" count="1"/>
+			<item id="111601481" count="1"/>
+			<item id="112601462" count="1"/>
+			<item id="113601464" count="1"/>
+			<item id="114601471" count="1"/> 
+			<item id="125003873" count="1"/>
+		</items>
+		<items player_class="ASSASSIN">
+			<item id="110301712" count="1"/>
+			<item id="111301650" count="1"/>
+			<item id="112301589" count="1"/>
+			<item id="113301681" count="1"/>
+			<item id="114301718" count="1"/>
+			<item id="125003875" count="1"/>
+		</items>
+		<items player_class="RANGER">
+			<item id="110301712" count="1"/>
+			<item id="111301650" count="1"/>
+			<item id="112301589" count="1"/>
+			<item id="113301681" count="1"/>
+			<item id="114301718" count="1"/>
+			<item id="125003875" count="1"/>
+		</items>
+		<items player_class="SORCERER">
+			<item id="110101709" count="1"/>
+			<item id="111101539" count="1"/>
+			<item id="112101491" count="1"/>
+			<item id="113101553" count="1"/>
+			<item id="114101587" count="1"/>
+			<item id="125003883" count="1"/>
+		</items>
+		<items player_class="SPIRIT_MASTER">
+			<item id="110101709" count="1"/>
+			<item id="111101539" count="1"/>
+			<item id="112101491" count="1"/>
+			<item id="113101553" count="1"/>
+			<item id="114101587" count="1"/>
+			<item id="125003883" count="1"/>
+		</items>
+		<items player_class="CLERIC">
+			<item id="110551053" count="1"/>
+			<item id="111501610" count="1"/>
+			<item id="112501551" count="1"/>
+			<item id="113501630" count="1"/>
+			<item id="114501639" count="1"/>
+			<item id="125003879" count="1"/>
+		</items>
+		<items player_class="CHANTER">
+			<item id="110551053" count="1"/>
+			<item id="111501610" count="1"/>
+			<item id="112501551" count="1"/>
+			<item id="113501630" count="1"/>
+			<item id="114501639" count="1"/>
+			<item id="125003879" count="1"/>
+		</items>
+		<items player_class="GUNNER">
+			<item id="110301714" count="1"/>
+			<item id="111301652" count="1"/>
+			<item id="112301591" count="1"/>
+			<item id="113301683" count="1"/>
+			<item id="114301720" count="1"/> 
+			<item id="125003877" count="1"/> 
+		</items>
+		<items player_class="BARD">
+			<item id="110101711" count="1"/>
+			<item id="111101541" count="1"/>
+			<item id="112101493" count="1"/>
+			<item id="113101555" count="1"/>
+			<item id="114101589" count="1"/>
+			<item id="125003885" count="1"/>
+		</items>
+		<items player_class="RIDER">
+			<item id="110551055" count="1"/>
+			<item id="111501612" count="1"/>
+			<item id="112501553" count="1"/>
+			<item id="113501632" count="1"/>
+			<item id="114501641" count="1"/>
+			<item id="125003881" count="1"/>
+		</items>
+	</decomposable_selectitem>
+    <!-- Mythic Dynatum Armour Chest -->
+	<decomposable_selectitem item_id="188052831"> 
+		<items player_class="GLADIATOR">
+			<item id="110601517" count="1"/>
+			<item id="111601480" count="1"/>
+			<item id="112601461" count="1"/>
+			<item id="113601463" count="1"/>
+			<item id="114601470" count="1"/>
+			<item id="125003872" count="1"/>
+		</items>
+		<items player_class="TEMPLAR">
+			<item id="110601519" count="1"/>
+			<item id="111601482" count="1"/>
+			<item id="112601463" count="1"/>
+			<item id="113601465" count="1"/>
+			<item id="114601472" count="1"/>
+			<item id="125003874" count="1"/>
+		</items>
+		<items player_class="ASSASSIN">
+			<item id="110301713" count="1"/>
+			<item id="111301651" count="1"/> 
+			<item id="112301590" count="1"/>
+			<item id="113301682" count="1"/>
+			<item id="114301719" count="1"/>
+			<item id="125003876" count="1"/>
+		</items>
+		<items player_class="RANGER">
+			<item id="110301713" count="1"/>
+			<item id="111301651" count="1"/> 
+			<item id="112301590" count="1"/>
+			<item id="113301682" count="1"/>
+			<item id="114301719" count="1"/> 
+			<item id="125003876" count="1"/> 
+		</items>
+		<items player_class="SORCERER">
+			<item id="110101710" count="1"/>
+			<item id="111101540" count="1"/>
+			<item id="112101492" count="1"/>
+			<item id="113101554" count="1"/>
+			<item id="114101588" count="1"/>
+			<item id="125003884" count="1"/>
+		</items>
+		<items player_class="SPIRIT_MASTER">
+			<item id="110101710" count="1"/>
+			<item id="111101540" count="1"/>
+			<item id="112101492" count="1"/>
+			<item id="113101554" count="1"/>
+			<item id="114101588" count="1"/>
+			<item id="125003884" count="1"/>
+		</items>
+		<items player_class="CLERIC">
+			<item id="110551054" count="1"/>
+			<item id="111501611" count="1"/>
+			<item id="112501552" count="1"/>
+			<item id="113501631" count="1"/>
+			<item id="114501640" count="1"/>
+			<item id="125003880" count="1"/>
+		</items>
+		<items player_class="CHANTER">
+			<item id="110551054" count="1"/>
+			<item id="111501611" count="1"/>
+			<item id="112501552" count="1"/>
+			<item id="113501631" count="1"/>
+			<item id="114501640" count="1"/>
+			<item id="125003880" count="1"/>
+		</items>
+		<items player_class="BARD">
+			<item id="110101712" count="1"/>
+			<item id="111101542" count="1"/>
+			<item id="112101494" count="1"/>
+			<item id="113101556" count="1"/>
+			<item id="114101590" count="1"/>
+			<item id="125003886" count="1"/>
+		</items>
+		<items player_class="GUNNER">
+			<item id="110301715" count="1"/>
+			<item id="111301653" count="1"/> 
+			<item id="112301592" count="1"/>
+			<item id="113301684" count="1"/>
+			<item id="114301721" count="1"/>
+			<item id="125003878" count="1"/>
+		</items>
+		<items player_class="RIDER">
+			<item id="110551056" count="1"/>
+			<item id="111501613" count="1"/>
+			<item id="112501554" count="1"/>
+			<item id="113501633" count="1"/>
+			<item id="114501642" count="1"/>
+			<item id="125003882" count="1"/>
+		</items>
+	</decomposable_selectitem>
+    <!-- Judge's Fabled Weapon Chest -->
+    <decomposable_selectitem item_id="188052826">
+        <items>
+            <item id="100000275" count="1"/>
+            <item id="100100191" count="1"/>
+            <item id="100200298" count="1"/>
+            <item id="100500204" count="1"/>
+            <item id="100600219" count="1"/>
+            <item id="100900197" count="1"/>
+            <item id="101300194" count="1"/>
+            <item id="101500205" count="1"/>
+            <item id="101700216" count="1"/>
+            <item id="101800872" count="1"/>
+            <item id="101900290" count="1"/>
+            <item id="102000301" count="1"/>
+            <item id="102100761" count="1"/>
+        </items>
+    </decomposable_selectitem>
+    <!-- Empyrean Plume Chest -->
+    <decomposable_selectitem item_id="188053295">
+        <items race="ELYOS">
+            <item id="187100015" count="1"/>
+            <item id="187100016" count="1"/>
+        </items>
+    </decomposable_selectitem>
+    <!-- Empyrean Plume Chest -->
+    <decomposable_selectitem item_id="188053295">
+        <items race="ASMODIANS">
+            <item id="187100017" count="1"/>
+            <item id="187100018" count="1"/>
+        </items>
+    </decomposable_selectitem>
+    <!-- [Event] Empyrean Plume Chest -->
+    <decomposable_selectitem item_id="188053321">
+        <items race="ELYOS">
+            <item id="187100015" count="1"/>
+            <item id="187100016" count="1"/>
+        </items>
+    </decomposable_selectitem>
+    <!-- [Event] Empyrean Plume Chest -->
+    <decomposable_selectitem item_id="188053321">
+        <items race="ASMODIANS">
+            <item id="187100017" count="1"/>
+            <item id="187100018" count="1"/>
+        </items>
+    </decomposable_selectitem>
+	<!-- Stamp Noble Potion Bundle -->
+	<decomposable_selectitem item_id="188053631">
+        <items player_class="ALL">
+            <item id="162000158" count="5"/> <!-- Stamp Fine Life Serum -->
+            <item id="162000159" count="5"/> <!-- Stamp Fine Mana Serum -->
+            <item id="162000071" count="5"/>
+            <item id="164002218" count="2"/>
+            <item id="160005052" count="5"/>
+        </items>
+    </decomposable_selectitem>
+	<!-- Stamp Noble Scroll Bundle -->
+	<decomposable_selectitem item_id="188053632">
+        <items player_class="ALL">
+            <item id="164000327" count="5"/>
+            <item id="164000328" count="5"/>
+			<item id="164000329" count="5"/>
+			<item id="164000330" count="5"/>
+			<item id="164000323" count="5"/>
+			<item id="164000324" count="5"/>
+			<item id="164000325" count="5"/>
+			<item id="164000326" count="5"/>
+        </items>
+    </decomposable_selectitem>	
+    	<!-- Stamp Noble Ancient Manastone Box -->
+	<decomposable_selectitem item_id="188053416">
+        <items player_class="ALL">
+            <item id="167020091" count="1"/>
+            <item id="167020087" count="1"/>
+			<item id="167020086" count="1"/>
+			<item id="167020084" count="1"/>
+			<item id="167020095" count="1"/>
+			<item id="167020093" count="1"/>
+			<item id="167020094" count="1"/>
+			<item id="167020092" count="1"/>
+			<item id="167020079" count="1"/>
+			<item id="167020085" count="1"/>
+			<item id="167020088" count="1"/>
+			<item id="167020089" count="1"/>
+			<item id="167020090" count="1"/>
+        </items>
+    </decomposable_selectitem>
+    <!-- Stamp Daily Gift Box Season 1 -->
+	<decomposable_selectitem item_id="188053409">
+        <items player_class="ALL">
+            <item id="188053631" count="1"/>
+            <item id="188053632" count="1"/>
+		</items>
+    </decomposable_selectitem>
+    <!-- Stamp Daily Gift Box Season 2 -->
+	<decomposable_selectitem item_id="188053410">
+        <items player_class="ALL">
+            <item id="188053631" count="1"/>
+            <item id="188053632" count="1"/>
+		</items>
+    </decomposable_selectitem>
+    <!-- Stamp Daily Gift Box Season 3 -->
+	<decomposable_selectitem item_id="188053411">
+        <items player_class="ALL">
+            <item id="188053631" count="1"/>
+            <item id="188053632" count="1"/>
+		</items>
+    </decomposable_selectitem>
+     <!-- Stamp Daily Gift Box Season 4 -->
+	<decomposable_selectitem item_id="188053412">
+        <items player_class="ALL">
+            <item id="188053631" count="1"/>
+            <item id="188053632" count="1"/>
+		</items>
+    </decomposable_selectitem>
+    <!-- Scroll Bundle (Linkgate Foundry) -->
+    <decomposable_selectitem item_id="188053238">
+        <items>
+            <item id="164000291" count="1"/>
+            <item id="164000292" count="1"/>
+        </items>
+    </decomposable_selectitem>
+    <!-- Scroll Bundle (Linkgate Foundry) -->
+    <decomposable_selectitem item_id="188053239">
+        <items>
+            <item id="164000291" count="1"/>
+            <item id="164000292" count="1"/>
+        </items>
+    </decomposable_selectitem>
+    <!-- Event Brax Cafe Tasty Treats -->
+    <decomposable_selectitem item_id="188051866">
+		<items player_class="ALL">
+            <item id="160002449" count="5"/>
+            <item id="160002425" count="5"/>
+            <item id="160002430" count="5"/>
+            <item id="160002428" count="5"/>
+            <item id="160002426" count="5"/>
+            <item id="160002424" count="5"/>
+            <item id="160002429" count="5"/>            
+        </items>    
+    </decomposable_selectitem>
+    <!--  Plume Chest -->
+    <decomposable_selectitem item_id="188053656">
+        <items race="ASMODIANS">
+            <item id="187100017" count="1"/>
+            <item id="187100018" count="1"/>
+        </items>
+		<items race="ELYOS">
+			<item id="187100015" count="1"/>
+			<item id="187100016" count="1"/>
+		</items>
+    </decomposable_selectitem>
+	<!-- Spatalos' Armor Chest -->
+    <decomposable_selectitem item_id="188052768">
+		<items player_class="ALL">
+			<item id="113500771" count="1"/>
+			<item id="111500760" count="1"/>
+			<item id="110500795" count="1"/>          
+        </items>    
+    </decomposable_selectitem>
+	<!-- Spatalos' Accessory Chest -->
+    <decomposable_selectitem item_id="188052769">
+		<items player_class="ALL">
+			<item id="121000766" count="1"/>
+			<item id="121000767" count="1"/>
+			<item id="125001841" count="1"/>
+			<item id="121001396" count="1"/>
+			<item id="121001397" count="1"/>            
+        </items>    
+    </decomposable_selectitem>
+	<!-- Valerius' Accessory Chest -->
+    <decomposable_selectitem item_id="188052771">
+		<items player_class="ALL">
+			<item id="121001404" count="1"/>
+			<item id="121001405" count="1"/>
+			<item id="120001388" count="1"/>
+			<item id="120001389" count="1"/>
+			<item id="125001845" count="1"/>            
+        </items>    
+    </decomposable_selectitem>
+	<!-- Thrasymedes' Accessory Chest -->
+    <decomposable_selectitem item_id="188052778">
+		<items player_class="ALL">
+			<item id="121000775" count="1"/>
+			<item id="121000776" count="1"/>           
+        </items>    
+    </decomposable_selectitem>
+	<!-- Perento's Armor Chest -->
+    <decomposable_selectitem item_id="188052779">
+		<items player_class="ALL">
+			<item id="112500724" count="1"/>
+			<item id="110500802" count="1"/>           
+        </items>    
+    </decomposable_selectitem>
+	<!-- Atropos' Accessory Chest -->
+    <decomposable_selectitem item_id="188052781">
+		<items player_class="ALL">
+			<item id="121000816" count="1"/>
+			<item id="121000817" count="1"/>
+			<item id="122000923" count="1"/>
+			<item id="122000924" count="1"/>
+			<item id="120000888" count="1"/>
+			<item id="120000889" count="1"/>
+        </items>    
+    </decomposable_selectitem>
+	<!-- Outremus' Accessory Chest -->
+    <decomposable_selectitem item_id="188052782">
+		<items player_class="ALL">
+			<item id="120001077" count="1"/>
+			<item id="120001078" count="1"/>           
+        </items>    
+    </decomposable_selectitem>
+	<!-- Killios' Armor Chest -->
+    <decomposable_selectitem item_id="188052785">
+		<items player_class="ALL">
+			<item id="113501621" count="1"/>
+			<item id="113501232" count="1"/>          
+        </items>    
+    </decomposable_selectitem>
+	<!-- Killios' Armor Chest -->
+    <decomposable_selectitem item_id="188052786">
+		<items player_class="ALL">
+			<item id="110551045" count="1"/>
+			<item id="110501256" count="1"/>           
+        </items>    
+    </decomposable_selectitem>
+	<!-- Sarpan's Accessory Chest -->
+    <decomposable_selectitem item_id="188052787">
+		<items player_class="ALL">
+			<item id="123001241" count="1"/>
+			<item id="123001242" count="1"/>           
+        </items>    
+    </decomposable_selectitem>
+	<!-- Tiamaranta's Accessory Chest -->
+    <decomposable_selectitem item_id="188052788">
+		<items player_class="ALL">
+			<item id="120001271" count="1"/>
+			<item id="120001272" count="1"/>           
+        </items>    
+    </decomposable_selectitem>
+	<!-- Ancanus' Armor Chest -->
+    <decomposable_selectitem item_id="188052789">
+		<items player_class="ALL">
+			<item id="110501361" count="1"/>
+			<item id="114501342" count="1"/>            
+        </items>    
+    </decomposable_selectitem>
+	<!-- Nokir's Armor Chest -->
+    <decomposable_selectitem item_id="188052790">
+		<items player_class="ALL">
+			<item id="111500752" count="1"/>
+			<item id="114500768" count="1"/>           
+        </items>    
+    </decomposable_selectitem>
+	<!-- Judge's Armor Chest -->
+    <decomposable_selectitem item_id="188052792">
+		<items player_class="ALL">
+			<item id="110500787" count="1"/>
+			<item id="111500747" count="1"/>           
+        </items>    
+    </decomposable_selectitem>
+	<!-- Grundt's Accessory Chest -->
+    <decomposable_selectitem item_id="188052794">
+		<items player_class="ALL">
+			<item id="123000872" count="1"/>
+			<item id="123000871" count="1"/>           
+        </items>    
+    </decomposable_selectitem>
+	<!-- Valetta's Accessory Chest -->
+    <decomposable_selectitem item_id="188052798">
+		<items player_class="ALL">
+			<item id="120001085" count="1"/>
+			<item id="120001086" count="1"/>
+			<item id="125002378" count="1"/>           
+        </items>    
+    </decomposable_selectitem>
+	<!-- Valetta's Accessory Chest -->
+    <decomposable_selectitem item_id="188052799">
+		<items player_class="ALL">
+			<item id="122001222" count="1"/>
+			<item id="122001223" count="1"/>
+			<item id="123001091" count="1"/>          
+        </items>    
+    </decomposable_selectitem>
+	<!-- Sarpan's Accessory Chest -->
+    <decomposable_selectitem item_id="188052803">
+		<items player_class="ALL">
+			<item id="123001241" count="1"/>
+			<item id="123001242" count="1"/>            
+        </items>    
+    </decomposable_selectitem>
+	<!-- Tiamaranta's Accessory Chest -->
+    <decomposable_selectitem item_id="188052804">
+		<items player_class="ALL">
+			<item id="120001271" count="1"/>
+			<item id="120001272" count="1"/>           
+        </items>    
+    </decomposable_selectitem>
+	<!-- Skafir's Armor Chest -->
+    <decomposable_selectitem item_id="188052805">
+		<items player_class="ALL">
+			<item id="110501362" count="1"/>
+			<item id="114501343" count="1"/>           
+        </items>    
+    </decomposable_selectitem>
+</decomposable_selectitems>

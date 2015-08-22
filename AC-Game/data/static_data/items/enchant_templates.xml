@@ -1,0 +1,3617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<enchant_templates>
+    <enchant_template id="1" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="2"/>
+                <add name="PHYSICAL_ATTACK" value="10"/>
+                <add name="PHYSICAL_ACCURACY" value="5"/>
+                <add name="BLOCK" value="10"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="4"/>
+                <add name="MAGICAL_ATTACK" value="10"/>
+                <add name="PHYSICAL_DEFENSE" value="10"/>
+                <add name="PHYSICAL_ACCURACY" value="20"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="6"/>
+                <add name="ATTACK_SPEED" value="300"/>
+                <add name="PHYSICAL_ATTACK" value="30"/>
+                <add name="MAGICAL_ATTACK" value="20"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="EVASION" value="100"/>
+                <add name="MAXHP" value="100"/>
+                <add name="PHYSICAL_CRITICAL" value="5"/>
+                <add name="MAGICAL_CRITICAL" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="10"/>
+                <add name="PHYSICAL_CRITICAL_RESIST" value="10"/>
+                <add name="PVP_DEFEND_RATIO" value="5"/>
+                <add name="MAGICAL_DEFEND" value="10"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="12"/>
+                <add name="MAGICAL_RESIST" value="30"/>
+                <add name="PHYSICAL_ACCURACY" value="20"/>
+                <add name="DAMAGE_REDUCE" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="14"/>
+                <add name="PHYSICAL_DEFENSE" value="30"/>
+                <add name="PHYSICAL_ACCURACY" value="10"/>
+                <add name="PHYSICAL_ATTACK" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="16"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="5"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="20"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="30"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="18"/>
+                <add name="MAGICAL_CRITICAL" value="20"/>
+                <add name="MAGICAL_ACCURACY" value="50"/>
+                <add name="PHYSICAL_ACCURACY" value="30"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="20"/>
+                <add name="PHYSICAL_ATTACK" value="10"/>
+                <add name="MAGICAL_ATTACK" value="10"/>
+                <add name="PARRY" value="20"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="2" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PARRY" value="50"/>
+                <add name="BOOST_MAGICAL_SKILL" value="10"/>
+                <add name="PVP_DEFEND_RATIO" value="5"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PHYSICAL_CRITICAL_RESIST" value="10"/>
+                <add name="MAGICAL_RESIST" value="10"/>
+                <add name="PVP_DEFEND_RATIO" value="10"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="10"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="MAGICAL_ACCURACY" value="30"/>
+                <add name="DAMAGE_REDUCE" value="20"/>
+                <add name="EVASION" value="50"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="15"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PARRY" value="50"/>
+                <add name="BLOCK" value="30"/>
+                <add name="PVP_DEFEND_RATIO" value="20"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="20"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="MAGICAL_CRITICAL" value="5"/>
+                <add name="PHYSICAL_CRITICAL" value="10"/>
+                <add name="PVP_DEFEND_RATIO" value="25"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="25"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="BOOST_MAGICAL_SKILL" value="30"/>
+                <add name="MAGICAL_CRITICAL" value="10"/>
+                <add name="PVP_DEFEND_RATIO" value="30"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="30"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="MAGICAL_ATTACK" value="10"/>
+                <add name="BLOCK" value="20"/>
+                <add name="PVP_DEFEND_RATIO" value="35"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="35"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="DAMAGE_REDUCE" value="10"/>
+                <add name="BLOCK" value="30"/>
+                <add name="PVP_DEFEND_RATIO" value="40"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="40"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="MAGICAL_ACCURACY" value="20"/>
+                <add name="PHYSICAL_CRITICAL_RESIST" value="10"/>
+                <add name="PVP_DEFEND_RATIO" value="45"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="45"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="MAXHP" value="30"/>
+                <add name="BLOCK" value="20"/>
+                <add name="PVP_DEFEND_RATIO" value="50"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="50"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="3" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="1"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="1"/>
+                <add name="PVP_DEFEND_RATIO" value="1"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="1"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="2"/>
+                <add name="EVASION" value="20"/>
+                <add name="PVP_DEFEND_RATIO" value="2"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="2"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="3"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="3"/>
+                <add name="PVP_DEFEND_RATIO" value="3"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="3"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="4"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="4"/>
+                <add name="PVP_DEFEND_RATIO" value="4"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="4"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="5"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="5"/>
+                <add name="PVP_DEFEND_RATIO" value="5"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="6"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="6"/>
+                <add name="PVP_DEFEND_RATIO" value="6"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="6"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="7"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="7"/>
+                <add name="PVP_DEFEND_RATIO" value="7"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="7"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="8"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="8"/>
+                <add name="PVP_DEFEND_RATIO" value="8"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="8"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="9"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="9"/>
+                <add name="PVP_DEFEND_RATIO" value="9"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="10"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="10"/>
+                <add name="PVP_DEFEND_RATIO" value="10"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="10"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="4" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="1"/>
+                <add name="PVP_DEFEND_RATIO" value="1"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="2"/>
+                <add name="PVP_DEFEND_RATIO" value="2"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="3"/>
+                <add name="PVP_DEFEND_RATIO" value="3"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="4"/>
+                <add name="PVP_DEFEND_RATIO" value="4"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="5"/>
+                <add name="PVP_DEFEND_RATIO" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="6"/>
+                <add name="PVP_DEFEND_RATIO" value="6"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="7"/>
+                <add name="PVP_DEFEND_RATIO" value="7"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="8"/>
+                <add name="PVP_DEFEND_RATIO" value="8"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="9"/>
+                <add name="PVP_DEFEND_RATIO" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="10"/>
+                <add name="PVP_DEFEND_RATIO" value="10"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="5" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="1"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="1"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="2"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="2"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="3"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="3"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="4"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="4"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="5"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="6"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="6"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="7"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="7"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="8"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="8"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="9"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="10"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="10"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="6" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="1"/>
+                <add name="PVP_DEFEND_RATIO" value="1"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="2"/>
+                <add name="PVP_DEFEND_RATIO" value="2"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="3"/>
+                <add name="PVP_DEFEND_RATIO" value="3"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="4"/>
+                <add name="PVP_DEFEND_RATIO" value="4"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="5"/>
+                <add name="PVP_DEFEND_RATIO" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="6"/>
+                <add name="PVP_DEFEND_RATIO" value="6"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="7"/>
+                <add name="PVP_DEFEND_RATIO" value="7"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="8"/>
+                <add name="PVP_DEFEND_RATIO" value="8"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="9"/>
+                <add name="PVP_DEFEND_RATIO" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="10"/>
+                <add name="PVP_DEFEND_RATIO" value="10"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="7" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="1"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="1"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="2"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="2"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="3"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="3"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="4"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="4"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="5"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="6"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="6"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="7"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="7"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="8"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="8"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="9"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="10"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="10"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="8" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="1"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="1"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="2"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="2"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="3"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="3"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="4"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="4"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="5"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="6"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="6"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="7"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="7"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="8"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="8"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="9"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="10"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="10"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="9" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="1"/>
+                <add name="PVP_DEFEND_RATIO" value="1"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="2"/>
+                <add name="PVP_DEFEND_RATIO" value="2"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="3"/>
+                <add name="PVP_DEFEND_RATIO" value="3"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="4"/>
+                <add name="PVP_DEFEND_RATIO" value="4"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="5"/>
+                <add name="PVP_DEFEND_RATIO" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="6"/>
+                <add name="PVP_DEFEND_RATIO" value="6"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="7"/>
+                <add name="PVP_DEFEND_RATIO" value="7"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="8"/>
+                <add name="PVP_DEFEND_RATIO" value="8"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="9"/>
+                <add name="PVP_DEFEND_RATIO" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="10"/>
+                <add name="PVP_DEFEND_RATIO" value="10"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="10" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="1"/>
+                <add name="PVP_DEFEND_RATIO" value="1"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="2"/>
+                <add name="PVP_DEFEND_RATIO" value="2"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="3"/>
+                <add name="PVP_DEFEND_RATIO" value="3"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="4"/>
+                <add name="PVP_DEFEND_RATIO" value="4"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="5"/>
+                <add name="PVP_DEFEND_RATIO" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="6"/>
+                <add name="PVP_DEFEND_RATIO" value="6"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="7"/>
+                <add name="PVP_DEFEND_RATIO" value="7"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="8"/>
+                <add name="PVP_DEFEND_RATIO" value="8"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="9"/>
+                <add name="PVP_DEFEND_RATIO" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="10"/>
+                <add name="PVP_DEFEND_RATIO" value="10"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="11" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="1"/>
+                <add name="PVP_DEFEND_RATIO" value="1"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="2"/>
+                <add name="PVP_DEFEND_RATIO" value="2"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="3"/>
+                <add name="PVP_DEFEND_RATIO" value="3"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="4"/>
+                <add name="PVP_DEFEND_RATIO" value="4"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="5"/>
+                <add name="PVP_DEFEND_RATIO" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="6"/>
+                <add name="PVP_DEFEND_RATIO" value="6"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="7"/>
+                <add name="PVP_DEFEND_RATIO" value="7"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="8"/>
+                <add name="PVP_DEFEND_RATIO" value="8"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="9"/>
+                <add name="PVP_DEFEND_RATIO" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="10"/>
+                <add name="PVP_DEFEND_RATIO" value="10"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="12" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="1"/>
+                <add name="PVP_DEFEND_RATIO" value="1"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="2"/>
+                <add name="PVP_DEFEND_RATIO" value="2"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="3"/>
+                <add name="PVP_DEFEND_RATIO" value="3"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="4"/>
+                <add name="PVP_DEFEND_RATIO" value="4"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="5"/>
+                <add name="PVP_DEFEND_RATIO" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="6"/>
+                <add name="PVP_DEFEND_RATIO" value="6"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="7"/>
+                <add name="PVP_DEFEND_RATIO" value="7"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="8"/>
+                <add name="PVP_DEFEND_RATIO" value="8"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="9"/>
+                <add name="PVP_DEFEND_RATIO" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="10"/>
+                <add name="PVP_DEFEND_RATIO" value="10"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="13" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="1"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="1"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="2"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="2"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="3"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="3"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="4"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="4"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="5"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="6"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="6"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="7"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="7"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="8"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="8"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="9"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="10"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="10"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="14" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="1"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="1"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="2"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="2"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="3"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="3"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="4"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="4"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="5"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="6"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="6"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="7"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="7"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="8"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="8"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="9"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="10"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="10"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="15" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="1"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="1"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="2"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="2"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="3"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="3"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="4"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="4"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="5"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="6"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="6"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="7"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="7"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="8"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="8"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="9"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="10"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="10"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="16" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="1"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="1"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="2"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="2"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="3"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="3"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="4"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="4"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="5"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="6"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="6"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="7"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="7"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="8"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="8"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="9"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="10"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="10"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="17" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_DEFEND_RATIO" value="1"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_DEFEND_RATIO" value="2"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_DEFEND_RATIO" value="3"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_DEFEND_RATIO" value="4"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_DEFEND_RATIO" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_DEFEND_RATIO" value="6"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_DEFEND_RATIO" value="7"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_DEFEND_RATIO" value="8"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_DEFEND_RATIO" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_DEFEND_RATIO" value="10"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="18" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="1"/>
+                <add name="PVP_DEFEND_RATIO" value="1"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="1"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="2"/>
+                <add name="PVP_DEFEND_RATIO" value="2"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="2"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="3"/>
+                <add name="PVP_DEFEND_RATIO" value="3"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="3"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="4"/>
+                <add name="PVP_DEFEND_RATIO" value="4"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="4"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="5"/>
+                <add name="PVP_DEFEND_RATIO" value="5"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="6"/>
+                <add name="PVP_DEFEND_RATIO" value="6"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="6"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="7"/>
+                <add name="PVP_DEFEND_RATIO" value="7"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="7"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="8"/>
+                <add name="PVP_DEFEND_RATIO" value="8"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="8"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="9"/>
+                <add name="PVP_DEFEND_RATIO" value="9"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="10"/>
+                <add name="PVP_DEFEND_RATIO" value="10"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="10"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="19" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="1"/>
+                <add name="PVP_DEFEND_RATIO" value="1"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="1"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="2"/>
+                <add name="PVP_DEFEND_RATIO" value="2"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="2"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="3"/>
+                <add name="PVP_DEFEND_RATIO" value="3"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="3"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="4"/>
+                <add name="PVP_DEFEND_RATIO" value="4"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="4"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="5"/>
+                <add name="PVP_DEFEND_RATIO" value="5"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="6"/>
+                <add name="PVP_DEFEND_RATIO" value="6"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="6"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="7"/>
+                <add name="PVP_DEFEND_RATIO" value="7"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="7"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="8"/>
+                <add name="PVP_DEFEND_RATIO" value="8"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="8"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="9"/>
+                <add name="PVP_DEFEND_RATIO" value="9"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="10"/>
+                <add name="PVP_DEFEND_RATIO" value="10"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="10"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="20" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="1"/>
+                <add name="PVP_DEFEND_RATIO" value="1"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="1"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="2"/>
+                <add name="PVP_DEFEND_RATIO" value="2"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="2"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="3"/>
+                <add name="PVP_DEFEND_RATIO" value="3"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="3"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="4"/>
+                <add name="PVP_DEFEND_RATIO" value="4"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="4"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="5"/>
+                <add name="PVP_DEFEND_RATIO" value="5"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="6"/>
+                <add name="PVP_DEFEND_RATIO" value="6"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="6"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="7"/>
+                <add name="PVP_DEFEND_RATIO" value="7"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="7"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="8"/>
+                <add name="PVP_DEFEND_RATIO" value="8"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="8"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="9"/>
+                <add name="PVP_DEFEND_RATIO" value="9"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="10"/>
+                <add name="PVP_DEFEND_RATIO" value="10"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="10"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="21" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="1"/>
+                <add name="PVP_DEFEND_RATIO" value="1"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="1"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="2"/>
+                <add name="PVP_DEFEND_RATIO" value="2"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="2"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="3"/>
+                <add name="PVP_DEFEND_RATIO" value="3"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="3"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="4"/>
+                <add name="PVP_DEFEND_RATIO" value="4"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="4"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="5"/>
+                <add name="PVP_DEFEND_RATIO" value="5"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="6"/>
+                <add name="PVP_DEFEND_RATIO" value="6"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="6"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="7"/>
+                <add name="PVP_DEFEND_RATIO" value="7"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="7"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="8"/>
+                <add name="PVP_DEFEND_RATIO" value="8"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="8"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="9"/>
+                <add name="PVP_DEFEND_RATIO" value="9"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="10"/>
+                <add name="PVP_DEFEND_RATIO" value="10"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="10"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="22" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="1"/>
+                <add name="PVP_DEFEND_RATIO" value="1"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="1"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="2"/>
+                <add name="PVP_DEFEND_RATIO" value="2"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="2"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="3"/>
+                <add name="PVP_DEFEND_RATIO" value="3"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="3"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="4"/>
+                <add name="PVP_DEFEND_RATIO" value="4"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="4"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="5"/>
+                <add name="PVP_DEFEND_RATIO" value="5"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="6"/>
+                <add name="PVP_DEFEND_RATIO" value="6"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="6"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="7"/>
+                <add name="PVP_DEFEND_RATIO" value="7"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="7"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="8"/>
+                <add name="PVP_DEFEND_RATIO" value="8"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="8"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="9"/>
+                <add name="PVP_DEFEND_RATIO" value="9"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="10"/>
+                <add name="PVP_DEFEND_RATIO" value="10"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="10"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="23" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="1"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="1"/>
+                <add name="PVP_DEFEND_RATIO" value="1"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="1"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="2"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="2"/>
+                <add name="PVP_DEFEND_RATIO" value="2"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="2"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="3"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="3"/>
+                <add name="PVP_DEFEND_RATIO" value="3"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="3"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="4"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="4"/>
+                <add name="PVP_DEFEND_RATIO" value="4"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="4"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="5"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="5"/>
+                <add name="PVP_DEFEND_RATIO" value="5"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="6"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="6"/>
+                <add name="PVP_DEFEND_RATIO" value="6"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="6"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="7"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="7"/>
+                <add name="PVP_DEFEND_RATIO" value="7"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="7"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="8"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="8"/>
+                <add name="PVP_DEFEND_RATIO" value="8"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="8"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="9"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="9"/>
+                <add name="PVP_DEFEND_RATIO" value="9"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="10"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="10"/>
+                <add name="PVP_DEFEND_RATIO" value="10"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="10"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="24" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="1"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="1"/>
+                <add name="PVP_DEFEND_RATIO" value="1"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="1"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="2"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="2"/>
+                <add name="PVP_DEFEND_RATIO" value="2"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="2"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="3"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="3"/>
+                <add name="PVP_DEFEND_RATIO" value="3"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="3"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="4"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="4"/>
+                <add name="PVP_DEFEND_RATIO" value="4"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="4"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="5"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="5"/>
+                <add name="PVP_DEFEND_RATIO" value="5"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="6"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="6"/>
+                <add name="PVP_DEFEND_RATIO" value="6"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="6"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="7"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="7"/>
+                <add name="PVP_DEFEND_RATIO" value="7"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="7"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="8"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="8"/>
+                <add name="PVP_DEFEND_RATIO" value="8"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="8"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="9"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="9"/>
+                <add name="PVP_DEFEND_RATIO" value="9"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="10"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="10"/>
+                <add name="PVP_DEFEND_RATIO" value="10"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="10"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="25" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="1"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="1"/>
+                <add name="PVP_DEFEND_RATIO" value="1"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="1"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="2"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="2"/>
+                <add name="PVP_DEFEND_RATIO" value="2"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="2"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="3"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="3"/>
+                <add name="PVP_DEFEND_RATIO" value="3"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="3"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="4"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="4"/>
+                <add name="PVP_DEFEND_RATIO" value="4"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="4"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="5"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="5"/>
+                <add name="PVP_DEFEND_RATIO" value="5"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="6"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="6"/>
+                <add name="PVP_DEFEND_RATIO" value="6"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="6"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="7"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="7"/>
+                <add name="PVP_DEFEND_RATIO" value="7"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="7"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="8"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="8"/>
+                <add name="PVP_DEFEND_RATIO" value="8"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="8"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="9"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="9"/>
+                <add name="PVP_DEFEND_RATIO" value="9"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="10"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="10"/>
+                <add name="PVP_DEFEND_RATIO" value="10"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="10"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="26" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="1"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="1"/>
+                <add name="PVP_DEFEND_RATIO" value="1"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="1"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="2"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="2"/>
+                <add name="PVP_DEFEND_RATIO" value="2"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="2"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="3"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="3"/>
+                <add name="PVP_DEFEND_RATIO" value="3"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="3"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="4"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="4"/>
+                <add name="PVP_DEFEND_RATIO" value="4"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="4"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="5"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="5"/>
+                <add name="PVP_DEFEND_RATIO" value="5"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="6"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="6"/>
+                <add name="PVP_DEFEND_RATIO" value="6"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="6"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="7"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="7"/>
+                <add name="PVP_DEFEND_RATIO" value="7"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="7"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="8"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="8"/>
+                <add name="PVP_DEFEND_RATIO" value="8"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="8"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="9"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="9"/>
+                <add name="PVP_DEFEND_RATIO" value="9"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="10"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="10"/>
+                <add name="PVP_DEFEND_RATIO" value="10"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="10"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="27" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="1"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="1"/>
+                <add name="PVP_DEFEND_RATIO" value="1"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="1"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="2"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="2"/>
+                <add name="PVP_DEFEND_RATIO" value="2"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="2"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="3"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="3"/>
+                <add name="PVP_DEFEND_RATIO" value="3"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="3"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="4"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="4"/>
+                <add name="PVP_DEFEND_RATIO" value="4"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="4"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="5"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="5"/>
+                <add name="PVP_DEFEND_RATIO" value="5"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="6"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="6"/>
+                <add name="PVP_DEFEND_RATIO" value="6"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="6"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="7"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="7"/>
+                <add name="PVP_DEFEND_RATIO" value="7"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="7"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="8"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="8"/>
+                <add name="PVP_DEFEND_RATIO" value="8"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="8"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="9"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="9"/>
+                <add name="PVP_DEFEND_RATIO" value="9"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="10"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="10"/>
+                <add name="PVP_DEFEND_RATIO" value="10"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="10"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="28" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="1"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="1"/>
+                <add name="PVP_DEFEND_RATIO" value="1"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="2"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="2"/>
+                <add name="PVP_DEFEND_RATIO" value="2"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="3"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="3"/>
+                <add name="PVP_DEFEND_RATIO" value="3"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="4"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="4"/>
+                <add name="PVP_DEFEND_RATIO" value="4"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="5"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="5"/>
+                <add name="PVP_DEFEND_RATIO" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="6"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="6"/>
+                <add name="PVP_DEFEND_RATIO" value="6"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="7"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="7"/>
+                <add name="PVP_DEFEND_RATIO" value="7"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="8"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="8"/>
+                <add name="PVP_DEFEND_RATIO" value="8"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="9"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="9"/>
+                <add name="PVP_DEFEND_RATIO" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="10"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="10"/>
+                <add name="PVP_DEFEND_RATIO" value="10"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="29" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="1"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="1"/>
+                <add name="PVP_DEFEND_RATIO" value="1"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="2"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="2"/>
+                <add name="PVP_DEFEND_RATIO" value="2"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="3"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="3"/>
+                <add name="PVP_DEFEND_RATIO" value="3"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="4"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="4"/>
+                <add name="PVP_DEFEND_RATIO" value="4"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="5"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="5"/>
+                <add name="PVP_DEFEND_RATIO" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="6"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="6"/>
+                <add name="PVP_DEFEND_RATIO" value="6"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="7"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="7"/>
+                <add name="PVP_DEFEND_RATIO" value="7"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="8"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="8"/>
+                <add name="PVP_DEFEND_RATIO" value="8"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="9"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="9"/>
+                <add name="PVP_DEFEND_RATIO" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="10"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="10"/>
+                <add name="PVP_DEFEND_RATIO" value="10"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="30" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="1"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="1"/>
+                <add name="PVP_DEFEND_RATIO" value="1"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="2"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="2"/>
+                <add name="PVP_DEFEND_RATIO" value="2"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="3"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="3"/>
+                <add name="PVP_DEFEND_RATIO" value="3"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="4"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="4"/>
+                <add name="PVP_DEFEND_RATIO" value="4"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="5"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="5"/>
+                <add name="PVP_DEFEND_RATIO" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="6"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="6"/>
+                <add name="PVP_DEFEND_RATIO" value="6"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="7"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="7"/>
+                <add name="PVP_DEFEND_RATIO" value="7"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="8"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="8"/>
+                <add name="PVP_DEFEND_RATIO" value="8"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="9"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="9"/>
+                <add name="PVP_DEFEND_RATIO" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="10"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="10"/>
+                <add name="PVP_DEFEND_RATIO" value="10"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="31" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="1"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="1"/>
+                <add name="PVP_DEFEND_RATIO" value="1"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="2"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="2"/>
+                <add name="PVP_DEFEND_RATIO" value="2"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="3"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="3"/>
+                <add name="PVP_DEFEND_RATIO" value="3"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="4"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="4"/>
+                <add name="PVP_DEFEND_RATIO" value="4"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="5"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="5"/>
+                <add name="PVP_DEFEND_RATIO" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="6"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="6"/>
+                <add name="PVP_DEFEND_RATIO" value="6"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="7"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="7"/>
+                <add name="PVP_DEFEND_RATIO" value="7"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="8"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="8"/>
+                <add name="PVP_DEFEND_RATIO" value="8"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="9"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="9"/>
+                <add name="PVP_DEFEND_RATIO" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="10"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="10"/>
+                <add name="PVP_DEFEND_RATIO" value="10"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="32" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="1"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="1"/>
+                <add name="PVP_DEFEND_RATIO" value="1"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="2"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="2"/>
+                <add name="PVP_DEFEND_RATIO" value="2"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="3"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="3"/>
+                <add name="PVP_DEFEND_RATIO" value="3"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="4"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="4"/>
+                <add name="PVP_DEFEND_RATIO" value="4"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="5"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="5"/>
+                <add name="PVP_DEFEND_RATIO" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="6"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="6"/>
+                <add name="PVP_DEFEND_RATIO" value="6"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="7"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="7"/>
+                <add name="PVP_DEFEND_RATIO" value="7"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="8"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="8"/>
+                <add name="PVP_DEFEND_RATIO" value="8"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="9"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="9"/>
+                <add name="PVP_DEFEND_RATIO" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="10"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="10"/>
+                <add name="PVP_DEFEND_RATIO" value="10"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="33" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="1"/>
+                <add name="PVP_DEFEND_RATIO" value="1"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="2"/>
+                <add name="PVP_DEFEND_RATIO" value="2"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="3"/>
+                <add name="PVP_DEFEND_RATIO" value="3"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="4"/>
+                <add name="PVP_DEFEND_RATIO" value="4"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="5"/>
+                <add name="PVP_DEFEND_RATIO" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="6"/>
+                <add name="PVP_DEFEND_RATIO" value="6"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="7"/>
+                <add name="PVP_DEFEND_RATIO" value="7"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="8"/>
+                <add name="PVP_DEFEND_RATIO" value="8"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="9"/>
+                <add name="PVP_DEFEND_RATIO" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="10"/>
+                <add name="PVP_DEFEND_RATIO" value="10"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="34" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="1"/>
+                <add name="PVP_DEFEND_RATIO" value="1"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="2"/>
+                <add name="PVP_DEFEND_RATIO" value="2"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="3"/>
+                <add name="PVP_DEFEND_RATIO" value="3"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="4"/>
+                <add name="PVP_DEFEND_RATIO" value="4"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="5"/>
+                <add name="PVP_DEFEND_RATIO" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="6"/>
+                <add name="PVP_DEFEND_RATIO" value="6"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="7"/>
+                <add name="PVP_DEFEND_RATIO" value="7"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="8"/>
+                <add name="PVP_DEFEND_RATIO" value="8"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="9"/>
+                <add name="PVP_DEFEND_RATIO" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="10"/>
+                <add name="PVP_DEFEND_RATIO" value="10"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="35" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="1"/>
+                <add name="PVP_DEFEND_RATIO" value="1"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="2"/>
+                <add name="PVP_DEFEND_RATIO" value="2"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="3"/>
+                <add name="PVP_DEFEND_RATIO" value="3"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="4"/>
+                <add name="PVP_DEFEND_RATIO" value="4"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="5"/>
+                <add name="PVP_DEFEND_RATIO" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="6"/>
+                <add name="PVP_DEFEND_RATIO" value="6"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="7"/>
+                <add name="PVP_DEFEND_RATIO" value="7"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="8"/>
+                <add name="PVP_DEFEND_RATIO" value="8"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="9"/>
+                <add name="PVP_DEFEND_RATIO" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="10"/>
+                <add name="PVP_DEFEND_RATIO" value="10"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="36" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="1"/>
+                <add name="PVP_DEFEND_RATIO" value="1"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="2"/>
+                <add name="PVP_DEFEND_RATIO" value="2"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="3"/>
+                <add name="PVP_DEFEND_RATIO" value="3"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="4"/>
+                <add name="PVP_DEFEND_RATIO" value="4"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="5"/>
+                <add name="PVP_DEFEND_RATIO" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="6"/>
+                <add name="PVP_DEFEND_RATIO" value="6"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="7"/>
+                <add name="PVP_DEFEND_RATIO" value="7"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="8"/>
+                <add name="PVP_DEFEND_RATIO" value="8"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="9"/>
+                <add name="PVP_DEFEND_RATIO" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="10"/>
+                <add name="PVP_DEFEND_RATIO" value="10"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="37" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="1"/>
+                <add name="PVP_DEFEND_RATIO" value="1"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="2"/>
+                <add name="PVP_DEFEND_RATIO" value="2"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="3"/>
+                <add name="PVP_DEFEND_RATIO" value="3"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="4"/>
+                <add name="PVP_DEFEND_RATIO" value="4"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="5"/>
+                <add name="PVP_DEFEND_RATIO" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="6"/>
+                <add name="PVP_DEFEND_RATIO" value="6"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="7"/>
+                <add name="PVP_DEFEND_RATIO" value="7"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="8"/>
+                <add name="PVP_DEFEND_RATIO" value="8"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="9"/>
+                <add name="PVP_DEFEND_RATIO" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="10"/>
+                <add name="PVP_DEFEND_RATIO" value="10"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="38" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="2"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="2"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="7"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="7"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="12"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="12"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="17"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="17"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="25"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="25"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="35"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="35"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="47"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="47"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="62"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="62"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="77"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="77"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="97"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="97"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="39" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_DEFEND_RATIO" value="3"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="3"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_DEFEND_RATIO" value="9"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_DEFEND_RATIO" value="15"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="15"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_DEFEND_RATIO" value="21"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="21"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_DEFEND_RATIO" value="31"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="31"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_DEFEND_RATIO" value="45"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="45"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_DEFEND_RATIO" value="63"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="63"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_DEFEND_RATIO" value="83"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="83"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_DEFEND_RATIO" value="103"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="103"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_DEFEND_RATIO" value="129"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="129"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="40" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="2"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="2"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="7"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="7"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="12"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="12"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="17"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="17"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="25"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="25"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="35"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="35"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="47"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="47"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="62"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="62"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="77"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="77"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="97"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="97"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="41" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="2"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="2"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="7"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="7"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="12"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="12"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="17"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="17"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="25"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="25"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="35"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="35"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="47"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="47"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="62"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="62"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="77"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="77"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="97"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="97"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="42" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_DEFEND_RATIO" value="3"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="3"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_DEFEND_RATIO" value="9"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_DEFEND_RATIO" value="15"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="15"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_DEFEND_RATIO" value="21"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="21"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_DEFEND_RATIO" value="31"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="31"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_DEFEND_RATIO" value="45"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="45"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_DEFEND_RATIO" value="63"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="63"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_DEFEND_RATIO" value="83"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="83"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_DEFEND_RATIO" value="103"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="103"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_DEFEND_RATIO" value="129"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="129"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="43" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PHYSICAL_ACCURACY" value="15"/>
+                <add name="MAGICAL_ACCURACY" value="10"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PHYSICAL_ACCURACY" value="30"/>
+                <add name="MAGICAL_ACCURACY" value="20"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PHYSICAL_ACCURACY" value="45"/>
+                <add name="MAGICAL_ACCURACY" value="30"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PHYSICAL_ACCURACY" value="60"/>
+                <add name="MAGICAL_ACCURACY" value="40"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PHYSICAL_ACCURACY" value="90"/>
+                <add name="MAGICAL_ACCURACY" value="60"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PHYSICAL_ACCURACY" value="120"/>
+                <add name="MAGICAL_ACCURACY" value="80"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PHYSICAL_ACCURACY" value="150"/>
+                <add name="MAGICAL_ACCURACY" value="100"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PHYSICAL_ACCURACY" value="180"/>
+                <add name="MAGICAL_ACCURACY" value="120"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PHYSICAL_ACCURACY" value="220"/>
+                <add name="MAGICAL_ACCURACY" value="145"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PHYSICAL_ACCURACY" value="270"/>
+                <add name="MAGICAL_ACCURACY" value="175"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="44" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PHYSICAL_ATTACK" value="10"/>
+                <add name="MAGICAL_ATTACK" value="20"/>
+                <add name="PHYSICAL_ACCURACY" value="5"/>
+                <add name="PHYSICAL_CRITICAL" value="10"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="MAGICAL_CRITICAL" value="5"/>
+                <add name="BOOST_MAGICAL_SKILL" value="20"/>
+                <add name="BOOST_MAGICAL_SKILL" value="5"/>
+                <add name="HEAL_BOOST" value="10"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <rate name="BOOST_CASTING_TIME" value="5"/>
+                <rate name="ATTACK_SPEED" value="15"/>
+                <rate name="SPEED" value="20"/>
+                <rate name="FLY_SPEED" value="25"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="MAXHP" value="400"/>
+                <add name="MAXMP" value="300"/>
+                <add name="FLY_TIME" value="200"/>
+                <add name="PHYSICAL_DEFENSE" value="500"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PARRY" value="200"/>
+                <add name="BLOCK" value="300"/>
+                <add name="EVASION" value="200"/>
+                <add name="PHYSICAL_CRITICAL_RESIST" value="30"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PHYSICAL_CRITICAL_DAMAGE_REDUCE" value="50"/>
+                <add name="MAGICAL_RESIST" value="100"/>
+                <add name="MAGIC_SKILL_BOOST_RESIST" value="99"/>
+                <add name="MAGICAL_CRITICAL_DAMAGE_REDUCE" value="55"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="MAGICAL_CRITICAL_RESIST" value="10"/>
+                <add name="PROC_REDUCE_RATE" value="20"/>
+                <rate name="BOOST_HATE" value="-10"/>
+                <add name="PVP_DODGE" value="500"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="PVP_BLOCK" value="100"/>
+                <add name="PVP_PARRY" value="300"/>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="50"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="60"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="PVP_DEFEND_RATIO" value="70"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="80"/>
+                <add name="PVP_HIT_ACCURACY" value="100"/>
+                <add name="PVP_MAGICAL_RESIST" value="50"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PVP_MAGICAL_HIT_ACCURACY" value="10"/>
+                <add name="PARALYZE_RESISTANCE" value="20"/>
+                <add name="SILENCE_RESISTANCE" value="30"/>
+                <add name="STUN_RESISTANCE" value="40"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="45" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="STUMBLE_RESISTANCE" value="50"/>
+                <add name="STAGGER_RESISTANCE" value="60"/>
+                <add name="SPIN_RESISTANCE" value="10"/>
+                <add name="OPENAREIAL_RESISTANCE" value="20"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="POISON_RESISTANCE" value="30"/>
+                <add name="BLEED_RESISTANCE" value="40"/>
+                <add name="SLEEP_RESISTANCE" value="50"/>
+                <add name="ROOT_RESISTANCE" value="60"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="BLIND_RESISTANCE" value="10"/>
+                <add name="CHARM_RESISTANCE" value="20"/>
+                <add name="DISEASE_RESISTANCE" value="30"/>
+                <add name="FEAR_RESISTANCE" value="40"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="CURSE_RESISTANCE" value="50"/>
+                <add name="CONFUSE_RESISTANCE" value="60"/>
+                <add name="PERIFICATION_RESISTANCE" value="10"/>
+                <add name="SNARE_RESISTANCE" value="20"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="SLOW_RESISTANCE" value="30"/>
+                <add name="PARALYZE_RESISTANCE_PENETRATION" value="40"/>
+                <add name="SLEEP_RESISTANCE_PENETRATION" value="50"/>
+                <add name="STUN_RESISTANCE" value="60"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="STUMBLE_RESISTANCE_PENETRATION" value="10"/>
+                <add name="STAGGER_RESISTANCE_PENETRATION" value="20"/>
+                <add name="SPIN_RESISTANCE_PENETRATION" value="30"/>
+                <add name="OPENAREIAL_RESISTANCE_PENETRATION" value="40"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="POISON_RESISTANCE_PENETRATION" value="50"/>
+                <add name="BLEED_RESISTANCE_PENETRATION" value="60"/>
+                <add name="SILENCE_RESISTANCE_PENETRATION" value="10"/>
+                <add name="ROOT_RESISTANCE_PENETRATION" value="20"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="BLIND_RESISTANCE_PENETRATION" value="30"/>
+                <add name="CHARM_RESISTANCE_PENETRATION" value="40"/>
+                <add name="DISEASE_RESISTANCE_PENETRATION" value="50"/>
+                <add name="FEAR_RESISTANCE_PENETRATION" value="60"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="CURSE_RESISTANCE_PENETRATION" value="10"/>
+                <add name="CONFUSE_RESISTANCE_PENETRATION" value="20"/>
+                <add name="PERIFICATION_RESISTANCE_PENETRATION" value="30"/>
+                <add name="SNARE_RESISTANCE_PENETRATION" value="40"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="SLOW_RESISTANCE_PENETRATION" value="50"/>
+                <add name="MAGICAL_ACCURACY" value="100"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="46" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="100"/>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="20"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="20"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="30"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="20"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="25"/>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="30"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="35"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="50"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="60"/>
+                <add name="PVP_DEFEND_RATIO" value="70"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="80"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="MAXHP" value="50"/>
+                <add name="PHYSICAL_CRITICAL" value="70"/>
+                <add name="PHYSICAL_CRITICAL" value="20"/>
+                <add name="MAGICAL_ACCURACY" value="30"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="BOOST_MAGICAL_SKILL" value="80"/>
+                <add name="BOOST_MAGICAL_SKILL" value="160"/>
+                <add name="MAXHP" value="112"/>
+                <add name="MAXHP" value="800"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="BLOCK" value="100"/>
+                <add name="PARRY" value="90"/>
+                <add name="PARRY" value="100"/>
+                <rate name="SPEED" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <rate name="ATTACK_SPEED" value="9"/>
+                <add name="ATTACK_SPEED" value="200"/>
+                <add name="PHYSICAL_CRITICAL_RESIST" value="20"/>
+                <add name="PHYSICAL_CRITICAL_RESIST" value="50"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="MAGICAL_ATTACK" value="32"/>
+                <add name="PHYSICAL_ATTACK" value="16"/>
+                <add name="PHYSICAL_ATTACK" value="20"/>
+                <add name="MAGICAL_ATTACK" value="70"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="MAGICAL_ACCURACY" value="20"/>
+                <add name="PHYSICAL_CRITICAL_RESIST" value="10"/>
+                <add name="SNARE_RESISTANCE_PENETRATION" value="40"/>
+                <add name="PVP_MAGICAL_RESIST" value="50"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PARALYZE_RESISTANCE" value="20"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="103"/>
+                <add name="PARRY" value="20"/>
+                <add name="FLY_TIME" value="200"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="47" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="9"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="16"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="16"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="25"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="25"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="34"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="34"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="46"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="46"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="60"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="60"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="75"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="75"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="MAGICAL_ATTACK" value="32"/>
+                <add name="PHYSICAL_ATTACK" value="16"/>
+                <add name="PHYSICAL_ATTACK" value="20"/>
+                <add name="MAGICAL_ATTACK" value="70"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="MAGICAL_ACCURACY" value="20"/>
+                <add name="PHYSICAL_CRITICAL_RESIST" value="10"/>
+                <add name="SNARE_RESISTANCE_PENETRATION" value="40"/>
+                <add name="PVP_MAGICAL_RESIST" value="50"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PARALYZE_RESISTANCE" value="20"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="103"/>
+                <add name="PARRY" value="20"/>
+                <add name="FLY_TIME" value="200"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="48" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="2"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="2"/>
+                <add name="PVP_DEFEND_RATIO" value="5"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="6"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="6"/>
+                <add name="PVP_DEFEND_RATIO" value="9"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="10"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="10"/>
+                <add name="PVP_DEFEND_RATIO" value="13"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="13"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="14"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="14"/>
+                <add name="PVP_DEFEND_RATIO" value="18"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="18"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="18"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="18"/>
+                <add name="PVP_DEFEND_RATIO" value="23"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="23"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="22"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="22"/>
+                <add name="PVP_DEFEND_RATIO" value="32"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="32"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="28"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="28"/>
+                <add name="PVP_DEFEND_RATIO" value="43"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="43"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="MAGICAL_ATTACK" value="32"/>
+                <add name="PHYSICAL_ATTACK" value="16"/>
+                <add name="PHYSICAL_ATTACK" value="20"/>
+                <add name="MAGICAL_ATTACK" value="70"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="MAGICAL_ACCURACY" value="20"/>
+                <add name="PHYSICAL_CRITICAL_RESIST" value="10"/>
+                <add name="SNARE_RESISTANCE_PENETRATION" value="40"/>
+                <add name="PVP_MAGICAL_RESIST" value="50"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PARALYZE_RESISTANCE" value="20"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="103"/>
+                <add name="PARRY" value="20"/>
+                <add name="FLY_TIME" value="200"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="49" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="12"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="12"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="22"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="22"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="32"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="32"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="42"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="42"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="56"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="56"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="72"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="72"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="88"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="88"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="MAGICAL_ATTACK" value="32"/>
+                <add name="PHYSICAL_ATTACK" value="16"/>
+                <add name="PHYSICAL_ATTACK" value="20"/>
+                <add name="MAGICAL_ATTACK" value="70"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="MAGICAL_ACCURACY" value="20"/>
+                <add name="PHYSICAL_CRITICAL_RESIST" value="10"/>
+                <add name="SNARE_RESISTANCE_PENETRATION" value="40"/>
+                <add name="PVP_MAGICAL_RESIST" value="50"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PARALYZE_RESISTANCE" value="20"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="103"/>
+                <add name="PARRY" value="20"/>
+                <add name="FLY_TIME" value="200"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="50" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="2"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="2"/>
+                <add name="PVP_DEFEND_RATIO" value="5"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="6"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="6"/>
+                <add name="PVP_DEFEND_RATIO" value="9"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="10"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="10"/>
+                <add name="PVP_DEFEND_RATIO" value="13"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="13"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="14"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="14"/>
+                <add name="PVP_DEFEND_RATIO" value="18"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="18"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="18"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="18"/>
+                <add name="PVP_DEFEND_RATIO" value="23"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="23"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="22"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="22"/>
+                <add name="PVP_DEFEND_RATIO" value="32"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="32"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="28"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="28"/>
+                <add name="PVP_DEFEND_RATIO" value="43"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="43"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="MAGICAL_ATTACK" value="32"/>
+                <add name="PHYSICAL_ATTACK" value="16"/>
+                <add name="PHYSICAL_ATTACK" value="20"/>
+                <add name="MAGICAL_ATTACK" value="70"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="MAGICAL_ACCURACY" value="20"/>
+                <add name="PHYSICAL_CRITICAL_RESIST" value="10"/>
+                <add name="SNARE_RESISTANCE_PENETRATION" value="40"/>
+                <add name="PVP_MAGICAL_RESIST" value="50"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PARALYZE_RESISTANCE" value="20"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="103"/>
+                <add name="PARRY" value="20"/>
+                <add name="FLY_TIME" value="200"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="51" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_DEFEND_RATIO" value="9"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_DEFEND_RATIO" value="17"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="17"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_DEFEND_RATIO" value="25"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="25"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_DEFEND_RATIO" value="34"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="34"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_DEFEND_RATIO" value="45"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="45"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_DEFEND_RATIO" value="60"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="60"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_DEFEND_RATIO" value="77"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="77"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="MAGICAL_ATTACK" value="32"/>
+                <add name="PHYSICAL_ATTACK" value="16"/>
+                <add name="PHYSICAL_ATTACK" value="20"/>
+                <add name="MAGICAL_ATTACK" value="70"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="MAGICAL_ACCURACY" value="20"/>
+                <add name="PHYSICAL_CRITICAL_RESIST" value="10"/>
+                <add name="SNARE_RESISTANCE_PENETRATION" value="40"/>
+                <add name="PVP_MAGICAL_RESIST" value="50"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PARALYZE_RESISTANCE" value="20"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="103"/>
+                <add name="PARRY" value="20"/>
+                <add name="FLY_TIME" value="200"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+    <enchant_template id="52" >
+    </enchant_template>
+    <enchant_template id="53" >
+    </enchant_template>
+	<enchant_template id="54" >
+        <item_enchant level="1">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="6"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="6"/>
+				<add name="PVP_DEFEND_RATIO_MAGICAL" value="5"/>
+				<add name="PVP_DEFEND_RATIO_PHYSICAL" value="5"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="2">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="10"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="10"/>
+				<add name="PVP_DEFEND_RATIO_MAGICAL" value="9"/>
+				<add name="PVP_DEFEND_RATIO_PHYSICAL" value="9"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="3">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="14"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="14"/>
+				<add name="PVP_DEFEND_RATIO_MAGICAL" value="13"/>
+				<add name="PVP_DEFEND_RATIO_PHYSICAL" value="13"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="4">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="18"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="18"/>
+				<add name="PVP_DEFEND_RATIO_MAGICAL" value="18"/>
+				<add name="PVP_DEFEND_RATIO_PHYSICAL" value="18"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="5">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="22"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="22"/>
+				<add name="PVP_DEFEND_RATIO_MAGICAL" value="23"/>
+				<add name="PVP_DEFEND_RATIO_PHYSICAL" value="23"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="6">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="26"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="26"/>
+				<add name="PVP_DEFEND_RATIO_MAGICAL" value="32"/>
+				<add name="PVP_DEFEND_RATIO_PHYSICAL" value="32"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="7">
+            <modifiers>
+                <add name="PVP_ATTACK_RATIO_PHYSICAL" value="32"/>
+                <add name="PVP_ATTACK_RATIO_MAGICAL" value="32"/>
+				<add name="PVP_DEFEND_RATIO_MAGICAL" value="43"/>
+				<add name="PVP_DEFEND_RATIO_PHYSICAL" value="43"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="8">
+            <modifiers>
+                <add name="MAGICAL_ATTACK" value="32"/>
+                <add name="PHYSICAL_ATTACK" value="16"/>
+                <add name="PHYSICAL_ATTACK" value="20"/>
+                <add name="MAGICAL_ATTACK" value="70"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="9">
+            <modifiers>
+                <add name="MAGICAL_ACCURACY" value="20"/>
+                <add name="PHYSICAL_CRITICAL_RESIST" value="10"/>
+                <add name="SNARE_RESISTANCE_PENETRATION" value="40"/>
+                <add name="PVP_MAGICAL_RESIST" value="50"/>
+            </modifiers>
+        </item_enchant>
+        <item_enchant level="10">
+            <modifiers>
+                <add name="PARALYZE_RESISTANCE" value="20"/>
+                <add name="PVP_DEFEND_RATIO_MAGICAL" value="103"/>
+                <add name="PARRY" value="20"/>
+                <add name="FLY_TIME" value="200"/>
+            </modifiers>
+        </item_enchant>
+    </enchant_template>
+</enchant_templates>

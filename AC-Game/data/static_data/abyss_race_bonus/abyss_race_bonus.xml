@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<abyss_race_bonuses xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:noNamespaceSchemaLocation="abyss_race_bonus.xsd">
+    <abyss_race_bonus id="1" name="Poeta's Protector 1" race="ELYOS"/>
+    <abyss_race_bonus id="2" name="Poeta's Protector 2" race="ELYOS"/>
+    <abyss_race_bonus id="3" name="Poeta's Protector 3" race="ELYOS"/>
+    <abyss_race_bonus id="4" name="Poeta's Protector 4" race="ELYOS"/>
+    <abyss_race_bonus id="5" name="Poeta's Protector 5" race="ELYOS"/>
+    <abyss_race_bonus id="6" name="Poeta's Protector 6" race="ELYOS"/>
+    <abyss_race_bonus id="7" name="Ariel's Blessing 1" race="ELYOS">
+        <bonus stat="PVP_ATTACK_RATIO" func="PERCENT" value="10"/>
+    </abyss_race_bonus>
+    <abyss_race_bonus id="8" name="Ariel's Blessing 2" race="ELYOS">
+        <bonus stat="PVP_ATTACK_RATIO" func="PERCENT" value="10"/>
+    </abyss_race_bonus>
+    <abyss_race_bonus id="9" name="Ariel's Blessing 3" race="ELYOS">
+        <bonus stat="PVP_ATTACK_RATIO" func="PERCENT" value="15"/>
+    </abyss_race_bonus>
+    <abyss_race_bonus id="10" name="Ariel's Blessing 4" race="ELYOS">
+        <bonus stat="PVP_ATTACK_RATIO" func="PERCENT" value="15"/>
+    </abyss_race_bonus>
+    <abyss_race_bonus id="11" name="Ariel's Blessing 5" race="ELYOS">
+        <bonus stat="PVP_ATTACK_RATIO" func="PERCENT" value="20"/>
+    </abyss_race_bonus>
+    <abyss_race_bonus id="12" name="Ariel's Blessing 6" race="ELYOS">
+        <bonus stat="PVP_ATTACK_RATIO" func="PERCENT" value="20"/>
+    </abyss_race_bonus>
+    <abyss_race_bonus id="13" name="Ishalgen's Protector 1" race="ASMODIANS"/>
+    <abyss_race_bonus id="14" name="Ishalgen's Protector 2" race="ASMODIANS"/>
+    <abyss_race_bonus id="15" name="Ishalgen's Protector 3" race="ASMODIANS"/>
+    <abyss_race_bonus id="16" name="Ishalgen's Protector 4" race="ASMODIANS"/>
+    <abyss_race_bonus id="17" name="Ishalgen's Protector 5" race="ASMODIANS"/>
+    <abyss_race_bonus id="18" name="Ishalgen's Protector 6" race="ASMODIANS"/>
+    <abyss_race_bonus id="19" name="Blessing of Azphel 1" race="ASMODIANS">
+        <bonus stat="PVP_ATTACK_RATIO" func="PERCENT" value="10"/>
+    </abyss_race_bonus>
+    <abyss_race_bonus id="20" name="Blessing Of Azphel 2" race="ASMODIANS">
+        <bonus stat="PVP_ATTACK_RATIO" func="PERCENT" value="10"/>
+    </abyss_race_bonus>
+    <abyss_race_bonus id="21" name="Blessing Of Azphel 3" race="ASMODIANS">
+        <bonus stat="PVP_ATTACK_RATIO" func="PERCENT" value="15"/>
+    </abyss_race_bonus>
+    <abyss_race_bonus id="22" name="Blessing Of Azphel 4" race="ASMODIANS">
+        <bonus stat="PVP_ATTACK_RATIO" func="PERCENT" value="15"/>
+    </abyss_race_bonus>
+    <abyss_race_bonus id="23" name="Blessing Of Azphel 5" race="ASMODIANS">
+        <bonus stat="PVP_ATTACK_RATIO" func="PERCENT" value="20"/>
+    </abyss_race_bonus>
+    <abyss_race_bonus id="24" name="Blessing Of Azphel 6" race="ASMODIANS">
+        <bonus stat="PVP_ATTACK_RATIO" func="PERCENT" value="20"/>
+    </abyss_race_bonus>
+</abyss_race_bonuses>

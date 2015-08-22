@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<battlegrounds xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="battlegrounds.xsd">
+	
+    <!-- Hyperion ELYOS -->
+    <bg_agent npcId="278641" worldId="110010000" x="1390.6249" y="1400.7589" z="573.30664" h="98" />
+    <bg_agent npcId="278641" worldId="110010000" x="1384.6427" y="1403.7124" z="573.30664" h="67" />
+    <bg_agent npcId="278641" worldId="110010000" x="1386.7985" y="1409.758" z="573.30664" h="36" />
+	
+    <!-- Agnar ASMODIANS -->
+    <bg_agent npcId="278140" worldId="120010000" x="1307.9106" y="1552.4141" z="209.7603" h="113" />
+    <bg_agent npcId="278140" worldId="120010000" x="1309.0846" y="1554.8687" z="209.80017" h="113" />
+    <bg_agent npcId="278140" worldId="120010000" x="1309.8438" y="1557.8018" z="209.7603" h="113" />
+	
+    <battleground tpl_id="1" type="ASSAULT" world_id="320090000" name="Triniel Underground Arena's Battleground (Assaut)" target_score="10000" price="12500" nb_players="4" wait_time="20" bg_time="300">
+        <join_conditions required_level="20" max_level="65" required_bg_points="0" max_bg_points="2147483646"/>
+        <insert_point xe="312.98938" ye="240.06432" ze="158.89537" he="60" xa="239.75197" ya="239.94702" za="158.88121" ha="0" />
+        <rules kill_player="100" die="50" />
+        <healer_location xe="319.93436" ye="239.93224" ze="158.89537" he="60" xa="231.49997" ya="239.82007" za="158.88121" ha="0" />
+    </battleground>
+	
+    <battleground tpl_id="2" type="ASSAULT" world_id="310080000" name="Sanctum Underground Arena's Battleground (Assaut)" target_score="10000" price="12500" nb_players="4" wait_time="40" bg_time="1200">
+        <join_conditions required_level="20" max_level="65" required_bg_points="0" max_bg_points="2147483646"/>
+        <insert_point xe="312.98938" ye="240.06432" ze="158.89537" he="60" xa="239.75197" ya="239.94702" za="158.88121" ha="0" />
+        <rules kill_player="100" die="50" />
+        <healer_location xe="319.93436" ye="239.93224" ze="158.89537" he="60" xa="231.49997" ya="239.82007" za="158.88121" ha="0" />
+    </battleground>
+	
+    <battleground tpl_id="3" type="CTF" world_id="300200000" name="Haramel's Battleground (CTF)" target_score="5" price="12500" nb_players="6" wait_time="20" bg_time="300">
+        <join_conditions required_level="20" max_level="65" required_bg_points="5000" max_bg_points="2147483646"/>
+        <insert_point xe="354.70273" ye="293.74905" ze="88.590004" he="69" xa="107.08762" ya="80.18675" za="142.82729" ha="0" />
+        <rules kill_player="5" die="0" flag_cap="100" flag_base="30" flag_ground="20" CTF_reward="200"/>
+        <healer_location xe="306.6764" ye="275.68802" ze="89.02671" he="119" xa="158.45216" ya="80.807396" za="143.79619" ha="60" />
+        <flag_location xe="282.93182" ye="275.74802" ze="90.101746" he="0" xa="180.94205" ya="80.92489" za="145.42949" ha="34" />
+    </battleground>
+	
+    <battleground tpl_id="4" type="ASSAULT" world_id="300030000" name="Nochsana's Battleground (Assaut)" target_score="10000" price="12500" nb_players="6" wait_time="45" bg_time="1200">
+        <join_conditions required_level="20" max_level="65" required_bg_points="15000" max_bg_points="2147483646"/>
+        <insert_point xe="322.53958" ye="340.3676" ze="394.16037" he="2" xa="363.36807" ya="333.92047" za="394.13937" ha="53" />
+        <rules kill_player="100" die="50" />
+        <healer_location xe="328.5133" ye="340.4477" ze="396.0845" he="64" xa="357.33795" ya="335.26297" za="396.43094" ha="110" />
+    </battleground>
+	
+    <battleground tpl_id="5" type="ASSAULT" world_id="320100000" name="Fire Temple's Battleground" target_score="10000" price="12500" nb_players="6" wait_time="45" bg_time="1200">
+        <join_conditions required_level="25" max_level="65" required_bg_points="25000" max_bg_points="2147483646"/>
+        <insert_point xe="222.20532" ye="283.3174" ze="126.778114" he="13" xa="149.80571" ya="456.819" za="141.69095" ha="30" />
+        <rules kill_player="100" die="50" />
+        <healer_location xe="228.74518" ye="288.53598" ze="128.3207" he="72" xa="149.10638" ya="463.55655" za="141.56172" ha="93" />
+    </battleground>
+	
+    <battleground tpl_id="6" type="ASSAULT" world_id="300150000" name="Udas' Battleground" target_score="10000" price="12500" nb_players="6" wait_time="45" bg_time="1200">
+        <join_conditions required_level="25" max_level="65" required_bg_points="100000" max_bg_points="2147483646"/>
+        <insert_point xe="222.20532" ye="283.3174" ze="126.778114" he="13" xa="149.80571" ya="456.819" za="141.69095" ha="30" />
+        <rules kill_player="100" die="50" />
+        <healer_location xe="228.74518" ye="288.53598" ze="128.3207" he="72" xa="149.10638" ya="463.55655" za="141.56172" ha="93" />
+    </battleground>
+	
+    <battleground tpl_id="7" type="ASSAULT" world_id="310100000" name="Azoturan's Battleground" target_score="10000" price="12500" nb_players="6" wait_time="45" bg_time="1200">
+        <join_conditions required_level="25" max_level="65" required_bg_points="125000" max_bg_points="2147483646"/>
+        <insert_point xe="222.20532" ye="283.3174" ze="126.778114" he="13" xa="149.80571" ya="456.819" za="141.69095" ha="30" />
+        <rules kill_player="100" die="50" />
+        <healer_location xe="228.74518" ye="288.53598" ze="128.3207" he="72" xa="149.10638" ya="463.55655" za="141.56172" ha="93" />
+    </battleground>
+	
+    <battleground tpl_id="8" type="ASSAULT" world_id="310090000" name="Indratu's Battleground" target_score="10000" price="12500" nb_players="6" wait_time="45" bg_time="1200">
+        <join_conditions required_level="25" max_level="65" required_bg_points="150000" max_bg_points="2147483646"/>
+        <insert_point xe="222.20532" ye="283.3174" ze="126.778114" he="13" xa="149.80571" ya="456.819" za="141.69095" ha="30" />
+        <rules kill_player="100" die="50" />
+        <healer_location xe="228.74518" ye="288.53598" ze="128.3207" he="72" xa="149.10638" ya="463.55655" za="141.56172" ha="93" />
+    </battleground>
+	
+    <battleground tpl_id="9" type="ASSAULT" world_id="300190000" name="Taloc's Battleground" target_score="10000" price="12500" nb_players="6" wait_time="45" bg_time="1200">
+        <join_conditions required_level="25" max_level="65" required_bg_points="200000" max_bg_points="2147483646"/>
+        <insert_point xe="222.20532" ye="283.3174" ze="126.778114" he="13" xa="149.80571" ya="456.819" za="141.69095" ha="30" />
+        <rules kill_player="100" die="50" />
+        <healer_location xe="228.74518" ye="288.53598" ze="128.3207" he="72" xa="149.10638" ya="463.55655" za="141.56172" ha="93" />
+    </battleground>
+
+    <battleground tpl_id="10" type="ASSAULT" world_id="300100000" name="Steel Rake's Battleground" target_score="10000" price="12500" nb_players="6" wait_time="45" bg_time="1200">
+        <join_conditions required_level="25" max_level="65" required_bg_points="250000" max_bg_points="2147483646"/>
+        <insert_point xe="222.20532" ye="283.3174" ze="126.778114" he="13" xa="149.80571" ya="456.819" za="141.69095" ha="30" />
+        <rules kill_player="100" die="50" />
+        <healer_location xe="228.74518" ye="288.53598" ze="128.3207" he="72" xa="149.10638" ya="463.55655" za="141.56172" ha="93" />
+    </battleground>
+	
+    <battleground tpl_id="11" type="ASSAULT" world_id="300170000" name="Beshmundir's Battleground" target_score="10000" price="12500" nb_players="6" wait_time="45" bg_time="1200">
+        <join_conditions required_level="25" max_level="65" required_bg_points="500000" max_bg_points="2147483646"/>
+        <insert_point xe="222.20532" ye="283.3174" ze="126.778114" he="13" xa="149.80571" ya="456.819" za="141.69095" ha="30" />
+        <rules kill_player="100" die="50" />
+        <healer_location xe="228.74518" ye="288.53598" ze="128.3207" he="72" xa="149.10638" ya="463.55655" za="141.56172" ha="93" />
+    </battleground>
+	
+    <battleground tpl_id="12" type="ASSAULT" world_id="300040000" name="Dark Poeta's Battleground" target_score="10000" price="12500" nb_players="6" wait_time="45" bg_time="1200">
+        <join_conditions required_level="25" max_level="65" required_bg_points="1000000" max_bg_points="2147483646"/>
+        <insert_point xe="222.20532" ye="283.3174" ze="126.778114" he="13" xa="149.80571" ya="456.819" za="141.69095" ha="30" />
+        <rules kill_player="100" die="50" />
+        <healer_location xe="228.74518" ye="288.53598" ze="128.3207" he="72" xa="149.10638" ya="463.55655" za="141.56172" ha="93" />
+    </battleground>
+	
+</battlegrounds>

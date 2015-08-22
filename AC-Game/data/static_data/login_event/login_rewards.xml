@@ -1,0 +1,1185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<login_rewards xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="login_rewards.xsd">
+    <login_reward id="1" active="true" start="2014-03-01T00:00:00+00:00" end="2014-05-01T00:00:00+00:00" type="DAILY" attend_num="1">
+        <reward item_id="188052315" count="1" expire_time="1440" reward_title="905436"/>
+	</login_reward>
+    <login_reward id="2" active="false" start="2014-03-01T00:00:00+00:00" end="2014-05-01T00:00:00+00:00" type="CUMULATIVE" attend_num="5">		
+        <reward item_id="165010001" count="1" reward_title="905113"/>
+	</login_reward>
+	<login_reward id="3" active="false" start="2014-03-01T00:00:00+00:00" end="2014-05-01T00:00:00+00:00" type="CUMULATIVE" attend_num="10">
+        <reward item_id="166000120" count="1" reward_title="905114"/>
+    </login_reward>
+    <login_reward id="4" active="false" start="2014-03-01T00:00:00+00:00" end="2014-05-01T00:00:00+00:00" type="CUMULATIVE" attend_num="15">
+        <reward item_id="166030005" count="1" expire_time="10" reward_title="905115"/>
+    </login_reward>
+    <login_reward id="5" active="false" start="2014-03-01T00:00:00+00:00" end="2014-05-01T00:00:00+00:00" type="CUMULATIVE" attend_num="20">
+        <reward item_id="168000118" count="1" reward_title="905116"/>
+    </login_reward>
+    <login_reward id="6" active="false" start="2014-03-01T00:00:00+00:00" end="2014-05-01T00:00:00+00:00" type="CUMULATIVE" attend_num="30" permit_level="50">
+        <reward item_id="169220032" count="1" reward_title="905117"/>
+    </login_reward>
+    <login_reward id="7" active="false" start="2014-03-01T00:00:00+00:00" end="2014-05-01T00:00:00+00:00" type="ANNIVERSARY" attend_num="4" permit_level="46">
+        <reward item_id="188052830" count="1" reward_title="905118"/>
+    </login_reward>
+    <login_reward id="8" active="false" start="2014-03-01T00:00:00+00:00" end="2014-05-01T00:00:00+00:00" type="ANNIVERSARY" attend_num="5">
+        <reward item_id="188052831" count="1" reward_title="905119"/>
+    </login_reward>
+    <login_reward id="9" active="true" start="2014-03-15T00:00:00+00:00" end="2014-05-01T00:00:00+00:00" type="DAILY" attend_num="1">
+        <reward item_id="166000010" count="1" reward_title="905276"/>
+    </login_reward>
+    <login_reward id="10" active="false" start="2014-03-15T00:00:00+00:00" end="2014-05-01T00:00:00+00:00" type="CUMULATIVE" attend_num="10">
+        <reward item_id="166000030" count="1" reward_title="905277"/>
+    </login_reward>
+    <login_reward id="11" active="false" start="2014-03-15T00:00:00+00:00" end="2014-05-01T00:00:00+00:00" type="CUMULATIVE" attend_num="20">
+        <reward item_id="166000040" count="1" reward_title="905278"/>
+    </login_reward>
+    <login_reward id="12" active="false" start="2014-03-15T00:00:00+00:00" end="2014-05-01T00:00:00+00:00" type="DAILY" attend_num="1">
+        <reward item_id="166000050" count="1" reward_title="905279"/>
+    </login_reward>
+    <login_reward id="13" active="false" start="2014-03-15T00:00:00+00:00" end="2014-05-01T00:00:00+00:00" type="CUMULATIVE" attend_num="5">
+        <reward item_id="166000060" count="1" reward_title="905280"/>
+    </login_reward>
+    <login_reward id="14" active="true" start="2014-04-01T09:00:00+00:00" end="2050-12-31T08:59:59+00:00" type="ANNIVERSARY" attend_num="1" permit_level="46">
+        <reward item_id="188053423" count="1" reward_title="905399"/>
+    </login_reward>
+    <login_reward id="15" active="true" start="2014-04-01T09:00:00+00:00" end="2050-12-31T08:59:59+00:00" type="ANNIVERSARY" attend_num="2" permit_level="46">
+        <reward item_id="188053424" count="1" reward_title="905400"/>
+    </login_reward>
+    <login_reward id="16" active="true" start="2014-04-01T09:00:00+00:00" end="2050-12-31T08:59:59+00:00" type="ANNIVERSARY" attend_num="3" permit_level="46">
+        <reward item_id="188053425" count="1" reward_title="905401"/>
+    </login_reward>
+    <login_reward id="17" active="true" start="2014-04-01T09:00:00+00:00" end="2050-12-31T08:59:59+00:00" type="ANNIVERSARY" attend_num="4" permit_level="46">
+        <reward item_id="188053426" count="1" reward_title="905402"/>
+    </login_reward>
+    <login_reward id="18" active="true" start="2014-04-01T09:00:00+00:00" end="2050-12-31T08:59:59+00:00" type="ANNIVERSARY" attend_num="5" permit_level="46">
+        <reward item_id="188053427" count="1" reward_title="905403"/>
+    </login_reward>
+    <login_reward id="19" active="true" start="2014-04-01T09:00:00+00:00" end="2050-12-31T08:59:59+00:00" type="ANNIVERSARY" attend_num="6" permit_level="46">
+        <reward item_id="188053428" count="1" reward_title="905404"/>
+    </login_reward>
+    <login_reward id="20" active="true" start="2014-04-01T09:00:00+00:00" end="2050-12-31T08:59:59+00:00" type="ANNIVERSARY" attend_num="7" permit_level="46">
+        <reward item_id="188053429" count="1" reward_title="905405"/>
+    </login_reward>
+    <login_reward id="21" active="true" start="2014-04-01T09:00:00+00:00" end="2050-12-31T08:59:59+00:00" type="ANNIVERSARY" attend_num="8" permit_level="46">
+        <reward item_id="188053430" count="1" reward_title="905406"/>
+    </login_reward>
+    <login_reward id="22" active="true" start="2014-04-01T09:00:00+00:00" end="2050-12-31T08:59:59+00:00" type="ANNIVERSARY" attend_num="9" permit_level="46">
+        <reward item_id="188053431" count="1" reward_title="905407"/>
+    </login_reward>
+    <login_reward id="23" active="true" start="2014-04-01T09:00:00+00:00" end="2050-12-31T08:59:59+00:00" type="ANNIVERSARY" attend_num="10" permit_level="46">
+        <reward item_id="188053432" count="1" reward_title="905408"/>
+    </login_reward>
+    <login_reward id="24" active="true" start="2014-04-01T09:00:00+00:00" end="2050-12-31T08:59:59+00:00" type="ANNIVERSARY" attend_num="11" permit_level="46">
+        <reward item_id="188053433" count="1" reward_title="905409"/>
+    </login_reward>
+    <login_reward id="25" active="true" start="2014-04-01T09:00:00+00:00" end="2050-12-31T08:59:59+00:00" type="ANNIVERSARY" attend_num="12" permit_level="46">
+        <reward item_id="188053434" count="1" reward_title="905410"/>
+    </login_reward>
+    <login_reward id="26" active="false" start="2014-03-01T00:00:00+00:00" end="2014-05-01T00:00:00+00:00" type="ANNIVERSARY" attend_num="1" permit_level="46">
+        <reward item_id="166000050" count="1"/>
+    </login_reward>
+    <login_reward id="27" active="false" start="2014-03-01T00:00:00+00:00" end="2014-05-01T00:00:00+00:00" type="ANNIVERSARY" attend_num="2" permit_level="46">
+        <reward item_id="166000050" count="1"/>
+    </login_reward>
+    <login_reward id="28" active="false" start="2014-03-01T00:00:00+00:00" end="2014-05-01T00:00:00+00:00" type="ANNIVERSARY" attend_num="3" permit_level="46">
+        <reward item_id="166000050" count="1"/>
+    </login_reward>
+    <login_reward id="29" active="false" start="2014-03-01T00:00:00+00:00" end="2014-05-01T00:00:00+00:00" type="ANNIVERSARY" attend_num="4" permit_level="46">
+        <reward item_id="166000050" count="1"/>
+    </login_reward>
+    <login_reward id="30" active="false" start="2014-03-01T00:00:00+00:00" end="2014-05-01T00:00:00+00:00" type="ANNIVERSARY" attend_num="5" permit_level="46">
+        <reward item_id="166000050" count="1"/>
+    </login_reward>
+    <login_reward id="31" active="false" start="2014-03-01T00:00:00+00:00" end="2014-05-01T00:00:00+00:00" type="ANNIVERSARY" attend_num="6" permit_level="46">
+        <reward item_id="166000050" count="1"/>
+    </login_reward>
+    <login_reward id="32" active="false" start="2014-03-01T00:00:00+00:00" end="2014-05-01T00:00:00+00:00" type="ANNIVERSARY" attend_num="7" permit_level="46">
+        <reward item_id="166000050" count="1"/>
+    </login_reward>
+    <login_reward id="33" active="false" start="2014-03-01T00:00:00+00:00" end="2014-05-01T00:00:00+00:00" type="ANNIVERSARY" attend_num="8" permit_level="46">
+        <reward item_id="166000050" count="1"/>
+    </login_reward>
+    <login_reward id="34" active="false" start="2014-03-01T00:00:00+00:00" end="2014-05-01T00:00:00+00:00" type="ANNIVERSARY" attend_num="9" permit_level="46">
+        <reward item_id="166000050" count="1"/>
+    </login_reward>
+    <login_reward id="35" active="false" start="2014-03-01T00:00:00+00:00" end="2014-05-01T00:00:00+00:00" type="ANNIVERSARY" attend_num="10" permit_level="46">
+        <reward item_id="166000050" count="1"/>
+    </login_reward>
+    <login_reward id="36" active="false" start="2014-03-01T00:00:00+00:00" end="2014-05-01T00:00:00+00:00" type="ANNIVERSARY" attend_num="11" permit_level="46">
+        <reward item_id="166000050" count="1"/>
+    </login_reward>
+    <login_reward id="37" active="false" start="2014-03-01T00:00:00+00:00" end="2014-05-01T00:00:00+00:00" type="ANNIVERSARY" attend_num="12" permit_level="46">
+        <reward item_id="166000050" count="1"/>
+    </login_reward>
+    <login_reward id="38" active="false" start="2014-03-01T00:00:00+00:00" end="2014-05-01T00:00:00+00:00" type="ANNIVERSARY" attend_num="1" permit_level="46">
+        <reward item_id="166000050" count="1"/>
+    </login_reward>
+    <login_reward id="39" active="false" start="2014-03-01T00:00:00+00:00" end="2014-05-01T00:00:00+00:00" type="ANNIVERSARY" attend_num="2" permit_level="46">
+        <reward item_id="166000050" count="1"/>
+    </login_reward>
+    <login_reward id="40" active="true" start="2014-04-01T09:00:00+00:00" end="2014-05-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905426"/>
+    </login_reward>
+    <login_reward id="41" active="true" start="2014-04-01T09:00:00+00:00" end="2014-05-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905427"/>
+    </login_reward>
+    <login_reward id="42" active="true" start="2014-04-01T09:00:00+00:00" end="2014-05-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905428"/>
+    </login_reward>
+    <login_reward id="43" active="true" start="2014-04-01T09:00:00+00:00" end="2014-05-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905429"/>
+    </login_reward>
+    <login_reward id="44" active="true" start="2014-04-01T09:00:00+00:00" end="2014-06-01T08:59:59+00:00" type="DAILY" attend_num="1">
+        <reward item_id="188053409" count="1" reward_title="905411"/>
+    </login_reward>
+    <login_reward id="45" active="true" start="2014-06-01T09:00:00+00:00" end="2014-09-01T08:59:59+00:00" type="DAILY" attend_num="1">
+        <reward item_id="188053410" count="1" reward_title="905412"/>
+    </login_reward>
+    <login_reward id="46" active="true" start="2014-09-01T09:00:00+00:00" end="2014-12-01T08:59:59+00:00" type="DAILY" attend_num="1">
+        <reward item_id="188053411" count="1" reward_title="905413"/>
+    </login_reward>
+    <login_reward id="47" active="true" start="2014-12-21T09:00:00+00:00" end="2015-03-01T08:59:59+00:00" type="DAILY" attend_num="1">
+        <reward item_id="188053412" count="1" reward_title="905414"/>
+    </login_reward>
+    <login_reward id="48" active="true" start="2014-05-01T09:00:00+00:00" end="2014-06-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905301"/>
+    </login_reward>
+    <login_reward id="49" active="true" start="2014-05-01T09:00:00+00:00" end="2014-06-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905302"/>
+    </login_reward>
+    <login_reward id="50" active="true" start="2014-06-01T09:00:00+00:00" end="2014-07-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1" reward_title="905303"/>
+    </login_reward>
+    <login_reward id="51" active="true" start="2014-06-01T09:00:00+00:00" end="2014-07-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905304"/>
+    </login_reward>
+    <login_reward id="52" active="true" start="2014-06-01T09:00:00+00:00" end="2014-07-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905305"/>
+    </login_reward>
+    <login_reward id="53" active="true" start="2014-06-01T09:00:00+00:00" end="2014-07-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905306"/>
+    </login_reward>
+    <login_reward id="54" active="true" start="2014-07-01T09:00:00+00:00" end="2014-08-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1" reward_title="905307"/>
+    </login_reward>
+    <login_reward id="55" active="true" start="2014-07-01T09:00:00+00:00" end="2014-08-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905308"/>
+    </login_reward>
+    <login_reward id="56" active="true" start="2014-07-01T09:00:00+00:00" end="2014-08-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905309"/>
+    </login_reward>
+    <login_reward id="57" active="true" start="2014-07-01T09:00:00+00:00" end="2014-08-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905310"/>
+    </login_reward>
+    <login_reward id="58" active="true" start="2014-08-01T09:00:00+00:00" end="2014-09-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1" reward_title="905311"/>
+    </login_reward>
+    <login_reward id="59" active="true" start="2014-08-01T09:00:00+00:00" end="2014-09-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905312"/>
+    </login_reward>
+    <login_reward id="60" active="true" start="2014-08-01T09:00:00+00:00" end="2014-09-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905313"/>
+    </login_reward>
+    <login_reward id="61" active="true" start="2014-08-01T09:00:00+00:00" end="2014-09-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905314"/>
+    </login_reward>
+    <login_reward id="62" active="true" start="2014-09-01T09:00:00+00:00" end="2014-10-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905315"/>
+    </login_reward>
+    <login_reward id="63" active="true" start="2014-09-01T09:00:00+00:00" end="2014-10-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905316"/>
+    </login_reward>
+    <login_reward id="64" active="true" start="2014-09-01T09:00:00+00:00" end="2014-10-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905317"/>
+    </login_reward>
+    <login_reward id="65" active="true" start="2014-09-01T09:00:00+00:00" end="2014-10-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905318"/>
+    </login_reward>
+    <login_reward id="66" active="true" start="2014-10-01T09:00:00+00:00" end="2014-11-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905319"/>
+    </login_reward>
+    <login_reward id="67" active="true" start="2014-10-01T09:00:00+00:00" end="2014-11-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905320"/>
+    </login_reward>
+    <login_reward id="68" active="true" start="2014-10-01T09:00:00+00:00" end="2014-11-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905321"/>
+    </login_reward>
+    <login_reward id="69" active="true" start="2014-10-01T09:00:00+00:00" end="2014-11-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905322"/>
+    </login_reward>
+    <login_reward id="70" active="true" start="2014-11-01T09:00:00+00:00" end="2014-12-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905323"/>
+    </login_reward>
+    <login_reward id="71" active="true" start="2014-11-01T09:00:00+00:00" end="2014-12-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905324"/>
+    </login_reward>
+    <login_reward id="72" active="true" start="2014-11-01T09:00:00+00:00" end="2014-12-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905325"/>
+    </login_reward>
+    <login_reward id="73" active="true" start="2014-11-01T09:00:00+00:00" end="2014-12-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905326"/>
+    </login_reward>
+    <login_reward id="74" active="true" start="2014-12-01T09:00:00+00:00" end="2015-01-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1" reward_title="905327"/>
+    </login_reward>
+    <login_reward id="75" active="true" start="2014-12-01T09:00:00+00:00" end="2015-01-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905328"/>
+    </login_reward>
+    <login_reward id="76" active="true" start="2014-12-01T09:00:00+00:00" end="2015-01-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905329"/>
+    </login_reward>
+    <login_reward id="77" active="true" start="2014-12-01T09:00:00+00:00" end="2015-01-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905330"/>
+    </login_reward>
+    <login_reward id="78" active="true" start="2015-03-01T09:00:00+00:00" end="2015-06-01T08:59:59+00:00" type="DAILY" attend_num="1">
+        <reward item_id="188053409" count="1" reward_title="905415"/>
+    </login_reward>
+    <login_reward id="79" active="true" start="2015-06-01T09:00:00+00:00" end="2015-09-01T08:59:59+00:00" type="DAILY" attend_num="1">
+        <reward item_id="188053410" count="1" reward_title="905416"/>
+    </login_reward>
+    <login_reward id="80" active="true" start="2015-09-01T09:00:00+00:00" end="2015-12-01T08:59:59+00:00" type="DAILY" attend_num="1">
+        <reward item_id="188053411" count="1" reward_title="905417"/>
+    </login_reward>
+    <login_reward id="81" active="true" start="2015-12-01T09:00:00+00:00" end="2016-03-01T08:59:59+00:00" type="DAILY" attend_num="1">
+        <reward item_id="188053412" count="1" reward_title="905418"/>
+    </login_reward>
+    <login_reward id="82" active="true" start="2015-01-01T09:00:00+00:00" end="2015-02-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1" reward_title="905331"/>
+    </login_reward>
+    <login_reward id="83" active="true" start="2015-01-01T09:00:00+00:00" end="2015-02-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905332"/>
+    </login_reward>
+    <login_reward id="84" active="true" start="2015-01-01T09:00:00+00:00" end="2015-02-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905333"/>
+    </login_reward>
+    <login_reward id="85" active="true" start="2015-01-01T09:00:00+00:00" end="2015-02-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905334"/>
+    </login_reward>
+    <login_reward id="86" active="true" start="2015-02-01T09:00:00+00:00" end="2015-03-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1" reward_title="905335"/>
+    </login_reward>
+    <login_reward id="87" active="true" start="2015-02-01T09:00:00+00:00" end="2015-03-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905336"/>
+    </login_reward>
+    <login_reward id="88" active="true" start="2015-02-01T09:00:00+00:00" end="2015-03-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905337"/>
+    </login_reward>
+    <login_reward id="89" active="true" start="2015-02-01T09:00:00+00:00" end="2015-03-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905338"/>
+    </login_reward>
+    <login_reward id="90" active="true" start="2015-03-01T09:00:00+00:00" end="2015-04-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905339"/>
+    </login_reward>
+    <login_reward id="91" active="true" start="2015-03-01T09:00:00+00:00" end="2015-04-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905340"/>
+    </login_reward>
+    <login_reward id="92" active="true" start="2015-03-01T09:00:00+00:00" end="2015-04-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905341"/>
+    </login_reward>
+    <login_reward id="93" active="true" start="2015-03-01T09:00:00+00:00" end="2015-04-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905342"/>
+    </login_reward>
+    <login_reward id="94" active="true" start="2015-04-01T09:00:00+00:00" end="2015-05-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905343"/>
+    </login_reward>
+    <login_reward id="95" active="true" start="2015-04-01T09:00:00+00:00" end="2015-05-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905344"/>
+    </login_reward>
+    <login_reward id="96" active="true" start="2015-04-01T09:00:00+00:00" end="2015-05-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905345"/>
+    </login_reward>
+    <login_reward id="97" active="true" start="2015-04-01T09:00:00+00:00" end="2015-05-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905346"/>
+    </login_reward>
+    <login_reward id="98" active="true" start="2015-05-01T09:00:00+00:00" end="2015-06-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905347"/>
+    </login_reward>
+    <login_reward id="99" active="true" start="2015-05-01T09:00:00+00:00" end="2015-06-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905348"/>
+    </login_reward>
+    <login_reward id="100" active="true" start="2015-05-01T09:00:00+00:00" end="2015-06-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905349"/>
+    </login_reward>
+    <login_reward id="101" active="true" start="2015-05-01T09:00:00+00:00" end="2015-06-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905350"/>
+    </login_reward>
+    <login_reward id="102" active="true" start="2015-06-01T09:00:00+00:00" end="2015-07-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1" reward_title="905351"/>
+    </login_reward>
+    <login_reward id="103" active="true" start="2015-06-01T09:00:00+00:00" end="2015-07-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905352"/>
+    </login_reward>
+    <login_reward id="104" active="true" start="2015-06-01T09:00:00+00:00" end="2015-07-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905353"/>
+    </login_reward>
+    <login_reward id="105" active="true" start="2015-06-01T09:00:00+00:00" end="2015-07-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905354"/>
+    </login_reward>
+    <login_reward id="106" active="true" start="2015-07-01T09:00:00+00:00" end="2015-08-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1" reward_title="905355"/>
+    </login_reward>
+    <login_reward id="107" active="true" start="2015-07-01T09:00:00+00:00" end="2015-08-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905356"/>
+    </login_reward>
+    <login_reward id="108" active="true" start="2015-07-01T09:00:00+00:00" end="2015-08-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905357"/>
+    </login_reward>
+    <login_reward id="109" active="true" start="2015-07-01T09:00:00+00:00" end="2015-08-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905358"/>
+    </login_reward>
+    <login_reward id="110" active="true" start="2015-08-01T09:00:00+00:00" end="2015-09-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1" reward_title="905359"/>
+    </login_reward>
+    <login_reward id="111" active="true" start="2015-08-01T09:00:00+00:00" end="2015-09-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905360"/>
+    </login_reward>
+    <login_reward id="112" active="true" start="2015-08-01T09:00:00+00:00" end="2015-09-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905361"/>
+    </login_reward>
+    <login_reward id="113" active="true" start="2015-08-01T09:00:00+00:00" end="2015-09-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905362"/>
+    </login_reward>
+    <login_reward id="114" active="true" start="2015-09-01T09:00:00+00:00" end="2015-10-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905363"/>
+    </login_reward>
+    <login_reward id="115" active="true" start="2015-09-01T09:00:00+00:00" end="2015-10-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905364"/>
+    </login_reward>
+    <login_reward id="116" active="true" start="2015-09-01T09:00:00+00:00" end="2015-10-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905365"/>
+    </login_reward>
+    <login_reward id="117" active="true" start="2015-09-01T09:00:00+00:00" end="2015-10-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905366"/>
+    </login_reward>
+    <login_reward id="118" active="true" start="2015-10-01T09:00:00+00:00" end="2015-11-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905367"/>
+    </login_reward>
+    <login_reward id="119" active="true" start="2015-10-01T09:00:00+00:00" end="2015-11-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905368"/>
+    </login_reward>
+    <login_reward id="120" active="true" start="2015-10-01T09:00:00+00:00" end="2015-11-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905369"/>
+    </login_reward>
+    <login_reward id="121" active="true" start="2015-10-01T09:00:00+00:00" end="2015-11-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905370"/>
+    </login_reward>
+    <login_reward id="122" active="true" start="2015-11-01T09:00:00+00:00" end="2015-12-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905371"/>
+    </login_reward>
+    <login_reward id="123" active="true" start="2015-11-01T09:00:00+00:00" end="2015-12-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905372"/>
+    </login_reward>
+    <login_reward id="124" active="true" start="2015-11-01T09:00:00+00:00" end="2015-12-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905373"/>
+    </login_reward>
+    <login_reward id="125" active="true" start="2015-11-01T09:00:00+00:00" end="2015-12-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905374"/>
+    </login_reward>
+    <login_reward id="126" active="true" start="2015-12-01T09:00:00+00:00" end="2016-01-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1" reward_title="905375"/>
+    </login_reward>
+    <login_reward id="127" active="true" start="2015-12-01T09:00:00+00:00" end="2016-01-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905376"/>
+    </login_reward>
+    <login_reward id="128" active="true" start="2015-12-01T09:00:00+00:00" end="2016-01-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905377"/>
+    </login_reward>
+    <login_reward id="129" active="true" start="2015-12-01T09:00:00+00:00" end="2016-01-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905378"/>
+    </login_reward>
+    <login_reward id="130" active="true" start="2014-03-01T00:00:00+00:00" end="2014-05-15T00:00:00+00:00" type="DAILY" attend_num="1">
+        <reward item_id="100900605" count="2" reward_title="905436"/>
+    </login_reward>
+    <login_reward id="131" active="true" start="2014-03-01T00:00:00+00:00" end="2014-05-15T00:00:00+00:00" type="DAILY" attend_num="1">
+        <reward item_id="169000010" count="50000" reward_title="905437"/>
+    </login_reward>
+    <login_reward id="132" active="true" start="2014-03-01T00:00:00+00:00" end="2014-05-15T00:00:00+00:00" type="DAILY" attend_num="1">
+        <reward item_id="190100073" count="1" reward_title="905438"/>
+    </login_reward>
+    <login_reward id="133" active="true" start="2014-03-01T00:00:00+00:00" end="2014-05-15T00:00:00+00:00" type="DAILY" attend_num="1">
+        <reward item_id="190100079" count="1" expire_time="1440" reward_title="905439"/>
+    </login_reward>
+    <login_reward id="134" active="true" start="2014-03-01T00:00:00+00:00" end="2014-05-15T00:00:00+00:00" type="DAILY" attend_num="1">
+        <reward item_id="190100085" count="1" expire_time="10" reward_title="905440"/>
+    </login_reward>
+    <login_reward id="135" active="true" start="2016-03-01T09:00:00+00:00" end="2016-06-01T08:59:59+00:00" type="DAILY" attend_num="1">
+        <reward item_id="188053409" count="1" reward_title="905447"/>
+    </login_reward>
+    <login_reward id="136" active="true" start="2016-06-01T09:00:00+00:00" end="2016-09-01T08:59:59+00:00" type="DAILY" attend_num="1">
+        <reward item_id="188053410" count="1" reward_title="905448"/>
+    </login_reward>
+    <login_reward id="137" active="true" start="2016-09-01T09:00:00+00:00" end="2016-12-01T08:59:59+00:00" type="DAILY" attend_num="1">
+        <reward item_id="188053411" count="1" reward_title="905449"/>
+    </login_reward>
+    <login_reward id="138" active="true" start="2016-12-01T09:00:00+00:00" end="2017-03-01T08:59:59+00:00" type="DAILY" attend_num="1">
+        <reward item_id="188053412" count="1" reward_title="905450"/>
+    </login_reward>
+    <login_reward id="139" active="true" start="2016-01-01T09:00:00+00:00" end="2016-02-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1"/>
+    </login_reward>
+    <login_reward id="140" active="true" start="2016-01-01T09:00:00+00:00" end="2016-02-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905463"/>
+    </login_reward>
+    <login_reward id="141" active="true" start="2016-01-01T09:00:00+00:00" end="2016-02-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905464"/>
+    </login_reward>
+    <login_reward id="142" active="true" start="2016-01-01T09:00:00+00:00" end="2016-02-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905465"/>
+    </login_reward>
+    <login_reward id="143" active="true" start="2016-02-01T09:00:00+00:00" end="2016-03-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1" reward_title="905466"/>
+    </login_reward>
+    <login_reward id="144" active="true" start="2016-02-01T09:00:00+00:00" end="2016-03-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905467"/>
+    </login_reward>
+    <login_reward id="145" active="true" start="2016-02-01T09:00:00+00:00" end="2016-03-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905468"/>
+    </login_reward>
+    <login_reward id="146" active="true" start="2016-02-01T09:00:00+00:00" end="2016-03-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905469"/>
+    </login_reward>
+    <login_reward id="147" active="true" start="2016-03-01T09:00:00+00:00" end="2016-04-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905470"/>
+    </login_reward>
+    <login_reward id="148" active="true" start="2016-03-01T09:00:00+00:00" end="2016-04-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905471"/>
+    </login_reward>
+    <login_reward id="149" active="true" start="2016-03-01T09:00:00+00:00" end="2016-04-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905472"/>
+    </login_reward>
+    <login_reward id="150" active="true" start="2016-03-01T09:00:00+00:00" end="2016-04-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905473"/>
+    </login_reward>
+    <login_reward id="151" active="true" start="2016-04-01T09:00:00+00:00" end="2016-05-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905474"/>
+    </login_reward>
+    <login_reward id="152" active="true" start="2016-04-01T09:00:00+00:00" end="2016-05-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905475"/>
+    </login_reward>
+    <login_reward id="153" active="true" start="2016-04-01T09:00:00+00:00" end="2016-05-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905476"/>
+    </login_reward>
+    <login_reward id="154" active="true" start="2016-04-01T09:00:00+00:00" end="2016-05-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905477"/>
+    </login_reward>
+    <login_reward id="155" active="true" start="2016-05-01T09:00:00+00:00" end="2016-06-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905478"/>
+    </login_reward>
+    <login_reward id="156" active="true" start="2016-05-01T09:00:00+00:00" end="2016-06-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905479"/>
+    </login_reward>
+    <login_reward id="157" active="true" start="2016-05-01T09:00:00+00:00" end="2016-06-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905480"/>
+    </login_reward>
+    <login_reward id="158" active="true" start="2016-05-01T09:00:00+00:00" end="2016-06-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905481"/>
+    </login_reward>
+    <login_reward id="159" active="true" start="2016-06-01T09:00:00+00:00" end="2016-07-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1" reward_title="905482"/>
+    </login_reward>
+    <login_reward id="160" active="true" start="2016-06-01T09:00:00+00:00" end="2016-07-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905483"/>
+    </login_reward>
+    <login_reward id="161" active="true" start="2016-06-01T09:00:00+00:00" end="2016-07-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905484"/>
+    </login_reward>
+    <login_reward id="162" active="true" start="2016-06-01T09:00:00+00:00" end="2016-07-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905485"/>
+    </login_reward>
+    <login_reward id="163" active="true" start="2016-07-01T09:00:00+00:00" end="2016-08-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1" reward_title="905486"/>
+    </login_reward>
+    <login_reward id="164" active="true" start="2016-07-01T09:00:00+00:00" end="2016-08-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905487"/>
+    </login_reward>
+    <login_reward id="165" active="true" start="2016-07-01T09:00:00+00:00" end="2016-08-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905488"/>
+    </login_reward>
+    <login_reward id="166" active="true" start="2016-07-01T09:00:00+00:00" end="2016-08-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905489"/>
+    </login_reward>
+    <login_reward id="167" active="true" start="2016-08-01T09:00:00+00:00" end="2016-09-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1" reward_title="905490"/>
+    </login_reward>
+    <login_reward id="168" active="true" start="2016-08-01T09:00:00+00:00" end="2016-09-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905491"/>
+    </login_reward>
+    <login_reward id="169" active="true" start="2016-08-01T09:00:00+00:00" end="2016-09-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905492"/>
+    </login_reward>
+    <login_reward id="170" active="true" start="2016-08-01T09:00:00+00:00" end="2016-09-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905493"/>
+    </login_reward>
+    <login_reward id="171" active="true" start="2016-09-01T09:00:00+00:00" end="2016-10-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905494"/>
+    </login_reward>
+    <login_reward id="172" active="true" start="2016-09-01T09:00:00+00:00" end="2016-10-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905495"/>
+    </login_reward>
+    <login_reward id="173" active="true" start="2016-09-01T09:00:00+00:00" end="2016-10-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905496"/>
+    </login_reward>
+    <login_reward id="174" active="true" start="2016-09-01T09:00:00+00:00" end="2016-10-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905497"/>
+    </login_reward>
+    <login_reward id="175" active="true" start="2016-10-01T09:00:00+00:00" end="2016-11-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905498"/>
+    </login_reward>
+    <login_reward id="176" active="true" start="2016-10-01T09:00:00+00:00" end="2016-11-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905499"/>
+    </login_reward>
+    <login_reward id="177" active="true" start="2016-10-01T09:00:00+00:00" end="2016-11-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905500"/>
+    </login_reward>
+    <login_reward id="178" active="true" start="2016-10-01T09:00:00+00:00" end="2016-11-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905501"/>
+    </login_reward>
+    <login_reward id="179" active="true" start="2016-11-01T09:00:00+00:00" end="2016-12-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905502"/>
+    </login_reward>
+    <login_reward id="180" active="true" start="2016-11-01T09:00:00+00:00" end="2016-12-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905503"/>
+    </login_reward>
+    <login_reward id="181" active="true" start="2016-11-01T09:00:00+00:00" end="2016-12-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905504"/>
+    </login_reward>
+    <login_reward id="182" active="true" start="2016-11-01T09:00:00+00:00" end="2016-12-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905505"/>
+    </login_reward>
+    <login_reward id="183" active="true" start="2016-12-01T09:00:00+00:00" end="2017-01-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1" reward_title="905506"/>
+    </login_reward>
+    <login_reward id="184" active="true" start="2016-12-01T09:00:00+00:00" end="2017-01-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905507"/>
+    </login_reward>
+    <login_reward id="185" active="true" start="2016-12-01T09:00:00+00:00" end="2017-01-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905508"/>
+    </login_reward>
+    <login_reward id="186" active="true" start="2016-12-01T09:00:00+00:00" end="2017-01-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905509"/>
+    </login_reward>
+    <login_reward id="187" active="true" start="2017-03-01T09:00:00+00:00" end="2017-06-01T08:59:59+00:00" type="DAILY" attend_num="1">
+        <reward item_id="188053409" count="1" reward_title="905510"/>
+    </login_reward>
+    <login_reward id="188" active="true" start="2017-06-01T09:00:00+00:00" end="2017-09-01T08:59:59+00:00" type="DAILY" attend_num="1">
+        <reward item_id="188053410" count="1" reward_title="905511"/>
+    </login_reward>
+    <login_reward id="189" active="true" start="2017-09-01T09:00:00+00:00" end="2017-12-01T08:59:59+00:00" type="DAILY" attend_num="1">
+        <reward item_id="188053411" count="1" reward_title="905512"/>
+    </login_reward>
+    <login_reward id="190" active="true" start="2017-12-01T09:00:00+00:00" end="2018-03-01T08:59:59+00:00" type="DAILY" attend_num="1">
+        <reward item_id="188053412" count="1" reward_title="905513"/>
+    </login_reward>
+    <login_reward id="191" active="true" start="2017-01-01T09:00:00+00:00" end="2017-02-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1"/>
+    </login_reward>
+    <login_reward id="192" active="true" start="2017-01-01T09:00:00+00:00" end="2017-02-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905526"/>
+    </login_reward>
+    <login_reward id="193" active="true" start="2017-01-01T09:00:00+00:00" end="2017-02-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905527"/>
+    </login_reward>
+    <login_reward id="194" active="true" start="2017-01-01T09:00:00+00:00" end="2017-02-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905528"/>
+    </login_reward>
+    <login_reward id="195" active="true" start="2017-02-01T09:00:00+00:00" end="2017-03-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1" reward_title="905529"/>
+    </login_reward>
+    <login_reward id="196" active="true" start="2017-02-01T09:00:00+00:00" end="2017-03-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905530"/>
+    </login_reward>
+    <login_reward id="197" active="true" start="2017-02-01T09:00:00+00:00" end="2017-03-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905531"/>
+    </login_reward>
+    <login_reward id="198" active="true" start="2017-02-01T09:00:00+00:00" end="2017-03-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905532"/>
+    </login_reward>
+    <login_reward id="199" active="true" start="2017-03-01T09:00:00+00:00" end="2017-04-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905533"/>
+    </login_reward>
+    <login_reward id="200" active="true" start="2017-03-01T09:00:00+00:00" end="2017-04-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905534"/>
+    </login_reward>
+    <login_reward id="201" active="true" start="2017-03-01T09:00:00+00:00" end="2017-04-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905535"/>
+    </login_reward>
+    <login_reward id="202" active="true" start="2017-03-01T09:00:00+00:00" end="2017-04-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905536"/>
+    </login_reward>
+    <login_reward id="203" active="true" start="2017-04-01T09:00:00+00:00" end="2017-05-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905537"/>
+    </login_reward>
+    <login_reward id="204" active="true" start="2017-04-01T09:00:00+00:00" end="2017-05-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905538"/>
+    </login_reward>
+    <login_reward id="205" active="true" start="2017-04-01T09:00:00+00:00" end="2017-05-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905539"/>
+    </login_reward>
+    <login_reward id="206" active="true" start="2017-04-01T09:00:00+00:00" end="2017-05-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905540"/>
+    </login_reward>
+    <login_reward id="207" active="true" start="2017-05-01T09:00:00+00:00" end="2017-06-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905541"/>
+    </login_reward>
+    <login_reward id="208" active="true" start="2017-05-01T09:00:00+00:00" end="2017-06-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905542"/>
+    </login_reward>
+    <login_reward id="209" active="true" start="2017-05-01T09:00:00+00:00" end="2017-06-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905543"/>
+    </login_reward>
+    <login_reward id="210" active="true" start="2017-05-01T09:00:00+00:00" end="2017-06-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905544"/>
+    </login_reward>
+    <login_reward id="211" active="true" start="2017-06-01T09:00:00+00:00" end="2017-07-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1" reward_title="905545"/>
+    </login_reward>
+    <login_reward id="212" active="true" start="2017-06-01T09:00:00+00:00" end="2017-07-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905546"/>
+    </login_reward>
+    <login_reward id="213" active="true" start="2017-06-01T09:00:00+00:00" end="2017-07-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905547"/>
+    </login_reward>
+    <login_reward id="214" active="true" start="2017-06-01T09:00:00+00:00" end="2017-07-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905548"/>
+    </login_reward>
+    <login_reward id="215" active="true" start="2017-07-01T09:00:00+00:00" end="2017-08-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1" reward_title="905549"/>
+    </login_reward>
+    <login_reward id="216" active="true" start="2017-07-01T09:00:00+00:00" end="2017-08-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905550"/>
+    </login_reward>
+    <login_reward id="217" active="true" start="2017-07-01T09:00:00+00:00" end="2017-08-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905551"/>
+    </login_reward>
+    <login_reward id="218" active="true" start="2017-07-01T09:00:00+00:00" end="2017-08-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905552"/>
+    </login_reward>
+    <login_reward id="219" active="true" start="2017-08-01T09:00:00+00:00" end="2017-09-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1" reward_title="905553"/>
+    </login_reward>
+    <login_reward id="220" active="true" start="2017-08-01T09:00:00+00:00" end="2017-09-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905554"/>
+    </login_reward>
+    <login_reward id="221" active="true" start="2017-08-01T09:00:00+00:00" end="2017-09-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905555"/>
+    </login_reward>
+    <login_reward id="222" active="true" start="2017-08-01T09:00:00+00:00" end="2017-09-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905556"/>
+    </login_reward>
+    <login_reward id="223" active="true" start="2017-09-01T09:00:00+00:00" end="2017-10-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905557"/>
+    </login_reward>
+    <login_reward id="224" active="true" start="2017-09-01T09:00:00+00:00" end="2017-10-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905558"/>
+    </login_reward>
+    <login_reward id="225" active="true" start="2017-09-01T09:00:00+00:00" end="2017-10-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905559"/>
+    </login_reward>
+    <login_reward id="226" active="true" start="2017-09-01T09:00:00+00:00" end="2017-10-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905560"/>
+    </login_reward>
+    <login_reward id="227" active="true" start="2017-10-01T09:00:00+00:00" end="2017-11-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905561"/>
+    </login_reward>
+    <login_reward id="228" active="true" start="2017-10-01T09:00:00+00:00" end="2017-11-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905562"/>
+    </login_reward>
+    <login_reward id="229" active="true" start="2017-10-01T09:00:00+00:00" end="2017-11-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905563"/>
+    </login_reward>
+    <login_reward id="230" active="true" start="2017-10-01T09:00:00+00:00" end="2017-11-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905564"/>
+    </login_reward>
+    <login_reward id="231" active="true" start="2017-11-01T09:00:00+00:00" end="2017-12-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905565"/>
+    </login_reward>
+    <login_reward id="232" active="true" start="2017-11-01T09:00:00+00:00" end="2017-12-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905566"/>
+    </login_reward>
+    <login_reward id="233" active="true" start="2017-11-01T09:00:00+00:00" end="2017-12-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905567"/>
+    </login_reward>
+    <login_reward id="234" active="true" start="2017-11-01T09:00:00+00:00" end="2017-12-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905568"/>
+    </login_reward>
+    <login_reward id="235" active="true" start="2017-12-01T09:00:00+00:00" end="2018-01-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1" reward_title="905569"/>
+    </login_reward>
+    <login_reward id="236" active="true" start="2017-12-01T09:00:00+00:00" end="2018-01-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905570"/>
+    </login_reward>
+    <login_reward id="237" active="true" start="2017-12-01T09:00:00+00:00" end="2018-01-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905571"/>
+    </login_reward>
+    <login_reward id="238" active="true" start="2017-12-01T09:00:00+00:00" end="2018-01-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905572"/>
+    </login_reward>
+    <login_reward id="239" active="true" start="2018-03-01T09:00:00+00:00" end="2018-06-01T08:59:59+00:00" type="DAILY" attend_num="1">
+        <reward item_id="188053409" count="1" reward_title="905573"/>
+    </login_reward>
+    <login_reward id="240" active="true" start="2018-06-01T09:00:00+00:00" end="2018-09-01T08:59:59+00:00" type="DAILY" attend_num="1">
+        <reward item_id="188053410" count="1" reward_title="905574"/>
+    </login_reward>
+    <login_reward id="241" active="true" start="2018-09-01T09:00:00+00:00" end="2018-12-01T08:59:59+00:00" type="DAILY" attend_num="1">
+        <reward item_id="188053411" count="1" reward_title="905575"/>
+    </login_reward>
+    <login_reward id="242" active="true" start="2018-12-01T09:00:00+00:00" end="2019-03-01T08:59:59+00:00" type="DAILY" attend_num="1">
+        <reward item_id="188053412" count="1" reward_title="905576"/>
+    </login_reward>
+    <login_reward id="243" active="true" start="2018-01-01T09:00:00+00:00" end="2018-02-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1"/>
+    </login_reward>
+    <login_reward id="244" active="true" start="2018-01-01T09:00:00+00:00" end="2018-02-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905589"/>
+    </login_reward>
+    <login_reward id="245" active="true" start="2018-01-01T09:00:00+00:00" end="2018-02-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905590"/>
+    </login_reward>
+    <login_reward id="246" active="true" start="2018-01-01T09:00:00+00:00" end="2018-02-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905591"/>
+    </login_reward>
+    <login_reward id="247" active="true" start="2018-02-01T09:00:00+00:00" end="2018-03-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1" reward_title="905592"/>
+    </login_reward>
+    <login_reward id="248" active="true" start="2018-02-01T09:00:00+00:00" end="2018-03-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905593"/>
+    </login_reward>
+    <login_reward id="249" active="true" start="2018-02-01T09:00:00+00:00" end="2018-03-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905594"/>
+    </login_reward>
+    <login_reward id="250" active="true" start="2018-02-01T09:00:00+00:00" end="2018-03-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905595"/>
+    </login_reward>
+    <login_reward id="251" active="true" start="2018-03-01T09:00:00+00:00" end="2018-04-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905596"/>
+    </login_reward>
+    <login_reward id="252" active="true" start="2018-03-01T09:00:00+00:00" end="2018-04-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905597"/>
+    </login_reward>
+    <login_reward id="253" active="true" start="2018-03-01T09:00:00+00:00" end="2018-04-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905598"/>
+    </login_reward>
+    <login_reward id="254" active="true" start="2018-03-01T09:00:00+00:00" end="2018-04-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905599"/>
+    </login_reward>
+    <login_reward id="255" active="true" start="2018-04-01T09:00:00+00:00" end="2018-05-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905600"/>
+    </login_reward>
+    <login_reward id="256" active="true" start="2018-04-01T09:00:00+00:00" end="2018-05-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905601"/>
+    </login_reward>
+    <login_reward id="257" active="true" start="2018-04-01T09:00:00+00:00" end="2018-05-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905602"/>
+    </login_reward>
+    <login_reward id="258" active="true" start="2018-04-01T09:00:00+00:00" end="2018-05-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905603"/>
+    </login_reward>
+    <login_reward id="259" active="true" start="2018-05-01T09:00:00+00:00" end="2018-06-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905604"/>
+    </login_reward>
+    <login_reward id="260" active="true" start="2018-05-01T09:00:00+00:00" end="2018-06-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905605"/>
+    </login_reward>
+    <login_reward id="261" active="true" start="2018-05-01T09:00:00+00:00" end="2018-06-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905606"/>
+    </login_reward>
+    <login_reward id="262" active="true" start="2018-05-01T09:00:00+00:00" end="2018-06-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905607"/>
+    </login_reward>
+    <login_reward id="263" active="true" start="2018-06-01T09:00:00+00:00" end="2018-07-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1" reward_title="905608"/>
+    </login_reward>
+    <login_reward id="264" active="true" start="2018-06-01T09:00:00+00:00" end="2018-07-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905609"/>
+    </login_reward>
+    <login_reward id="265" active="true" start="2018-06-01T09:00:00+00:00" end="2018-07-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905610"/>
+    </login_reward>
+    <login_reward id="266" active="true" start="2018-06-01T09:00:00+00:00" end="2018-07-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905611"/>
+    </login_reward>
+    <login_reward id="267" active="true" start="2018-07-01T09:00:00+00:00" end="2018-08-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1" reward_title="905612"/>
+    </login_reward>
+    <login_reward id="268" active="true" start="2018-07-01T09:00:00+00:00" end="2018-08-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905613"/>
+    </login_reward>
+    <login_reward id="269" active="true" start="2018-07-01T09:00:00+00:00" end="2018-08-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905614"/>
+    </login_reward>
+    <login_reward id="270" active="true" start="2018-07-01T09:00:00+00:00" end="2018-08-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905615"/>
+    </login_reward>
+    <login_reward id="271" active="true" start="2018-08-01T09:00:00+00:00" end="2018-09-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1" reward_title="905616"/>
+    </login_reward>
+    <login_reward id="272" active="true" start="2018-08-01T09:00:00+00:00" end="2018-09-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905617"/>
+    </login_reward>
+    <login_reward id="273" active="true" start="2018-08-01T09:00:00+00:00" end="2018-09-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905618"/>
+    </login_reward>
+    <login_reward id="274" active="true" start="2018-08-01T09:00:00+00:00" end="2018-09-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905619"/>
+    </login_reward>
+    <login_reward id="275" active="true" start="2018-09-01T09:00:00+00:00" end="2018-10-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905620"/>
+    </login_reward>
+    <login_reward id="276" active="true" start="2018-09-01T09:00:00+00:00" end="2018-10-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905621"/>
+    </login_reward>
+    <login_reward id="277" active="true" start="2018-09-01T09:00:00+00:00" end="2018-10-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905622"/>
+    </login_reward>
+    <login_reward id="278" active="true" start="2018-09-01T09:00:00+00:00" end="2018-10-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905623"/>
+    </login_reward>
+    <login_reward id="279" active="true" start="2018-10-01T09:00:00+00:00" end="2018-11-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905624"/>
+    </login_reward>
+    <login_reward id="280" active="true" start="2018-10-01T09:00:00+00:00" end="2018-11-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905625"/>
+    </login_reward>
+    <login_reward id="281" active="true" start="2018-10-01T09:00:00+00:00" end="2018-11-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905626"/>
+    </login_reward>
+    <login_reward id="282" active="true" start="2018-10-01T09:00:00+00:00" end="2018-11-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905627"/>
+    </login_reward>
+    <login_reward id="283" active="true" start="2018-11-01T09:00:00+00:00" end="2018-12-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905628"/>
+    </login_reward>
+    <login_reward id="284" active="true" start="2018-11-01T09:00:00+00:00" end="2018-12-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905629"/>
+    </login_reward>
+    <login_reward id="285" active="true" start="2018-11-01T09:00:00+00:00" end="2018-12-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905630"/>
+    </login_reward>
+    <login_reward id="286" active="true" start="2018-11-01T09:00:00+00:00" end="2018-12-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905631"/>
+    </login_reward>
+    <login_reward id="287" active="true" start="2018-12-01T09:00:00+00:00" end="2019-01-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1" reward_title="905632"/>
+    </login_reward>
+    <login_reward id="288" active="true" start="2018-12-01T09:00:00+00:00" end="2019-01-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905633"/>
+    </login_reward>
+    <login_reward id="289" active="true" start="2018-12-01T09:00:00+00:00" end="2019-01-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905634"/>
+    </login_reward>
+    <login_reward id="290" active="true" start="2018-12-01T09:00:00+00:00" end="2019-01-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905635"/>
+    </login_reward>
+    <login_reward id="291" active="true" start="2019-03-01T09:00:00+00:00" end="2019-06-01T08:59:59+00:00" type="DAILY" attend_num="1">
+        <reward item_id="188053409" count="1" reward_title="905636"/>
+    </login_reward>
+    <login_reward id="292" active="true" start="2019-06-01T09:00:00+00:00" end="2019-09-01T08:59:59+00:00" type="DAILY" attend_num="1">
+        <reward item_id="188053410" count="1" reward_title="905637"/>
+    </login_reward>
+    <login_reward id="293" active="true" start="2019-09-01T09:00:00+00:00" end="2019-12-01T08:59:59+00:00" type="DAILY" attend_num="1">
+        <reward item_id="188053411" count="1" reward_title="905638"/>
+    </login_reward>
+    <login_reward id="294" active="true" start="2019-12-01T09:00:00+00:00" end="2020-03-01T08:59:59+00:00" type="DAILY" attend_num="1">
+        <reward item_id="188053412" count="1" reward_title="905639"/>
+    </login_reward>
+    <login_reward id="295" active="true" start="2019-01-01T09:00:00+00:00" end="2019-02-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1"/>
+    </login_reward>
+    <login_reward id="296" active="true" start="2019-01-01T09:00:00+00:00" end="2019-02-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905652"/>
+    </login_reward>
+    <login_reward id="297" active="true" start="2019-01-01T09:00:00+00:00" end="2019-02-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905653"/>
+    </login_reward>
+    <login_reward id="298" active="true" start="2019-01-01T09:00:00+00:00" end="2019-02-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905654"/>
+    </login_reward>
+    <login_reward id="299" active="true" start="2019-02-01T09:00:00+00:00" end="2019-03-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1" reward_title="905655"/>
+    </login_reward>
+    <login_reward id="300" active="true" start="2019-02-01T09:00:00+00:00" end="2019-03-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905656"/>
+    </login_reward>
+    <login_reward id="301" active="true" start="2019-02-01T09:00:00+00:00" end="2019-03-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905657"/>
+    </login_reward>
+    <login_reward id="302" active="true" start="2019-02-01T09:00:00+00:00" end="2019-03-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905658"/>
+    </login_reward>
+    <login_reward id="303" active="true" start="2019-03-01T09:00:00+00:00" end="2019-04-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905659"/>
+    </login_reward>
+    <login_reward id="304" active="true" start="2019-03-01T09:00:00+00:00" end="2019-04-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905660"/>
+    </login_reward>
+    <login_reward id="305" active="true" start="2019-03-01T09:00:00+00:00" end="2019-04-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905661"/>
+    </login_reward>
+    <login_reward id="306" active="true" start="2019-03-01T09:00:00+00:00" end="2019-04-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905662"/>
+    </login_reward>
+    <login_reward id="307" active="true" start="2019-04-01T09:00:00+00:00" end="2019-05-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905663"/>
+    </login_reward>
+    <login_reward id="308" active="true" start="2019-04-01T09:00:00+00:00" end="2019-05-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905664"/>
+    </login_reward>
+    <login_reward id="309" active="true" start="2019-04-01T09:00:00+00:00" end="2019-05-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905665"/>
+    </login_reward>
+    <login_reward id="310" active="true" start="2019-04-01T09:00:00+00:00" end="2019-05-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905666"/>
+    </login_reward>
+    <login_reward id="311" active="true" start="2019-05-01T09:00:00+00:00" end="2019-06-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905667"/>
+    </login_reward>
+    <login_reward id="312" active="true" start="2019-05-01T09:00:00+00:00" end="2019-06-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905668"/>
+    </login_reward>
+    <login_reward id="313" active="true" start="2019-05-01T09:00:00+00:00" end="2019-06-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905669"/>
+    </login_reward>
+    <login_reward id="314" active="true" start="2019-05-01T09:00:00+00:00" end="2019-06-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905670"/>
+    </login_reward>
+    <login_reward id="315" active="true" start="2019-06-01T09:00:00+00:00" end="2019-07-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1" reward_title="905671"/>
+    </login_reward>
+    <login_reward id="316" active="true" start="2019-06-01T09:00:00+00:00" end="2019-07-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905672"/>
+    </login_reward>
+    <login_reward id="317" active="true" start="2019-06-01T09:00:00+00:00" end="2019-07-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905673"/>
+    </login_reward>
+    <login_reward id="318" active="true" start="2019-06-01T09:00:00+00:00" end="2019-07-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905674"/>
+    </login_reward>
+    <login_reward id="319" active="true" start="2019-07-01T09:00:00+00:00" end="2019-08-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1" reward_title="905675"/>
+    </login_reward>
+    <login_reward id="320" active="true" start="2019-07-01T09:00:00+00:00" end="2019-08-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905676"/>
+    </login_reward>
+    <login_reward id="321" active="true" start="2019-07-01T09:00:00+00:00" end="2019-08-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905677"/>
+    </login_reward>
+    <login_reward id="322" active="true" start="2019-07-01T09:00:00+00:00" end="2019-08-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905678"/>
+    </login_reward>
+    <login_reward id="323" active="true" start="2019-08-01T09:00:00+00:00" end="2019-09-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1" reward_title="905679"/>
+    </login_reward>
+    <login_reward id="324" active="true" start="2019-08-01T09:00:00+00:00" end="2019-09-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905680"/>
+    </login_reward>
+    <login_reward id="325" active="true" start="2019-08-01T09:00:00+00:00" end="2019-09-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905681"/>
+    </login_reward>
+    <login_reward id="326" active="true" start="2019-08-01T09:00:00+00:00" end="2019-09-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905682"/>
+    </login_reward>
+    <login_reward id="327" active="true" start="2019-09-01T09:00:00+00:00" end="2019-10-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905683"/>
+    </login_reward>
+    <login_reward id="328" active="true" start="2019-09-01T09:00:00+00:00" end="2019-10-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905684"/>
+    </login_reward>
+    <login_reward id="329" active="true" start="2019-09-01T09:00:00+00:00" end="2019-10-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905685"/>
+    </login_reward>
+    <login_reward id="330" active="true" start="2019-09-01T09:00:00+00:00" end="2019-10-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905686"/>
+    </login_reward>
+    <login_reward id="331" active="true" start="2019-10-01T09:00:00+00:00" end="2019-11-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905687"/>
+    </login_reward>
+    <login_reward id="332" active="true" start="2019-10-01T09:00:00+00:00" end="2019-11-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905688"/>
+    </login_reward>
+    <login_reward id="333" active="true" start="2019-10-01T09:00:00+00:00" end="2019-11-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905689"/>
+    </login_reward>
+    <login_reward id="334" active="true" start="2019-10-01T09:00:00+00:00" end="2019-11-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905690"/>
+    </login_reward>
+    <login_reward id="335" active="true" start="2019-11-01T09:00:00+00:00" end="2019-12-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905691"/>
+    </login_reward>
+    <login_reward id="336" active="true" start="2019-11-01T09:00:00+00:00" end="2019-12-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905692"/>
+    </login_reward>
+    <login_reward id="337" active="true" start="2019-11-01T09:00:00+00:00" end="2019-12-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905693"/>
+    </login_reward>
+    <login_reward id="338" active="true" start="2019-11-01T09:00:00+00:00" end="2019-12-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905694"/>
+    </login_reward>
+    <login_reward id="339" active="true" start="2019-12-01T09:00:00+00:00" end="2020-01-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1" reward_title="905695"/>
+    </login_reward>
+    <login_reward id="340" active="true" start="2019-12-01T09:00:00+00:00" end="2020-01-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905696"/>
+    </login_reward>
+    <login_reward id="341" active="true" start="2019-12-01T09:00:00+00:00" end="2020-01-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905697"/>
+    </login_reward>
+    <login_reward id="342" active="true" start="2019-12-01T09:00:00+00:00" end="2020-01-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905698"/>
+    </login_reward>
+    <login_reward id="343" active="true" start="2020-03-01T09:00:00+00:00" end="2020-06-01T08:59:59+00:00" type="DAILY" attend_num="1">
+        <reward item_id="188053409" count="1" reward_title="905699"/>
+    </login_reward>
+    <login_reward id="344" active="true" start="2020-06-01T09:00:00+00:00" end="2020-09-01T08:59:59+00:00" type="DAILY" attend_num="1">
+        <reward item_id="188053410" count="1" reward_title="905700"/>
+    </login_reward>
+    <login_reward id="345" active="true" start="2020-09-01T09:00:00+00:00" end="2020-12-01T08:59:59+00:00" type="DAILY" attend_num="1">
+        <reward item_id="188053411" count="1" reward_title="905701"/>
+    </login_reward>
+    <login_reward id="346" active="true" start="2020-12-01T09:00:00+00:00" end="2021-03-01T08:59:59+00:00" type="DAILY" attend_num="1">
+        <reward item_id="188053412" count="1" reward_title="905702"/>
+    </login_reward>
+    <login_reward id="347" active="true" start="2020-01-01T09:00:00+00:00" end="2020-02-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1"/>
+    </login_reward>
+    <login_reward id="348" active="true" start="2020-01-01T09:00:00+00:00" end="2020-02-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905715"/>
+    </login_reward>
+    <login_reward id="349" active="true" start="2020-01-01T09:00:00+00:00" end="2020-02-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905716"/>
+    </login_reward>
+    <login_reward id="350" active="true" start="2020-01-01T09:00:00+00:00" end="2020-02-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905717"/>
+    </login_reward>
+    <login_reward id="351" active="true" start="2020-02-01T09:00:00+00:00" end="2020-03-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1" reward_title="905718"/>
+    </login_reward>
+    <login_reward id="352" active="true" start="2020-02-01T09:00:00+00:00" end="2020-03-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905719"/>
+    </login_reward>
+    <login_reward id="353" active="true" start="2020-02-01T09:00:00+00:00" end="2020-03-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905720"/>
+    </login_reward>
+    <login_reward id="354" active="true" start="2020-02-01T09:00:00+00:00" end="2020-03-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905721"/>
+    </login_reward>
+    <login_reward id="355" active="true" start="2020-03-01T09:00:00+00:00" end="2020-04-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905722"/>
+    </login_reward>
+    <login_reward id="356" active="true" start="2020-03-01T09:00:00+00:00" end="2020-04-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905723"/>
+    </login_reward>
+    <login_reward id="357" active="true" start="2020-03-01T09:00:00+00:00" end="2020-04-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905724"/>
+    </login_reward>
+    <login_reward id="358" active="true" start="2020-03-01T09:00:00+00:00" end="2020-04-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905725"/>
+    </login_reward>
+    <login_reward id="359" active="true" start="2020-04-01T09:00:00+00:00" end="2020-05-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905726"/>
+    </login_reward>
+    <login_reward id="360" active="true" start="2020-04-01T09:00:00+00:00" end="2020-05-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905727"/>
+    </login_reward>
+    <login_reward id="361" active="true" start="2020-04-01T09:00:00+00:00" end="2020-05-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905728"/>
+    </login_reward>
+    <login_reward id="362" active="true" start="2020-04-01T09:00:00+00:00" end="2020-05-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905729"/>
+    </login_reward>
+    <login_reward id="363" active="true" start="2020-05-01T09:00:00+00:00" end="2020-06-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905730"/>
+    </login_reward>
+    <login_reward id="364" active="true" start="2020-05-01T09:00:00+00:00" end="2020-06-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905731"/>
+    </login_reward>
+    <login_reward id="365" active="true" start="2020-05-01T09:00:00+00:00" end="2020-06-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905732"/>
+    </login_reward>
+    <login_reward id="366" active="true" start="2020-05-01T09:00:00+00:00" end="2020-06-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905733"/>
+    </login_reward>
+    <login_reward id="367" active="true" start="2020-06-01T09:00:00+00:00" end="2020-07-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1" reward_title="905734"/>
+    </login_reward>
+    <login_reward id="368" active="true" start="2020-06-01T09:00:00+00:00" end="2020-07-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905735"/>
+    </login_reward>
+    <login_reward id="369" active="true" start="2020-06-01T09:00:00+00:00" end="2020-07-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905736"/>
+    </login_reward>
+    <login_reward id="370" active="true" start="2020-06-01T09:00:00+00:00" end="2020-07-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905737"/>
+    </login_reward>
+    <login_reward id="371" active="true" start="2020-07-01T09:00:00+00:00" end="2020-08-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1" reward_title="905738"/>
+    </login_reward>
+    <login_reward id="372" active="true" start="2020-07-01T09:00:00+00:00" end="2020-08-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905739"/>
+    </login_reward>
+    <login_reward id="373" active="true" start="2020-07-01T09:00:00+00:00" end="2020-08-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905740"/>
+    </login_reward>
+    <login_reward id="374" active="true" start="2020-07-01T09:00:00+00:00" end="2020-08-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905741"/>
+    </login_reward>
+    <login_reward id="375" active="true" start="2020-08-01T09:00:00+00:00" end="2020-09-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1" reward_title="905742"/>
+    </login_reward>
+    <login_reward id="376" active="true" start="2020-08-01T09:00:00+00:00" end="2020-09-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905743"/>
+    </login_reward>
+    <login_reward id="377" active="true" start="2020-08-01T09:00:00+00:00" end="2020-09-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905744"/>
+    </login_reward>
+    <login_reward id="378" active="true" start="2020-08-01T09:00:00+00:00" end="2020-09-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905745"/>
+    </login_reward>
+    <login_reward id="379" active="true" start="2020-09-01T09:00:00+00:00" end="2020-10-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905746"/>
+    </login_reward>
+    <login_reward id="380" active="true" start="2020-09-01T09:00:00+00:00" end="2020-10-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905747"/>
+    </login_reward>
+    <login_reward id="381" active="true" start="2020-09-01T09:00:00+00:00" end="2020-10-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905748"/>
+    </login_reward>
+    <login_reward id="382" active="true" start="2020-09-01T09:00:00+00:00" end="2020-10-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905749"/>
+    </login_reward>
+    <login_reward id="383" active="true" start="2020-10-01T09:00:00+00:00" end="2020-11-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905750"/>
+    </login_reward>
+    <login_reward id="384" active="true" start="2020-10-01T09:00:00+00:00" end="2020-11-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905751"/>
+    </login_reward>
+    <login_reward id="385" active="true" start="2020-10-01T09:00:00+00:00" end="2020-11-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905752"/>
+    </login_reward>
+    <login_reward id="386" active="true" start="2020-10-01T09:00:00+00:00" end="2020-11-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905753"/>
+    </login_reward>
+    <login_reward id="387" active="true" start="2020-11-01T09:00:00+00:00" end="2020-12-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053416" count="1" reward_title="905754"/>
+    </login_reward>
+    <login_reward id="388" active="true" start="2020-11-01T09:00:00+00:00" end="2020-12-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="186000247" count="1" reward_title="905755"/>
+    </login_reward>
+    <login_reward id="389" active="true" start="2020-11-01T09:00:00+00:00" end="2020-12-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053417" count="1" reward_title="905756"/>
+    </login_reward>
+    <login_reward id="390" active="true" start="2020-11-01T09:00:00+00:00" end="2020-12-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905757"/>
+    </login_reward>
+    <login_reward id="391" active="true" start="2020-12-01T09:00:00+00:00" end="2021-01-01T08:59:59+00:00" type="CUMULATIVE" attend_num="7">
+        <reward item_id="188053418" count="1" reward_title="905758"/>
+    </login_reward>
+    <login_reward id="392" active="true" start="2020-12-01T09:00:00+00:00" end="2021-01-01T08:59:59+00:00" type="CUMULATIVE" attend_num="14">
+        <reward item_id="188053414" count="1" reward_title="905759"/>
+    </login_reward>
+    <login_reward id="393" active="true" start="2020-12-01T09:00:00+00:00" end="2021-01-01T08:59:59+00:00" type="CUMULATIVE" attend_num="21">
+        <reward item_id="188053419" count="1" reward_title="905760"/>
+    </login_reward>
+    <login_reward id="394" active="true" start="2020-12-01T09:00:00+00:00" end="2021-01-01T08:59:59+00:00" type="CUMULATIVE" attend_num="28" permit_level="46">
+        <reward item_id="166030008" count="1" expire_time="10080" reward_title="905761"/>
+    </login_reward>
+</login_rewards>

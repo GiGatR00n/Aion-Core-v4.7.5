@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<!--
+		Author.....: GiGatR00n
+		v4.7.5.x (‎15/‎3/‎2015)
+	-->
+
+<item_multi_returns xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="item_multi_returns.xsd">
+  <item id="1" name="test_multi_retrun_1">
+    <loc worldid="110010000" desc="Sanctum" />
+    <loc worldid="210030000" desc="Verteron" />
+    <loc worldid="210020000" desc="Eltnen" />
+    <loc worldid="210040000" desc="Heiron" />
+    <loc worldid="210060000" desc="Aetheric Field Observatory Village" />
+  </item>
+  <item id="2" name="test_multi_retrun_2">
+    <loc worldid="400010000" desc="Teminon Fortress" />
+    <loc worldid="210050000" desc="Inggison Illusion Fortress" />
+    <loc worldid="600020000" desc="Kamar" />
+    <loc worldid="600050000" desc="Kaisinel's Beacon" />
+    <loc worldid="600060000" desc="Pandarunerk's Delve" />
+    <loc worldid="600070000" desc="Segarunerk's Bazaar" />
+    <loc worldid="110010000" desc="Sanctum" />
+    <loc worldid="210030000" desc="Verteron" />
+    <loc worldid="210020000" desc="Eltnen" />
+    <loc worldid="210040000" desc="Heiron" />
+    <loc worldid="210060000" desc="Aetheric Field Observatory Village" />
+  </item>
+  <item id="3" name="test_multi_retrun_3">
+    <loc worldid="110010000" desc="Sanctum" />
+    <loc worldid="210030000" desc="Verteron" />
+    <loc worldid="210020000" desc="Eltnen" />
+    <loc worldid="210040000" desc="Heiron" />
+    <loc worldid="210060000" desc="Aetheric Field Observatory Village" />
+    <loc worldid="120010000" desc="Pandaemonium" />
+    <loc worldid="220030000" desc="Altgard" />
+    <loc worldid="220020000" desc="Morheim" />
+    <loc worldid="220040000" desc="Beluslan" />
+    <loc worldid="220050000" desc="Baltasar Hill Village" />
+  </item>
+  <item id="4" name="test_multi_retrun_4">
+    <loc worldid="110010000" desc="Sanctum" />
+  </item>
+  <item id="5" name="test_multi_retrun_5">
+    <loc worldid="110010000" desc="Sanctum" />
+    <loc worldid="210030000" desc="Verteron" />
+    <loc worldid="210020000" desc="Eltnen" />
+    <loc worldid="210040000" desc="Heiron" />
+    <loc worldid="210060000" desc="Aetheric Field Observatory Village" />
+    <loc worldid="120010000" desc="Pandaemonium" />
+    <loc worldid="220030000" desc="Altgard" />
+    <loc worldid="220020000" desc="Morheim" />
+    <loc worldid="220040000" desc="Beluslan" />
+    <loc worldid="220050000" desc="Baltasar Hill Village" />
+    <loc worldid="400010000" desc="Teminon Fortress" />
+    <loc worldid="210050000" desc="Inggison Illusion Fortress" />
+    <loc worldid="600020000" desc="Kamar" />
+    <loc worldid="600050000" desc="Kaisinel's Beacon" />
+    <loc worldid="600060000" desc="Pandarunerk's Delve" />
+    <loc worldid="600070000" desc="Segarunerk's Bazaar" />
+    <loc worldid="600070000" desc="Segarunerk's Bazaar" />
+    <loc worldid="600060000" desc="Pandarunerk" />
+    <loc worldid="600050000" desc="Danuar Spire" />
+    <loc worldid="700010000" desc="Elian" />
+  </item>
+  <item id="6" name="lf_multi_retrun_1">
+    <loc worldid="110010000" desc="Sanctum" />
+    <loc worldid="210030000" desc="Verteron" />
+    <loc worldid="210020000" desc="Eltnen" />
+    <loc worldid="210040000" desc="Heiron" />
+    <loc worldid="210060000" desc="Aetheric Field Observatory Village" />
+    <loc worldid="110070000" desc="Kaisinel Academy" />
+    <loc worldid="700010000" desc="Elian" />
+    <loc worldid="400010000" desc="Teminon Fortress" />
+    <loc worldid="210050000" desc="Inggison Illusion Fortress" />
+    <loc worldid="600020000" desc="Kamar" />
+    <loc worldid="600030000" desc="Rancora Fortress" />
+    <loc worldid="600050000" desc="Kaisinel's Beacon" />
+    <loc worldid="600060000" desc="Pandarunerk's Delve" />
+    <loc worldid="600100000" desc="Lumewillow Glade" />
+  </item>
+  <item id="7" name="df_multi_retrun_1">
+    <loc worldid="120010000" desc="Pandaemonium" />
+    <loc worldid="220030000" desc="Altgard" />
+    <loc worldid="220020000" desc="Morheim" />
+    <loc worldid="220040000" desc="Beluslan" />
+    <loc worldid="220050000" desc="Baltasar Hill Village" />
+    <loc worldid="120080000" desc="Marchutan Priory" />
+    <loc worldid="710010000" desc="Pernon" />
+    <loc worldid="400010000" desc="Primum Fortress" />
+    <loc worldid="220070000" desc="Gelkmaros Fortress" />
+    <loc worldid="600020000" desc="Kamar" />
+    <loc worldid="600030000" desc="Rancora Fortress" />
+    <loc worldid="600050000" desc="Danuar Spire" />
+    <loc worldid="600060000" desc="Pandarunerk" />
+    <loc worldid="600100000" desc="Pinnacle Cataract" />
+  </item>
+</item_multi_returns>

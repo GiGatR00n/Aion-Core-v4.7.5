@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc_drops>
+	<npc_drop npc_id="230621"> <!-- Kobold Peon - SteelRose -->
+		<drop_group name="" use_category="false">
+			<drop chance="90.0" item_id="182400001" max_amount="2865" min_amount="1379"/>
+			<drop chance="85.0" item_id="182007005" max_amount="1" min_amount="1"/>
+		</drop_group>
+		<drop_group name="MANASTONE_COMMON">
+			<drop item_id="167000758" chance="14.85" min_amount="1" max_amount="1"/>
+			<drop item_id="167000759" chance="14.85" min_amount="1" max_amount="1"/>
+			<drop item_id="167000760" chance="14.85" min_amount="1" max_amount="1"/>
+			<drop item_id="167000761" chance="14.85" min_amount="1" max_amount="1"/>
+			<drop item_id="167000762" chance="14.85" min_amount="1" max_amount="1"/>
+			<drop item_id="167000763" chance="14.85" min_amount="1" max_amount="1"/>
+			<drop item_id="167000764" chance="14.85" min_amount="1" max_amount="1"/>
+			<drop item_id="167000765" chance="14.85" min_amount="1" max_amount="1"/>
+			<drop item_id="167000766" chance="14.85" min_amount="1" max_amount="1"/>
+			<drop item_id="167000767" chance="14.85" min_amount="1" max_amount="1"/>
+			<drop item_id="167000768" chance="14.85" min_amount="1" max_amount="1"/>
+			<drop item_id="167000769" chance="14.85" min_amount="1" max_amount="1"/>
+			<drop item_id="167000770" chance="14.85" min_amount="1" max_amount="1"/>
+			<drop item_id="167000771" chance="14.85" min_amount="1" max_amount="1"/>
+			<drop item_id="167000772" chance="14.85" min_amount="1" max_amount="1"/>
+			<drop item_id="167000773" chance="14.85" min_amount="1" max_amount="1"/>
+			<drop item_id="167000774" chance="14.85" min_amount="1" max_amount="1"/>
+			<drop item_id="167000775" chance="14.85" min_amount="1" max_amount="1"/>
+			<drop item_id="167000776" chance="14.85" min_amount="1" max_amount="1"/>
+			<drop item_id="167000777" chance="14.85" min_amount="1" max_amount="1"/>
+			<drop item_id="167000778" chance="14.85" min_amount="1" max_amount="1"/>
+		</drop_group>
+		<drop_group name="POWER_SHARDS">
+			<drop item_id="169000010" chance="29.7" min_amount="1" max_amount="5"/>
+		</drop_group>
+	</npc_drop>
+</npc_drops>

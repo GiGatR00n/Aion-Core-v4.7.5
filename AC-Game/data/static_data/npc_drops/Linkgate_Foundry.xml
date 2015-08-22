@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc_drops>
+	<npc_drop npc_id="234991"> <!-- Furious Belsagos -->
+		<drop_group name=""  use_category="false">
+			<drop chance="90.0" item_id="186000237" max_amount="1" min_amount="10"/>
+			<drop chance="85.0" item_id="162000119" max_amount="1" min_amount="10"/>
+			<drop chance="85.0" item_id="162000120" max_amount="1" min_amount="10"/>
+		</drop_group>
+		<drop_group name="CRAFT">
+			<drop chance="90.0" item_id="169405254" max_amount="1" min_amount="3"/>
+			<drop chance="10.5" item_id="152012602" max_amount="1" min_amount="5"/>
+			<drop chance="10.5" item_id="152012600" max_amount="1" min_amount="5"/>
+		</drop_group>
+		<drop_group name="PLUME">
+			<drop item_id="188053295" chance="10.5" min_amount="1" max_amount="1"/>
+		</drop_group>
+		<drop_group name="SUPPLEMENT">
+			<drop item_id="166100008" chance="29.7" min_amount="1" max_amount="10"/>
+			<drop item_id="166100011" chance="9.7" min_amount="1" max_amount="10"/>
+		</drop_group>
+	</npc_drop>
+	<npc_drop npc_id="234990"> <!-- Wounded Belsagos -->
+		<drop_group name=""  use_category="false">
+			<drop chance="90.0" item_id="186000237" max_amount="1" min_amount="10"/>
+			<drop chance="85.0" item_id="162000119" max_amount="1" min_amount="10"/>
+			<drop chance="85.0" item_id="162000120" max_amount="1" min_amount="10"/>
+		</drop_group>
+		<drop_group name="SUPPLEMENT">
+			<drop item_id="166100008" chance="29.7" min_amount="1" max_amount="10"/>
+			<drop item_id="166100011" chance="9.7" min_amount="1" max_amount="10"/>
+		</drop_group>
+	</npc_drop>
+	<npc_drop npc_id="233898"> <!-- Volatile Belsagos -->
+		<drop_group name=""  use_category="false">
+			<drop chance="90.0" item_id="186000237" max_amount="1" min_amount="10"/>
+			<drop chance="85.0" item_id="162000119" max_amount="1" min_amount="10"/>
+			<drop chance="85.0" item_id="162000120" max_amount="1" min_amount="10"/>
+		</drop_group>
+		<drop_group name="CRAFT">
+			<drop chance="5.0" item_id="169405254" max_amount="1" min_amount="1"/>
+			<drop chance="0.5" item_id="152012602" max_amount="1" min_amount="2"/>
+			<drop chance="0.5" item_id="152012600" max_amount="1" min_amount="2"/>
+		</drop_group>
+		<drop_group name="SUPPLEMENT">
+			<drop item_id="166100008" chance="29.7" min_amount="1" max_amount="10"/>
+			<drop item_id="166100011" chance="9.7" min_amount="1" max_amount="10"/>
+		</drop_group>
+	</npc_drop>
+</npc_drops>

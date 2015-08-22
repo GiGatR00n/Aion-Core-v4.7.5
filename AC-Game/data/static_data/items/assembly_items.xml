@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assembly_items>
+    <!-- Mithril Coin -->
+    <item id="186000018" parts="188100001 188100002 188100003 188100004 188100005"/>
+    <!-- Old Map -->
+    <item id="182213104" parts="188100018 188100019"/>
+    <!-- Tattered Map -->
+    <item id="182213105" parts="188100020 188100021 188100022 188100023"/>
+    <!-- Worn Map -->
+    <item id="182213108" parts="188100024 188100025 188100026 188100027"/>
+    <!-- [Souvenir] Globe of Atreia -->
+    <item id="170490010" parts="188100006 188100007 188100008 188100009"/>
+    <!-- [Souvenir] Scroll of Four Dragons' Dauntless Spirit -->
+    <item id="170020022" parts="188100010 188100011 188100012 188100013"/>
+    <!-- [Souvenir] Shugo with a Pearl Earring -->
+    <item id="170195082" parts="188100014 188100015 188100016 188100017"/>
+    <!-- Drakan Protector Key -->
+    <item id="185000113" parts="188100028 188100029 188100030"/>
+    <!-- [Souvenir] Tahabata Statue -->
+    <item id="170490001" parts="188100031 188100032 188100033"/>
+    <!-- [Souvenir] Stormwing Statue -->
+    <item id="170490002" parts="188100034 188100035 188100036"/>
+    <!-- [Souvenir] Raksha Statue -->
+    <item id="170490003" parts="188100037 188100038 188100039"/>
+    <!-- Cracked Mirror -->
+    <item id="182213174" parts="188100040 188100041 188100042"/>
+    <!-- Shiny Marble -->
+    <item id="182213177" parts="188100043 188100044 188100045"/>
+    <!-- [Event] Bardic Prize -->
+    <item id="188051614" parts="188100046 188100047 188100048 188100049"/>
+    <!-- [Event] Epic Bardic Prize -->
+    <item id="188051615" parts="188100050 188100051 188100052"/>
+    <!-- [Event] Wellness Kit -->
+    <item id="188051624" parts="188100053 188100054"/>
+    <!-- [Event] Lucky Envelope -->
+    <item id="188051697" parts="188100055 188100056"/>
+    <!-- [Event] Noble Box of Life -->
+    <item id="188051676" parts="188100057 188100058 188100059 188100060"/>
+    <!-- Rations Pack -->
+    <item id="188051704" parts="188100061 188100062"/>
+    <!-- [Event] United Heart -->
+    <item id="188051772" parts="188100063 188100064"/>
+    <!-- [Event] Completed Operations Order: Eternal -->
+    <item id="188051895" parts="188100069 188100070 188100071 188100072"/>
+    <!-- [Event] Tiamaranta Treasure Box -->
+    <item id="188052069" parts="188100073 188100074 188100075 188100076 188100077"/>
+    <!-- Emperor's Golden Tag -->
+    <item id="182006989" parts="188100078 188100079 188100080"/>
+    <!-- Empress' Silver Tag -->
+    <item id="182006990" parts="188100081 188100082 188100083"/>
+    <!-- Crown Prince's Brass Tag -->
+    <item id="182006991" parts="188100084 188100085 188100086"/>
+    <!-- Magical Map Box -->
+    <item id="188052304" parts="188100087 188100088 188100089 188100090"/>
+    <!-- [Event] Forged Aion Signet -->
+    <item id="188052318" parts="188100091 188100092 188100093 188100094"/>
+    <!-- Power Lockbox Cache -->
+    <item id="188052358" parts="188100095 188100098"/>
+    <!-- Fortune Lockbox Cache -->
+    <item id="188052359" parts="188100096 188100099"/>
+    <!-- Utility Lockbox Cache -->
+    <item id="188052360" parts="188100097 188100100"/>
+    <!-- Shiny Gift Box -->
+    <item id="188052418" parts="188100101 188100102"/>
+    <!-- Katalam Conquest Journal -->
+    <item id="182213513" parts="188100103 188100104 188100105 188100106"/>
+    <!-- Katalam Occupation Journal -->
+    <item id="182213521" parts="188100107 188100108 188100109 188100110"/>
+    <!-- Chaos Marble -->
+    <item id="186000318" parts="188100113 188100114 188100115"/>
+    <!-- Chaos Marble -->
+    <item id="182213557" parts="188100118 188100119 188100120"/>
+    <!-- Chaos Marble -->
+    <item id="182213558" parts="188100121 188100122 188100123"/>
+    <!-- [Event] Romantic Gift Box -->
+    <item id="188052621" parts="188100116 188100117"/>
+    <!-- [Event] Ice-hot Box -->
+    <item id="188052625" parts="188100124 188100125"/>
+    <!-- [Event] Key Pouch -->
+    <item id="188052640" parts="188100126 188100127"/>
+    <!-- [Event] Rapturous Wing -->
+    <item id="188052677" parts="188100128 188100129 188100130 188100131"/>
+    <!-- [Event] Nightmare Key -->
+    <item id="185000184" parts="188100132 188100133 188100134"/>
+    <!-- Test Assembly Result Dagger -->
+    <item id="100201411" parts="188100135 188100136 188100137 188100138 188100139"/>
+    <!-- Power Lockbox Cache -->
+    <item id="188052950" parts="188100140 188100141"/>
+    <!-- [Event] Small Vampidaru Charm -->
+    <item id="188052957" parts="188100142 188100143"/>
+    <!-- [Event] Large Vampidaru Charm -->
+    <item id="188052958" parts="188100144 188100145"/>
+    <!-- [Event] Dr. Tochiro's Research Bag -->
+    <item id="188052964" parts="188100146 188100147"/>
+	<!-- [Event] Brilliant Ice Prism     -->
+    <item id="188052999" parts="188100148 188100149"/>
+    <!-- [Event] Noble Commander Card -->
+    <item id="188053251" parts="188100180 188100181"/>
+    <!-- 4.7 -->
+    <!-- [Event] Refreshing Fruit Salad -->
+    <item id="182007163" parts="188100248 188100249 188100250 188100251"/>
+    <!-- [Event] Royal Straight -->
+	<item id="160010399" parts="188100243 188100244 188100245 188100246 188100247"/>
+    <!-- [Event] Heart 7 (3&4) -->
+	<item id="188053532" parts="188100239 188100240"/>
+    <!-- [Event] Heart 7 (2&5) -->
+	<item id="188053531" parts="188100238 188100241"/>
+    <!-- [Event] Heart 7 (1&6) -->
+	<item id="188053530" parts="188100237 188100242"/>
+    <!-- Utility Lockbox Cache NCT -->
+	<item id="188053475" parts="188100233 188100236"/>
+    <!-- Fortune Lockbox Cache NCT -->
+	<item id="188053474" parts="188100232 188100235"/>
+    <!-- Power Lockbox Cache NCT -->
+	<item id="188053473" parts="188100231 188100234"/>
+    <!-- Utility Lockbox Cache RUS -->
+	<item id="188053472" parts="188100227 188100230"/>
+    <!-- Fortune Lockbox Cache RUS -->
+	<item id="188053471" parts="188100226 188100229"/>
+    <!-- Power Lockbox Cache RUS -->
+	<item id="188053470" parts="188100225 188100228"/>
+    <!-- Utility Lockbox Cache JPN -->
+	<item id="188053469" parts="188100221 188100224"/>
+    <!-- Fortune Lockbox Cache JPN -->
+	<item id="188053468" parts="188100220 188100223"/>
+    <!-- Power Lockbox Cache JPN -->
+	<item id="188053467" parts="188100219 188100222"/>
+    <!-- Utility Lockbox Cache GF -->
+	<item id="188053466" parts="188100215 188100218"/>
+    <!-- Fortune Lockbox Cache GF -->
+	<item id="188053465" parts="188100214 188100217"/>
+    <!-- Power Lockbox Cache GF -->
+	<item id="188053464" parts="188100213 188100216"/>
+    <!-- Utility Lockbox Cache CHN -->
+	<item id="188053463" parts="188100209 188100212"/>
+    <!-- Fortune Lockbox Cache CHN -->
+	<item id="188053462" parts="188100208 188100211"/>
+    <!-- Power Lockbox Cache CHN -->
+	<item id="188053461" parts="188100207 188100210"/>
+    <!-- [Event] Germination Box -->
+	<item id="188053343" parts="188100202 188100203 188100204 188100205 188100206"/>
+    <!-- Tenth Painted Matryoshka -->
+	<item id="188053249" parts="188100191 188100201"/>
+    <!-- Ninth Painted Matryoshka -->
+	<item id="188053248" parts="188100190 188100200"/>
+    <!-- Eighth Painted Matryoshka -->
+	<item id="188053247" parts="188100189 188100199"/>
+    <!-- Seventh Painted Matryoshka -->
+	<item id="188053246" parts="188100188 188100198"/>
+    <!-- Sixth Painted Matryoshka -->
+	<item id="188053245" parts="188100187 188100197"/>
+    <!-- Fifth Painted Matryoshka -->
+	<item id="188053244" parts="188100186 188100196"/>
+    <!-- Fourth Painted Matryoshka -->
+	<item id="188053243" parts="188100185 188100195"/>
+    <!-- Third Painted Matryoshka -->
+	<item id="188053242" parts="188100184 188100194"/>
+    <!-- Second Painted Matryoshka -->
+	<item id="188053241" parts="188100183 188100193"/>
+    <!-- First Painted Matryoshka -->
+	<item id="188053240" parts="188100182 188100192"/>
+    <!-- [Event] Wishing Soup Bundle -->
+	<item id="188053184" parts="188100178 188100179"/>
+    <!-- Grand Invasion Bead -->
+	<item id="182215518" parts="188100173 188100174 188100175 188100176 188100177"/>
+    <!-- Supremacy Bead -->
+	<item id="182215517" parts="188100164 188100165 188100166 188100167"/>
+    <!-- Grand Invasion Orb -->
+	<item id="182215515" parts="188100168 188100169 188100170 188100171 188100172"/>
+    <!-- Conqueror's Orb -->
+	<item id="182215514" parts="188100160 188100161 188100162 188100163"/>
+    <!-- Levinshor Holding Report -->
+	<item id="182215516" parts="188100155 188100156 188100157 188100158"/>
+    <!-- Levinshor Occupation Report -->
+	<item id="182215513" parts="188100150 188100151 188100152 188100153"/>
+	<!-- v4.7.5.14 -->
+    <!-- Symphony of Legend Copy -->
+	<item id="182007170" parts="188100252 188100253 188100254 188100255 188100256"/>
+    <!-- [Event] Bright Scale -->
+	<item id="182007171" parts="188100257 188100258 188100259"/>
+</assembly_items>

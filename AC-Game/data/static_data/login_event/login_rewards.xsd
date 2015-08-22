@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="login_rewards">
+        <xs:complexType>
+           <xs:sequence>
+               <xs:element name="login_reward" type="LoginReward" minOccurs="0" maxOccurs="unbounded"/>
+           </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:complexType name="LoginReward">
+        <xs:sequence>
+           <xs:element name="reward" type="Reward" minOccurs="0" maxOccurs="1"/>
+        </xs:sequence>
+        <xs:attribute name="id" type="xs:int" use="required"/>
+		<xs:attribute name="active" type="xs:boolean"/>
+		<xs:attribute name="start" type="xs:dateTime" use="required"/>
+		<xs:attribute name="end" type="xs:dateTime" use="required"/>
+		<xs:attribute name="type" type="LoginType"/>
+		<xs:attribute name="attend_num" type="xs:int"/>
+		<xs:attribute name="permit_level" type="xs:int" default="46"/>
+    </xs:complexType>
+    <xs:complexType name="Reward">
+		<xs:attribute name="item_id" type="xs:int"/>
+		<xs:attribute name="count" type="xs:int" use="optional" default="1"/>
+		<xs:attribute name="expire_time" type="xs:int" use="optional"/>
+		<xs:attribute name="reward_title" type="xs:int"/>
+	</xs:complexType>
+	<xs:simpleType name="LoginType">
+		<xs:restriction base="xs:string">
+		    <xs:enumeration value="DAILY"/>
+			<xs:enumeration value="CUMULATIVE"/>
+			<xs:enumeration value="ANNIVERSARY"/>
+		</xs:restriction>
+	</xs:simpleType>
+</xs:schema>

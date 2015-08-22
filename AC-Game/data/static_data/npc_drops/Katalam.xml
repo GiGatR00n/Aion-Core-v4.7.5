@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc_drops>
+    <!-- 71. Base -->
+	<npc_drop npc_id="232384">
+		<drop_group name="KINAH" use_category="false">
+			<drop item_id="182400001" chance="90.0" max_amount="2865" min_amount="124"/>
+		</drop_group>
+		<drop_group name="POWER_SHARDS">
+			<drop item_id="169000010" chance="29.7" min_amount="1" max_amount="5"/>
+		</drop_group>
+	</npc_drop>
+	<npc_drop npc_id="232385">
+		<drop_group name="KINAH" use_category="false">
+			<drop item_id="182400001" chance="90.0" max_amount="2865" min_amount="124"/>
+		</drop_group>
+		<drop_group name="POWER_SHARDS">
+			<drop item_id="169000010" chance="29.7" min_amount="1" max_amount="5"/>
+		</drop_group>
+	</npc_drop>		
+	<npc_drop npc_id="232386">
+		<drop_group name="KINAH" use_category="false">
+			<drop item_id="182400001" chance="90.0" max_amount="2865" min_amount="124"/>
+		</drop_group>
+		<drop_group name="POWER_SHARDS">
+			<drop item_id="169000010" chance="29.7" min_amount="1" max_amount="5"/>
+		</drop_group>
+	</npc_drop>
+	<npc_drop npc_id="232387">
+		<drop_group name="KINAH" use_category="false">
+			<drop item_id="182400001" chance="90.0" max_amount="2865" min_amount="124"/>
+		</drop_group>
+		<drop_group name="POWER_SHARDS">
+			<drop item_id="169000010" chance="29.7" min_amount="1" max_amount="5"/>
+		</drop_group>
+	</npc_drop>
+	<npc_drop npc_id="232388">
+		<drop_group name="KINAH" use_category="false">
+			<drop item_id="182400001" chance="90.0" max_amount="2865" min_amount="124"/>
+		</drop_group>
+		<drop_group name="POWER_SHARDS">
+			<drop item_id="169000010" chance="29.7" min_amount="1" max_amount="5"/>
+		</drop_group>
+	</npc_drop>	
+    <!-- 72. Base -->
+	<npc_drop npc_id="232389"> <!-- Spiralroot Subjugator Combatant -->
+		<drop_group name="KINAH" use_category="false">
+			<drop item_id="182400001" chance="90.0" max_amount="2865" min_amount="124"/>
+		</drop_group>
+		<drop_group name="POWER_SHARDS">
+			<drop item_id="169000010" chance="29.7" min_amount="1" max_amount="5"/>
+		</drop_group>
+	</npc_drop>
+	<npc_drop npc_id="232390"> <!-- Spiralroot Subjugator Protector -->
+		<drop_group name="KINAH" use_category="false">
+			<drop item_id="182400001" chance="90.0" max_amount="2865" min_amount="124"/>
+		</drop_group>
+		<drop_group name="POWER_SHARDS">
+			<drop item_id="169000010" chance="29.7" min_amount="1" max_amount="5"/>
+		</drop_group>
+	</npc_drop>		
+	<npc_drop npc_id="232391"> <!-- Spiralroot Subjugator Healer -->
+		<drop_group name="KINAH" use_category="false">
+			<drop item_id="182400001" chance="90.0" max_amount="2865" min_amount="124"/>
+		</drop_group>
+		<drop_group name="POWER_SHARDS">
+			<drop item_id="169000010" chance="29.7" min_amount="1" max_amount="5"/>
+		</drop_group>
+	</npc_drop>
+	<npc_drop npc_id="232392"> <!-- Spiralroot Subjugator Sentry -->
+		<drop_group name="KINAH" use_category="false">
+			<drop item_id="182400001" chance="90.0" max_amount="2865" min_amount="124"/>
+		</drop_group>
+		<drop_group name="POWER_SHARDS">
+			<drop item_id="169000010" chance="29.7" min_amount="1" max_amount="5"/>
+		</drop_group>
+	</npc_drop>
+	<npc_drop npc_id="232393">
+		<drop_group name="KINAH" use_category="false">
+			<drop item_id="182400001" chance="90.0" max_amount="2865" min_amount="124"/>
+		</drop_group>
+		<drop_group name="POWER_SHARDS">
+			<drop item_id="169000010" chance="29.7" min_amount="1" max_amount="5"/>
+		</drop_group>
+	</npc_drop>			
+    <!-- 73. Base -->
+	<npc_drop npc_id="232394"> <!-- Foothold Subjugator Combatant -->
+		<drop_group name="POTION" race="PC_ALL">
+			<drop item_id="162000075" chance="1.52" min_amount="1" max_amount="5"/>
+			<drop item_id="162000076" chance="1.52" min_amount="1" max_amount="5"/>
+		</drop_group>
+		<drop_group name="POWER_SHARDS" race="PC_ALL">
+			<drop item_id="169000010" chance="29.7" min_amount="1" max_amount="5"/>
+		</drop_group>
+		<drop_group name="BALAUR_MATS" race="PC_ALL">
+            <drop item_id="152014016" chance="1.9" min_amount="1" max_amount="5"/>
+            <drop item_id="152014017" chance="1.9" min_amount="1" max_amount="5"/>
+            <drop item_id="152014018" chance="1.9" min_amount="1" max_amount="5"/>
+			<drop item_id="152014019" chance="1.9" min_amount="1" max_amount="5"/>
+			<drop item_id="152014020" chance="1.9" min_amount="1" max_amount="5"/>
+		</drop_group>		
+	</npc_drop>
+	<npc_drop npc_id="232395"> <!-- Foothold Subjugator Protector -->
+		<drop_group name="KINAH" use_category="false">
+			<drop item_id="182400001" chance="90.0" max_amount="2865" min_amount="124"/>
+		</drop_group>
+		<drop_group name="POWER_SHARDS">
+			<drop item_id="169000010" chance="29.7" min_amount="1" max_amount="5"/>
+		</drop_group>
+	</npc_drop>
+	<npc_drop npc_id="232396"> <!-- Foothold Subjugator Healer -->
+		<drop_group name="KINAH" use_category="false">
+			<drop item_id="182400001" chance="90.0" max_amount="2865" min_amount="124"/>
+		</drop_group>
+		<drop_group name="POWER_SHARDS">
+			<drop item_id="169000010" chance="29.7" min_amount="1" max_amount="5"/>
+		</drop_group>
+	</npc_drop>
+	<npc_drop npc_id="232397"> <!-- Foothold Subjugator Sentry -->
+		<drop_group name="KINAH" use_category="false">
+			<drop item_id="182400001" chance="90.0" max_amount="2865" min_amount="124"/>
+		</drop_group>
+		<drop_group name="POWER_SHARDS">
+			<drop item_id="169000010" chance="29.7" min_amount="1" max_amount="5"/>
+		</drop_group>
+	</npc_drop>			
+	<npc_drop npc_id="232398"> <!-- Foothold Subjugator Supervisor -->
+		<drop_group name="KINAH" use_category="false">
+			<drop item_id="182400001" chance="90.0" max_amount="2865" min_amount="124"/>
+		</drop_group>
+		<drop_group name="POWER_SHARDS">
+			<drop item_id="169000010" chance="29.7" min_amount="1" max_amount="5"/>
+		</drop_group>
+	</npc_drop>		 	   		
+</npc_drops>
