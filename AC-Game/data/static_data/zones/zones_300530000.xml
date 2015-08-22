@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zones>
+    <zone mapid="300530000" name="STR_ZONE_NAME_IDLDF5RE_02_300530000" area_type="POLYGON" zone_type="SUB"
+          priority="17">
+        <points bottom="71.72892" top="171.728928">
+            <point x="440.3553" y="343.7317"/>
+            <point x="706.1570" y="339.4320"/>
+            <point x="706.9387" y="609.1425"/>
+            <point x="440.3553" y="604.4519"/>
+        </points>
+    </zone>
+    <zone mapid="300530000" name="IDLDF5RE_02_ITEMUSEAREA_ALL" area_type="POLYGON" zone_type="ITEM_USE">
+        <points bottom="72.4420242" top="172.442017">
+            <point x="425.1109" y="326.6938"/>
+            <point x="721.3589" y="320.6002"/>
+            <point x="725.1089" y="616.8481"/>
+            <point x="424.1734" y="616.8481"/>
+        </points>
+    </zone>
+    <zone mapid="300530000" name="IDLDF5RE_02_ITEMUSEAREA_ALL_LOSE" area_type="POLYGON" zone_type="ITEM_USE">
+        <points bottom="70.11328" top="170.113281">
+            <point x="426.0461" y="322.4767"/>
+            <point x="722.2941" y="316.3830"/>
+            <point x="726.0441" y="612.6310"/>
+            <point x="425.1086" y="612.6310"/>
+        </points>
+    </zone>
+</zones>
