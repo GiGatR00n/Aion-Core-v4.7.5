@@ -1,0 +1,237 @@
+﻿/* Paginatopn */
+ul.yiiPager {
+	border: 1px solid rgba(0, 0, 0, 0.2);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+	background: #FAFAFA;
+	float: left;
+	margin-bottom: 20px;
+}
+ul.yiiPager li {display:inline; color: #777;}
+ul.yiiPager a:link, ul.yiiPager a:visited {
+	color: #007D9A;
+	text-decoration: none;
+	padding: 0px 14px;
+	line-height: 26px;
+	border-right: 1px solid rgba(0, 0, 0, 0.2);
+	float: left;
+}
+ul.yiiPager a:hover {background: #ECEFF6;}
+ul.yiiPager .selected a {background:#ECEFF6;}
+ul.yiiPager .hidden a {color:#999;}
+ul.yiiPager .hidden a:hover {color: #999; background: #FAFAFA;}
+ul.yiiPager li.last a {border-right: none; border-radius: 0px 3px 3px 0px;}
+.note_body ul.yiiPager {margin-bottom: 0;}
+
+
+/* Aiondatabase */
+.aion_tooltip {
+	position:absolute;
+	z-index:10;
+	font-family:Verdana, Helvetica, Arial, sans-serif;
+	color:#FFFFFF;
+	font-size:11px;
+	line-height:14px;
+	width:400px;
+}
+.aion_tooltip_container {
+	padding:0px;
+	border:0px;
+	width:100%;
+	border-spacing:0px;
+	margin:0px;
+	background:#000000;
+
+}
+.aion_tooltip_container table, .aion_tooltip_container table tr, .aion_tooltip_container table tr td {
+	margin: 0px;
+	border:0px;
+	padding: 1px;
+	border-collapse: inherit;
+}
+.aion_tooltip_border {
+	border:0px;
+	padding:3px;
+    background:url('../../../images/tooltip.gif');
+}
+.aion_tooltip_icon 
+{
+	background-repeat:no-repeat;
+	background-position:2px 2px;
+	height:44px;
+	width:44px;
+}
+.aion_tooltip_icon table, .aion_tooltip_icon table tr, .aion_tooltip_icon table tr td {
+	background-color: #544242;
+	margin: 0px;
+	border:0px;
+	padding: 1px;
+	border-collapse: inherit;
+}
+.aion_tooltip_icon_border {background:url('../../../images/icon_border_medium.gif');height:44px;width:44px;}
+.map_tooltip {position:absolute;z-index:9999;font-family:Verdana, Helvetica, Arial, sans-serif;color:#FFFFFF;font-size:11px;line-height:14px;max-width:400px;}
+.map_tooltip_container {padding:0px;border:0px;width:100%;border-spacing:0px;margin:0px;}
+.map_tooltip_border {padding:3px;background:url('../../../images/tooltip.gif');}
+.aion_tooltip_hr {
+	border: 0px;
+	color: #362d24;
+	background-color: #645848;
+	height: 2px;
+	display: block;
+}
+.aion_itemlabel { color: #EFDFA7;font-family:Verdana, Helvetica, Arial, sans-serif;font-size:11px;line-height:14px; }
+.aion_itemlabel a { text-decoration:none;color: #EFDFA7;font-family:Verdana, Helvetica, Arial, sans-serif;font-size:11px;line-height:14px; }
+.aion_itemlabel a:hover { text-decoration:underline;color: #EFDFA7;font-family:Verdana, Helvetica, Arial, sans-serif;font-size:11px;line-height:14px; }
+
+.aion_infolabel { color: #c5bfb6;font-family:Verdana, Helvetica, Arial, sans-serif;font-size:11px;line-height:14px; }
+.aion_infolabel a { text-decoration:none;text-decoration:none;color: #c5bfb6 !important;font-family:Verdana, Helvetica, Arial, sans-serif;font-size:11px;line-height:14px; }
+.aion_infolabel a:hover { text-decoration:underline;text-decoration:none;color: #c5bfb6 !important;font-family:Verdana, Helvetica, Arial, sans-serif;font-size:11px;line-height:14px; }
+.aion_loading { color: white;font-family:Verdana, Helvetica, Arial, sans-serif;font-size:11px;line-height:14px; }
+.aion_skillname {
+	font-size: 14px;
+	font-weight: bold;
+    color: #DCD2CE;
+}
+.aion_gathername {
+	font-size: 14px;
+	font-weight: bold;
+    color: #E1CC59;
+}
+.aion_recipename {
+	font-size: 14px;
+	font-weight: bold;
+    color: #DCD2CE;
+}
+.aion_tooltiptitle {
+	font-size: 14px;
+	font-weight: bold;
+}
+.aion_item_manastone {
+	background: url('../../../images/manastonesocket.png') no-repeat;
+	width:19px;
+	height:19px;
+}
+.aion_skill {color: #E1CC59;}
+.aion_quest {color: #E1CC59;}
+.aion_default {color: #FFFFFF;}
+.aion_q1 {color: #ADADAD;}
+.aion_q2 {color: #F1F1F1;}
+.aion_q3 {color: #69E15E;}
+.aion_q4 {color: #4CCFFF;}
+.aion_q5 {color: #FFC103;}
+.aion_q6 {color: #FF8033;}
+a.aion_q1 {color: #557296;}
+a.aion_q2 {color: #557296;}
+a.aion_q3 {color: #557296;}
+a.aion_q4 {color: #557296;}
+a.aion_q5 {color: #557296;}
+a.aion_q6 {color: #557296;}
+.aion_npcr0 {color: #F5F5A5;}
+.aion_npcr1 {color: #FADC14;}
+.aion_npcr2 {color: #FA8214;}
+.aion_npcr3 {color: #FF0000;}
+.aion_npcr4 {color: #9EB5B2;}
+.aion_npcr5 {color: #48BB7D;}
+.aion_npcr6 {color: #48BB7D;}
+.aion_npcr7 {color: #48BB7D;}
+.aion_npcr8 {color: #48BB7D;}
+.aion_npcr9 {color: #48BB7D;}
+.aion_npcr10 {color: #48BB7D;}
+
+
+/* Player equip */
+.item {width: 40px; height: 40px; padding: 26px 0 0 0;}
+.equip {position: relative; background: url('../../../images/player.jpg') no-repeat; height: 323px; width: 228px;}
+
+
+/* Userbars Slider */
+#slide-wrapper {
+overflow: hidden;
+padding-bottom: 15px;
+}
+#slide-wrapper {
+width: 420px;
+position: relative;
+margin: auto;
+}
+#slide-wrapper .xslider {position: relative;}
+#slide-wrapper .xslider-container {
+padding: 10px;
+background: #fff;
+border: 1px solid #e7ebec;
+}
+#slide ul {
+list-style: none;
+height: 80px;
+padding: 0;
+margin: 0;
+}
+#slide li {position: relative;}
+#slide li, #slide li img {display: block;}
+#slide-wrapper .xslider .prev, #slide-wrapper .xslider .next {
+display: block;
+width: 24px;
+height: 45px;
+position: absolute;
+top: 30px;
+background-image: url('../../../images/slider_controls.png');
+background-repeat: no-repeat;
+text-indent: -12312px;
+z-index: 10;
+}
+#slide-wrapper .xslider .prev {left: -5px;}
+#slide-wrapper .xslider .next {
+right: -5px;
+background-position: -28px 0;
+}
+#slide-wrapper .xslider nav {
+overflow: hidden;
+margin-top: 10px;
+float: right;
+}
+#slide-wrapper .xslider nav ul {
+margin: 0;
+padding: 0;
+}
+#slide-wrapper .xslider nav li {
+display: inline;
+float: left;
+margin-left: 3px;
+}
+#slide-wrapper .xslider nav a {
+width: 13px;
+height: 13px;
+display: block;
+background: url('../../../images/slider_controls.png') -26px -45px no-repeat;;
+text-indent: -131313px;
+}
+#slide-wrapper .xslider nav a.current {background-position: -39px -45px;}
+#slide-wrapper #slide .caption {
+position: absolute;
+bottom: 0;
+background: rgba(0, 0, 0, .5);
+color: #fff;
+padding: 10px;
+width: 100%;
+display: none;
+}
+
+
+/* Forms */
+div.form input, div.form textarea, div.form select {margin: 0.2em 0 0.5em 0;}
+div.form fieldset {border: 1px solid #DDD; padding: 10px; margin: 0 0 10px 0; -moz-border-radius:7px;}
+div.form label {font-weight: bold; font-size: 0.9em; display: block;}
+div.form .row {margin: 5px 0;}
+div.form .hint {margin: 0; padding: 0; color: #999;}
+div.form .note {font-style: italic;}
+div.form span.required {color: red;}
+div.form div.error label, div.form label.error, div.form span.error {color: #C00;}
+div.form div.error input, div.form div.error textarea, div.form div.error select, div.form input.error, div.form textarea.error, div.form select.error {background: #FEE; border-color: #C00;}
+div.form div.success input, div.form div.success textarea, div.form div.success select, div.form input.success, div.form textarea.success, div.form select.success {background: #E6EFC2; border-color: #C6D880;}
+div.form .errorSummary {border: 1px solid #C00; padding: 10px; margin: 0 0 20px 0; background: #FEE;}
+div.form .errorMessage {color: red;}
+div.form .errorSummary p {margin: 0; padding: 0 0 5px 0;}
+div.form .errorSummary ul {margin: 0; padding: 0 0 0 20px;}
+div.wide.form label {float: left; margin-right: 10px; position: relative; text-align: right; width: 100px;}
+div.wide.form .row {clear: left;}
+div.wide.form .buttons, div.wide.form .hint, div.wide.form .errorMessage {clear: left; padding-left: 110px;}
+.errorSummary {font-size: 12px;}

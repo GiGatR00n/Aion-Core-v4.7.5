@@ -1,0 +1,319 @@
+body {font:10pt Verdana; color:#333; background:#E1E2E4 url(../images/bg.png); max-width: 1200px; min-width:1200px; margin: 0 auto;}
+
+a {color: #007D9A; text-decoration: none;}
+a:hover {color: #2DAEBF; text-decoration: underline;}
+ol, ul, li {list-style: none; margin: 0; padding: 0;}
+p {padding: 0; margin: 0;}
+table {width: 100%; border-collapse: collapse; border-spacing: 0px;}
+table, th, td {vertical-align:middle;}
+h1, h2, h3, h4, h5 {display: inline; padding: 0, margin: 0;}
+a img {border: none;}
+
+
+.clear {clear: both;}
+.left {float: left;}
+.tleft {text-align: left;}
+.right {float: right;}
+.none {display: none;}
+.center {text-align: center;}
+.bold {font-weight: bold;}
+.img_fix img {margin-bottom: -3px;}
+.h15 {line-height: 1.5;}
+.h18 {line-height: 22.8;}
+.small {font: 11px Verdana; color: #888; padding-top: 5px;}
+.normal {font: 13px Verdana;}
+.mb10 {margin-bottom: 10px;}
+.mb15 {margin-bottom: 15px;}
+.mb20 {margin-bottom: 20px;}
+.mr15 {margin-right: 15px;}
+.pager, .pages {display: block; text-align: center; margin: auto; margin-top: 13px; margin-bottom: 4px; }
+
+.table_info tr {display: table-row; height: 32px;}
+
+/* Admin area table styles */
+
+.table_setting td {font-size: 11px; padding-top: 10px;}
+.table_setting p {font-size: 13px; color: #557296; font-weight: bold; padding-bottom: 5px;}
+.table_setting a {color: #888;}
+.table_setting a:hover {text-decoration: none;}
+
+/*  Items table styles */
+
+.items th {
+	height: 32px;
+	font-family: Arial, sans-serif;
+	border-bottom: dotted 1px #CCCDD1;
+	padding: 0px 5px;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.9);
+}
+.items th a, .items th a:hover {text-decoration: none; color: #555;}
+.items tr {display: table-row; height: 32px; cursor: default;}
+.items td {font-size: 12px; border-bottom: dotted 1px #CCCDD1;}
+.items .button-column {width: 56px;}
+.items .button-column img {margin: 0 5px; }
+
+/* Player information table styles */
+
+.player_name {font: 20px AdelonBook;}
+.table_player_img {border: solid 1px #557296;}
+.table_player span {color: #557296;}
+
+.votelink {
+	background-image: url("../../classic/images/highlight.png");
+    background-position: 0 -1px;
+    background-repeat: repeat-x;
+    background-color: #7BA60D;
+    border-radius: 3px 3px 3px 3px;
+    display: inline-block;
+    font-size: 9px;
+    font-weight: bold;
+    height: 19px;
+    line-height: 19px;
+    padding: 0 5px;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2);
+    text-transform: uppercase;
+	margin-bottom: 5px;
+}
+.votecheck {
+	background-image: url("../../classic/images/highlight.png");
+    background-position: 0 -1px;
+    background-repeat: repeat-x;
+    background-color: #ED7710;
+    border-radius: 3px 3px 3px 3px;
+    display: inline-block;
+    font-size: 9px;
+    font-weight: bold;
+    height: 19px;
+    line-height: 19px;
+    padding: 0 5px;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2);
+    text-transform: uppercase;
+	margin-bottom: 5px;
+}
+.votelink a, .votecheck a {color: #fff;}
+
+
+
+
+/* -------- */
+#navigation {
+	background: #555 url('../images/darkbg.jpg');
+	margin-bottom: 10px;
+}
+
+#header {
+	width:1200px;
+	margin: 0 auto;
+	margin-bottom: 10px;
+}
+
+#wrapper {
+	width:1200px;
+	margin: 0 auto;
+}
+
+#content {
+	width: 680px;
+	float: left;
+	margin: 0 20px;
+}
+
+#sidebar_left, #sidebar_right {
+	width: 240px;
+	float: left;
+	vertical-align: top;
+}
+
+#footer {
+	background: #555 url('../images/darkbg.jpg');
+}
+
+#col_left {width: 412px; float: left;}
+#col_right {width: 248px; float: right;}
+
+
+
+
+/* -------- */
+#navigation ul {width: 1000px; margin: 0 auto;}
+#navigation ul li {width: 1000px; display: inline; margin: 0 auto;}
+#navigation ul li a {
+	background-color:transparent;
+	font-size:13px;
+	text-decoration:none;
+}
+#navigation ul li a:hover, #navigation ul li.active a {color: #999;}
+
+#navigation a:link, #navigation a:visited, #navigation a:active, #navigation a:hover {
+    color: #FFFFFF;
+    font-size: 13px;
+    line-height: 38px;
+    padding: 0 10px;
+    text-decoration: none;
+    text-shadow: 0 -1px 0 #000000;
+}
+
+
+
+.note {
+	background:#fff;
+	padding:10px;
+	margin-bottom:20px;
+	box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+}
+.note_title {
+	font: 13pt Verdana, sans-serif;
+	color:#666;
+	margin-bottom:10px;
+}
+.note_title a  {color: #007d9a; text-decoration: none;}
+.note_title a:hover {color: #2daebf; text-decoration: underline;}
+
+
+
+.note_setting {border-top: 1px solid #FFFFFF;}
+
+.note_info {color: #999; padding-top: 10px;}
+
+.img img {border: solid 1px #EBEDED; background: #F2F4F4; padding: 5px; margin: 0 10px 10px 0;}
+
+.edit {float: right; height: 16px; width: 16px; background: url('../images/edit.png'); position: relative;}
+.edit:active {top: 1px;}
+
+
+
+
+.block {
+	background: #fff url('../../classic/images/bg_small.png') center bottom repeat-x;
+	padding: 10px;
+}
+div.view {display: inline-block; width: 33%; line-height:26px; border: 0px solid #C9E0ED;}
+
+
+
+
+/* Menu styles */
+.menu {
+	margin-bottom:20px;
+	background: url("../images/menu_bg.jpg") repeat scroll 0 0 transparent;
+	box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+}
+a.menu-link {
+	display:block;
+}
+.menu_title {
+	background: url("../images/darkbg.jpg") repeat scroll 0 0 transparent;
+	box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+	text-shadow: 0px 1px 1px black;
+	color: #FFFFFF;
+	font-family: Verdana, sans-serif;
+	font-size: 12pt;
+	padding:10px;
+	border-bottom:none;
+}
+.menu_body {padding: 10px;}
+.menu_link li {line-height: 26px; border-bottom: dotted 1px #bbb;}
+.menu_link li a {display: block;}
+.menu_line {line-height: 26px; border-bottom: dotted 1px #bbb;}
+
+
+
+
+.footer {
+	width: 1200px;
+	line-height: 18px;
+	text-align: center;
+	color: #eee;
+    font-size: 12px;
+	color: #FFFFFF;
+    text-shadow: 0 1px 1px black;
+    padding: 10px;
+	margin: 0 auto;
+}
+.footer a {color: #FFFFFF; text-shadow: 0 1px 1px black;}
+
+
+
+/* Webshop */
+.shop {
+	display: inline-block;
+	width: 200px;
+	line-height: 32px;
+	font: 12pt Trebuchet MS;
+	border: dotted 1px #CCCDD1;
+	margin: 0 10px 10px 0;
+}
+.shop a {display: block; text-decoration: none; padding: 10px;}
+.shop a:hover {color: #FF6600;}
+
+
+
+/* UI messages */
+.errorMessage {color: #cc0000;}
+.flash_success {color: #333; background: #DDF1B7; border: solid 1px #4F8A10; padding: 10px; margin-bottom: 10px;}
+.flash_error {color: #D8000C; background: #FDD5CE; border: solid 1px #D8000C; padding: 10px; margin-bottom: 10px;}
+
+
+
+
+/* Button */
+.button {
+	background: -moz-linear-gradient(center bottom , #EEEFF3 0%, #FFFFFF 100%) repeat scroll 0 0 transparent;
+	border: 1px solid #CCCDD1;
+	border-radius: 3px 3px 3px 3px;
+	box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+	color: #444;
+	display: inline-block;
+	font-family: sans-serif;
+	font-weight: bold;
+	text-align: center;
+	overflow: visible;
+	position: relative;
+	padding: 5px 10px;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.9);
+}
+
+.button:hover {box-shadow: 0px 1px 3px 0 rgba(0, 0, 0, 0.3);}
+
+.button:active {
+	top: 1px;
+	background: -moz-linear-gradient(center top , #EEEFF3 0%, #FFFFFF 100%) repeat scroll 0 0 transparent;
+	box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1) inset;
+	color: #444;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.2);
+}
+
+
+.link_button {
+	width: 220px;
+	background: -moz-linear-gradient(center bottom , #EEEFF3 0%, #FFFFFF 100%) repeat scroll 0 0 transparent;
+	border: 1px solid #CCCDD1;
+	border-radius: 3px 3px 3px 3px;
+	box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+	color: #444;
+	display: inline-block;
+	font-family: sans-serif;
+	font-weight: bold;
+	text-align: center;
+	overflow: visible;
+	position: relative;
+	padding: 5px 10px;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.9);
+	margin-top: 10px;
+}
+
+.link_button:hover {box-shadow: 0px 1px 3px 0 rgba(0, 0, 0, 0.3);}
+
+.link_button:active {
+	top: 1px;
+	background: -moz-linear-gradient(center top , #EEEFF3 0%, #FFFFFF 100%) repeat scroll 0 0 transparent;
+	box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1) inset;
+	color: #444;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.2);
+}
+
+
+/* Table fields */
+tr.filters input {width: 100px;}
+tr.filters {text-align: center;}
+tr.even, tr.odd {text-align: center;}

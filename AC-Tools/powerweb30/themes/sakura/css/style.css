@@ -1,0 +1,308 @@
+body {font: 12px 'Lucida Sans Unicode','Lucida Grande',Arial,san-serif; color: #535353; background: #B9C2C9 url('../images/bg.jpg'); padding: 0; margin: 0px;}
+
+a {color: #4682B4; text-decoration: none;}
+a:hover {text-decoration: underline;}
+ol, ul, li {list-style: none; margin: 0; padding: 0;}
+p {padding: 0; margin: 0;}
+table {width: 100%; border-collapse: collapse; border-spacing: 0px;}
+table, th, td {vertical-align:middle;}
+h1, h2, h3, h4, h5 {display: inline; padding: 0, margin: 0;}
+a img {border: none;}
+
+::selection {background: #FFDD95;}
+::-moz-selection {color: #fff; background: Lightslategray;}
+
+
+.clear {clear: both;}
+.center {text-align: center;}
+.tleft {text-align: left;}
+.line {background: ("../images/line.png");}
+.mb10 {margin-bottom: 10px;}
+.mt10 {margin-top: 10px;}
+.pager, .pages {display: block; text-align: center; margin: auto; margin-top: 15px; margin-bottom: 15px; }
+
+
+/* Простая таблица */
+.table_info tr {display: table-row; height: 32px;}
+/* Таблица с разделами в админке */
+.table_setting td {font-size: 11px; padding-top: 10px;}
+.table_setting p {font-size: 13px; color: #557296; font-weight: bold; padding-bottom: 5px;}
+.table_setting a {color: #888;}
+.table_setting a:hover {text-decoration: none;}
+/*  Таблица */
+.items th {
+	height: 32px;
+	font-family: Arial, sans-serif;
+	border-bottom: dotted 1px #CCCDD1;
+	padding: 0px 5px;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.9);
+}
+.items th a, .items th a:hover {text-decoration: none; color: #555;}
+.items tr {display: table-row; height: 32px; cursor: default;}
+.items td {font-size: 12px; border-bottom: solid 1px #D6DBDF;}
+.items .button-column {width: 56px;}
+.items .button-column img {margin: 0 5px; }
+/* ГМ-ы онлайн */
+.menu_body .items td {border-bottom: none;}
+.menu_body .items tr {border-bottom: none; background: url("../images/line.png") no-repeat scroll -10px 32px transparent;}
+/* Таблица с информацией о игроке */
+.player_name {font: 20px AdelonBook;}
+.table_player_img {border: solid 1px #557296;}
+.table_player span {color: #557296;}
+
+tr.filters input {width: 100px;}
+tr.filters {text-align: center;}
+tr.even, tr.odd {text-align: center;}
+
+
+
+
+/* -------- */
+#navigation {
+	background: #262626 url("../images/bg_menu.png");
+	height: 32px;
+}
+
+#header {
+	height: 550px;
+	background:url("../images/main_bg.jpg") no-repeat scroll center 0;
+	margin-bottom: -500px;
+}
+
+#logo {
+	width: 1000px;
+	text-align: center;
+	margin: auto;
+	margin-bottom: 20px;
+}
+
+#about {
+	width:1000px;
+	margin: 0 auto;
+}
+
+#wrapper {
+	width:1000px;
+	margin: 0 auto;
+    padding: 0px;
+	margin-bottom: 0px;
+}
+
+#content {
+	width: 730px;
+	float: left;
+}
+
+#sidebar {
+	width: 250px;
+	float: left;
+	vertical-align: top;
+	margin-left: 20px;
+}
+
+#footer {
+    color: #515151;
+	text-shadow: 1px 1px 0 #000000;
+	border-top: solid 1px #2F2F2F;
+}
+
+#col_left {width: 457px; float: left;}
+#col_right {width: 258px; float: right;}
+
+
+
+/* -------- */
+#navigation ul {width: 1000px; margin: 0 auto;}
+#navigation ul li {width: 1000px; display: inline; margin: 0 auto;}
+#navigation ul li a {
+	background-color:transparent;
+	font-size:13px;
+	text-decoration:none;
+}
+#navigation ul li a:hover, #navigation ul li.active a {color: #535353;}
+#navigation a:link, #navigation a:visited, #navigation a:active, #navigation a:hover {
+    color: #999;
+    font-size: 13px;
+    line-height: 32px;
+    padding: 0 10px;
+    text-decoration: none;
+    text-shadow: 0 -1px 0 #000000;
+}
+
+
+.about {width: 800px; text-align: center; font: 14px Consolas; color:#EDEDED; font-style: italic; font-weight: bold; line-height: 20px; text-shadow: 1px 1px 0 #000; padding: 10px; margin: auto}
+.about_t {height: 21px; background: url("../images/about_t.png") no-repeat scroll center 0 transparent;}
+.about_b {height: 46px; background: url("../images/about_b.png") no-repeat scroll center 0 transparent;}
+
+
+
+.note {margin-bottom: 20px;}
+.note_title {font-size: 20px; margin-bottom: 15px;}
+.note_title a {color: #212121; text-decoration: none; text-shadow: 0px 1px 0 #fff;}
+.note_body {
+	background: #F8F9FA;
+	line-height: 20px;
+	border: solid 1px #F9FAFB;
+	padding: 15px;
+	box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3) inset;
+}
+.note_setting {
+	background: #F8F9FA;
+	border: solid 1px #F9FAFB;
+	padding: 15px;
+	box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3) inset; border-top: 1px solid #FFFFFF;
+}
+.note_info {
+	color: #636363;
+	font-size: 10px;
+	line-height: 22px;
+	background: #1D1D1D url("../images/note_info.png") no-repeat scroll center 0;
+	padding: 5px 15px;
+	text-shadow: 1px 1px 0 #000000;
+	box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.8);
+}
+.note_info a:link {
+	font-size: 11px;
+	color: #636363;
+}
+.note_info a:hover {
+	color: #fff;
+	text-decoration: underline;
+}
+.space {display: inline; margin-right: 15px;}
+.author {display: inline-block; width: 9px; height: 10px; background: url("../images/ico_auth.png") no-repeat; margin-right: 5px; margin-bottom: -2px;}
+.date {display: inline-block; width: 9px; height: 10px; background: url("../images/ico_date.png") no-repeat; margin-right: 5px; margin-bottom: -2px;}
+.category {display: inline-block; width: 9px; height: 10px; background: url("../images/ico_cate.png") no-repeat; margin-right: 5px; margin-bottom: -2px;}
+
+
+
+
+.img img {background: none repeat scroll 0 0 #FFFFFF; border: 5px solid #FFFFFF; box-shadow: 0 0 3px #888888; margin: 0 15px 10px 0;}
+.edit {float: right; height: 16px; width: 16px; background: url('../images/edit.png'); position: relative;}
+.edit:active {top: 1px;}
+
+
+
+
+
+.block {
+	background: #fff url('../images/bg_small.png') center bottom repeat-x;
+	padding: 10px;
+}
+
+div.view {display: inline-block; width: 33%; line-height:26px; border: 0px solid #C9E0ED;}
+
+
+
+
+.menu {
+	background: url("../images/menu.png") no-repeat scroll 0 2px transparent;
+    overflow: hidden;
+    position: relative;
+	color: #EDEDED;
+	text-shadow: 1px 1px 0 #000000;
+}
+.menu a {color: #EDEDED;}
+.menu_b {
+	width: 250px;
+	height: 6px;
+	line-height: 6px;
+	background: url("../images/menu_b.png") no-repeat scroll 0 0 transparent;
+	position: relative;
+	margin-bottom: 15px;
+}
+.menu_title {
+	line-height: 50px;
+	color: #F1F2F3;
+    font-size: 16px;
+	padding: 0 15px;
+	margin-bottom: 0px;
+}
+
+.menu_body {
+	border: solid 0px #ccc;
+	padding: 5px 15px 5px 15px;
+}
+
+.menu_link li {background: url("../images/line.png") no-repeat scroll -10px 28px transparent; line-height: 28px; padding-bottom: 2px;}
+.menu_link li a {display: block;}
+.menu_line {background: url("../images/line.png") no-repeat scroll -10px 28px transparent; line-height: 28px; padding-bottom: 2px;}
+
+
+
+
+.footer {
+	width: 1000px;
+	padding: 10px;
+	margin: auto;
+}
+.bottom {
+	background: #171717 url(../images/bottom.png) no-repeat center 0;
+	text-align: center;
+	padding: 10px;
+}
+
+
+
+/* Webshop */
+.shop {
+	display: inline-block;
+	width: 215px;
+	line-height: 32px;
+	font: 12pt Trebuchet MS;
+	border: dotted 1px #CCCDD1;
+	margin: 0 10px 10px 0;
+}
+.shop a {display: block; text-decoration: none; padding: 10px;}
+.shop a:hover {color: #FF6600;}
+
+
+
+/* Сообщения */
+.errorMessage {color: #cc0000;}
+.flash_success {color: #333; background: #DDF1B7; border: solid 1px #4F8A10; padding: 10px; margin-bottom: 10px;}
+.flash_error {color: #D8000C; background: #FDD5CE; border: solid 1px #D8000C; padding: 10px; margin-bottom: 10px;}
+
+
+
+
+/* Кнопки */
+.button {
+	background: url("../images/submit.png") scroll 0 0 transparent;
+	border: solid 1px #888b8c;
+	display: inline-block;
+	line-height: 22px;
+	position: relative;
+	font: 12px 'Lucida Sans Unicode','Lucida Grande',Arial,san-serif;
+	color: #444;
+	font-weight: bold;
+	text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.8);
+	padding: 0px 10px;
+}
+.button:hover {background-position: 0 -22px;}
+.button:active {top: 1px;}
+
+
+.more {
+	background: url("../images/details.png") no-repeat scroll 0 0 transparent;
+	display: block;
+	height: 22px;
+	width: 69px;
+	border: none;
+	position: relative;
+	margin-top: 15px;
+}
+.more:hover {background-position: 0 -22px;}
+.more:active {top: 1px;}
+
+
+.field {
+    background: #262626;
+    border-color: #000000 #2F2F2F #2F2F2F #000000;
+    border-style: solid;
+    border-width: 1px;
+    padding: 3px;
+	color: #EDEDED;
+    font: 12px/20px 'Lucida Sans Unicode','Lucida Grande',Arial,san-serif;
+    text-shadow: 1px 1px 0 #000000;
+}

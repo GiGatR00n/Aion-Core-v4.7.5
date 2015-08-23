@@ -1,0 +1,62 @@
+/*
+* Login
+*/
+.login-form .label-login, .label-password {
+	float: left;
+	line-height: 31px;
+	width: 80px;
+	color: #656565;
+	text-shadow: 0 1px 0 #FFFFFF;
+}
+.login-form .field-login, .field-password {
+	float: right;
+	margin-bottom: 10px;
+}
+.login-form .remember {
+	float: right;
+	line-height: 32px;
+}
+.login-form .errorPopup {
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+	margin: 0px 0 0 255px;
+}
+
+.login-form input[type="text"], .login-form input[type="password"] {
+	min-width: 150px;
+	width: 150px;
+}
+
+.question {
+	height: 16px;
+	width: 16px;
+	display: inline-block;
+	background: url('../../../images/question.png');
+	vertical-align: bottom;
+	margin: 0 0 7px 3px;
+}
+
+
+
+
+/*
+* Forum
+*/
+.widget-topics {
+	font: 12px Arial,Tahoma,sans-serif;
+}
+
+.widget-topics li {
+	border-bottom: dotted 1px #C8C8C8;
+	padding: 5px 0;
+}
+
+.topics-title {
+	color: #806F5C;
+	font-size: 12px;
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+
+.topics-author {
+	margin-bottom: 5px;
+}
