@@ -1,0 +1,46 @@
+<assembly xmlns="http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.1"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.1 http://maven.apache.org/xsd/assembly-1.1.1.xsd">
+		  
+	<!--
+		Author.....: GiGatR00n
+		v4.7.5.x (‎15/‎3/‎2015)
+	-->
+		  
+    <id>dist</id>
+    <formats>
+        <format>zip</format>
+        <format>dir</format>
+    </formats>
+    <fileSets>
+        <fileSet>
+            <outputDirectory>gameserver</outputDirectory>
+            <includes>
+                <include>config/**/*</include>
+                <include>data/**/*</include>
+            </includes>
+        </fileSet>
+        <fileSet>
+            <directory>dist/</directory>
+            <outputDirectory>gameserver</outputDirectory>
+            <includes>
+                <include>*.*</include>
+            </includes>
+            <excludes>
+                <exclude>Template*</exclude>
+            </excludes>
+        </fileSet>
+    </fileSets>
+    <dependencySets>
+        <dependencySet>
+            <useProjectArtifact>false</useProjectArtifact>
+            <outputDirectory>gameserver/libs</outputDirectory>
+        </dependencySet>
+    </dependencySets>
+    <files>
+        <file>
+            <source>./target/ac-game.jar</source>
+            <destName>gameserver/libs/ac-game.jar</destName>
+        </file>
+    </files>
+</assembly>

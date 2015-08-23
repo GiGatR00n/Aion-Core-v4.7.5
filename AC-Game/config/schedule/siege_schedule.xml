@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<siege_schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:noNamespaceSchemaLocation="siege_schedule.xsd">
+    <!-- Siel's Western (Reshanta Lower) -->
+    <fortress id="1131">
+        <siegeTime>0 0 21 ? * FRI</siegeTime>
+    </fortress>
+    <!-- Siel's Eastearn (Reshanta Lower) -->
+    <fortress id="1132">
+        <siegeTime>0 0 21 ? * FRI</siegeTime>
+    </fortress>
+    <!-- Sulfur (Reshanta Lower) -->
+    <fortress id="1141">
+        <siegeTime>0 0 21 ? * FRI</siegeTime>
+    </fortress>
+    <!-- Divine Fortress (Reshanta Core) -->
+    <fortress id="1011">
+        <siegeTime>0 0 21 ? * SUN</siegeTime>
+    </fortress>
+    <!-- Roah (Reshanta Upper) -->
+    <fortress id="1211">
+        <siegeTime>0 0 22 ? * WED</siegeTime>
+    </fortress>
+    <!-- Krotan (Reshanta Upper) -->
+    <fortress id="1221">
+        <siegeTime>0 0 21 ? * WED</siegeTime>
+    </fortress>
+    <!-- Kysis (Reshanta Upper) -->
+    <fortress id="1231">
+        <siegeTime>0 0 21 ? * WED</siegeTime>
+    </fortress>
+    <!-- Miren (Reshanta Upper) -->
+    <fortress id="1241">
+        <siegeTime>0 0 21 ? * WED</siegeTime>
+    </fortress>
+    <!-- Asteria (Reshanta Upper) -->
+    <fortress id="1251">
+        <siegeTime>0 0 22 ? * WED</siegeTime>
+    </fortress>
+    <!-- Temple Of Scales (Inggison) -->
+    <fortress id="2011">
+        <siegeTime>0 0 21 ? * SAT</siegeTime>
+    </fortress>
+    <!-- Altar Of Avarice (Inggison) -->
+    <fortress id="2021">
+        <siegeTime>0 0 21 ? * SAT</siegeTime>
+    </fortress>
+    <!-- Vorgaltem Citadel (Gelkmaros) -->
+    <fortress id="3011">
+        <siegeTime>0 0 21 ? * WED,SAT</siegeTime>
+    </fortress>
+    <!-- Crison Temple (Gelkmaros) -->
+    <fortress id="3021">
+        <siegeTime>0 0 21 ? * WED,SAT</siegeTime>
+    </fortress>
+    <!-- Heart of Fissure (Tiamaranta) -->
+    <source id="4011">
+        <siegeTime>0 55 17 ? * WED,FRI,SUN</siegeTime>
+    </source>
+    <!-- Heart of Gravity (Tiamaranta) -->
+    <source id="4021">
+        <siegeTime>0 55 17 ? * WED,FRI,SUN</siegeTime>
+    </source>
+    <!-- Heart of Wrath (Tiamaranta) -->
+    <source id="4031">
+        <siegeTime>0 55 17 ? * WED,FRI,SUN</siegeTime>
+    </source>
+    <!-- Heart of Petrification (Tiamaranta) -->
+    <source id="4041">
+        <siegeTime>0 55 17 ? * WED,FRI,SUN</siegeTime>
+    </source>
+    <!-- Sillus Fortress (Katalam) -->
+    <fortress id="5011">
+        <siegeTime>0 0 21 ? * TUE</siegeTime>
+    </fortress>
+    <!-- Silona Fortress (Danaria) -->
+    <fortress id="6011">
+        <siegeTime>0 0 21 ? * THU</siegeTime>
+    </fortress>
+    <!-- Pradeth Fortress (Danaria) -->
+    <fortress id="6021">
+        <siegeTime>0 0 21 ? * THU</siegeTime>
+    </fortress>
+</siege_schedule>

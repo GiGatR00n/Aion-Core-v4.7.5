@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<crazy_daeva_schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="crazy_daeva_schedule.xsd">
+    <schedule id="1">
+        <scheduleTime>0 0 14 ? * *</scheduleTime>
+        <scheduleTime>0 0 18 ? * *</scheduleTime>
+        <scheduleTime>0 0 22 ? * *</scheduleTime>
+    </schedule>
+</crazy_daeva_schedule>

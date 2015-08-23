@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rift_schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="rift_schedule.xsd">
+    <!-- Eltnen -->
+    <rift id="210020000">
+        <open schedule="0 0 13,15,17,19,21,23,3,5,7,9,11 ? * *"/>
+        <!-- every 2 hours during 1 hour -->
+    </rift>
+    <!-- Heiron -->
+    <rift id="210040000">
+        <open schedule="0 0 15,19,23,3,7,11 ? * *"/>
+        <!-- every 4 hours during 1 hour -->
+    </rift>
+    <!-- Inggison -->
+    <rift id="210050000">
+        <open schedule="0 0 1 ? * SAT" spawn="true"/>
+        <open schedule="0 0 3 ? * SUN" spawn="true"/>
+        <open schedule="0 0 11 ? * MON,THU" spawn="true"/>
+        <open schedule="0 0 13 ? * SAT" spawn="true"/>
+        <open schedule="0 0 16 ? * MON,FRI" spawn="true"/>
+        <open schedule="0 0 19 ? * SUN" spawn="true"/>
+        <open schedule="0 0 23 ? * MON,THU" spawn="true"/>
+        <open schedule="0 0 9,15 ? * SUN"/>
+        <open schedule="0 0 1,5,21 ? * MON"/>
+        <open schedule="0 0 5,7,9,15,19 ? * TUE"/>
+        <open schedule="0 0 2,7,9,15,19 ? * WED"/>
+        <open schedule="0 0 2,19,21 ? * THU"/>
+        <open schedule="0 0 5,9,15 ? * FRI"/>
+        <open schedule="0 0 5,7,16,23 ? * SAT"/>
+    </rift>
+    <!-- Morheim -->
+    <rift id="220020000">
+        <open schedule="0 0 14,16,18,20,22,2,4,6,8,10,12 ? * *"/>
+        <!-- every 2 hours during 1 hour -->
+    </rift>
+    <!-- Beluslan -->
+    <rift id="220040000">
+        <open schedule="0 0 14,18,22,2,6,10 ? * *"/>
+        <!-- every 4 hours during 1 hour -->
+    </rift>
+    <!-- Gelkmaros -->
+    <rift id="220070000">
+        <open schedule="0 0 1 ? * SUN" spawn="true"/>
+        <open schedule="0 0 3 ? * SAT" spawn="true"/>
+        <open schedule="0 0 11 ? * TUE,FRI" spawn="true"/>
+        <open schedule="0 0 13 ? * SUN" spawn="true"/>
+        <open schedule="0 0 16 ? * TUE,THU" spawn="true"/>
+        <open schedule="0 0 19 ? * SAT" spawn="true"/>
+        <open schedule="0 0 23 ? * TUE,FRI" spawn="true"/>
+        <open schedule="0 0 5,7,16,23 ? * SUN"/>
+        <open schedule="0 0 3,7,9,15,19 ? * MON"/>
+        <open schedule="0 0 2,21 ? * TUE"/>
+        <open schedule="0 0 5,11,16,21,23 ? * WED"/>
+        <open schedule="0 0 5,7,9,15 ? * THU"/>
+        <open schedule="0 0 2,7,19 ? * FRI"/>
+        <open schedule="0 0 9,15 ? * SAT"/>
+    </rift>
+</rift_schedule>

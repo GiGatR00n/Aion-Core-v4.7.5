@@ -1,0 +1,51 @@
+~AionCore Buglist~
+~Current Version 4.7~
+~Development Version 4.8~
+--------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
+WHAT'S CURRENTLY TODO AND WHICH PROBLEMS
+ARE EXISTENCE.
+
+HIGH: VERY IMPORTANT BUGS!
+MEDIUM: LESSER IMPORTANT BUGS, BUT STILL RELEVANT!
+LOW: THE MOST LESS BUGS, CAN BE FIXED, BUT ONLY IF MORE IMPORTANT BUGS ARE ALREADY FIXED!
+
+TANKS FOR YOUR CAREFULLY READING!
+--------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
+
+
+>HIGH<
+///////////////////////////////////////////////////////////////
+- (100%) x86 and x64 Packets and Crypt Finished by GiGatR00n
+- Need to making parsers for Items and Skills
+- Need to check datapack (since patch 4.7.5 some parts got changed)
+- Need to rewrite GeoDataBuilderJ tool for compiling meshes.geo (new maps don't have collision detection vetores)
+///////////////////////////////////////////////////////////////
+
+--------------------------------------------------------------------------------------------------
+
+>MEDIUM<
+///////////////////////////////////////////////////////////////
+
+- Need to implement the pangea siege. something there is other cuz the normal siege packet dont change
+the state of these fortresses (95% Done by GiGatR00n - left some testing)
+
+- Need to added 4.7 instances (Ahserion’s Flight, Shugo Emperor's Vault)
+
+- Need to check 4.6 instances (IronWall Warfront, Engulfed Ophidan Bridge)
+
+- Need to Add Drops for Beritra Invasion Raid (100% Done by GiGatR00n)
+
+- (FIXD by GiGatR00n in No-IP x64) Need to fix ItemTuning/Enchanting bug that cuz client to be crashed if player was in Action (CombatMode, Resting)
+
+///////////////////////////////////////////////////////////////
+
+--------------------------------------------------------------------------------------------------
+
+>LOW<
+///////////////////////////////////////////////////////////////
+
+n/a
+
+///////////////////////////////////////////////////////////////
