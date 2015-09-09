@@ -267,4 +267,9 @@ public class RateConfig {
     public static int HOLIDAY_RATE_VIP;
     @Property(key = "gameserver.rate.holiday.days", defaultValue = "1,7")
     public static String HOLIDAY_RATE_DAYS;
+    /*
+     * Tempering (Authorize) Rates
+     */
+    @Property(key = "gameserver.rate.tempering", defaultValue = "5")
+    public static float TEMPERING_RATE;
 }

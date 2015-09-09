@@ -35,6 +35,7 @@ import javax.xml.bind.annotation.XmlAttribute;
 import javax.xml.bind.annotation.XmlType;
 
 import com.aionemu.commons.utils.Rnd;
+import com.aionemu.gameserver.configs.main.RateConfig;
 import com.aionemu.gameserver.controllers.observer.ItemUseObserver;
 import com.aionemu.gameserver.model.TaskId;
 import com.aionemu.gameserver.model.gameobjects.Item;
@@ -47,6 +48,10 @@ import com.aionemu.gameserver.services.item.ItemPacketService;
 import com.aionemu.gameserver.utils.PacketSendUtility;
 import com.aionemu.gameserver.utils.ThreadPoolManager;
 
+/**
+ * @author Ranastic
+ * @Reworked GiGatR00n v4.7.5 (GiGa-Emu)
+ */
 @XmlAccessorType(XmlAccessType.FIELD)
 @XmlType(name = "AuthorizeAction")
 public class AuthorizeAction extends AbstractItemAction {
@@ -112,7 +117,21 @@ public class AuthorizeAction extends AbstractItemAction {
         }, 5000L));
     }
 
-    public boolean isSuccess() {
-        return Rnd.get(0, 1000) < 700;
+    public boolean isSuccess() 
+    {
+        return Rnd.get(0, 100) < calcTemperingRate();
+    }
+    
+    /*
+     * New Formula which makes accurate tolerance for FaileRate calculation.
+     */
+    private float calcTemperingRate() 
+    {
+    	float base = 5;
+    	float staticRate = 40;
+    	float failRate = Rnd.get(0, 2);
+    	float resultRate = RateConfig.TEMPERING_RATE > 10 ? 10 : RateConfig.TEMPERING_RATE;
+    	resultRate = (resultRate * base) - failRate;
+    	return (resultRate + staticRate);
     }
 }
